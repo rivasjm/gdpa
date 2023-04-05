@@ -1,0 +1,5 @@
+matplotlib~=3.5.2
+beautifulsoup4~=4.11.1
+numpy~=1.23.3
+gurobipy~=10.0.1
+pandas~=1.4.4
