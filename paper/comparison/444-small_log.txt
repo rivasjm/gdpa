@@ -1,0 +1,2000 @@
+2023-01-23 11:49:07.077580 : 444-small 0.50(0) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:07.862772 : 444-small 0.50(0) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:09.176817 : 444-small 0.50(0) 3 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:10.871002 : 444-small 0.50(0) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:12.920050 : 444-small 0.50(0) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:13.350438 : 444-small 0.50(0) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:16.158834 : 444-small 0.50(0) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:19.117708 : 444-small 0.50(0) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:21.125762 : 444-small 0.50(0) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:23.330798 : 444-small 0.50(0) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:23.694988 : 444-small 0.50(0) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:23.707160 : 444-small 0.50(0) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:28.419131 : 444-small 0.50(0) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:28.511649 : 444-small 0.50(0) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:29.819109 : 444-small 0.50(0) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:32.364476 : 444-small 0.50(0) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:34.058652 : 444-small 0.50(0) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:34.447425 : 444-small 0.50(0) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:37.422970 : 444-small 0.50(0) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:38.200775 : 444-small 0.50(0) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:41.830952 : 444-small 0.50(0) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:43.208248 : 444-small 0.50(0) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:45.738997 : 444-small 0.50(0) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:46.861642 : 444-small 0.50(0) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:48.668492 : 444-small 0.50(0) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:49.648433 : 444-small 0.50(0) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:50.360303 : 444-small 0.50(0) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:51.656982 : 444-small 0.50(0) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:54.776922 : 444-small 0.50(0) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:54.946985 : 444-small 0.50(0) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:55.743842 : 444-small 0.50(0) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:59.314867 : 444-small 0.50(0) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:49:59.596125 : 444-small 0.50(0) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:01.424265 : 444-small 0.50(0) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:01.689835 : 444-small 0.50(0) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:01.846091 : 444-small 0.50(0) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:06.097228 : 444-small 0.50(0) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:07.316014 : 444-small 0.50(0) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:07.972276 : 444-small 0.50(0) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:09.128497 : 444-small 0.50(0) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:13.480916 : 444-small 0.50(0) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:14.715279 : 444-small 0.50(0) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:16.179595 : 444-small 0.50(0) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:20.693916 : 444-small 0.50(0) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:20.850178 : 444-small 0.50(0) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:21.725201 : 444-small 0.50(0) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:23.834605 : 444-small 0.50(0) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:25.481905 : 444-small 0.50(0) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:26.573486 : 444-small 0.50(0) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:26.667267 : 444-small 0.50(0) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:35.509642 : 444-small 0.52(1) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:36.624348 : 444-small 0.52(1) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:36.968101 : 444-small 0.52(1) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:39.218776 : 444-small 0.52(1) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:39.234397 : 444-small 0.52(1) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:41.548117 : 444-small 0.52(1) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:44.352363 : 444-small 0.52(1) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:46.741539 : 444-small 0.52(1) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:49.948045 : 444-small 0.52(1) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:50.544037 : 444-small 0.52(1) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:52.077181 : 444-small 0.52(1) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:52.858434 : 444-small 0.52(1) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:56.896629 : 444-small 0.52(1) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:57.631014 : 444-small 0.52(1) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:50:58.254634 : 444-small 0.52(1) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:00.674472 : 444-small 0.52(1) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:03.059850 : 444-small 0.52(1) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:04.139543 : 444-small 0.52(1) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:06.204350 : 444-small 0.52(1) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:07.265166 : 444-small 0.52(1) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:08.999460 : 444-small 0.52(1) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:14.247202 : 444-small 0.52(1) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:14.886749 : 444-small 0.52(1) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:15.886759 : 444-small 0.52(1) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:18.067110 : 444-small 0.52(1) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:19.871520 : 444-small 0.52(1) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:21.503867 : 444-small 0.52(1) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:21.691361 : 444-small 0.52(1) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:26.388221 : 444-small 0.52(1) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:27.513176 : 444-small 0.52(1) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:27.856938 : 444-small 0.52(1) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:32.353165 : 444-small 0.52(1) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:32.987032 : 444-small 0.52(1) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:34.343371 : 444-small 0.52(1) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:35.093365 : 444-small 0.52(1) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:35.187113 : 444-small 0.52(1) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:39.932490 : 444-small 0.52(1) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:40.803543 : 444-small 0.52(1) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:42.770077 : 444-small 0.52(1) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:45.049811 : 444-small 0.52(1) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:48.062017 : 444-small 0.52(1) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:51.141007 : 444-small 0.52(1) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:51.219122 : 444-small 0.52(1) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:57.235488 : 444-small 0.52(1) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:58.263984 : 444-small 0.52(1) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:51:59.440851 : 444-small 0.52(1) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:01.387644 : 444-small 0.52(1) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:04.149296 : 444-small 0.52(1) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:04.211789 : 444-small 0.52(1) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:04.411212 : 444-small 0.52(1) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:12.672269 : 444-small 0.54(2) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:13.713812 : 444-small 0.54(2) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:13.870073 : 444-small 0.54(2) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:14.590746 : 444-small 0.54(2) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:14.746996 : 444-small 0.54(2) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:15.508299 : 444-small 0.54(2) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:20.915135 : 444-small 0.54(2) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:22.740918 : 444-small 0.54(2) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:23.062425 : 444-small 0.54(2) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:27.329126 : 444-small 0.54(2) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:27.344722 : 444-small 0.54(2) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:27.516604 : 444-small 0.54(2) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:32.942852 : 444-small 0.54(2) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:33.208465 : 444-small 0.54(2) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:33.692851 : 444-small 0.54(2) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:35.708926 : 444-small 0.54(2) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:37.302688 : 444-small 0.54(2) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:39.418800 : 444-small 0.54(2) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:41.081730 : 444-small 0.54(2) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:42.789609 : 444-small 0.54(2) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:45.073655 : 444-small 0.54(2) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:45.628902 : 444-small 0.54(2) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:49.676570 : 444-small 0.54(2) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:50.489048 : 444-small 0.54(2) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:51.512479 : 444-small 0.54(2) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:51.949984 : 444-small 0.54(2) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:53.908397 : 444-small 0.54(2) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:55.283423 : 444-small 0.54(2) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:59.250201 : 444-small 0.54(2) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:52:59.359567 : 444-small 0.54(2) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:00.453307 : 444-small 0.54(2) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:02.890827 : 444-small 0.54(2) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:04.687697 : 444-small 0.54(2) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:05.872657 : 444-small 0.54(2) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:06.841401 : 444-small 0.54(2) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:07.950780 : 444-small 0.54(2) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:10.404938 : 444-small 0.54(2) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:13.396431 : 444-small 0.54(2) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:14.654710 : 444-small 0.54(2) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:15.065961 : 444-small 0.54(2) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:19.594005 : 444-small 0.54(2) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:19.609604 : 444-small 0.54(2) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:23.769924 : 444-small 0.54(2) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:30.152925 : 444-small 0.54(2) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:30.204570 : 444-small 0.54(2) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:31.478814 : 444-small 0.54(2) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:34.243972 : 444-small 0.54(2) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:36.497351 : 444-small 0.54(2) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:37.144736 : 444-small 0.54(2) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:37.396798 : 444-small 0.54(2) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:45.554341 : 444-small 0.56(3) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:46.531919 : 444-small 0.56(3) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:46.950858 : 444-small 0.56(3) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:47.112337 : 444-small 0.56(3) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:48.628360 : 444-small 0.56(3) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:48.893954 : 444-small 0.56(3) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:51.568230 : 444-small 0.56(3) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:54.430755 : 444-small 0.56(3) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:53:59.644684 : 444-small 0.56(3) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:01.251972 : 444-small 0.56(3) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:01.657169 : 444-small 0.56(3) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:03.521822 : 444-small 0.56(3) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:05.613232 : 444-small 0.56(3) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:05.853144 : 444-small 0.56(3) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:11.154519 : 444-small 0.56(3) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:12.694552 : 444-small 0.56(3) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:12.922307 : 444-small 0.56(3) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:13.511721 : 444-small 0.56(3) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:14.385279 : 444-small 0.56(3) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:16.140782 : 444-small 0.56(3) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:21.337132 : 444-small 0.56(3) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:21.412399 : 444-small 0.56(3) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:23.691640 : 444-small 0.56(3) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:25.146019 : 444-small 0.56(3) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:26.653477 : 444-small 0.56(3) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:28.599410 : 444-small 0.56(3) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:28.814898 : 444-small 0.56(3) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:30.656597 : 444-small 0.56(3) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:33.545755 : 444-small 0.56(3) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:36.637828 : 444-small 0.56(3) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:36.872206 : 444-small 0.56(3) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:38.418549 : 444-small 0.56(3) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:41.448406 : 444-small 0.56(3) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:44.228517 : 444-small 0.56(3) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:44.823094 : 444-small 0.56(3) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:44.932366 : 444-small 0.56(3) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:46.956879 : 444-small 0.56(3) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:47.003782 : 444-small 0.56(3) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:53.019016 : 444-small 0.56(3) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:54.051208 : 444-small 0.56(3) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:55.326786 : 444-small 0.56(3) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:54:55.748672 : 444-small 0.56(3) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:00.188288 : 444-small 0.56(3) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:02.739289 : 444-small 0.56(3) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:03.842079 : 444-small 0.56(3) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:08.511631 : 444-small 0.56(3) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:10.593294 : 444-small 0.56(3) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:10.987551 : 444-small 0.56(3) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:11.424438 : 444-small 0.56(3) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:12.795342 : 444-small 0.56(3) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:21.304735 : 444-small 0.58(4) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:21.757847 : 444-small 0.58(4) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:22.460383 : 444-small 0.58(4) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:23.019819 : 444-small 0.58(4) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:23.144828 : 444-small 0.58(4) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:23.911300 : 444-small 0.58(4) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:24.020697 : 444-small 0.58(4) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:33.450342 : 444-small 0.58(4) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:33.964343 : 444-small 0.58(4) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:34.957697 : 444-small 0.58(4) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:35.363157 : 444-small 0.58(4) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:39.623428 : 444-small 0.58(4) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:40.853881 : 444-small 0.58(4) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:43.071669 : 444-small 0.58(4) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:44.380334 : 444-small 0.58(4) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:47.071688 : 444-small 0.58(4) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:48.836706 : 444-small 0.58(4) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:49.737489 : 444-small 0.58(4) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:51.506536 : 444-small 0.58(4) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:53.062704 : 444-small 0.58(4) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:56.721994 : 444-small 0.58(4) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:55:58.407337 : 444-small 0.58(4) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:01.871171 : 444-small 0.58(4) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:05.079742 : 444-small 0.58(4) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:05.769034 : 444-small 0.58(4) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:06.223569 : 444-small 0.58(4) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:07.683257 : 444-small 0.58(4) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:10.273386 : 444-small 0.58(4) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:11.323367 : 444-small 0.58(4) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:13.834821 : 444-small 0.58(4) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:17.996105 : 444-small 0.58(4) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:18.343256 : 444-small 0.58(4) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:19.368973 : 444-small 0.58(4) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:21.497010 : 444-small 0.58(4) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:23.276371 : 444-small 0.58(4) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:25.734966 : 444-small 0.58(4) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:26.654272 : 444-small 0.58(4) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:26.855061 : 444-small 0.58(4) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:33.436188 : 444-small 0.58(4) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:33.849147 : 444-small 0.58(4) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:34.989861 : 444-small 0.58(4) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:39.394101 : 444-small 0.58(4) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:41.494371 : 444-small 0.58(4) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:44.077561 : 444-small 0.58(4) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:47.292714 : 444-small 0.58(4) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:48.029641 : 444-small 0.58(4) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:51.876847 : 444-small 0.58(4) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:53.669467 : 444-small 0.58(4) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:55.392518 : 444-small 0.58(4) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:56:55.658387 : 444-small 0.58(4) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:02.896537 : 444-small 0.61(5) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:03.459036 : 444-small 0.61(5) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:03.549404 : 444-small 0.61(5) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:04.542275 : 444-small 0.61(5) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:05.280553 : 444-small 0.61(5) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:05.389954 : 444-small 0.61(5) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:05.577426 : 444-small 0.61(5) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:11.419872 : 444-small 0.61(5) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:14.835184 : 444-small 0.61(5) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:15.259052 : 444-small 0.61(5) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:16.924478 : 444-small 0.61(5) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:21.009203 : 444-small 0.61(5) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:21.846239 : 444-small 0.61(5) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:23.235832 : 444-small 0.61(5) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:24.507938 : 444-small 0.61(5) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:27.178685 : 444-small 0.61(5) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:29.383405 : 444-small 0.61(5) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:30.669664 : 444-small 0.61(5) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:32.365708 : 444-small 0.61(5) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:34.091573 : 444-small 0.61(5) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:34.782049 : 444-small 0.61(5) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:36.470529 : 444-small 0.61(5) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:41.492924 : 444-small 0.61(5) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:42.196063 : 444-small 0.61(5) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:43.895457 : 444-small 0.61(5) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:44.060640 : 444-small 0.61(5) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:46.004677 : 444-small 0.61(5) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:47.872440 : 444-small 0.61(5) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:48.653514 : 444-small 0.61(5) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:53.235849 : 444-small 0.61(5) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:53.950869 : 444-small 0.61(5) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:55.480352 : 444-small 0.61(5) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:55.511578 : 444-small 0.61(5) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:57:59.502454 : 444-small 0.61(5) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:00.346943 : 444-small 0.61(5) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:00.826149 : 444-small 0.61(5) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:04.086131 : 444-small 0.61(5) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:04.109266 : 444-small 0.61(5) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:08.034962 : 444-small 0.61(5) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:08.358830 : 444-small 0.61(5) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:11.895787 : 444-small 0.61(5) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:15.262831 : 444-small 0.61(5) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:15.433443 : 444-small 0.61(5) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:20.761382 : 444-small 0.61(5) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:24.174785 : 444-small 0.61(5) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:25.430028 : 444-small 0.61(5) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:27.055581 : 444-small 0.61(5) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:28.582481 : 444-small 0.61(5) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:30.882183 : 444-small 0.61(5) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:31.078663 : 444-small 0.61(5) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:38.725290 : 444-small 0.63(6) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:39.318792 : 444-small 0.63(6) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:39.922088 : 444-small 0.63(6) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:40.559291 : 444-small 0.63(6) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:41.689083 : 444-small 0.63(6) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:41.704703 : 444-small 0.63(6) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:42.593279 : 444-small 0.63(6) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:48.291835 : 444-small 0.63(6) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:50.613199 : 444-small 0.63(6) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:51.846839 : 444-small 0.63(6) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:54.419964 : 444-small 0.63(6) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:55.203138 : 444-small 0.63(6) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:57.350224 : 444-small 0.63(6) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:59.313078 : 444-small 0.63(6) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:58:59.469331 : 444-small 0.63(6) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:01.535967 : 444-small 0.63(6) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:04.277957 : 444-small 0.63(6) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:04.780429 : 444-small 0.63(6) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:07.121619 : 444-small 0.63(6) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:07.886336 : 444-small 0.63(6) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:08.440214 : 444-small 0.63(6) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:11.855815 : 444-small 0.63(6) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:16.853887 : 444-small 0.63(6) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:16.919584 : 444-small 0.63(6) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:19.204773 : 444-small 0.63(6) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:20.916005 : 444-small 0.63(6) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:24.314816 : 444-small 0.63(6) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:27.127744 : 444-small 0.63(6) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:27.378921 : 444-small 0.63(6) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:29.139766 : 444-small 0.63(6) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:32.080619 : 444-small 0.63(6) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:33.459258 : 444-small 0.63(6) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:35.666019 : 444-small 0.63(6) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:36.942134 : 444-small 0.63(6) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:38.415537 : 444-small 0.63(6) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:41.462139 : 444-small 0.63(6) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:42.660953 : 444-small 0.63(6) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:42.808910 : 444-small 0.63(6) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:46.564918 : 444-small 0.63(6) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:50.826998 : 444-small 0.63(6) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:51.484889 : 444-small 0.63(6) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:53.737080 : 444-small 0.63(6) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:55.939646 : 444-small 0.63(6) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 11:59:59.511328 : 444-small 0.63(6) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:00.809781 : 444-small 0.63(6) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:03.896623 : 444-small 0.63(6) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:07.789975 : 444-small 0.63(6) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:07.876780 : 444-small 0.63(6) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:08.676798 : 444-small 0.63(6) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:09.011712 : 444-small 0.63(6) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:15.162605 : 444-small 0.65(7) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:16.773274 : 444-small 0.65(7) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:16.804524 : 444-small 0.65(7) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:17.282164 : 444-small 0.65(7) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:19.399151 : 444-small 0.65(7) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:19.453841 : 444-small 0.65(7) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:21.221076 : 444-small 0.65(7) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:22.662653 : 444-small 0.65(7) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:27.668819 : 444-small 0.65(7) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:29.362245 : 444-small 0.65(7) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:35.165426 : 444-small 0.65(7) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:35.415116 : 444-small 0.65(7) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:39.744443 : 444-small 0.65(7) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:40.265287 : 444-small 0.65(7) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:41.290093 : 444-small 0.65(7) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:43.407163 : 444-small 0.65(7) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:43.955091 : 444-small 0.65(7) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:45.601999 : 444-small 0.65(7) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:48.883325 : 444-small 0.65(7) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:50.231921 : 444-small 0.65(7) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:53.265161 : 444-small 0.65(7) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:57.827023 : 444-small 0.65(7) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:58.499300 : 444-small 0.65(7) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:00:59.594203 : 444-small 0.65(7) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:00.795605 : 444-small 0.65(7) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:05.499000 : 444-small 0.65(7) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:06.896200 : 444-small 0.65(7) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:10.381700 : 444-small 0.65(7) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:13.154114 : 444-small 0.65(7) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:14.413440 : 444-small 0.65(7) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:16.427557 : 444-small 0.65(7) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:17.129915 : 444-small 0.65(7) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:20.634182 : 444-small 0.65(7) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:23.449357 : 444-small 0.65(7) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:23.556427 : 444-small 0.65(7) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:26.344934 : 444-small 0.65(7) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:27.659294 : 444-small 0.65(7) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:29.140682 : 444-small 0.65(7) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:32.950007 : 444-small 0.65(7) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:33.589138 : 444-small 0.65(7) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:35.720730 : 444-small 0.65(7) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:36.569170 : 444-small 0.65(7) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:40.480360 : 444-small 0.65(7) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:41.573800 : 444-small 0.65(7) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:42.116309 : 444-small 0.65(7) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:45.984892 : 444-small 0.65(7) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:49.913756 : 444-small 0.65(7) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:50.304416 : 444-small 0.65(7) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:51.023158 : 444-small 0.65(7) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:51.273152 : 444-small 0.65(7) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:58.239619 : 444-small 0.67(8) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:58.239619 : 444-small 0.67(8) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:01:58.349002 : 444-small 0.67(8) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:00.215979 : 444-small 0.67(8) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:00.325375 : 444-small 0.67(8) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:01.368515 : 444-small 0.67(8) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:02.036850 : 444-small 0.67(8) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:04.668263 : 444-small 0.67(8) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:07.095328 : 444-small 0.67(8) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:11.269259 : 444-small 0.67(8) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:11.394223 : 444-small 0.67(8) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:13.504276 : 444-small 0.67(8) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:13.723009 : 444-small 0.67(8) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:15.913973 : 444-small 0.67(8) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:18.579308 : 444-small 0.67(8) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:21.029122 : 444-small 0.67(8) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:21.722714 : 444-small 0.67(8) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:26.404912 : 444-small 0.67(8) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:27.273162 : 444-small 0.67(8) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:28.387754 : 444-small 0.67(8) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:31.207755 : 444-small 0.67(8) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:32.650362 : 444-small 0.67(8) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:38.412923 : 444-small 0.67(8) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:38.819176 : 444-small 0.67(8) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:39.591569 : 444-small 0.67(8) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:40.286409 : 444-small 0.67(8) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:46.913473 : 444-small 0.67(8) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:49.441719 : 444-small 0.67(8) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:49.707351 : 444-small 0.67(8) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:49.810777 : 444-small 0.67(8) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:52.876873 : 444-small 0.67(8) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:54.116613 : 444-small 0.67(8) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:55.607849 : 444-small 0.67(8) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:57.632382 : 444-small 0.67(8) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:02:58.036974 : 444-small 0.67(8) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:02.435863 : 444-small 0.67(8) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:03.023426 : 444-small 0.67(8) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:03.054659 : 444-small 0.67(8) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:06.036629 : 444-small 0.67(8) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:10.980537 : 444-small 0.67(8) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:12.023123 : 444-small 0.67(8) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:12.726290 : 444-small 0.67(8) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:15.810133 : 444-small 0.67(8) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:16.435125 : 444-small 0.67(8) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:20.671520 : 444-small 0.67(8) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:22.171606 : 444-small 0.67(8) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:22.734061 : 444-small 0.67(8) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:23.874682 : 444-small 0.67(8) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:25.694192 : 444-small 0.67(8) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:26.842968 : 444-small 0.67(8) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:35.576017 : 444-small 0.69(9) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:36.107288 : 444-small 0.69(9) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:38.185375 : 444-small 0.69(9) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:38.716678 : 444-small 0.69(9) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:39.482259 : 444-small 0.69(9) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:41.591658 : 444-small 0.69(9) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:44.565087 : 444-small 0.69(9) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:47.072026 : 444-small 0.69(9) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:49.928601 : 444-small 0.69(9) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:53.404592 : 444-small 0.69(9) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:56.546311 : 444-small 0.69(9) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:03:59.579878 : 444-small 0.69(9) 0 	-> brute-force gdpa-random
+2023-01-23 12:03:59.928614 : 444-small 0.69(9) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:05.780517 : 444-small 0.69(9) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:07.665959 : 444-small 0.69(9) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:08.353420 : 444-small 0.69(9) 16 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:09.656038 : 444-small 0.69(9) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:15.089943 : 444-small 0.69(9) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:15.543078 : 444-small 0.69(9) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:16.355584 : 444-small 0.69(9) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:18.277477 : 444-small 0.69(9) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:23.992238 : 444-small 0.69(9) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:24.117217 : 444-small 0.69(9) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:25.804704 : 444-small 0.69(9) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:30.609437 : 444-small 0.69(9) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:32.593826 : 444-small 0.69(9) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:37.554477 : 444-small 0.69(9) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:37.882605 : 444-small 0.69(9) 14 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:40.240807 : 444-small 0.69(9) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:40.526174 : 444-small 0.69(9) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:44.262536 : 444-small 0.69(9) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:45.778178 : 444-small 0.69(9) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:47.325026 : 444-small 0.69(9) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:48.215654 : 444-small 0.69(9) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:52.835021 : 444-small 0.69(9) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:55.372446 : 444-small 0.69(9) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:04:58.101868 : 444-small 0.69(9) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:06.609996 : 444-small 0.69(9) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:06.625620 : 444-small 0.69(9) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:06.703757 : 444-small 0.69(9) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:06.875659 : 444-small 0.69(9) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:10.468176 : 444-small 0.69(9) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:13.223261 : 444-small 0.69(9) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:14.057386 : 444-small 0.69(9) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:16.979262 : 444-small 0.69(9) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:23.176180 : 444-small 0.69(9) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:23.832412 : 444-small 0.69(9) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:27.916277 : 444-small 0.69(9) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:28.197540 : 444-small 0.69(9) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:30.136352 : 444-small 0.69(9) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:37.044559 : 444-small 0.71(10) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:39.336493 : 444-small 0.71(10) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:41.327578 : 444-small 0.71(10) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:41.580580 : 444-small 0.71(10) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:41.967581 : 444-small 0.71(10) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:44.807047 : 444-small 0.71(10) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:50.431384 : 444-small 0.71(10) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:50.930390 : 444-small 0.71(10) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:52.456289 : 444-small 0.71(10) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:05:57.815874 : 444-small 0.71(10) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:03.789364 : 444-small 0.71(10) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:05.108021 : 444-small 0.71(10) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:07.421815 : 444-small 0.71(10) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:11.846962 : 444-small 0.71(10) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:16.290532 : 444-small 0.71(10) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:17.651574 : 444-small 0.71(10) 0 	-> 
+2023-01-23 12:06:19.588288 : 444-small 0.71(10) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:26.736384 : 444-small 0.71(10) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:28.228456 : 444-small 0.71(10) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:30.193460 : 444-small 0.71(10) 14 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:38.360558 : 444-small 0.71(10) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:38.379558 : 444-small 0.71(10) 16 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:41.181300 : 444-small 0.71(10) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:41.295314 : 444-small 0.71(10) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:49.685272 : 444-small 0.71(10) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:50.249466 : 444-small 0.71(10) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:53.027761 : 444-small 0.71(10) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:06:58.113613 : 444-small 0.71(10) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:04.953655 : 444-small 0.71(10) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:09.041731 : 444-small 0.71(10) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:14.898722 : 444-small 0.71(10) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:16.646586 : 444-small 0.71(10) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:22.042511 : 444-small 0.71(10) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:23.552009 : 444-small 0.71(10) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:30.593245 : 444-small 0.71(10) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:36.671412 : 444-small 0.71(10) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:39.630719 : 444-small 0.71(10) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:43.634577 : 444-small 0.71(10) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:52.791831 : 444-small 0.71(10) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:54.707463 : 444-small 0.71(10) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:07:55.125486 : 444-small 0.71(10) 41 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:03.849660 : 444-small 0.71(10) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:09.825821 : 444-small 0.71(10) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:14.510934 : 444-small 0.71(10) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:16.936313 : 444-small 0.71(10) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:17.418916 : 444-small 0.71(10) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:24.742281 : 444-small 0.71(10) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:27.318559 : 444-small 0.71(10) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:28.965641 : 444-small 0.71(10) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:29.005641 : 444-small 0.71(10) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:37.906539 : 444-small 0.73(11) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:42.166659 : 444-small 0.73(11) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:43.804065 : 444-small 0.73(11) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:47.946676 : 444-small 0.73(11) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:47.983687 : 444-small 0.73(11) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:50.498679 : 444-small 0.73(11) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:08:57.028963 : 444-small 0.73(11) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:00.211644 : 444-small 0.73(11) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:09.794447 : 444-small 0.73(11) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:11.027451 : 444-small 0.73(11) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:17.513475 : 444-small 0.73(11) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:18.227479 : 444-small 0.73(11) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:22.039514 : 444-small 0.73(11) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:25.678499 : 444-small 0.73(11) 0 	-> 
+2023-01-23 12:09:28.439511 : 444-small 0.73(11) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:31.167516 : 444-small 0.73(11) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:38.968602 : 444-small 0.73(11) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:43.648737 : 444-small 0.73(11) 14 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:44.560854 : 444-small 0.73(11) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:45.626270 : 444-small 0.73(11) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:46.274609 : 444-small 0.73(11) 16 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:48.884576 : 444-small 0.73(11) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:49.620189 : 444-small 0.73(11) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:54.570414 : 444-small 0.73(11) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:56.432918 : 444-small 0.73(11) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:09:56.606369 : 444-small 0.73(11) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:03.525197 : 444-small 0.73(11) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:04.926541 : 444-small 0.73(11) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:06.997112 : 444-small 0.73(11) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:08.108431 : 444-small 0.73(11) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:08.309913 : 444-small 0.73(11) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:17.958097 : 444-small 0.73(11) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:21.464479 : 444-small 0.73(11) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:30.310360 : 444-small 0.73(11) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:44.371290 : 444-small 0.73(11) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:45.623517 : 444-small 0.73(11) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:46.620018 : 444-small 0.73(11) 36 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:51.821330 : 444-small 0.73(11) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:10:56.256225 : 444-small 0.73(11) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:02.154226 : 444-small 0.73(11) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:02.189232 : 444-small 0.73(11) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:10.685221 : 444-small 0.73(11) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:16.929368 : 444-small 0.73(11) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:17.676947 : 444-small 0.73(11) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:21.624993 : 444-small 0.73(11) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:28.354993 : 444-small 0.73(11) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:33.797416 : 444-small 0.73(11) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:36.536291 : 444-small 0.73(11) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:36.793262 : 444-small 0.73(11) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:40.455368 : 444-small 0.73(11) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:49.226234 : 444-small 0.75(12) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:54.440044 : 444-small 0.75(12) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:57.455729 : 444-small 0.75(12) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:58.926616 : 444-small 0.75(12) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:11:59.081621 : 444-small 0.75(12) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:02.134492 : 444-small 0.75(12) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:08.668325 : 444-small 0.75(12) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:10.636415 : 444-small 0.75(12) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:16.708037 : 444-small 0.75(12) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:21.563093 : 444-small 0.75(12) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:22.571431 : 444-small 0.75(12) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:31.789318 : 444-small 0.75(12) 13 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:39.373310 : 444-small 0.75(12) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:49.424405 : 444-small 0.75(12) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:12:51.894973 : 444-small 0.75(12) 0 	-> 
+2023-01-23 12:12:58.196409 : 444-small 0.75(12) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:09.827420 : 444-small 0.75(12) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:14.164402 : 444-small 0.75(12) 14 	-> brute-force gdpa-random gdpa-pd
+2023-01-23 12:13:19.609189 : 444-small 0.75(12) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:24.569020 : 444-small 0.75(12) 20 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:26.183946 : 444-small 0.75(12) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:27.137688 : 444-small 0.75(12) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:38.261322 : 444-small 0.75(12) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:41.901263 : 444-small 0.75(12) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:43.965870 : 444-small 0.75(12) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:13:50.427415 : 444-small 0.75(12) 16 	-> 
+2023-01-23 12:13:53.909196 : 444-small 0.75(12) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:03.330385 : 444-small 0.75(12) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:03.684380 : 444-small 0.75(12) 26 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:20.533993 : 444-small 0.75(12) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:20.730006 : 444-small 0.75(12) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:32.200107 : 444-small 0.75(12) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:39.077333 : 444-small 0.75(12) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:45.493043 : 444-small 0.75(12) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:46.619501 : 444-small 0.75(12) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:14:55.221772 : 444-small 0.75(12) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:01.544724 : 444-small 0.75(12) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:04.897308 : 444-small 0.75(12) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:06.571937 : 444-small 0.75(12) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:13.313843 : 444-small 0.75(12) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:19.617340 : 444-small 0.75(12) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:21.144719 : 444-small 0.75(12) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:26.178000 : 444-small 0.75(12) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:31.822114 : 444-small 0.75(12) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:32.665295 : 444-small 0.75(12) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:45.015673 : 444-small 0.75(12) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:49.623517 : 444-small 0.75(12) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:50.492518 : 444-small 0.75(12) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:50.664084 : 444-small 0.75(12) 43 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:15:51.367247 : 444-small 0.75(12) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:00.474918 : 444-small 0.77(13) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:06.726561 : 444-small 0.77(13) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:07.746577 : 444-small 0.77(13) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:11.415585 : 444-small 0.77(13) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:13.290527 : 444-small 0.77(13) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:17.289371 : 444-small 0.77(13) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:23.979598 : 444-small 0.77(13) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:24.477615 : 444-small 0.77(13) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:29.767571 : 444-small 0.77(13) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:36.515523 : 444-small 0.77(13) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:38.857644 : 444-small 0.77(13) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:42.995571 : 444-small 0.77(13) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:51.396995 : 444-small 0.77(13) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:16:59.010561 : 444-small 0.77(13) 0 	-> 
+2023-01-23 12:17:12.908884 : 444-small 0.77(13) 12 	-> brute-force gdpa-pd
+2023-01-23 12:17:41.032561 : 444-small 0.77(13) 14 	-> 
+2023-01-23 12:17:41.462565 : 444-small 0.77(13) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:17:43.589568 : 444-small 0.77(13) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:17:46.612101 : 444-small 0.77(13) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:17:48.956078 : 444-small 0.77(13) 20 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:17:49.274081 : 444-small 0.77(13) 16 	-> 
+2023-01-23 12:17:51.532085 : 444-small 0.77(13) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:17:56.631132 : 444-small 0.77(13) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:02.773332 : 444-small 0.77(13) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:04.460324 : 444-small 0.77(13) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:10.284313 : 444-small 0.77(13) 21 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:11.781319 : 444-small 0.77(13) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:22.694351 : 444-small 0.77(13) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:33.812989 : 444-small 0.77(13) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:40.017552 : 444-small 0.77(13) 32 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:43.081559 : 444-small 0.77(13) 26 	-> 
+2023-01-23 12:18:45.161568 : 444-small 0.77(13) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:46.161570 : 444-small 0.77(13) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:47.611571 : 444-small 0.77(13) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:50.050580 : 444-small 0.77(13) 29 	-> 
+2023-01-23 12:18:53.814595 : 444-small 0.77(13) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:59.810614 : 444-small 0.77(13) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:18:59.960612 : 444-small 0.77(13) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:06.837634 : 444-small 0.77(13) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:07.619635 : 444-small 0.77(13) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:11.989648 : 444-small 0.77(13) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:14.526660 : 444-small 0.77(13) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:15.711680 : 444-small 0.77(13) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:19.375671 : 444-small 0.77(13) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:25.509692 : 444-small 0.77(13) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:27.937699 : 444-small 0.77(13) 43 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:30.117738 : 444-small 0.77(13) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:31.549709 : 444-small 0.77(13) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:39.051735 : 444-small 0.77(13) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:39.755746 : 444-small 0.77(13) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:45.286755 : 444-small 0.79(14) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:48.789763 : 444-small 0.79(14) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:51.552769 : 444-small 0.79(14) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:51.631771 : 444-small 0.79(14) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:19:55.878783 : 444-small 0.79(14) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:02.913805 : 444-small 0.79(14) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:04.575811 : 444-small 0.79(14) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:06.432819 : 444-small 0.79(14) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:06.607821 : 444-small 0.79(14) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:13.175837 : 444-small 0.79(14) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:16.579851 : 444-small 0.79(14) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:17.184853 : 444-small 0.79(14) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:19.355861 : 444-small 0.79(14) 0 	-> 
+2023-01-23 12:20:20.943862 : 444-small 0.79(14) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:31.191893 : 444-small 0.79(14) 12 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:50.933958 : 444-small 0.79(14) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:52.871963 : 444-small 0.79(14) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:55.561968 : 444-small 0.79(14) 19 	-> pd hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:20:57.621978 : 444-small 0.79(14) 14 	-> 
+2023-01-23 12:20:58.413977 : 444-small 0.79(14) 20 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:20:59.791985 : 444-small 0.79(14) 16 	-> 
+2023-01-23 12:21:04.848999 : 444-small 0.79(14) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:06.039002 : 444-small 0.79(14) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:06.485002 : 444-small 0.79(14) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:19.319042 : 444-small 0.79(14) 27 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:23.910057 : 444-small 0.79(14) 21 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:35.960112 : 444-small 0.79(14) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:44.843137 : 444-small 0.79(14) 25 	-> 
+2023-01-23 12:21:47.605149 : 444-small 0.79(14) 26 	-> 
+2023-01-23 12:21:49.121156 : 444-small 0.79(14) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:54.671167 : 444-small 0.79(14) 32 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:55.308169 : 444-small 0.79(14) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:21:57.747179 : 444-small 0.79(14) 29 	-> 
+2023-01-23 12:21:58.706181 : 444-small 0.79(14) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:03.191195 : 444-small 0.79(14) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:10.025216 : 444-small 0.79(14) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:15.736234 : 444-small 0.79(14) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:16.480235 : 444-small 0.79(14) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:16.614235 : 444-small 0.79(14) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:22.711258 : 444-small 0.79(14) 40 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:22:27.532270 : 444-small 0.79(14) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:28.582271 : 444-small 0.79(14) 38 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:31.630282 : 444-small 0.79(14) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:38.628305 : 444-small 0.79(14) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:44.621330 : 444-small 0.79(14) 41 	-> brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:22:51.144346 : 444-small 0.79(14) 47 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:22:59.292369 : 444-small 0.79(14) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:05.582388 : 444-small 0.79(14) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:06.094395 : 444-small 0.79(14) 43 	-> 
+2023-01-23 12:23:11.290409 : 444-small 0.79(14) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:19.143431 : 444-small 0.82(15) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:24.356447 : 444-small 0.82(15) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:28.291460 : 444-small 0.82(15) 5 	-> pd hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:23:32.209472 : 444-small 0.82(15) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:32.325471 : 444-small 0.82(15) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:37.685485 : 444-small 0.82(15) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:37.889486 : 444-small 0.82(15) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:43.541505 : 444-small 0.82(15) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:48.311520 : 444-small 0.82(15) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:54.336536 : 444-small 0.82(15) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:23:54.860537 : 444-small 0.82(15) 0 	-> 
+2023-01-23 12:23:57.017548 : 444-small 0.82(15) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:24:03.221562 : 444-small 0.82(15) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:24:30.904645 : 444-small 0.82(15) 12 	-> 
+2023-01-23 12:24:33.194655 : 444-small 0.82(15) 13 	-> 
+2023-01-23 12:24:39.528671 : 444-small 0.82(15) 14 	-> 
+2023-01-23 12:24:40.497673 : 444-small 0.82(15) 16 	-> 
+2023-01-23 12:24:44.752687 : 444-small 0.82(15) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:24:51.373706 : 444-small 0.82(15) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:24:51.869712 : 444-small 0.82(15) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:24:55.960720 : 444-small 0.82(15) 20 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:03.782743 : 444-small 0.82(15) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:03.957744 : 444-small 0.82(15) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:13.911775 : 444-small 0.82(15) 21 	-> hopa brute-force gdpa-hopa
+2023-01-23 12:25:25.919812 : 444-small 0.82(15) 27 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:28.657822 : 444-small 0.82(15) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:39.242850 : 444-small 0.82(15) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:25:45.593869 : 444-small 0.82(15) 25 	-> 
+2023-01-23 12:25:46.134870 : 444-small 0.82(15) 26 	-> 
+2023-01-23 12:25:54.741899 : 444-small 0.82(15) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:00.893915 : 444-small 0.82(15) 29 	-> 
+2023-01-23 12:26:09.231942 : 444-small 0.82(15) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:11.806948 : 444-small 0.82(15) 33 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:26:12.054948 : 444-small 0.82(15) 32 	-> brute-force gdpa-pd
+2023-01-23 12:26:12.452949 : 444-small 0.82(15) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:18.747000 : 444-small 0.82(15) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:28.576000 : 444-small 0.82(15) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:29.848004 : 444-small 0.82(15) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:30.374003 : 444-small 0.82(15) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:34.462022 : 444-small 0.82(15) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:39.730032 : 444-small 0.82(15) 38 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:41.395042 : 444-small 0.82(15) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:47.064052 : 444-small 0.82(15) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:26:55.046078 : 444-small 0.82(15) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:08.606121 : 444-small 0.82(15) 47 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:11.234126 : 444-small 0.82(15) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:16.747142 : 444-small 0.82(15) 43 	-> 
+2023-01-23 12:27:20.533153 : 444-small 0.82(15) 41 	-> 
+2023-01-23 12:27:20.682154 : 444-small 0.82(15) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:24.789204 : 444-small 0.82(15) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:32.875196 : 444-small 0.84(16) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:39.177212 : 444-small 0.84(16) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:43.214224 : 444-small 0.84(16) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:49.283242 : 444-small 0.84(16) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:27:55.290259 : 444-small 0.84(16) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:02.274279 : 444-small 0.84(16) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:05.420288 : 444-small 0.84(16) 0 	-> 
+2023-01-23 12:28:05.786292 : 444-small 0.84(16) 1 	-> 
+2023-01-23 12:28:09.781303 : 444-small 0.84(16) 3 	-> 
+2023-01-23 12:28:13.083311 : 444-small 0.84(16) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:17.557326 : 444-small 0.84(16) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:24.949347 : 444-small 0.84(16) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:48.716417 : 444-small 0.84(16) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:28:55.195436 : 444-small 0.84(16) 12 	-> 
+2023-01-23 12:28:55.667439 : 444-small 0.84(16) 13 	-> 
+2023-01-23 12:29:05.188465 : 444-small 0.84(16) 14 	-> 
+2023-01-23 12:29:10.221478 : 444-small 0.84(16) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:29:17.187498 : 444-small 0.84(16) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:29:23.788517 : 444-small 0.84(16) 16 	-> 
+2023-01-23 12:29:37.500559 : 444-small 0.84(16) 17 	-> brute-force
+2023-01-23 12:29:47.055593 : 444-small 0.84(16) 21 	-> 
+2023-01-23 12:29:50.676602 : 444-small 0.84(16) 20 	-> 
+2023-01-23 12:29:52.046600 : 444-small 0.84(16) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:29:53.080608 : 444-small 0.84(16) 23 	-> brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:29:55.402614 : 444-small 0.84(16) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:30:24.239694 : 444-small 0.84(16) 28 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:30:31.541716 : 444-small 0.84(16) 25 	-> 
+2023-01-23 12:30:34.982726 : 444-small 0.84(16) 26 	-> 
+2023-01-23 12:30:36.701735 : 444-small 0.84(16) 27 	-> 
+2023-01-23 12:30:49.039768 : 444-small 0.84(16) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:30:55.755787 : 444-small 0.84(16) 29 	-> 
+2023-01-23 12:31:03.959811 : 444-small 0.84(16) 32 	-> brute-force gdpa-pd
+2023-01-23 12:31:05.943819 : 444-small 0.84(16) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:13.257842 : 444-small 0.84(16) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:23.239864 : 444-small 0.84(16) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:23.411869 : 444-small 0.84(16) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:26.643876 : 444-small 0.84(16) 33 	-> 
+2023-01-23 12:31:26.821876 : 444-small 0.84(16) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:30.374889 : 444-small 0.84(16) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:33.915896 : 444-small 0.84(16) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:36.802907 : 444-small 0.84(16) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:43.817924 : 444-small 0.84(16) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:31:58.797971 : 444-small 0.84(16) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:32:04.238986 : 444-small 0.84(16) 38 	-> 
+2023-01-23 12:32:10.849003 : 444-small 0.84(16) 41 	-> 
+2023-01-23 12:32:12.374008 : 444-small 0.84(16) 43 	-> 
+2023-01-23 12:32:17.433054 : 444-small 0.84(16) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:32:25.947049 : 444-small 0.84(16) 47 	-> brute-force gdpa-random gdpa-pd
+2023-01-23 12:32:27.985069 : 444-small 0.84(16) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:32:29.009094 : 444-small 0.84(16) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:32:56.736167 : 444-small 0.86(17) 2 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:33:02.850153 : 444-small 0.86(17) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:04.746161 : 444-small 0.86(17) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:07.967168 : 444-small 0.86(17) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:08.802169 : 444-small 0.86(17) 1 	-> 
+2023-01-23 12:33:09.110172 : 444-small 0.86(17) 0 	-> 
+2023-01-23 12:33:12.958184 : 444-small 0.86(17) 3 	-> 
+2023-01-23 12:33:16.140197 : 444-small 0.86(17) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:19.168200 : 444-small 0.86(17) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:19.671204 : 444-small 0.86(17) 10 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:23.399216 : 444-small 0.86(17) 11 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:31.517241 : 444-small 0.86(17) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:33:51.241291 : 444-small 0.86(17) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:34:03.148327 : 444-small 0.86(17) 13 	-> 
+2023-01-23 12:34:07.563336 : 444-small 0.86(17) 12 	-> 
+2023-01-23 12:34:13.171355 : 444-small 0.86(17) 14 	-> 
+2023-01-23 12:34:17.595368 : 444-small 0.86(17) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:34:20.562374 : 444-small 0.86(17) 16 	-> 
+2023-01-23 12:34:23.948384 : 444-small 0.86(17) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:34:44.231440 : 444-small 0.86(17) 17 	-> 
+2023-01-23 12:34:52.028464 : 444-small 0.86(17) 21 	-> 
+2023-01-23 12:34:53.943470 : 444-small 0.86(17) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:34:59.662486 : 444-small 0.86(17) 24 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:35:01.555491 : 444-small 0.86(17) 20 	-> 
+2023-01-23 12:35:03.182494 : 444-small 0.86(17) 23 	-> brute-force gdpa-hopa
+2023-01-23 12:35:29.471094 : 444-small 0.86(17) 25 	-> 
+2023-01-23 12:35:43.616223 : 444-small 0.86(17) 27 	-> 
+2023-01-23 12:35:43.981224 : 444-small 0.86(17) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:35:44.098227 : 444-small 0.86(17) 26 	-> 
+2023-01-23 12:36:02.774276 : 444-small 0.86(17) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:36:03.587310 : 444-small 0.86(17) 29 	-> 
+2023-01-23 12:36:22.704329 : 444-small 0.86(17) 31 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:36:32.443365 : 444-small 0.86(17) 32 	-> 
+2023-01-23 12:36:37.009370 : 444-small 0.86(17) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:36:39.168377 : 444-small 0.86(17) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:36:44.168397 : 444-small 0.86(17) 33 	-> 
+2023-01-23 12:36:56.082049 : 444-small 0.86(17) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:36:57.255385 : 444-small 0.86(17) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:37:04.731892 : 444-small 0.86(17) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:37:05.680003 : 444-small 0.86(17) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:37:26.273100 : 444-small 0.86(17) 38 	-> 
+2023-01-23 12:37:31.526939 : 444-small 0.86(17) 42 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:37:37.384153 : 444-small 0.86(17) 41 	-> 
+2023-01-23 12:37:43.957479 : 444-small 0.86(17) 44 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:37:50.477370 : 444-small 0.86(17) 43 	-> 
+2023-01-23 12:38:00.604988 : 444-small 0.86(17) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:38:03.555088 : 444-small 0.86(17) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:38:12.240862 : 444-small 0.86(17) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:38:19.371027 : 444-small 0.86(17) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:38:27.142931 : 444-small 0.86(17) 47 	-> 
+2023-01-23 12:38:57.123306 : 444-small 0.88(18) 2 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:07.865193 : 444-small 0.88(18) 4 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:09.929212 : 444-small 0.88(18) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:14.925707 : 444-small 0.88(18) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:15.333735 : 444-small 0.88(18) 0 	-> 
+2023-01-23 12:39:16.286187 : 444-small 0.88(18) 1 	-> 
+2023-01-23 12:39:20.959428 : 444-small 0.88(18) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:22.019511 : 444-small 0.88(18) 3 	-> 
+2023-01-23 12:39:24.389046 : 444-small 0.88(18) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:42.595501 : 444-small 0.88(18) 11 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:39:56.801230 : 444-small 0.88(18) 9 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:40:10.192080 : 444-small 0.88(18) 10 	-> 
+2023-01-23 12:40:20.143628 : 444-small 0.88(18) 12 	-> 
+2023-01-23 12:40:20.158627 : 444-small 0.88(18) 13 	-> 
+2023-01-23 12:40:21.376740 : 444-small 0.88(18) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:40:43.985933 : 444-small 0.88(18) 14 	-> 
+2023-01-23 12:40:49.573735 : 444-small 0.88(18) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:40:52.255960 : 444-small 0.88(18) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:41:04.436899 : 444-small 0.88(18) 17 	-> 
+2023-01-23 12:41:05.056147 : 444-small 0.88(18) 16 	-> 
+2023-01-23 12:41:24.636710 : 444-small 0.88(18) 21 	-> 
+2023-01-23 12:41:38.309601 : 444-small 0.88(18) 24 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:41:44.322099 : 444-small 0.88(18) 22 	-> brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:42:00.101404 : 444-small 0.88(18) 23 	-> 
+2023-01-23 12:42:09.009939 : 444-small 0.88(18) 25 	-> 
+2023-01-23 12:42:13.124588 : 444-small 0.88(18) 20 	-> 
+2023-01-23 12:42:19.553241 : 444-small 0.88(18) 26 	-> 
+2023-01-23 12:42:33.456400 : 444-small 0.88(18) 27 	-> 
+2023-01-23 12:42:36.029462 : 444-small 0.88(18) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:42:47.063977 : 444-small 0.88(18) 29 	-> 
+2023-01-23 12:43:02.703293 : 444-small 0.88(18) 28 	-> 
+2023-01-23 12:43:16.580112 : 444-small 0.88(18) 32 	-> 
+2023-01-23 12:43:24.370596 : 444-small 0.88(18) 33 	-> 
+2023-01-23 12:43:31.365827 : 444-small 0.88(18) 31 	-> 
+2023-01-23 12:43:31.585645 : 444-small 0.88(18) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:43:40.181503 : 444-small 0.88(18) 34 	-> 
+2023-01-23 12:43:54.191183 : 444-small 0.88(18) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:44:05.580112 : 444-small 0.88(18) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:44:08.410385 : 444-small 0.88(18) 37 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-01-23 12:44:25.557971 : 444-small 0.88(18) 38 	-> 
+2023-01-23 12:44:37.387138 : 444-small 0.88(18) 39 	-> 
+2023-01-23 12:44:45.453847 : 444-small 0.88(18) 41 	-> 
+2023-01-23 12:44:52.220447 : 444-small 0.88(18) 42 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:45:07.964162 : 444-small 0.88(18) 43 	-> 
+2023-01-23 12:45:17.337331 : 444-small 0.88(18) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:45:24.764971 : 444-small 0.88(18) 44 	-> 
+2023-01-23 12:45:25.668013 : 444-small 0.88(18) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:45:48.351287 : 444-small 0.88(18) 49 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:45:53.644809 : 444-small 0.88(18) 47 	-> 
+2023-01-23 12:45:57.156819 : 444-small 0.88(18) 48 	-> 
+2023-01-23 12:46:58.313099 : 444-small 0.90(19) 2 	-> 
+2023-01-23 12:47:03.520079 : 444-small 0.90(19) 0 	-> 
+2023-01-23 12:47:04.138081 : 444-small 0.90(19) 1 	-> 
+2023-01-23 12:47:08.682135 : 444-small 0.90(19) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:47:10.488097 : 444-small 0.90(19) 3 	-> 
+2023-01-23 12:47:18.887125 : 444-small 0.90(19) 4 	-> hopa brute-force gdpa-random gdpa-hopa
+2023-01-23 12:47:24.607142 : 444-small 0.90(19) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:47:30.385153 : 444-small 0.90(19) 6 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:48:13.216407 : 444-small 0.90(19) 7 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:48:32.423033 : 444-small 0.90(19) 9 	-> 
+2023-01-23 12:48:41.531085 : 444-small 0.90(19) 10 	-> 
+2023-01-23 12:49:00.862591 : 444-small 0.90(19) 11 	-> 
+2023-01-23 12:49:04.615334 : 444-small 0.90(19) 12 	-> 
+2023-01-23 12:49:07.722131 : 444-small 0.90(19) 13 	-> 
+2023-01-23 12:49:20.604586 : 444-small 0.90(19) 14 	-> 
+2023-01-23 12:49:38.866667 : 444-small 0.90(19) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:49:49.397697 : 444-small 0.90(19) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:49:59.175338 : 444-small 0.90(19) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:50:05.115297 : 444-small 0.90(19) 16 	-> 
+2023-01-23 12:50:05.903095 : 444-small 0.90(19) 17 	-> 
+2023-01-23 12:50:43.529986 : 444-small 0.90(19) 21 	-> 
+2023-01-23 12:51:05.713041 : 444-small 0.90(19) 22 	-> 
+2023-01-23 12:51:11.664057 : 444-small 0.90(19) 23 	-> 
+2023-01-23 12:51:14.041063 : 444-small 0.90(19) 24 	-> 
+2023-01-23 12:51:43.507139 : 444-small 0.90(19) 25 	-> 
+2023-01-23 12:51:52.231161 : 444-small 0.90(19) 27 	-> 
+2023-01-23 12:51:59.958184 : 444-small 0.90(19) 26 	-> 
+2023-01-23 12:52:14.910224 : 444-small 0.90(19) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:52:33.482274 : 444-small 0.90(19) 29 	-> 
+2023-01-23 12:52:36.164202 : 444-small 0.90(19) 20 	-> 
+2023-01-23 12:52:44.091719 : 444-small 0.90(19) 28 	-> 
+2023-01-23 12:53:16.557295 : 444-small 0.90(19) 33 	-> 
+2023-01-23 12:53:18.194989 : 444-small 0.90(19) 31 	-> 
+2023-01-23 12:53:20.336253 : 444-small 0.90(19) 32 	-> 
+2023-01-23 12:53:25.663133 : 444-small 0.90(19) 34 	-> 
+2023-01-23 12:53:49.798445 : 444-small 0.90(19) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:54:06.586916 : 444-small 0.90(19) 35 	-> 
+2023-01-23 12:54:18.335766 : 444-small 0.90(19) 37 	-> 
+2023-01-23 12:54:24.272498 : 444-small 0.90(19) 39 	-> 
+2023-01-23 12:54:24.569376 : 444-small 0.90(19) 38 	-> 
+2023-01-23 12:54:49.912531 : 444-small 0.90(19) 40 	-> 
+2023-01-23 12:55:01.170478 : 444-small 0.90(19) 41 	-> 
+2023-01-23 12:55:01.264236 : 444-small 0.90(19) 42 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:55:09.750757 : 444-small 0.90(19) 43 	-> 
+2023-01-23 12:55:24.228913 : 444-small 0.90(19) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:55:26.863095 : 444-small 0.90(19) 44 	-> 
+2023-01-23 12:55:50.191538 : 444-small 0.90(19) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-01-23 12:55:53.473182 : 444-small 0.90(19) 47 	-> 
+2023-01-23 12:56:05.645762 : 444-small 0.90(19) 48 	-> 
+2023-01-23 12:56:08.733800 : 444-small 0.90(19) 49 	-> 
+2023-03-03 20:13:22.862404 : 444-small 0.50(0) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:23.827404 : 444-small 0.50(0) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:25.082404 : 444-small 0.50(0) 3 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:26.980400 : 444-small 0.50(0) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:28.935395 : 444-small 0.50(0) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:29.542395 : 444-small 0.50(0) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:32.181392 : 444-small 0.50(0) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:35.699059 : 444-small 0.50(0) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:37.542886 : 444-small 0.50(0) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:39.683435 : 444-small 0.50(0) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:39.949083 : 444-small 0.50(0) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:40.105330 : 444-small 0.50(0) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:44.386539 : 444-small 0.50(0) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:44.386539 : 444-small 0.50(0) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:45.355291 : 444-small 0.50(0) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:47.339704 : 444-small 0.50(0) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:49.011528 : 444-small 0.50(0) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:49.324072 : 444-small 0.50(0) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:52.136591 : 444-small 0.50(0) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:53.027182 : 444-small 0.50(0) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:55.683426 : 444-small 0.50(0) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:56.480324 : 444-small 0.50(0) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:58.761525 : 444-small 0.50(0) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:13:59.855305 : 444-small 0.50(0) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:01.777203 : 444-small 0.50(0) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:02.433428 : 444-small 0.50(0) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:03.183435 : 444-small 0.50(0) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:04.417769 : 444-small 0.50(0) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:07.417759 : 444-small 0.50(0) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:07.511504 : 444-small 0.50(0) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:08.683385 : 444-small 0.50(0) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:11.495905 : 444-small 0.50(0) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:11.933405 : 444-small 0.50(0) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:13.527133 : 444-small 0.50(0) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:14.074019 : 444-small 0.50(0) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:14.245882 : 444-small 0.50(0) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:18.261506 : 444-small 0.50(0) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:19.073999 : 444-small 0.50(0) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:19.714675 : 444-small 0.50(0) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:21.261513 : 444-small 0.50(0) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:24.855247 : 444-small 0.50(0) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:26.245884 : 444-small 0.50(0) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:27.714612 : 444-small 0.50(0) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:31.636486 : 444-small 0.50(0) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:31.683402 : 444-small 0.50(0) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:32.909384 : 444-small 0.50(0) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:35.328549 : 444-small 0.50(0) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:36.448885 : 444-small 0.50(0) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:37.244489 : 444-small 0.50(0) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:37.260134 : 444-small 0.50(0) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:45.535799 : 444-small 0.52(1) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:46.240526 : 444-small 0.52(1) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:46.818613 : 444-small 0.52(1) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:48.756134 : 444-small 0.52(1) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:48.802983 : 444-small 0.52(1) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:50.834081 : 444-small 0.52(1) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:53.100294 : 444-small 0.52(1) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:55.415394 : 444-small 0.52(1) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:58.229478 : 444-small 0.52(1) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:58.715869 : 444-small 0.52(1) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:14:59.934622 : 444-small 0.52(1) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:00.184663 : 444-small 0.52(1) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:04.247112 : 444-small 0.52(1) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:04.904527 : 444-small 0.52(1) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:05.466967 : 444-small 0.52(1) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:07.295129 : 444-small 0.52(1) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:09.219109 : 444-small 0.52(1) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:09.422256 : 444-small 0.52(1) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:11.812491 : 444-small 0.52(1) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:11.874988 : 444-small 0.52(1) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:14.079202 : 444-small 0.52(1) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:18.394262 : 444-small 0.52(1) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:18.881299 : 444-small 0.52(1) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:19.881306 : 444-small 0.52(1) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:20.881305 : 444-small 0.52(1) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:23.146913 : 444-small 0.52(1) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:24.271855 : 444-small 0.52(1) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:24.632824 : 444-small 0.52(1) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:28.242184 : 444-small 0.52(1) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:28.712522 : 444-small 0.52(1) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:29.556305 : 444-small 0.52(1) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:33.446871 : 444-small 0.52(1) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:33.634367 : 444-small 0.52(1) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:35.494277 : 444-small 0.52(1) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:35.556838 : 444-small 0.52(1) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:36.135572 : 444-small 0.52(1) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:40.307417 : 444-small 0.52(1) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:40.667344 : 444-small 0.52(1) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:42.714215 : 444-small 0.52(1) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:44.511648 : 444-small 0.52(1) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:46.295505 : 444-small 0.52(1) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:49.546033 : 444-small 0.52(1) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:49.639791 : 444-small 0.52(1) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:53.783556 : 444-small 0.52(1) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:55.285200 : 444-small 0.52(1) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:56.380004 : 444-small 0.52(1) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:57.781087 : 444-small 0.52(1) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:15:59.967885 : 444-small 0.52(1) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:00.278863 : 444-small 0.52(1) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:00.560109 : 444-small 0.52(1) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:07.347964 : 444-small 0.54(2) 0 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:08.271421 : 444-small 0.54(2) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:08.505792 : 444-small 0.54(2) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:09.083978 : 444-small 0.54(2) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:09.224538 : 444-small 0.54(2) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:10.021480 : 444-small 0.54(2) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:14.708915 : 444-small 0.54(2) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:16.005839 : 444-small 0.54(2) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:16.554336 : 444-small 0.54(2) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:20.304320 : 444-small 0.54(2) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:20.335540 : 444-small 0.54(2) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:20.335540 : 444-small 0.54(2) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:25.587127 : 444-small 0.54(2) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:25.977348 : 444-small 0.54(2) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:26.242976 : 444-small 0.54(2) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:28.164884 : 444-small 0.54(2) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:29.415923 : 444-small 0.54(2) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:31.510258 : 444-small 0.54(2) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:32.854663 : 444-small 0.54(2) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:33.650871 : 444-small 0.54(2) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:35.463398 : 444-small 0.54(2) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:35.619620 : 444-small 0.54(2) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:39.775931 : 444-small 0.54(2) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:40.135851 : 444-small 0.54(2) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:41.167105 : 444-small 0.54(2) 25 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:41.245218 : 444-small 0.54(2) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:43.846546 : 444-small 0.54(2) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:44.753366 : 444-small 0.54(2) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:48.112773 : 444-small 0.54(2) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:48.927332 : 444-small 0.54(2) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:49.489823 : 444-small 0.54(2) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:51.614847 : 444-small 0.54(2) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:53.850775 : 444-small 0.54(2) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:54.411838 : 444-small 0.54(2) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:55.396214 : 444-small 0.54(2) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:56.864917 : 444-small 0.54(2) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:16:58.614397 : 444-small 0.54(2) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:00.954793 : 444-small 0.54(2) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:01.970410 : 444-small 0.54(2) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:02.907888 : 444-small 0.54(2) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:06.423480 : 444-small 0.54(2) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:06.485982 : 444-small 0.54(2) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:09.486023 : 444-small 0.54(2) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:13.531425 : 444-small 0.54(2) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:13.672041 : 444-small 0.54(2) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:14.580343 : 444-small 0.54(2) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:17.767865 : 444-small 0.54(2) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:19.626294 : 444-small 0.54(2) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:20.093769 : 444-small 0.54(2) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:20.499999 : 444-small 0.54(2) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:27.467745 : 444-small 0.56(3) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:28.109454 : 444-small 0.56(3) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:28.562590 : 444-small 0.56(3) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:28.875136 : 444-small 0.56(3) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:30.125080 : 444-small 0.56(3) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:30.312578 : 444-small 0.56(3) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:32.937124 : 444-small 0.56(3) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:35.110065 : 444-small 0.56(3) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:39.329408 : 444-small 0.56(3) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:40.627359 : 444-small 0.56(3) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:40.674250 : 444-small 0.56(3) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:42.191475 : 444-small 0.56(3) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:44.301921 : 444-small 0.56(3) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:44.301921 : 444-small 0.56(3) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:49.053038 : 444-small 0.56(3) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:49.850481 : 444-small 0.56(3) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:50.116103 : 444-small 0.56(3) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:50.819222 : 444-small 0.56(3) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:51.084841 : 444-small 0.56(3) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:52.756718 : 444-small 0.56(3) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:56.335395 : 444-small 0.56(3) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:56.413572 : 444-small 0.56(3) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:57.726678 : 444-small 0.56(3) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:17:59.524118 : 444-small 0.56(3) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:00.306489 : 444-small 0.56(3) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:02.290884 : 444-small 0.56(3) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:02.588318 : 444-small 0.56(3) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:04.010189 : 444-small 0.56(3) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:06.026429 : 444-small 0.56(3) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:08.214517 : 444-small 0.56(3) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:08.729162 : 444-small 0.56(3) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:10.385457 : 444-small 0.56(3) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:11.854828 : 444-small 0.56(3) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:13.933550 : 444-small 0.56(3) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:14.839621 : 444-small 0.56(3) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:14.917725 : 444-small 0.56(3) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:16.761467 : 444-small 0.56(3) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:16.995573 : 444-small 0.56(3) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:21.667552 : 444-small 0.56(3) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:23.043084 : 444-small 0.56(3) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:23.545218 : 444-small 0.56(3) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:24.310802 : 444-small 0.56(3) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:28.451459 : 444-small 0.56(3) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:29.735310 : 444-small 0.56(3) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:31.112394 : 444-small 0.56(3) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:34.253628 : 444-small 0.56(3) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:36.489600 : 444-small 0.56(3) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:36.753653 : 444-small 0.56(3) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:37.191168 : 444-small 0.56(3) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:38.222416 : 444-small 0.56(3) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:45.341383 : 444-small 0.58(4) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:45.796692 : 444-small 0.58(4) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:46.359165 : 444-small 0.58(4) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:46.859153 : 444-small 0.58(4) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:46.968539 : 444-small 0.58(4) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:47.765365 : 444-small 0.58(4) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:47.874796 : 444-small 0.58(4) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:54.812252 : 444-small 0.58(4) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:55.437800 : 444-small 0.58(4) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:55.828464 : 444-small 0.58(4) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:56.281630 : 444-small 0.58(4) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:18:59.078498 : 444-small 0.58(4) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:00.203706 : 444-small 0.58(4) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:02.063618 : 444-small 0.58(4) 12 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:02.704779 : 444-small 0.58(4) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:04.626675 : 444-small 0.58(4) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:06.191254 : 444-small 0.58(4) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:06.706739 : 444-small 0.58(4) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:08.597371 : 444-small 0.58(4) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:09.472380 : 444-small 0.58(4) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:12.613030 : 444-small 0.58(4) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:13.457370 : 444-small 0.58(4) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:16.457422 : 444-small 0.58(4) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:18.895514 : 444-small 0.58(4) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:19.630950 : 444-small 0.58(4) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:19.646566 : 444-small 0.58(4) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:21.037224 : 444-small 0.58(4) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:23.397183 : 444-small 0.58(4) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:24.335282 : 444-small 0.58(4) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:26.179016 : 444-small 0.58(4) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:29.428625 : 444-small 0.58(4) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:29.881789 : 444-small 0.58(4) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:30.694321 : 444-small 0.58(4) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:31.928671 : 444-small 0.58(4) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:33.522336 : 444-small 0.58(4) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:35.367164 : 444-small 0.58(4) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:36.040158 : 444-small 0.58(4) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:36.290133 : 444-small 0.58(4) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:41.118277 : 444-small 0.58(4) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:41.682353 : 444-small 0.58(4) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:42.682350 : 444-small 0.58(4) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:46.182383 : 444-small 0.58(4) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:47.728974 : 444-small 0.58(4) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:49.839970 : 444-small 0.58(4) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:51.996122 : 444-small 0.58(4) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:52.855199 : 444-small 0.58(4) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:55.370816 : 444-small 0.58(4) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:56.790955 : 444-small 0.58(4) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:57.617845 : 444-small 0.58(4) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:19:57.789716 : 444-small 0.58(4) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:03.715928 : 444-small 0.61(5) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:04.226462 : 444-small 0.61(5) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:04.304590 : 444-small 0.61(5) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:05.164009 : 444-small 0.61(5) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:05.867065 : 444-small 0.61(5) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:06.007702 : 444-small 0.61(5) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:06.189963 : 444-small 0.61(5) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:11.205616 : 444-small 0.61(5) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:13.674495 : 444-small 0.61(5) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:14.253229 : 444-small 0.61(5) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:15.565734 : 444-small 0.61(5) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:18.628213 : 444-small 0.61(5) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:19.049747 : 444-small 0.61(5) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:19.940376 : 444-small 0.61(5) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:21.127875 : 444-small 0.61(5) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:23.036739 : 444-small 0.61(5) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:24.724417 : 444-small 0.61(5) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:25.883753 : 444-small 0.61(5) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:27.024975 : 444-small 0.61(5) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:28.588054 : 444-small 0.61(5) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:29.339090 : 444-small 0.61(5) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:30.698500 : 444-small 0.61(5) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:34.693306 : 444-small 0.61(5) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:35.944399 : 444-small 0.61(5) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:37.321000 : 444-small 0.61(5) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:37.367865 : 444-small 0.61(5) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:38.855790 : 444-small 0.61(5) 26 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:40.466273 : 444-small 0.61(5) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:41.747090 : 444-small 0.61(5) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:45.669560 : 444-small 0.61(5) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:45.872716 : 444-small 0.61(5) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:46.763916 : 444-small 0.61(5) 31 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:47.383696 : 444-small 0.61(5) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:50.836806 : 444-small 0.61(5) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:51.008684 : 444-small 0.61(5) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:51.601863 : 444-small 0.61(5) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:53.633082 : 444-small 0.61(5) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:53.851825 : 444-small 0.61(5) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:57.555489 : 444-small 0.61(5) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:20:57.914316 : 444-small 0.61(5) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:00.289339 : 444-small 0.61(5) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:02.837273 : 444-small 0.61(5) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:03.603443 : 444-small 0.61(5) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:07.244098 : 444-small 0.61(5) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:10.151951 : 444-small 0.61(5) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:11.714342 : 444-small 0.61(5) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:13.104706 : 444-small 0.61(5) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:14.259830 : 444-small 0.61(5) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:16.523237 : 444-small 0.61(5) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:16.879797 : 444-small 0.61(5) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:23.413615 : 444-small 0.63(6) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:23.661882 : 444-small 0.63(6) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:24.239970 : 444-small 0.63(6) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:24.974366 : 444-small 0.63(6) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:25.708707 : 444-small 0.63(6) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:25.755592 : 444-small 0.63(6) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:26.739992 : 444-small 0.63(6) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:31.208776 : 444-small 0.63(6) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:33.020976 : 444-small 0.63(6) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:34.333010 : 444-small 0.63(6) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:36.584100 : 444-small 0.63(6) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:37.476316 : 444-small 0.63(6) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:39.257544 : 444-small 0.63(6) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:40.834651 : 444-small 0.63(6) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:41.022126 : 444-small 0.63(6) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:42.725116 : 444-small 0.63(6) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:44.428415 : 444-small 0.63(6) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:45.021278 : 444-small 0.63(6) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:47.099429 : 444-small 0.63(6) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:47.850027 : 444-small 0.63(6) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:48.099998 : 444-small 0.63(6) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:50.818802 : 444-small 0.63(6) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:54.178280 : 444-small 0.63(6) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:54.491902 : 444-small 0.63(6) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:56.101281 : 444-small 0.63(6) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:21:57.433438 : 444-small 0.63(6) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:00.480877 : 444-small 0.63(6) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:02.340855 : 444-small 0.63(6) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:02.528340 : 444-small 0.63(6) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:04.058248 : 444-small 0.63(6) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:06.682722 : 444-small 0.63(6) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:07.979140 : 444-small 0.63(6) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:09.744704 : 444-small 0.63(6) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:10.682213 : 444-small 0.63(6) 33 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:11.697854 : 444-small 0.63(6) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:13.666542 : 444-small 0.63(6) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:14.542136 : 444-small 0.63(6) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:14.792153 : 444-small 0.63(6) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:17.729658 : 444-small 0.63(6) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:21.231319 : 444-small 0.63(6) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:21.590202 : 444-small 0.63(6) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:23.527746 : 444-small 0.63(6) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:25.169962 : 444-small 0.63(6) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:28.215979 : 444-small 0.63(6) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:29.184831 : 444-small 0.63(6) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:32.247275 : 444-small 0.63(6) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:35.184917 : 444-small 0.63(6) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:35.356775 : 444-small 0.63(6) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:35.979911 : 444-small 0.63(6) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:36.386170 : 444-small 0.63(6) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:41.128100 : 444-small 0.65(7) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:42.534124 : 444-small 0.65(7) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:42.612255 : 444-small 0.65(7) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:42.987126 : 444-small 0.65(7) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:45.002723 : 444-small 0.65(7) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:45.002723 : 444-small 0.65(7) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:45.393364 : 444-small 0.65(7) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:46.596510 : 444-small 0.65(7) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:51.127765 : 444-small 0.65(7) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:52.377579 : 444-small 0.65(7) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:56.861716 : 444-small 0.65(7) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:22:57.094302 : 444-small 0.65(7) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:00.531901 : 444-small 0.65(7) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:01.153534 : 444-small 0.65(7) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:01.653529 : 444-small 0.65(7) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:03.387914 : 444-small 0.65(7) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:04.090756 : 444-small 0.65(7) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:05.434481 : 444-small 0.65(7) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:08.122003 : 444-small 0.65(7) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:09.387727 : 444-small 0.65(7) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:12.153274 : 444-small 0.65(7) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:15.825189 : 444-small 0.65(7) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:16.262103 : 444-small 0.65(7) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:17.387106 : 444-small 0.65(7) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:18.465224 : 444-small 0.65(7) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:22.350797 : 444-small 0.65(7) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:23.554508 : 444-small 0.65(7) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:26.414493 : 444-small 0.65(7) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:28.383144 : 444-small 0.65(7) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:29.789241 : 444-small 0.65(7) 28 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:31.179330 : 444-small 0.65(7) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:31.523666 : 444-small 0.65(7) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:33.976734 : 444-small 0.65(7) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:35.303684 : 444-small 0.65(7) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:35.787230 : 444-small 0.65(7) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:37.615364 : 444-small 0.65(7) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:38.599531 : 444-small 0.65(7) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:39.849561 : 444-small 0.65(7) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:42.943454 : 444-small 0.65(7) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:43.614074 : 444-small 0.65(7) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:45.582867 : 444-small 0.65(7) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:46.238764 : 444-small 0.65(7) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:49.644995 : 444-small 0.65(7) 43 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:50.644945 : 444-small 0.65(7) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:51.098075 : 444-small 0.65(7) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:54.598094 : 444-small 0.65(7) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:58.160282 : 444-small 0.65(7) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:58.549764 : 444-small 0.65(7) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:59.284178 : 444-small 0.65(7) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:23:59.609448 : 444-small 0.65(7) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:05.438806 : 444-small 0.67(8) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:05.470046 : 444-small 0.67(8) 1 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:05.579432 : 444-small 0.67(8) 0 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:07.205492 : 444-small 0.67(8) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:07.314899 : 444-small 0.67(8) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:08.095142 : 444-small 0.67(8) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:08.782621 : 444-small 0.67(8) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:10.626335 : 444-small 0.67(8) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:12.813553 : 444-small 0.67(8) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:16.298540 : 444-small 0.67(8) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:16.486040 : 444-small 0.67(8) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:18.359577 : 444-small 0.67(8) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:18.719994 : 444-small 0.67(8) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:20.548116 : 444-small 0.67(8) 14 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:22.704147 : 444-small 0.67(8) 13 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:24.516726 : 444-small 0.67(8) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:25.156753 : 444-small 0.67(8) 16 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:28.797407 : 444-small 0.67(8) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:29.593892 : 444-small 0.67(8) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:30.312631 : 444-small 0.67(8) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:32.672001 : 444-small 0.67(8) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:33.812019 : 444-small 0.67(8) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:38.468225 : 444-small 0.67(8) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:38.593235 : 444-small 0.67(8) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:39.578151 : 444-small 0.67(8) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:40.178450 : 444-small 0.67(8) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:45.006604 : 444-small 0.67(8) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:47.583956 : 444-small 0.67(8) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:47.755840 : 444-small 0.67(8) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:47.926559 : 444-small 0.67(8) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:50.926575 : 444-small 0.67(8) 29 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:51.753824 : 444-small 0.67(8) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:52.847604 : 444-small 0.67(8) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:54.410066 : 444-small 0.67(8) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:54.802751 : 444-small 0.67(8) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:58.209025 : 444-small 0.67(8) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:58.990863 : 444-small 0.67(8) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:24:59.037743 : 444-small 0.67(8) 38 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:01.253483 : 444-small 0.67(8) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:05.253528 : 444-small 0.67(8) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:05.534635 : 444-small 0.67(8) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:06.675257 : 444-small 0.67(8) 40 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:08.909690 : 444-small 0.67(8) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:10.018885 : 444-small 0.67(8) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:13.660100 : 444-small 0.67(8) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:14.613850 : 444-small 0.67(8) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:15.629471 : 444-small 0.67(8) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:16.785724 : 444-small 0.67(8) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:17.910706 : 444-small 0.67(8) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:19.001250 : 444-small 0.67(8) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:25.138383 : 444-small 0.69(9) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:25.715684 : 444-small 0.69(9) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:27.043802 : 444-small 0.69(9) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:27.606337 : 444-small 0.69(9) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:28.043826 : 444-small 0.69(9) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:29.653192 : 444-small 0.69(9) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:32.122549 : 444-small 0.69(9) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:34.684861 : 444-small 0.69(9) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:37.027440 : 444-small 0.69(9) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:40.575931 : 444-small 0.69(9) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:42.669510 : 444-small 0.69(9) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:45.293155 : 444-small 0.69(9) 0 	-> brute-force gdpa-random
+2023-03-03 20:25:45.935380 : 444-small 0.69(9) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:49.669762 : 444-small 0.69(9) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:51.450497 : 444-small 0.69(9) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:52.327581 : 444-small 0.69(9) 16 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:53.202582 : 444-small 0.69(9) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:58.233842 : 444-small 0.69(9) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:58.233842 : 444-small 0.69(9) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:25:59.187042 : 444-small 0.69(9) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:01.121459 : 444-small 0.69(9) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:05.402697 : 444-small 0.69(9) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:05.543309 : 444-small 0.69(9) 23 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:07.261865 : 444-small 0.69(9) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:11.370489 : 444-small 0.69(9) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:13.279897 : 444-small 0.69(9) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:17.811732 : 444-small 0.69(9) 14 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:17.921114 : 444-small 0.69(9) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:19.858448 : 444-small 0.69(9) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:20.201999 : 444-small 0.69(9) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:22.936430 : 444-small 0.69(9) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:24.201662 : 444-small 0.69(9) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:25.310766 : 444-small 0.69(9) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:26.071280 : 444-small 0.69(9) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:29.696268 : 444-small 0.69(9) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:31.837465 : 444-small 0.69(9) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:33.978263 : 444-small 0.69(9) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:41.321686 : 444-small 0.69(9) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:41.431027 : 444-small 0.69(9) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:41.569054 : 444-small 0.69(9) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:42.069028 : 444-small 0.69(9) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:45.287773 : 444-small 0.69(9) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:47.239907 : 444-small 0.69(9) 41 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:48.536850 : 444-small 0.69(9) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:50.771868 : 444-small 0.69(9) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:56.365603 : 444-small 0.69(9) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:26:57.474654 : 444-small 0.69(9) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:00.844108 : 444-small 0.69(9) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:01.219114 : 444-small 0.69(9) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:02.812845 : 444-small 0.69(9) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:08.071377 : 444-small 0.71(10) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:10.118411 : 444-small 0.71(10) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:11.821661 : 444-small 0.71(10) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:11.993568 : 444-small 0.71(10) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:12.228977 : 444-small 0.71(10) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:14.572713 : 444-small 0.71(10) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:19.212472 : 444-small 0.71(10) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:19.759903 : 444-small 0.71(10) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:21.166177 : 444-small 0.71(10) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:25.463048 : 444-small 0.71(10) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:30.587795 : 444-small 0.71(10) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:31.743368 : 444-small 0.71(10) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:34.054411 : 444-small 0.71(10) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:37.148191 : 444-small 0.71(10) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:40.772257 : 444-small 0.71(10) 17 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:41.459298 : 444-small 0.71(10) 0 	-> 
+2023-03-03 20:27:42.756176 : 444-small 0.71(10) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:47.943671 : 444-small 0.71(10) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:48.616147 : 444-small 0.71(10) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:49.522431 : 444-small 0.71(10) 14 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:54.272378 : 444-small 0.71(10) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:54.601085 : 444-small 0.71(10) 16 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:55.460454 : 444-small 0.71(10) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:27:55.569852 : 444-small 0.71(10) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:00.678669 : 444-small 0.71(10) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:00.678669 : 444-small 0.71(10) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:01.738086 : 444-small 0.71(10) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:04.408991 : 444-small 0.71(10) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:08.736237 : 444-small 0.71(10) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:10.564119 : 444-small 0.71(10) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:13.063515 : 444-small 0.71(10) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:14.907260 : 444-small 0.71(10) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:17.469135 : 444-small 0.71(10) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:17.702726 : 444-small 0.71(10) 34 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:22.359072 : 444-small 0.71(10) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:25.202035 : 444-small 0.71(10) 36 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:26.093208 : 444-small 0.71(10) 37 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:28.483829 : 444-small 0.71(10) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:33.701418 : 444-small 0.71(10) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:34.108219 : 444-small 0.71(10) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:34.592566 : 444-small 0.71(10) 41 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:39.201942 : 444-small 0.71(10) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:42.342643 : 444-small 0.71(10) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:45.545051 : 444-small 0.71(10) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:45.965956 : 444-small 0.71(10) 46 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:46.684707 : 444-small 0.71(10) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:50.575317 : 444-small 0.71(10) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:51.620788 : 444-small 0.71(10) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:52.558282 : 444-small 0.71(10) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:53.042692 : 444-small 0.71(10) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:28:57.839578 : 444-small 0.73(11) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:00.074009 : 444-small 0.73(11) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:01.136229 : 444-small 0.73(11) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:03.448715 : 444-small 0.73(11) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:03.464342 : 444-small 0.73(11) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:04.681924 : 444-small 0.73(11) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:07.946801 : 444-small 0.73(11) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:09.681812 : 444-small 0.73(11) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:15.509638 : 444-small 0.73(11) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:16.666447 : 444-small 0.73(11) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:22.964413 : 444-small 0.73(11) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:23.665601 : 444-small 0.73(11) 8 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:27.274943 : 444-small 0.73(11) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:31.053751 : 444-small 0.73(11) 0 	-> 
+2023-03-03 20:29:33.211068 : 444-small 0.73(11) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:35.915259 : 444-small 0.73(11) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:43.025239 : 444-small 0.73(11) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:47.742213 : 444-small 0.73(11) 14 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:48.490671 : 444-small 0.73(11) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:49.334418 : 444-small 0.73(11) 20 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:50.178227 : 444-small 0.73(11) 16 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:52.334456 : 444-small 0.73(11) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:53.255699 : 444-small 0.73(11) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:57.458783 : 444-small 0.73(11) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:59.224362 : 444-small 0.73(11) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:29:59.380614 : 444-small 0.73(11) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:05.299908 : 444-small 0.73(11) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:06.455947 : 444-small 0.73(11) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:08.096166 : 444-small 0.73(11) 30 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:09.017735 : 444-small 0.73(11) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:09.408353 : 444-small 0.73(11) 26 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:14.908353 : 444-small 0.73(11) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:16.361523 : 444-small 0.73(11) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:21.173890 : 444-small 0.73(11) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:28.893774 : 444-small 0.73(11) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:29.411484 : 444-small 0.73(11) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:29.849004 : 444-small 0.73(11) 36 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:32.958411 : 444-small 0.73(11) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:35.051039 : 444-small 0.73(11) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:38.331422 : 444-small 0.73(11) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:38.736622 : 444-small 0.73(11) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:43.299126 : 444-small 0.73(11) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:46.251679 : 444-small 0.73(11) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:46.968619 : 444-small 0.73(11) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:48.999886 : 444-small 0.73(11) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:52.499014 : 444-small 0.73(11) 48 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:55.545311 : 444-small 0.73(11) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:56.950375 : 444-small 0.73(11) 43 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:57.012879 : 444-small 0.73(11) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:30:59.385091 : 444-small 0.73(11) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:04.112860 : 444-small 0.75(12) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:06.900770 : 444-small 0.75(12) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:08.572390 : 444-small 0.75(12) 1 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:09.524497 : 444-small 0.75(12) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:09.680732 : 444-small 0.75(12) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:11.071329 : 444-small 0.75(12) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:14.805659 : 444-small 0.75(12) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:15.664426 : 444-small 0.75(12) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:19.148824 : 444-small 0.75(12) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:21.772838 : 444-small 0.75(12) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:22.224497 : 444-small 0.75(12) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:27.583891 : 444-small 0.75(12) 13 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:31.677488 : 444-small 0.75(12) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:36.909767 : 444-small 0.75(12) 12 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:38.252413 : 444-small 0.75(12) 0 	-> 
+2023-03-03 20:31:41.423056 : 444-small 0.75(12) 18 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:48.056720 : 444-small 0.75(12) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:50.118293 : 444-small 0.75(12) 14 	-> brute-force gdpa-random gdpa-pd
+2023-03-03 20:31:52.821287 : 444-small 0.75(12) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:55.836679 : 444-small 0.75(12) 20 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:56.493525 : 444-small 0.75(12) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:31:56.852885 : 444-small 0.75(12) 21 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:02.724086 : 444-small 0.75(12) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:05.253803 : 444-small 0.75(12) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:06.533801 : 444-small 0.75(12) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:09.738554 : 444-small 0.75(12) 16 	-> 
+2023-03-03 20:32:11.534849 : 444-small 0.75(12) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:16.409413 : 444-small 0.75(12) 26 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:16.550019 : 444-small 0.75(12) 29 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:25.426631 : 444-small 0.75(12) 32 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:25.877994 : 444-small 0.75(12) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:31.440532 : 444-small 0.75(12) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:35.064408 : 444-small 0.75(12) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:38.501559 : 444-small 0.75(12) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:39.172269 : 444-small 0.75(12) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:43.844185 : 444-small 0.75(12) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:47.046298 : 444-small 0.75(12) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:49.686757 : 444-small 0.75(12) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:49.966121 : 444-small 0.75(12) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:53.544287 : 444-small 0.75(12) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:57.167166 : 444-small 0.75(12) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:32:59.009674 : 444-small 0.75(12) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:00.759092 : 444-small 0.75(12) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:03.770950 : 444-small 0.75(12) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:05.270719 : 444-small 0.75(12) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:11.801045 : 444-small 0.75(12) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:13.253250 : 444-small 0.75(12) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:13.969850 : 444-small 0.75(12) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:14.407352 : 444-small 0.75(12) 43 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:14.954227 : 444-small 0.75(12) 49 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:20.074469 : 444-small 0.77(13) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:23.402553 : 444-small 0.77(13) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:24.087983 : 444-small 0.77(13) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:25.884927 : 444-small 0.77(13) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:27.026112 : 444-small 0.77(13) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:29.229227 : 444-small 0.77(13) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:32.808953 : 444-small 0.77(13) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:32.980865 : 444-small 0.77(13) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:35.919418 : 444-small 0.77(13) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:39.527097 : 444-small 0.77(13) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:40.683993 : 444-small 0.77(13) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:43.056967 : 444-small 0.77(13) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:47.619163 : 444-small 0.77(13) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:33:51.132579 : 444-small 0.77(13) 0 	-> 
+2023-03-03 20:33:59.023789 : 444-small 0.77(13) 12 	-> brute-force gdpa-pd
+2023-03-03 20:34:17.207734 : 444-small 0.77(13) 14 	-> 
+2023-03-03 20:34:17.456731 : 444-small 0.77(13) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:18.894205 : 444-small 0.77(13) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:22.205473 : 444-small 0.77(13) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:23.891911 : 444-small 0.77(13) 20 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:24.561857 : 444-small 0.77(13) 16 	-> 
+2023-03-03 20:34:25.921209 : 444-small 0.77(13) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:30.483755 : 444-small 0.77(13) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:34.498326 : 444-small 0.77(13) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:35.605930 : 444-small 0.77(13) 25 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:40.429104 : 444-small 0.77(13) 21 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:41.802808 : 444-small 0.77(13) 27 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:34:51.942747 : 444-small 0.77(13) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:00.381345 : 444-small 0.77(13) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:06.223283 : 444-small 0.77(13) 32 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:09.847334 : 444-small 0.77(13) 26 	-> 
+2023-03-03 20:35:10.971632 : 444-small 0.77(13) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:11.564753 : 444-small 0.77(13) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:13.377270 : 444-small 0.77(13) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:15.891248 : 444-small 0.77(13) 29 	-> 
+2023-03-03 20:35:19.014792 : 444-small 0.77(13) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:23.780146 : 444-small 0.77(13) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:24.388841 : 444-small 0.77(13) 39 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:29.982620 : 444-small 0.77(13) 40 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:32.309781 : 444-small 0.77(13) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:35.261634 : 444-small 0.77(13) 41 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:37.871583 : 444-small 0.77(13) 38 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:38.714736 : 444-small 0.77(13) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:41.730381 : 444-small 0.77(13) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:47.917754 : 444-small 0.77(13) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:51.136494 : 444-small 0.77(13) 43 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:51.697497 : 444-small 0.77(13) 47 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:35:53.463099 : 444-small 0.77(13) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:01.346197 : 444-small 0.77(13) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:01.564979 : 444-small 0.77(13) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:06.429902 : 444-small 0.79(14) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:09.664827 : 444-small 0.79(14) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:12.351697 : 444-small 0.79(14) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:12.414190 : 444-small 0.79(14) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:16.320409 : 444-small 0.79(14) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:22.773518 : 444-small 0.79(14) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:24.475418 : 444-small 0.79(14) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:25.896585 : 444-small 0.79(14) 9 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:26.176350 : 444-small 0.79(14) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:32.207582 : 444-small 0.79(14) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:35.470602 : 444-small 0.79(14) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:36.170855 : 444-small 0.79(14) 13 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:38.608419 : 444-small 0.79(14) 0 	-> 
+2023-03-03 20:36:39.685748 : 444-small 0.79(14) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:36:49.618263 : 444-small 0.79(14) 12 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:07.441509 : 444-small 0.79(14) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:09.315808 : 444-small 0.79(14) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:12.031547 : 444-small 0.79(14) 19 	-> pd hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:37:13.638350 : 444-small 0.79(14) 14 	-> 
+2023-03-03 20:37:14.510014 : 444-small 0.79(14) 20 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:16.510018 : 444-small 0.79(14) 16 	-> 
+2023-03-03 20:37:19.759648 : 444-small 0.79(14) 22 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:21.820148 : 444-small 0.79(14) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:22.068164 : 444-small 0.79(14) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:33.771326 : 444-small 0.79(14) 27 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:38.321328 : 444-small 0.79(14) 21 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:48.944530 : 444-small 0.79(14) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:37:57.600240 : 444-small 0.79(14) 25 	-> 
+2023-03-03 20:38:00.551698 : 444-small 0.79(14) 26 	-> 
+2023-03-03 20:38:01.189717 : 444-small 0.79(14) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:07.252160 : 444-small 0.79(14) 32 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:07.299029 : 444-small 0.79(14) 33 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:09.890702 : 444-small 0.79(14) 29 	-> 
+2023-03-03 20:38:10.359362 : 444-small 0.79(14) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:14.281248 : 444-small 0.79(14) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:21.373532 : 444-small 0.79(14) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:26.013971 : 444-small 0.79(14) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:27.513468 : 444-small 0.79(14) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:27.654107 : 444-small 0.79(14) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:32.574311 : 444-small 0.79(14) 40 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:38:37.510471 : 444-small 0.79(14) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:38.056095 : 444-small 0.79(14) 38 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:41.493596 : 444-small 0.79(14) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:47.352478 : 444-small 0.79(14) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:38:53.413634 : 444-small 0.79(14) 41 	-> brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:38:58.006738 : 444-small 0.79(14) 47 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:05.565864 : 444-small 0.79(14) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:11.329787 : 444-small 0.79(14) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:12.154498 : 444-small 0.79(14) 43 	-> 
+2023-03-03 20:39:15.638899 : 444-small 0.79(14) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:21.847349 : 444-small 0.82(15) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:26.080819 : 444-small 0.82(15) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:29.267640 : 444-small 0.82(15) 5 	-> pd hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:39:32.534334 : 444-small 0.82(15) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:32.766328 : 444-small 0.82(15) 1 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:37.141379 : 444-small 0.82(15) 3 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:37.203862 : 444-small 0.82(15) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:41.749227 : 444-small 0.82(15) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:45.576678 : 444-small 0.82(15) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:50.980144 : 444-small 0.82(15) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:51.415397 : 444-small 0.82(15) 0 	-> 
+2023-03-03 20:39:53.212294 : 444-small 0.82(15) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:39:58.868347 : 444-small 0.82(15) 15 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:25.035074 : 444-small 0.82(15) 12 	-> 
+2023-03-03 20:40:27.002104 : 444-small 0.82(15) 13 	-> 
+2023-03-03 20:40:33.327955 : 444-small 0.82(15) 14 	-> 
+2023-03-03 20:40:34.138917 : 444-small 0.82(15) 16 	-> 
+2023-03-03 20:40:38.076415 : 444-small 0.82(15) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:43.605865 : 444-small 0.82(15) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:44.214361 : 444-small 0.82(15) 17 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:48.714356 : 444-small 0.82(15) 20 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:55.260490 : 444-small 0.82(15) 23 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:40:55.773377 : 444-small 0.82(15) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:05.082247 : 444-small 0.82(15) 21 	-> hopa brute-force gdpa-hopa
+2023-03-03 20:41:16.344907 : 444-small 0.82(15) 27 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:17.801145 : 444-small 0.82(15) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:28.659123 : 444-small 0.82(15) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:34.937211 : 444-small 0.82(15) 25 	-> 
+2023-03-03 20:41:35.434496 : 444-small 0.82(15) 26 	-> 
+2023-03-03 20:41:42.403249 : 444-small 0.82(15) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:48.105030 : 444-small 0.82(15) 29 	-> 
+2023-03-03 20:41:56.760485 : 444-small 0.82(15) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:58.695738 : 444-small 0.82(15) 33 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:41:59.739855 : 444-small 0.82(15) 35 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:41:59.771104 : 444-small 0.82(15) 32 	-> brute-force gdpa-pd
+2023-03-03 20:42:04.427411 : 444-small 0.82(15) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:13.269948 : 444-small 0.82(15) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:15.956053 : 444-small 0.82(15) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:16.159178 : 444-small 0.82(15) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:18.781043 : 444-small 0.82(15) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:24.779199 : 444-small 0.82(15) 38 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:26.106606 : 444-small 0.82(15) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:31.482224 : 444-small 0.82(15) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:38.652582 : 444-small 0.82(15) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:51.184976 : 444-small 0.82(15) 47 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:53.950353 : 444-small 0.82(15) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:42:58.776541 : 444-small 0.82(15) 43 	-> 
+2023-03-03 20:43:02.674980 : 444-small 0.82(15) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:03.468567 : 444-small 0.82(15) 41 	-> 
+2023-03-03 20:43:06.890468 : 444-small 0.82(15) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:14.231739 : 444-small 0.84(16) 2 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:19.997581 : 444-small 0.84(16) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:23.793329 : 444-small 0.84(16) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:29.323359 : 444-small 0.84(16) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:34.728684 : 444-small 0.84(16) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:41.399408 : 444-small 0.84(16) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:44.552171 : 444-small 0.84(16) 0 	-> 
+2023-03-03 20:43:45.002741 : 444-small 0.84(16) 1 	-> 
+2023-03-03 20:43:49.159036 : 444-small 0.84(16) 3 	-> 
+2023-03-03 20:43:51.751311 : 444-small 0.84(16) 11 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:43:55.202788 : 444-small 0.84(16) 10 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:44:01.884063 : 444-small 0.84(16) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:44:24.273094 : 444-small 0.84(16) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:44:32.067432 : 444-small 0.84(16) 13 	-> 
+2023-03-03 20:44:32.223681 : 444-small 0.84(16) 12 	-> 
+2023-03-03 20:44:40.673218 : 444-small 0.84(16) 14 	-> 
+2023-03-03 20:44:44.859966 : 444-small 0.84(16) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:44:52.248432 : 444-small 0.84(16) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:44:56.167157 : 444-small 0.84(16) 16 	-> 
+2023-03-03 20:45:12.817379 : 444-small 0.84(16) 17 	-> brute-force
+2023-03-03 20:45:21.690246 : 444-small 0.84(16) 21 	-> 
+2023-03-03 20:45:24.422730 : 444-small 0.84(16) 20 	-> 
+2023-03-03 20:45:25.997805 : 444-small 0.84(16) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:45:26.154062 : 444-small 0.84(16) 24 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:45:27.557781 : 444-small 0.84(16) 23 	-> brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:45:54.247956 : 444-small 0.84(16) 28 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:02.507054 : 444-small 0.84(16) 25 	-> 
+2023-03-03 20:46:06.317522 : 444-small 0.84(16) 26 	-> 
+2023-03-03 20:46:07.315219 : 444-small 0.84(16) 27 	-> 
+2023-03-03 20:46:18.127710 : 444-small 0.84(16) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:23.639559 : 444-small 0.84(16) 29 	-> 
+2023-03-03 20:46:32.718287 : 444-small 0.84(16) 32 	-> brute-force gdpa-pd
+2023-03-03 20:46:35.125206 : 444-small 0.84(16) 31 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:39.935542 : 444-small 0.84(16) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:50.528993 : 444-small 0.84(16) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:51.009916 : 444-small 0.84(16) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:52.666192 : 444-small 0.84(16) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:53.412977 : 444-small 0.84(16) 33 	-> 
+2023-03-03 20:46:57.772326 : 444-small 0.84(16) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:46:59.630085 : 444-small 0.84(16) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:03.889859 : 444-small 0.84(16) 42 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:10.467903 : 444-small 0.84(16) 44 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:24.592357 : 444-small 0.84(16) 45 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:30.387863 : 444-small 0.84(16) 38 	-> 
+2023-03-03 20:47:35.791099 : 444-small 0.84(16) 41 	-> 
+2023-03-03 20:47:36.992980 : 444-small 0.84(16) 43 	-> 
+2023-03-03 20:47:41.430008 : 444-small 0.84(16) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:51.756153 : 444-small 0.84(16) 47 	-> brute-force gdpa-random gdpa-pd
+2023-03-03 20:47:52.425712 : 444-small 0.84(16) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:47:53.378823 : 444-small 0.84(16) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:18.928505 : 444-small 0.86(17) 2 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:48:24.959082 : 444-small 0.86(17) 4 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:26.721234 : 444-small 0.86(17) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:29.733436 : 444-small 0.86(17) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:30.776930 : 444-small 0.86(17) 1 	-> 
+2023-03-03 20:48:31.698824 : 444-small 0.86(17) 0 	-> 
+2023-03-03 20:48:35.808195 : 444-small 0.86(17) 3 	-> 
+2023-03-03 20:48:36.589575 : 444-small 0.86(17) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:40.120807 : 444-small 0.86(17) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:41.962876 : 444-small 0.86(17) 10 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:43.852243 : 444-small 0.86(17) 11 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:48:52.850165 : 444-small 0.86(17) 9 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:49:13.298925 : 444-small 0.86(17) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:49:24.764328 : 444-small 0.86(17) 13 	-> 
+2023-03-03 20:49:28.073251 : 444-small 0.86(17) 12 	-> 
+2023-03-03 20:49:33.820778 : 444-small 0.86(17) 14 	-> 
+2023-03-03 20:49:38.380065 : 444-small 0.86(17) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:49:42.080786 : 444-small 0.86(17) 16 	-> 
+2023-03-03 20:49:44.891740 : 444-small 0.86(17) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:50:08.543900 : 444-small 0.86(17) 17 	-> 
+2023-03-03 20:50:14.837646 : 444-small 0.86(17) 21 	-> 
+2023-03-03 20:50:16.131113 : 444-small 0.86(17) 22 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:50:23.379006 : 444-small 0.86(17) 24 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:50:23.953186 : 444-small 0.86(17) 20 	-> 
+2023-03-03 20:50:27.406346 : 444-small 0.86(17) 23 	-> brute-force gdpa-hopa
+2023-03-03 20:50:50.050199 : 444-small 0.86(17) 25 	-> 
+2023-03-03 20:51:02.523483 : 444-small 0.86(17) 27 	-> 
+2023-03-03 20:51:04.314898 : 444-small 0.86(17) 28 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:51:04.748896 : 444-small 0.86(17) 26 	-> 
+2023-03-03 20:51:16.020090 : 444-small 0.86(17) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:51:16.564700 : 444-small 0.86(17) 29 	-> 
+2023-03-03 20:51:35.533585 : 444-small 0.86(17) 31 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:51:44.579077 : 444-small 0.86(17) 32 	-> 
+2023-03-03 20:51:46.108742 : 444-small 0.86(17) 34 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:51:49.512868 : 444-small 0.86(17) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:51:53.276070 : 444-small 0.86(17) 33 	-> 
+2023-03-03 20:52:04.162181 : 444-small 0.86(17) 39 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:04.816088 : 444-small 0.86(17) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:10.659866 : 444-small 0.86(17) 37 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:11.611467 : 444-small 0.86(17) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:32.064697 : 444-small 0.86(17) 38 	-> 
+2023-03-03 20:52:35.203946 : 444-small 0.86(17) 42 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:41.498706 : 444-small 0.86(17) 41 	-> 
+2023-03-03 20:52:47.606371 : 444-small 0.86(17) 44 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:52:52.853490 : 444-small 0.86(17) 43 	-> 
+2023-03-03 20:53:01.630968 : 444-small 0.86(17) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:53:02.412220 : 444-small 0.86(17) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:53:10.912202 : 444-small 0.86(17) 48 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:53:17.644401 : 444-small 0.86(17) 49 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:53:25.296707 : 444-small 0.86(17) 47 	-> 
+2023-03-03 20:53:50.251566 : 444-small 0.88(18) 2 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:01.057287 : 444-small 0.88(18) 4 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:03.567846 : 444-small 0.88(18) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:09.376807 : 444-small 0.88(18) 6 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:10.344808 : 444-small 0.88(18) 0 	-> 
+2023-03-03 20:54:11.436810 : 444-small 0.88(18) 1 	-> 
+2023-03-03 20:54:15.381823 : 444-small 0.88(18) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:16.597822 : 444-small 0.88(18) 3 	-> 
+2023-03-03 20:54:17.600857 : 444-small 0.88(18) 7 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:37.521433 : 444-small 0.88(18) 11 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:54:51.458971 : 444-small 0.88(18) 9 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:55:04.959005 : 444-small 0.88(18) 10 	-> 
+2023-03-03 20:55:13.802809 : 444-small 0.88(18) 12 	-> 
+2023-03-03 20:55:14.521525 : 444-small 0.88(18) 13 	-> 
+2023-03-03 20:55:15.943422 : 444-small 0.88(18) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:55:37.153994 : 444-small 0.88(18) 14 	-> 
+2023-03-03 20:55:41.699454 : 444-small 0.88(18) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:55:44.040998 : 444-small 0.88(18) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:55:54.631496 : 444-small 0.88(18) 17 	-> 
+2023-03-03 20:55:54.972370 : 444-small 0.88(18) 16 	-> 
+2023-03-03 20:56:12.531141 : 444-small 0.88(18) 21 	-> 
+2023-03-03 20:56:25.434770 : 444-small 0.88(18) 24 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:56:31.071354 : 444-small 0.88(18) 22 	-> brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:56:45.973933 : 444-small 0.88(18) 23 	-> 
+2023-03-03 20:56:54.751463 : 444-small 0.88(18) 25 	-> 
+2023-03-03 20:57:01.025691 : 444-small 0.88(18) 20 	-> 
+2023-03-03 20:57:04.541361 : 444-small 0.88(18) 26 	-> 
+2023-03-03 20:57:14.993366 : 444-small 0.88(18) 27 	-> 
+2023-03-03 20:57:19.053031 : 444-small 0.88(18) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:57:32.394563 : 444-small 0.88(18) 29 	-> 
+2023-03-03 20:57:42.610519 : 444-small 0.88(18) 28 	-> 
+2023-03-03 20:57:54.309966 : 444-small 0.88(18) 32 	-> 
+2023-03-03 20:58:02.631081 : 444-small 0.88(18) 33 	-> 
+2023-03-03 20:58:04.534008 : 444-small 0.88(18) 31 	-> 
+2023-03-03 20:58:04.797947 : 444-small 0.88(18) 35 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:58:12.797965 : 444-small 0.88(18) 34 	-> 
+2023-03-03 20:58:26.264641 : 444-small 0.88(18) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:58:33.324903 : 444-small 0.88(18) 37 	-> hopa brute-force gdpa-pd gdpa-hopa
+2023-03-03 20:58:35.103256 : 444-small 0.88(18) 40 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:58:48.850186 : 444-small 0.88(18) 38 	-> 
+2023-03-03 20:59:00.315985 : 444-small 0.88(18) 39 	-> 
+2023-03-03 20:59:08.406853 : 444-small 0.88(18) 41 	-> 
+2023-03-03 20:59:13.125309 : 444-small 0.88(18) 42 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:59:27.031595 : 444-small 0.88(18) 43 	-> 
+2023-03-03 20:59:33.684995 : 444-small 0.88(18) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:59:39.229031 : 444-small 0.88(18) 44 	-> 
+2023-03-03 20:59:40.366953 : 444-small 0.88(18) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 20:59:59.052438 : 444-small 0.88(18) 49 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:00:04.621977 : 444-small 0.88(18) 47 	-> 
+2023-03-03 21:00:07.305568 : 444-small 0.88(18) 48 	-> 
+2023-03-03 21:00:50.153465 : 444-small 0.90(19) 2 	-> 
+2023-03-03 21:00:55.619311 : 444-small 0.90(19) 1 	-> 
+2023-03-03 21:00:56.398067 : 444-small 0.90(19) 0 	-> 
+2023-03-03 21:00:59.444946 : 444-small 0.90(19) 5 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:01:01.126745 : 444-small 0.90(19) 3 	-> 
+2023-03-03 21:01:05.579903 : 444-small 0.90(19) 4 	-> hopa brute-force gdpa-random gdpa-hopa
+2023-03-03 21:01:12.281607 : 444-small 0.90(19) 8 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:01:17.311287 : 444-small 0.90(19) 6 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:01:45.278554 : 444-small 0.90(19) 7 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:02:00.134793 : 444-small 0.90(19) 9 	-> 
+2023-03-03 21:02:07.631350 : 444-small 0.90(19) 10 	-> 
+2023-03-03 21:02:25.597065 : 444-small 0.90(19) 11 	-> 
+2023-03-03 21:02:29.280777 : 444-small 0.90(19) 12 	-> 
+2023-03-03 21:02:31.199184 : 444-small 0.90(19) 13 	-> 
+2023-03-03 21:02:44.494257 : 444-small 0.90(19) 14 	-> 
+2023-03-03 21:02:56.868558 : 444-small 0.90(19) 15 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:03:03.957076 : 444-small 0.90(19) 19 	-> pd hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:03:11.016267 : 444-small 0.90(19) 18 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:03:17.372050 : 444-small 0.90(19) 17 	-> 
+2023-03-03 21:03:17.853217 : 444-small 0.90(19) 16 	-> 
+2023-03-03 21:03:43.884427 : 444-small 0.90(19) 21 	-> 
+2023-03-03 21:04:05.672580 : 444-small 0.90(19) 22 	-> 
+2023-03-03 21:04:10.699748 : 444-small 0.90(19) 24 	-> 
+2023-03-03 21:04:11.509419 : 444-small 0.90(19) 23 	-> 
+2023-03-03 21:04:38.868834 : 444-small 0.90(19) 25 	-> 
+2023-03-03 21:04:45.272373 : 444-small 0.90(19) 27 	-> 
+2023-03-03 21:04:53.737461 : 444-small 0.90(19) 26 	-> 
+2023-03-03 21:05:05.902355 : 444-small 0.90(19) 30 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:05:19.023374 : 444-small 0.90(19) 29 	-> 
+2023-03-03 21:05:21.613619 : 444-small 0.90(19) 20 	-> 
+2023-03-03 21:05:30.017230 : 444-small 0.90(19) 28 	-> 
+2023-03-03 21:05:56.498379 : 444-small 0.90(19) 33 	-> 
+2023-03-03 21:05:57.728632 : 444-small 0.90(19) 31 	-> 
+2023-03-03 21:05:58.553333 : 444-small 0.90(19) 32 	-> 
+2023-03-03 21:06:05.377538 : 444-small 0.90(19) 34 	-> 
+2023-03-03 21:06:24.986193 : 444-small 0.90(19) 36 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:06:38.875112 : 444-small 0.90(19) 35 	-> 
+2023-03-03 21:06:48.933595 : 444-small 0.90(19) 37 	-> 
+2023-03-03 21:06:54.211119 : 444-small 0.90(19) 39 	-> 
+2023-03-03 21:06:57.207738 : 444-small 0.90(19) 38 	-> 
+2023-03-03 21:07:19.718396 : 444-small 0.90(19) 40 	-> 
+2023-03-03 21:07:29.262496 : 444-small 0.90(19) 42 	-> brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:07:29.666001 : 444-small 0.90(19) 41 	-> 
+2023-03-03 21:07:40.087915 : 444-small 0.90(19) 43 	-> 
+2023-03-03 21:07:51.147384 : 444-small 0.90(19) 46 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:07:54.442499 : 444-small 0.90(19) 44 	-> 
+2023-03-03 21:08:14.734803 : 444-small 0.90(19) 45 	-> hopa brute-force gdpa-random gdpa-pd gdpa-hopa
+2023-03-03 21:08:21.180612 : 444-small 0.90(19) 47 	-> 
+2023-03-03 21:08:30.579925 : 444-small 0.90(19) 48 	-> 
+2023-03-03 21:08:33.607302 : 444-small 0.90(19) 49 	-> 

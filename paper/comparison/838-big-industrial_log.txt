@@ -1,0 +1,1000 @@
+2023-01-20 09:41:33.787192 : 838-big-industrial 0.30(0) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:33.990192 : 838-big-industrial 0.30(0) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:34.941191 : 838-big-industrial 0.30(0) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:35.535191 : 838-big-industrial 0.30(0) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:37.224338 : 838-big-industrial 0.30(0) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:37.823341 : 838-big-industrial 0.30(0) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:38.483341 : 838-big-industrial 0.30(0) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:39.800350 : 838-big-industrial 0.30(0) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:40.979881 : 838-big-industrial 0.30(0) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:41.367007 : 838-big-industrial 0.30(0) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:42.526704 : 838-big-industrial 0.30(0) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:43.654933 : 838-big-industrial 0.30(0) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:44.205220 : 838-big-industrial 0.30(0) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:44.205220 : 838-big-industrial 0.30(0) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:45.497759 : 838-big-industrial 0.30(0) 14 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:47.341032 : 838-big-industrial 0.30(0) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:47.356619 : 838-big-industrial 0.30(0) 17 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:47.591019 : 838-big-industrial 0.30(0) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:49.127452 : 838-big-industrial 0.30(0) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:50.508285 : 838-big-industrial 0.30(0) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:51.126492 : 838-big-industrial 0.30(0) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:51.345249 : 838-big-industrial 0.30(0) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:53.886373 : 838-big-industrial 0.30(0) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:53.933237 : 838-big-industrial 0.30(0) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:54.089509 : 838-big-industrial 0.30(0) 25 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:54.433225 : 838-big-industrial 0.30(0) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:57.205239 : 838-big-industrial 0.30(0) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:57.220832 : 838-big-industrial 0.30(0) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:57.252099 : 838-big-industrial 0.30(0) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:41:57.517721 : 838-big-industrial 0.30(0) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:00.139454 : 838-big-industrial 0.30(0) 32 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:00.358230 : 838-big-industrial 0.30(0) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:00.625840 : 838-big-industrial 0.30(0) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:00.953989 : 838-big-industrial 0.30(0) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:04.073823 : 838-big-industrial 0.30(0) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:04.098820 : 838-big-industrial 0.30(0) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:04.458820 : 838-big-industrial 0.30(0) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:05.903853 : 838-big-industrial 0.30(0) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:07.982824 : 838-big-industrial 0.30(0) 40 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:08.272830 : 838-big-industrial 0.30(0) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:08.623830 : 838-big-industrial 0.30(0) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:09.812827 : 838-big-industrial 0.30(0) 41 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:11.011825 : 838-big-industrial 0.30(0) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:11.294827 : 838-big-industrial 0.30(0) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:12.258828 : 838-big-industrial 0.30(0) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:13.175836 : 838-big-industrial 0.30(0) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:14.119830 : 838-big-industrial 0.30(0) 46 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:14.311828 : 838-big-industrial 0.30(0) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:15.487843 : 838-big-industrial 0.30(0) 49 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:15.644832 : 838-big-industrial 0.30(0) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:20.809515 : 838-big-industrial 0.32(1) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:21.630737 : 838-big-industrial 0.32(1) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:21.867177 : 838-big-industrial 0.32(1) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:22.774842 : 838-big-industrial 0.32(1) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:24.577183 : 838-big-industrial 0.32(1) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:25.646992 : 838-big-industrial 0.32(1) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:26.826752 : 838-big-industrial 0.32(1) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:26.873577 : 838-big-industrial 0.32(1) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:29.109904 : 838-big-industrial 0.32(1) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:29.329860 : 838-big-industrial 0.32(1) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:30.330992 : 838-big-industrial 0.32(1) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:30.612657 : 838-big-industrial 0.32(1) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:31.609663 : 838-big-industrial 0.32(1) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:32.124690 : 838-big-industrial 0.32(1) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:33.030963 : 838-big-industrial 0.32(1) 14 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:33.610606 : 838-big-industrial 0.32(1) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:34.619419 : 838-big-industrial 0.32(1) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:35.775939 : 838-big-industrial 0.32(1) 17 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:36.142091 : 838-big-industrial 0.32(1) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:36.977141 : 838-big-industrial 0.32(1) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:37.711231 : 838-big-industrial 0.32(1) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:39.164326 : 838-big-industrial 0.32(1) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:40.197688 : 838-big-industrial 0.32(1) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:40.865751 : 838-big-industrial 0.32(1) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:40.923861 : 838-big-industrial 0.32(1) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:42.087278 : 838-big-industrial 0.32(1) 25 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:43.743871 : 838-big-industrial 0.32(1) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:44.558235 : 838-big-industrial 0.32(1) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:45.299082 : 838-big-industrial 0.32(1) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:45.662153 : 838-big-industrial 0.32(1) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:47.585478 : 838-big-industrial 0.32(1) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:47.646481 : 838-big-industrial 0.32(1) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:48.252999 : 838-big-industrial 0.32(1) 32 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:48.879672 : 838-big-industrial 0.32(1) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:51.237451 : 838-big-industrial 0.32(1) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:51.815614 : 838-big-industrial 0.32(1) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:51.863339 : 838-big-industrial 0.32(1) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:53.096974 : 838-big-industrial 0.32(1) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:54.767790 : 838-big-industrial 0.32(1) 40 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:55.205301 : 838-big-industrial 0.32(1) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:55.530237 : 838-big-industrial 0.32(1) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:57.096218 : 838-big-industrial 0.32(1) 41 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:58.111846 : 838-big-industrial 0.32(1) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:58.361883 : 838-big-industrial 0.32(1) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:42:58.752496 : 838-big-industrial 0.32(1) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:00.174348 : 838-big-industrial 0.32(1) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:00.893096 : 838-big-industrial 0.32(1) 46 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:01.111855 : 838-big-industrial 0.32(1) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:01.976328 : 838-big-industrial 0.32(1) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:02.333260 : 838-big-industrial 0.32(1) 49 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:06.966180 : 838-big-industrial 0.34(2) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:07.313613 : 838-big-industrial 0.34(2) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:07.648734 : 838-big-industrial 0.34(2) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:08.132054 : 838-big-industrial 0.34(2) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:09.455989 : 838-big-industrial 0.34(2) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:10.939584 : 838-big-industrial 0.34(2) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:12.207194 : 838-big-industrial 0.34(2) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:12.793087 : 838-big-industrial 0.34(2) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:13.500701 : 838-big-industrial 0.34(2) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:14.446146 : 838-big-industrial 0.34(2) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:16.043895 : 838-big-industrial 0.34(2) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:16.274913 : 838-big-industrial 0.34(2) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:17.103847 : 838-big-industrial 0.34(2) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:17.774128 : 838-big-industrial 0.34(2) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:18.692070 : 838-big-industrial 0.34(2) 14 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:19.568830 : 838-big-industrial 0.34(2) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:20.306432 : 838-big-industrial 0.34(2) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:21.801604 : 838-big-industrial 0.34(2) 17 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:22.710792 : 838-big-industrial 0.34(2) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:22.756788 : 838-big-industrial 0.34(2) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:23.704239 : 838-big-industrial 0.34(2) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:25.510115 : 838-big-industrial 0.34(2) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:25.874741 : 838-big-industrial 0.34(2) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:26.406015 : 838-big-industrial 0.34(2) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:26.796605 : 838-big-industrial 0.34(2) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:29.059347 : 838-big-industrial 0.34(2) 25 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:29.161346 : 838-big-industrial 0.34(2) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:29.745778 : 838-big-industrial 0.34(2) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:31.173220 : 838-big-industrial 0.34(2) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:31.937547 : 838-big-industrial 0.34(2) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:32.687770 : 838-big-industrial 0.34(2) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:33.080569 : 838-big-industrial 0.34(2) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:35.508075 : 838-big-industrial 0.34(2) 32 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:35.884920 : 838-big-industrial 0.34(2) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:36.525559 : 838-big-industrial 0.34(2) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:36.822405 : 838-big-industrial 0.34(2) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:38.573429 : 838-big-industrial 0.34(2) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:38.896596 : 838-big-industrial 0.34(2) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:40.052337 : 838-big-industrial 0.34(2) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:40.967274 : 838-big-industrial 0.34(2) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:41.802286 : 838-big-industrial 0.34(2) 40 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:43.546795 : 838-big-industrial 0.34(2) 41 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:43.914309 : 838-big-industrial 0.34(2) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:44.179877 : 838-big-industrial 0.34(2) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:44.445493 : 838-big-industrial 0.34(2) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:47.164266 : 838-big-industrial 0.34(2) 46 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:47.211147 : 838-big-industrial 0.34(2) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:47.954260 : 838-big-industrial 0.34(2) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:48.825748 : 838-big-industrial 0.34(2) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:49.035694 : 838-big-industrial 0.34(2) 49 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:53.917164 : 838-big-industrial 0.36(3) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:54.517734 : 838-big-industrial 0.36(3) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:55.550813 : 838-big-industrial 0.36(3) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:56.132779 : 838-big-industrial 0.36(3) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:56.545410 : 838-big-industrial 0.36(3) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:59.534532 : 838-big-industrial 0.36(3) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:43:59.702531 : 838-big-industrial 0.36(3) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:00.811539 : 838-big-industrial 0.36(3) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:01.453538 : 838-big-industrial 0.36(3) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:03.030535 : 838-big-industrial 0.36(3) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:05.024739 : 838-big-industrial 0.36(3) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:05.327860 : 838-big-industrial 0.36(3) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:05.609598 : 838-big-industrial 0.36(3) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:06.533626 : 838-big-industrial 0.36(3) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:07.907627 : 838-big-industrial 0.36(3) 14 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:09.226109 : 838-big-industrial 0.36(3) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:10.039915 : 838-big-industrial 0.36(3) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:12.222400 : 838-big-industrial 0.36(3) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:12.683402 : 838-big-industrial 0.36(3) 17 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:13.448403 : 838-big-industrial 0.36(3) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:14.057406 : 838-big-industrial 0.36(3) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:16.046701 : 838-big-industrial 0.36(3) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:16.360694 : 838-big-industrial 0.36(3) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:16.726696 : 838-big-industrial 0.36(3) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:17.300698 : 838-big-industrial 0.36(3) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:18.974696 : 838-big-industrial 0.36(3) 25 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:19.301700 : 838-big-industrial 0.36(3) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:20.630697 : 838-big-industrial 0.36(3) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:21.560702 : 838-big-industrial 0.36(3) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:21.863704 : 838-big-industrial 0.36(3) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:22.548704 : 838-big-industrial 0.36(3) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:24.010701 : 838-big-industrial 0.36(3) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:25.818705 : 838-big-industrial 0.36(3) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:25.851703 : 838-big-industrial 0.36(3) 32 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:26.092705 : 838-big-industrial 0.36(3) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:28.220707 : 838-big-industrial 0.36(3) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:29.132708 : 838-big-industrial 0.36(3) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:29.426712 : 838-big-industrial 0.36(3) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:29.746714 : 838-big-industrial 0.36(3) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:32.451712 : 838-big-industrial 0.36(3) 40 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:32.553711 : 838-big-industrial 0.36(3) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:33.822712 : 838-big-industrial 0.36(3) 41 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:34.104713 : 838-big-industrial 0.36(3) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:35.306719 : 838-big-industrial 0.36(3) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:35.498714 : 838-big-industrial 0.36(3) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:36.815716 : 838-big-industrial 0.36(3) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:37.415721 : 838-big-industrial 0.36(3) 46 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:39.095295 : 838-big-industrial 0.36(3) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:39.317295 : 838-big-industrial 0.36(3) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:39.477326 : 838-big-industrial 0.36(3) 49 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:44.065660 : 838-big-industrial 0.38(4) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:44.858640 : 838-big-industrial 0.38(4) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:45.731644 : 838-big-industrial 0.38(4) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:45.986641 : 838-big-industrial 0.38(4) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:47.448647 : 838-big-industrial 0.38(4) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:49.053643 : 838-big-industrial 0.38(4) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:50.340645 : 838-big-industrial 0.38(4) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:50.485644 : 838-big-industrial 0.38(4) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:50.531647 : 838-big-industrial 0.38(4) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:52.001646 : 838-big-industrial 0.38(4) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:53.801653 : 838-big-industrial 0.38(4) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:54.220649 : 838-big-industrial 0.38(4) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:54.530651 : 838-big-industrial 0.38(4) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:55.641651 : 838-big-industrial 0.38(4) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:56.387652 : 838-big-industrial 0.38(4) 14 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:57.469656 : 838-big-industrial 0.38(4) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:58.106659 : 838-big-industrial 0.38(4) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:59.427660 : 838-big-industrial 0.38(4) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:44:59.540661 : 838-big-industrial 0.38(4) 17 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:00.751786 : 838-big-industrial 0.38(4) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:01.397389 : 838-big-industrial 0.38(4) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:03.140578 : 838-big-industrial 0.38(4) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:03.343576 : 838-big-industrial 0.38(4) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:04.038577 : 838-big-industrial 0.38(4) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:04.672579 : 838-big-industrial 0.38(4) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:06.329581 : 838-big-industrial 0.38(4) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:06.409581 : 838-big-industrial 0.38(4) 25 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:07.978582 : 838-big-industrial 0.38(4) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:07.984585 : 838-big-industrial 0.38(4) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:09.248584 : 838-big-industrial 0.38(4) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:09.309586 : 838-big-industrial 0.38(4) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:11.168586 : 838-big-industrial 0.38(4) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:12.262588 : 838-big-industrial 0.38(4) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:12.585588 : 838-big-industrial 0.38(4) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:12.694587 : 838-big-industrial 0.38(4) 32 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:14.792594 : 838-big-industrial 0.38(4) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:15.912477 : 838-big-industrial 0.38(4) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:15.917476 : 838-big-industrial 0.38(4) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:17.209176 : 838-big-industrial 0.38(4) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:17.837184 : 838-big-industrial 0.38(4) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:19.166365 : 838-big-industrial 0.38(4) 40 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:45:20.834353 : 838-big-industrial 0.38(4) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:21.141430 : 838-big-industrial 0.38(4) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:23.425286 : 838-big-industrial 0.38(4) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:23.809995 : 838-big-industrial 0.38(4) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:24.065993 : 838-big-industrial 0.38(4) 46 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:27.028170 : 838-big-industrial 0.38(4) 49 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:27.461165 : 838-big-industrial 0.38(4) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:27.678167 : 838-big-industrial 0.38(4) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:28.406201 : 838-big-industrial 0.38(4) 41 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:45:32.614851 : 838-big-industrial 0.41(5) 0 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:33.659336 : 838-big-industrial 0.41(5) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:34.844338 : 838-big-industrial 0.41(5) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:34.845337 : 838-big-industrial 0.41(5) 3 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:35.226341 : 838-big-industrial 0.41(5) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:37.831427 : 838-big-industrial 0.41(5) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:38.263423 : 838-big-industrial 0.41(5) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:38.414422 : 838-big-industrial 0.41(5) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:39.339424 : 838-big-industrial 0.41(5) 6 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:40.819425 : 838-big-industrial 0.41(5) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:41.417432 : 838-big-industrial 0.41(5) 11 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:42.458431 : 838-big-industrial 0.41(5) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:42.987438 : 838-big-industrial 0.41(5) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:44.706195 : 838-big-industrial 0.41(5) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:45.934198 : 838-big-industrial 0.41(5) 16 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:45.976200 : 838-big-industrial 0.41(5) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:48.600479 : 838-big-industrial 0.41(5) 17 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:45:48.868481 : 838-big-industrial 0.41(5) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:48.909480 : 838-big-industrial 0.41(5) 14 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:45:49.238485 : 838-big-industrial 0.41(5) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:51.853537 : 838-big-industrial 0.41(5) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:52.625538 : 838-big-industrial 0.41(5) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:52.633536 : 838-big-industrial 0.41(5) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:52.725540 : 838-big-industrial 0.41(5) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:55.115543 : 838-big-industrial 0.41(5) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:55.630543 : 838-big-industrial 0.41(5) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:56.322541 : 838-big-industrial 0.41(5) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:58.330547 : 838-big-industrial 0.41(5) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:58.369545 : 838-big-industrial 0.41(5) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:45:59.274543 : 838-big-industrial 0.41(5) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:01.380545 : 838-big-industrial 0.41(5) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:01.981550 : 838-big-industrial 0.41(5) 32 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:46:03.457407 : 838-big-industrial 0.41(5) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:03.959255 : 838-big-industrial 0.41(5) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:05.927261 : 838-big-industrial 0.41(5) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:07.600259 : 838-big-industrial 0.41(5) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:07.686256 : 838-big-industrial 0.41(5) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:08.954258 : 838-big-industrial 0.41(5) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:10.711300 : 838-big-industrial 0.41(5) 40 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:46:11.791596 : 838-big-industrial 0.41(5) 39 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:13.952401 : 838-big-industrial 0.41(5) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:14.788332 : 838-big-industrial 0.41(5) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:17.541119 : 838-big-industrial 0.41(5) 45 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:17.613117 : 838-big-industrial 0.41(5) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:21.537149 : 838-big-industrial 0.41(5) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:25.594156 : 838-big-industrial 0.41(5) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:46:31.923114 : 838-big-industrial 0.41(5) 25 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:46:50.217312 : 838-big-industrial 0.41(5) 49 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:02.404367 : 838-big-industrial 0.41(5) 46 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:05.124373 : 838-big-industrial 0.41(5) 41 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:10.994930 : 838-big-industrial 0.43(6) 3 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:11.547606 : 838-big-industrial 0.43(6) 1 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:11.630919 : 838-big-industrial 0.43(6) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:13.661535 : 838-big-industrial 0.43(6) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:15.052885 : 838-big-industrial 0.43(6) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:15.380997 : 838-big-industrial 0.43(6) 6 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:17.376632 : 838-big-industrial 0.43(6) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:17.870174 : 838-big-industrial 0.43(6) 8 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:17.955565 : 838-big-industrial 0.43(6) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:20.876734 : 838-big-industrial 0.43(6) 10 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:22.306644 : 838-big-industrial 0.43(6) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:24.594341 : 838-big-industrial 0.43(6) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:27.655438 : 838-big-industrial 0.43(6) 15 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:29.292338 : 838-big-industrial 0.43(6) 14 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:48.380646 : 838-big-industrial 0.43(6) 16 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:49.761188 : 838-big-industrial 0.43(6) 11 	-> brute-force gdpa-hopa
+2023-01-20 09:48:51.297445 : 838-big-industrial 0.43(6) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:52.597937 : 838-big-industrial 0.43(6) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:54.464094 : 838-big-industrial 0.43(6) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:54.972470 : 838-big-industrial 0.43(6) 17 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:48:55.853652 : 838-big-industrial 0.43(6) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:58.237138 : 838-big-industrial 0.43(6) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:48:58.403764 : 838-big-industrial 0.43(6) 23 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:00.578572 : 838-big-industrial 0.43(6) 24 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:01.916505 : 838-big-industrial 0.43(6) 26 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:03.631647 : 838-big-industrial 0.43(6) 27 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:04.787895 : 838-big-industrial 0.43(6) 28 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:06.280771 : 838-big-industrial 0.43(6) 29 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:08.041340 : 838-big-industrial 0.43(6) 30 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:09.449487 : 838-big-industrial 0.43(6) 31 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:14.776494 : 838-big-industrial 0.43(6) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:18.664259 : 838-big-industrial 0.43(6) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:22.696200 : 838-big-industrial 0.43(6) 35 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:25.657073 : 838-big-industrial 0.43(6) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:29.028120 : 838-big-industrial 0.43(6) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:31.838982 : 838-big-industrial 0.43(6) 38 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:49:46.215335 : 838-big-industrial 0.43(6) 25 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:50:21.932805 : 838-big-industrial 0.43(6) 0 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:55:11.525243 : 838-big-industrial 0.43(6) 32 	-> 
+2023-01-20 09:55:15.134212 : 838-big-industrial 0.43(6) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:55:18.447596 : 838-big-industrial 0.43(6) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:55:19.841020 : 838-big-industrial 0.43(6) 39 	-> brute-force
+2023-01-20 09:55:21.900408 : 838-big-industrial 0.43(6) 44 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:55:49.310324 : 838-big-industrial 0.43(6) 40 	-> 
+2023-01-20 09:55:53.281182 : 838-big-industrial 0.43(6) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:55:53.295966 : 838-big-industrial 0.43(6) 45 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:55:56.986242 : 838-big-industrial 0.43(6) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:56:20.535980 : 838-big-industrial 0.43(6) 41 	-> 
+2023-01-20 09:56:21.008047 : 838-big-industrial 0.43(6) 49 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:57:06.186744 : 838-big-industrial 0.43(6) 46 	-> brute-force gdpa-hopa
+2023-01-20 09:57:12.040553 : 838-big-industrial 0.45(7) 2 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:57:15.607816 : 838-big-industrial 0.45(7) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:57:19.554689 : 838-big-industrial 0.45(7) 5 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:59:29.661055 : 838-big-industrial 0.45(7) 0 	-> hopa brute-force gdpa-hopa
+2023-01-20 09:59:33.228811 : 838-big-industrial 0.45(7) 7 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 09:59:43.460301 : 838-big-industrial 0.45(7) 6 	-> brute-force
+2023-01-20 09:59:46.485696 : 838-big-industrial 0.45(7) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:00:22.512499 : 838-big-industrial 0.45(7) 8 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:00:55.504246 : 838-big-industrial 0.45(7) 10 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:00:58.471998 : 838-big-industrial 0.45(7) 3 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:00:59.831361 : 838-big-industrial 0.45(7) 12 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:01:01.363359 : 838-big-industrial 0.45(7) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:01:06.877835 : 838-big-industrial 0.45(7) 14 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:01:31.063409 : 838-big-industrial 0.45(7) 16 	-> brute-force gdpa-hopa
+2023-01-20 10:03:54.950962 : 838-big-industrial 0.45(7) 17 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:03:57.850963 : 838-big-industrial 0.45(7) 18 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:04:00.721669 : 838-big-industrial 0.45(7) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:04:04.346941 : 838-big-industrial 0.45(7) 20 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:04:08.006566 : 838-big-industrial 0.45(7) 21 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:04:11.879699 : 838-big-industrial 0.45(7) 22 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:04:29.801961 : 838-big-industrial 0.45(7) 23 	-> brute-force gdpa-hopa
+2023-01-20 10:04:30.394964 : 838-big-industrial 0.45(7) 1 	-> 
+2023-01-20 10:04:32.836742 : 838-big-industrial 0.45(7) 24 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:05:11.993272 : 838-big-industrial 0.45(7) 25 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:05:31.218410 : 838-big-industrial 0.45(7) 27 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:05:55.771279 : 838-big-industrial 0.45(7) 28 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:05:57.490278 : 838-big-industrial 0.45(7) 11 	-> 
+2023-01-20 10:06:17.515458 : 838-big-industrial 0.45(7) 30 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:06:43.213235 : 838-big-industrial 0.45(7) 15 	-> 
+2023-01-20 10:07:04.134882 : 838-big-industrial 0.45(7) 26 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:07:07.229872 : 838-big-industrial 0.45(7) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:07:10.279872 : 838-big-industrial 0.45(7) 34 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:07:18.979880 : 838-big-industrial 0.45(7) 35 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:07:22.334402 : 838-big-industrial 0.45(7) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:07:25.861953 : 838-big-industrial 0.45(7) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:08:06.947211 : 838-big-industrial 0.45(7) 31 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:09:54.006861 : 838-big-industrial 0.45(7) 29 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:11:50.128844 : 838-big-industrial 0.45(7) 32 	-> 
+2023-01-20 10:12:56.590154 : 838-big-industrial 0.45(7) 38 	-> 
+2023-01-20 10:12:59.761155 : 838-big-industrial 0.45(7) 42 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:13:02.363158 : 838-big-industrial 0.45(7) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:13:24.258553 : 838-big-industrial 0.45(7) 44 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:14:29.392962 : 838-big-industrial 0.45(7) 39 	-> 
+2023-01-20 10:15:08.123535 : 838-big-industrial 0.45(7) 40 	-> 
+2023-01-20 10:15:11.534537 : 838-big-industrial 0.45(7) 47 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:15:15.161003 : 838-big-industrial 0.45(7) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:16:04.390909 : 838-big-industrial 0.45(7) 45 	-> brute-force
+2023-01-20 10:16:35.432935 : 838-big-industrial 0.45(7) 41 	-> 
+2023-01-20 10:17:07.016152 : 838-big-industrial 0.45(7) 49 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:18:02.582865 : 838-big-industrial 0.45(7) 46 	-> 
+2023-01-20 10:20:51.783089 : 838-big-industrial 0.47(8) 2 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:20:55.217232 : 838-big-industrial 0.47(8) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:21:56.828310 : 838-big-industrial 0.47(8) 5 	-> brute-force gdpa-hopa
+2023-01-20 10:23:05.089861 : 838-big-industrial 0.47(8) 0 	-> 
+2023-01-20 10:23:44.563036 : 838-big-industrial 0.47(8) 3 	-> 
+2023-01-20 10:23:55.023324 : 838-big-industrial 0.47(8) 1 	-> 
+2023-01-20 10:23:57.907325 : 838-big-industrial 0.47(8) 9 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:24:59.973145 : 838-big-industrial 0.47(8) 10 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:26:53.983390 : 838-big-industrial 0.47(8) 6 	-> 
+2023-01-20 10:26:59.389515 : 838-big-industrial 0.47(8) 7 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:27:02.133412 : 838-big-industrial 0.47(8) 13 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:27:09.096242 : 838-big-industrial 0.47(8) 14 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:28:59.659262 : 838-big-industrial 0.47(8) 8 	-> 
+2023-01-20 10:30:09.968216 : 838-big-industrial 0.47(8) 11 	-> 
+2023-01-20 10:31:58.188148 : 838-big-industrial 0.47(8) 12 	-> 
+2023-01-20 10:32:57.213676 : 838-big-industrial 0.47(8) 15 	-> 
+2023-01-20 10:33:00.089614 : 838-big-industrial 0.47(8) 19 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:34:40.172110 : 838-big-industrial 0.47(8) 16 	-> 
+2023-01-20 10:35:51.470075 : 838-big-industrial 0.47(8) 17 	-> 
+2023-01-20 10:35:55.157581 : 838-big-industrial 0.47(8) 22 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:36:01.513037 : 838-big-industrial 0.47(8) 18 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:36:13.402357 : 838-big-industrial 0.47(8) 23 	-> brute-force gdpa-hopa
+2023-01-20 10:36:24.710779 : 838-big-industrial 0.47(8) 24 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:38:30.434452 : 838-big-industrial 0.47(8) 20 	-> 
+2023-01-20 10:39:04.506555 : 838-big-industrial 0.47(8) 21 	-> brute-force
+2023-01-20 10:39:17.046023 : 838-big-industrial 0.47(8) 26 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:39:31.409187 : 838-big-industrial 0.47(8) 28 	-> brute-force gdpa-hopa
+2023-01-20 10:39:55.557224 : 838-big-industrial 0.47(8) 30 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:41:50.553366 : 838-big-industrial 0.47(8) 25 	-> 
+2023-01-20 10:42:13.024524 : 838-big-industrial 0.47(8) 31 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:42:15.806800 : 838-big-industrial 0.47(8) 33 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:43:02.084931 : 838-big-industrial 0.47(8) 27 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:43:11.024112 : 838-big-industrial 0.47(8) 35 	-> brute-force gdpa-hopa
+2023-01-20 10:43:14.024126 : 838-big-industrial 0.47(8) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:43:17.686632 : 838-big-industrial 0.47(8) 37 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:43:47.905523 : 838-big-industrial 0.47(8) 29 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:44:37.133357 : 838-big-industrial 0.47(8) 34 	-> brute-force gdpa-hopa
+2023-01-20 10:46:31.940556 : 838-big-industrial 0.47(8) 32 	-> 
+2023-01-20 10:48:02.953703 : 838-big-industrial 0.47(8) 39 	-> 
+2023-01-20 10:48:10.146714 : 838-big-industrial 0.47(8) 42 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:48:12.803083 : 838-big-industrial 0.47(8) 43 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:48:35.750694 : 838-big-industrial 0.47(8) 38 	-> 
+2023-01-20 10:49:33.276580 : 838-big-industrial 0.47(8) 40 	-> 
+2023-01-20 10:50:12.563705 : 838-big-industrial 0.47(8) 44 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:50:59.297555 : 838-big-industrial 0.47(8) 41 	-> 
+2023-01-20 10:51:02.570062 : 838-big-industrial 0.47(8) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:52:54.632463 : 838-big-industrial 0.47(8) 47 	-> hopa brute-force gdpa-hopa
+2023-01-20 10:53:18.615309 : 838-big-industrial 0.47(8) 45 	-> 
+2023-01-20 10:54:01.687346 : 838-big-industrial 0.47(8) 46 	-> 
+2023-01-20 10:54:41.617905 : 838-big-industrial 0.47(8) 49 	-> 
+2023-01-20 10:59:19.837775 : 838-big-industrial 0.49(9) 0 	-> 
+2023-01-20 10:59:22.873008 : 838-big-industrial 0.49(9) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 10:59:28.245329 : 838-big-industrial 0.49(9) 3 	-> 
+2023-01-20 11:00:04.468551 : 838-big-industrial 0.49(9) 2 	-> 
+2023-01-20 11:00:04.734166 : 838-big-industrial 0.49(9) 1 	-> 
+2023-01-20 11:02:05.635048 : 838-big-industrial 0.49(9) 5 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:04:18.151044 : 838-big-industrial 0.49(9) 6 	-> 
+2023-01-20 11:04:50.598108 : 838-big-industrial 0.49(9) 8 	-> 
+2023-01-20 11:05:23.603682 : 838-big-industrial 0.49(9) 7 	-> 
+2023-01-20 11:07:35.168923 : 838-big-industrial 0.49(9) 9 	-> 
+2023-01-20 11:08:41.438631 : 838-big-industrial 0.49(9) 13 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:09:27.772065 : 838-big-industrial 0.49(9) 10 	-> 
+2023-01-20 11:09:39.172614 : 838-big-industrial 0.49(9) 11 	-> 
+2023-01-20 11:10:06.474315 : 838-big-industrial 0.49(9) 12 	-> 
+2023-01-20 11:13:32.537598 : 838-big-industrial 0.49(9) 14 	-> 
+2023-01-20 11:14:47.800212 : 838-big-industrial 0.49(9) 15 	-> 
+2023-01-20 11:14:58.828337 : 838-big-industrial 0.49(9) 16 	-> 
+2023-01-20 11:15:25.862898 : 838-big-industrial 0.49(9) 17 	-> 
+2023-01-20 11:18:57.451712 : 838-big-industrial 0.49(9) 18 	-> 
+2023-01-20 11:19:35.275590 : 838-big-industrial 0.49(9) 20 	-> 
+2023-01-20 11:19:54.915715 : 838-big-industrial 0.49(9) 23 	-> brute-force gdpa-hopa
+2023-01-20 11:19:55.290722 : 838-big-industrial 0.49(9) 22 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:20:21.425610 : 838-big-industrial 0.49(9) 21 	-> 
+2023-01-20 11:20:21.597518 : 838-big-industrial 0.49(9) 19 	-> 
+2023-01-20 11:23:05.888774 : 838-big-industrial 0.49(9) 24 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:25:06.018975 : 838-big-industrial 0.49(9) 27 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:25:36.206348 : 838-big-industrial 0.49(9) 25 	-> 
+2023-01-20 11:25:54.561861 : 838-big-industrial 0.49(9) 28 	-> brute-force gdpa-hopa
+2023-01-20 11:26:01.561185 : 838-big-industrial 0.49(9) 30 	-> brute-force gdpa-hopa
+2023-01-20 11:26:08.010873 : 838-big-industrial 0.49(9) 26 	-> 
+2023-01-20 11:27:47.971993 : 838-big-industrial 0.49(9) 31 	-> brute-force gdpa-hopa
+2023-01-20 11:28:57.636733 : 838-big-industrial 0.49(9) 33 	-> brute-force gdpa-hopa
+2023-01-20 11:30:40.679370 : 838-big-industrial 0.49(9) 29 	-> 
+2023-01-20 11:30:45.595828 : 838-big-industrial 0.49(9) 36 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 11:30:50.055347 : 838-big-industrial 0.49(9) 37 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:30:56.217892 : 838-big-industrial 0.49(9) 32 	-> 
+2023-01-20 11:34:33.320081 : 838-big-industrial 0.49(9) 35 	-> 
+2023-01-20 11:35:01.553444 : 838-big-industrial 0.49(9) 34 	-> 
+2023-01-20 11:35:24.683729 : 838-big-industrial 0.49(9) 39 	-> 
+2023-01-20 11:36:22.844216 : 838-big-industrial 0.49(9) 38 	-> 
+2023-01-20 11:39:17.369238 : 838-big-industrial 0.49(9) 40 	-> 
+2023-01-20 11:39:23.545505 : 838-big-industrial 0.49(9) 43 	-> hopa brute-force gdpa-hopa
+2023-01-20 11:39:45.308765 : 838-big-industrial 0.49(9) 41 	-> 
+2023-01-20 11:40:59.747133 : 838-big-industrial 0.49(9) 42 	-> 
+2023-01-20 11:41:41.748642 : 838-big-industrial 0.49(9) 44 	-> brute-force gdpa-hopa
+2023-01-20 11:41:45.378499 : 838-big-industrial 0.49(9) 48 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 11:44:18.361375 : 838-big-industrial 0.49(9) 45 	-> 
+2023-01-20 11:44:26.523062 : 838-big-industrial 0.49(9) 46 	-> 
+2023-01-20 11:45:19.389149 : 838-big-industrial 0.49(9) 47 	-> 
+2023-01-20 11:45:37.177983 : 838-big-industrial 0.49(9) 49 	-> 
+2023-01-20 11:50:22.263894 : 838-big-industrial 0.51(10) 2 	-> 
+2023-01-20 11:50:23.514226 : 838-big-industrial 0.51(10) 3 	-> 
+2023-01-20 11:50:23.525225 : 838-big-industrial 0.51(10) 0 	-> 
+2023-01-20 11:50:24.018645 : 838-big-industrial 0.51(10) 4 	-> pd hopa brute-force gdpa-hopa
+2023-01-20 11:51:11.542992 : 838-big-industrial 0.51(10) 1 	-> 
+2023-01-20 11:55:07.399836 : 838-big-industrial 0.51(10) 6 	-> 
+2023-01-20 11:55:10.374860 : 838-big-industrial 0.51(10) 7 	-> 
+2023-01-20 11:55:47.175142 : 838-big-industrial 0.51(10) 5 	-> 
+2023-01-20 11:55:49.721154 : 838-big-industrial 0.51(10) 8 	-> 
+2023-01-20 11:59:34.477816 : 838-big-industrial 0.51(10) 10 	-> 
+2023-01-20 12:00:12.544095 : 838-big-industrial 0.51(10) 11 	-> 
+2023-01-20 12:00:15.983121 : 838-big-industrial 0.51(10) 12 	-> 
+2023-01-20 12:00:17.418132 : 838-big-industrial 0.51(10) 9 	-> 
+2023-01-20 12:04:05.191761 : 838-big-industrial 0.51(10) 13 	-> 
+2023-01-20 12:04:46.199049 : 838-big-industrial 0.51(10) 14 	-> 
+2023-01-20 12:05:10.657219 : 838-big-industrial 0.51(10) 16 	-> 
+2023-01-20 12:05:28.147341 : 838-big-industrial 0.51(10) 15 	-> 
+2023-01-20 12:09:06.914916 : 838-big-industrial 0.51(10) 18 	-> 
+2023-01-20 12:09:06.946159 : 838-big-industrial 0.51(10) 17 	-> 
+2023-01-20 12:09:37.289978 : 838-big-industrial 0.51(10) 19 	-> 
+2023-01-20 12:09:41.799074 : 838-big-industrial 0.51(10) 20 	-> 
+2023-01-20 12:13:14.097796 : 838-big-industrial 0.51(10) 22 	-> 
+2023-01-20 12:13:16.050172 : 838-big-industrial 0.51(10) 21 	-> 
+2023-01-20 12:14:05.213647 : 838-big-industrial 0.51(10) 24 	-> 
+2023-01-20 12:14:22.573505 : 838-big-industrial 0.51(10) 23 	-> 
+2023-01-20 12:17:25.517899 : 838-big-industrial 0.51(10) 25 	-> 
+2023-01-20 12:18:02.587547 : 838-big-industrial 0.51(10) 26 	-> 
+2023-01-20 12:18:34.282264 : 838-big-industrial 0.51(10) 28 	-> 
+2023-01-20 12:18:42.038950 : 838-big-industrial 0.51(10) 27 	-> 
+2023-01-20 12:21:36.399099 : 838-big-industrial 0.51(10) 29 	-> 
+2023-01-20 12:22:46.427458 : 838-big-industrial 0.51(10) 32 	-> 
+2023-01-20 12:22:47.517937 : 838-big-industrial 0.51(10) 30 	-> 
+2023-01-20 12:22:48.246945 : 838-big-industrial 0.51(10) 31 	-> 
+2023-01-20 12:24:56.094839 : 838-big-industrial 0.51(10) 36 	-> brute-force
+2023-01-20 12:25:54.093475 : 838-big-industrial 0.51(10) 33 	-> 
+2023-01-20 12:27:33.623763 : 838-big-industrial 0.51(10) 34 	-> 
+2023-01-20 12:27:33.901044 : 838-big-industrial 0.51(10) 35 	-> 
+2023-01-20 12:28:58.851659 : 838-big-industrial 0.51(10) 37 	-> 
+2023-01-20 12:29:57.382114 : 838-big-industrial 0.51(10) 38 	-> 
+2023-01-20 12:31:35.586914 : 838-big-industrial 0.51(10) 40 	-> 
+2023-01-20 12:32:20.899901 : 838-big-industrial 0.51(10) 39 	-> 
+2023-01-20 12:33:00.522439 : 838-big-industrial 0.51(10) 41 	-> 
+2023-01-20 12:34:43.054109 : 838-big-industrial 0.51(10) 42 	-> 
+2023-01-20 12:35:14.338252 : 838-big-industrial 0.51(10) 43 	-> brute-force
+2023-01-20 12:36:41.535963 : 838-big-industrial 0.51(10) 44 	-> 
+2023-01-20 12:37:10.129322 : 838-big-industrial 0.51(10) 45 	-> 
+2023-01-20 12:37:11.111366 : 838-big-industrial 0.51(10) 48 	-> hopa brute-force gdpa-hopa
+2023-01-20 12:38:22.703138 : 838-big-industrial 0.51(10) 46 	-> 
+2023-01-20 12:38:43.177579 : 838-big-industrial 0.51(10) 47 	-> 
+2023-01-20 12:39:34.011195 : 838-big-industrial 0.51(10) 49 	-> 
+2023-01-20 12:43:37.995340 : 838-big-industrial 0.53(11) 0 	-> 
+2023-01-20 12:43:39.463018 : 838-big-industrial 0.53(11) 3 	-> 
+2023-01-20 12:43:39.881733 : 838-big-industrial 0.53(11) 2 	-> 
+2023-01-20 12:43:41.459862 : 838-big-industrial 0.53(11) 1 	-> 
+2023-01-20 12:47:08.675281 : 838-big-industrial 0.53(11) 4 	-> brute-force gdpa-hopa
+2023-01-20 12:47:45.747346 : 838-big-industrial 0.53(11) 6 	-> 
+2023-01-20 12:47:49.947451 : 838-big-industrial 0.53(11) 7 	-> 
+2023-01-20 12:48:25.380477 : 838-big-industrial 0.53(11) 5 	-> 
+2023-01-20 12:51:11.860660 : 838-big-industrial 0.53(11) 8 	-> 
+2023-01-20 12:51:52.528166 : 838-big-industrial 0.53(11) 10 	-> 
+2023-01-20 12:52:27.896316 : 838-big-industrial 0.53(11) 11 	-> 
+2023-01-20 12:52:29.063134 : 838-big-industrial 0.53(11) 9 	-> 
+2023-01-20 12:55:12.402297 : 838-big-industrial 0.53(11) 12 	-> 
+2023-01-20 12:55:53.547554 : 838-big-industrial 0.53(11) 13 	-> 
+2023-01-20 12:56:33.538401 : 838-big-industrial 0.53(11) 14 	-> 
+2023-01-20 12:57:13.408198 : 838-big-industrial 0.53(11) 15 	-> 
+2023-01-20 12:59:13.874686 : 838-big-industrial 0.53(11) 16 	-> 
+2023-01-20 13:00:36.582068 : 838-big-industrial 0.53(11) 18 	-> 
+2023-01-20 13:00:38.287299 : 838-big-industrial 0.53(11) 17 	-> 
+2023-01-20 13:01:15.871239 : 838-big-industrial 0.53(11) 19 	-> 
+2023-01-20 13:03:13.439242 : 838-big-industrial 0.53(11) 20 	-> 
+2023-01-20 13:04:36.616941 : 838-big-industrial 0.53(11) 21 	-> 
+2023-01-20 13:04:38.838665 : 838-big-industrial 0.53(11) 22 	-> 
+2023-01-20 13:05:14.786877 : 838-big-industrial 0.53(11) 23 	-> 
+2023-01-20 13:07:24.146250 : 838-big-industrial 0.53(11) 24 	-> 
+2023-01-20 13:08:36.037426 : 838-big-industrial 0.53(11) 25 	-> 
+2023-01-20 13:08:51.839636 : 838-big-industrial 0.53(11) 26 	-> 
+2023-01-20 13:09:20.426825 : 838-big-industrial 0.53(11) 27 	-> 
+2023-01-20 13:11:25.867038 : 838-big-industrial 0.53(11) 28 	-> 
+2023-01-20 13:12:36.175699 : 838-big-industrial 0.53(11) 29 	-> 
+2023-01-20 13:12:49.996452 : 838-big-industrial 0.53(11) 30 	-> 
+2023-01-20 13:13:21.867128 : 838-big-industrial 0.53(11) 31 	-> 
+2023-01-20 13:15:25.691120 : 838-big-industrial 0.53(11) 32 	-> 
+2023-01-20 13:16:51.220937 : 838-big-industrial 0.53(11) 33 	-> 
+2023-01-20 13:17:22.569642 : 838-big-industrial 0.53(11) 35 	-> 
+2023-01-20 13:17:32.643136 : 838-big-industrial 0.53(11) 34 	-> 
+2023-01-20 13:20:07.123397 : 838-big-industrial 0.53(11) 36 	-> 
+2023-01-20 13:20:50.815067 : 838-big-industrial 0.53(11) 37 	-> 
+2023-01-20 13:21:21.410646 : 838-big-industrial 0.53(11) 38 	-> 
+2023-01-20 13:21:31.545891 : 838-big-industrial 0.53(11) 39 	-> 
+2023-01-20 13:24:06.217908 : 838-big-industrial 0.53(11) 40 	-> 
+2023-01-20 13:24:37.205290 : 838-big-industrial 0.53(11) 41 	-> 
+2023-01-20 13:25:37.171099 : 838-big-industrial 0.53(11) 43 	-> 
+2023-01-20 13:26:02.862813 : 838-big-industrial 0.53(11) 42 	-> 
+2023-01-20 13:28:02.382131 : 838-big-industrial 0.53(11) 44 	-> 
+2023-01-20 13:28:36.562724 : 838-big-industrial 0.53(11) 45 	-> 
+2023-01-20 13:29:38.125955 : 838-big-industrial 0.53(11) 46 	-> 
+2023-01-20 13:29:57.375412 : 838-big-industrial 0.53(11) 47 	-> 
+2023-01-20 13:31:26.080565 : 838-big-industrial 0.53(11) 49 	-> 
+2023-01-20 13:31:29.522712 : 838-big-industrial 0.53(11) 48 	-> 
+2023-01-20 13:35:30.751747 : 838-big-industrial 0.55(12) 0 	-> 
+2023-01-20 13:35:31.640397 : 838-big-industrial 0.55(12) 3 	-> 
+2023-01-20 13:35:32.668009 : 838-big-industrial 0.55(12) 2 	-> 
+2023-01-20 13:35:32.949268 : 838-big-industrial 0.55(12) 1 	-> 
+2023-01-20 13:39:31.508256 : 838-big-industrial 0.55(12) 6 	-> 
+2023-01-20 13:39:32.156038 : 838-big-industrial 0.55(12) 7 	-> 
+2023-01-20 13:40:12.637078 : 838-big-industrial 0.55(12) 5 	-> 
+2023-01-20 13:40:52.595893 : 838-big-industrial 0.55(12) 4 	-> 
+2023-01-20 13:43:29.636066 : 838-big-industrial 0.55(12) 8 	-> 
+2023-01-20 13:43:31.773968 : 838-big-industrial 0.55(12) 9 	-> 
+2023-01-20 13:44:11.887763 : 838-big-industrial 0.55(12) 10 	-> 
+2023-01-20 13:44:51.766863 : 838-big-industrial 0.55(12) 11 	-> 
+2023-01-20 13:47:28.264359 : 838-big-industrial 0.55(12) 12 	-> 
+2023-01-20 13:47:30.961513 : 838-big-industrial 0.55(12) 13 	-> 
+2023-01-20 13:48:13.314218 : 838-big-industrial 0.55(12) 14 	-> 
+2023-01-20 13:49:20.430213 : 838-big-industrial 0.55(12) 15 	-> 
+2023-01-20 13:51:22.200908 : 838-big-industrial 0.55(12) 16 	-> 
+2023-01-20 13:51:26.255149 : 838-big-industrial 0.55(12) 17 	-> 
+2023-01-20 13:52:09.462479 : 838-big-industrial 0.55(12) 18 	-> 
+2023-01-20 13:53:16.234604 : 838-big-industrial 0.55(12) 19 	-> 
+2023-01-20 13:54:58.895496 : 838-big-industrial 0.55(12) 20 	-> 
+2023-01-20 13:55:23.868638 : 838-big-industrial 0.55(12) 21 	-> 
+2023-01-20 13:56:07.499973 : 838-big-industrial 0.55(12) 22 	-> 
+2023-01-20 13:57:14.883842 : 838-big-industrial 0.55(12) 23 	-> 
+2023-01-20 13:59:09.075998 : 838-big-industrial 0.55(12) 24 	-> 
+2023-01-20 13:59:22.691406 : 838-big-industrial 0.55(12) 25 	-> 
+2023-01-20 14:00:09.348336 : 838-big-industrial 0.55(12) 26 	-> 
+2023-01-20 14:01:17.915900 : 838-big-industrial 0.55(12) 27 	-> 
+2023-01-20 14:03:08.418480 : 838-big-industrial 0.55(12) 28 	-> 
+2023-01-20 14:03:24.914082 : 838-big-industrial 0.55(12) 29 	-> 
+2023-01-20 14:04:10.382517 : 838-big-industrial 0.55(12) 30 	-> 
+2023-01-20 14:05:18.840735 : 838-big-industrial 0.55(12) 31 	-> 
+2023-01-20 14:07:08.247871 : 838-big-industrial 0.55(12) 32 	-> 
+2023-01-20 14:07:25.250578 : 838-big-industrial 0.55(12) 33 	-> 
+2023-01-20 14:08:13.449188 : 838-big-industrial 0.55(12) 34 	-> 
+2023-01-20 14:09:16.589996 : 838-big-industrial 0.55(12) 35 	-> 
+2023-01-20 14:11:04.226742 : 838-big-industrial 0.55(12) 36 	-> 
+2023-01-20 14:11:20.400716 : 838-big-industrial 0.55(12) 37 	-> 
+2023-01-20 14:12:08.531586 : 838-big-industrial 0.55(12) 38 	-> 
+2023-01-20 14:13:11.736950 : 838-big-industrial 0.55(12) 39 	-> 
+2023-01-20 14:14:57.134652 : 838-big-industrial 0.55(12) 41 	-> 
+2023-01-20 14:15:01.435217 : 838-big-industrial 0.55(12) 40 	-> 
+2023-01-20 14:16:12.135147 : 838-big-industrial 0.55(12) 42 	-> 
+2023-01-20 14:17:08.393282 : 838-big-industrial 0.55(12) 43 	-> 
+2023-01-20 14:18:35.284242 : 838-big-industrial 0.55(12) 44 	-> 
+2023-01-20 14:18:58.446820 : 838-big-industrial 0.55(12) 45 	-> 
+2023-01-20 14:19:50.015302 : 838-big-industrial 0.55(12) 46 	-> 
+2023-01-20 14:20:47.346947 : 838-big-industrial 0.55(12) 47 	-> 
+2023-01-20 14:21:40.702484 : 838-big-industrial 0.55(12) 48 	-> 
+2023-01-20 14:21:49.662568 : 838-big-industrial 0.55(12) 49 	-> 
+2023-01-20 14:25:49.330624 : 838-big-industrial 0.57(13) 0 	-> 
+2023-01-20 14:25:49.861756 : 838-big-industrial 0.57(13) 1 	-> 
+2023-01-20 14:25:50.192676 : 838-big-industrial 0.57(13) 3 	-> 
+2023-01-20 14:25:50.302060 : 838-big-industrial 0.57(13) 2 	-> 
+2023-01-20 14:29:51.402688 : 838-big-industrial 0.57(13) 7 	-> 
+2023-01-20 14:29:52.031990 : 838-big-industrial 0.57(13) 6 	-> 
+2023-01-20 14:30:30.430043 : 838-big-industrial 0.57(13) 4 	-> 
+2023-01-20 14:30:31.327956 : 838-big-industrial 0.57(13) 5 	-> 
+2023-01-20 14:33:51.625243 : 838-big-industrial 0.57(13) 9 	-> 
+2023-01-20 14:33:51.672128 : 838-big-industrial 0.57(13) 8 	-> 
+2023-01-20 14:34:29.548501 : 838-big-industrial 0.57(13) 11 	-> 
+2023-01-20 14:34:30.024513 : 838-big-industrial 0.57(13) 10 	-> 
+2023-01-20 14:37:33.418669 : 838-big-industrial 0.57(13) 13 	-> 
+2023-01-20 14:38:04.653122 : 838-big-industrial 0.57(13) 12 	-> 
+2023-01-20 14:38:46.965749 : 838-big-industrial 0.57(13) 15 	-> 
+2023-01-20 14:38:47.090754 : 838-big-industrial 0.57(13) 14 	-> 
+2023-01-20 14:41:56.528727 : 838-big-industrial 0.57(13) 16 	-> 
+2023-01-20 14:42:28.200679 : 838-big-industrial 0.57(13) 17 	-> 
+2023-01-20 14:43:11.966413 : 838-big-industrial 0.57(13) 19 	-> 
+2023-01-20 14:43:12.341419 : 838-big-industrial 0.57(13) 18 	-> 
+2023-01-20 14:45:57.232459 : 838-big-industrial 0.57(13) 20 	-> 
+2023-01-20 14:46:50.638829 : 838-big-industrial 0.57(13) 21 	-> 
+2023-01-20 14:47:35.029564 : 838-big-industrial 0.57(13) 22 	-> 
+2023-01-20 14:47:35.295192 : 838-big-industrial 0.57(13) 23 	-> 
+2023-01-20 14:50:20.295628 : 838-big-industrial 0.57(13) 24 	-> 
+2023-01-20 14:51:12.951987 : 838-big-industrial 0.57(13) 25 	-> 
+2023-01-20 14:51:59.439699 : 838-big-industrial 0.57(13) 26 	-> 
+2023-01-20 14:52:01.266759 : 838-big-industrial 0.57(13) 27 	-> 
+2023-01-20 14:54:15.238139 : 838-big-industrial 0.57(13) 28 	-> 
+2023-01-20 14:55:16.607293 : 838-big-industrial 0.57(13) 29 	-> 
+2023-01-20 14:55:59.464172 : 838-big-industrial 0.57(13) 30 	-> 
+2023-01-20 14:56:03.744308 : 838-big-industrial 0.57(13) 31 	-> 
+2023-01-20 14:58:15.892577 : 838-big-industrial 0.57(13) 32 	-> 
+2023-01-20 14:59:17.590117 : 838-big-industrial 0.57(13) 33 	-> 
+2023-01-20 15:00:00.834989 : 838-big-industrial 0.57(13) 34 	-> 
+2023-01-20 15:00:04.444407 : 838-big-industrial 0.57(13) 35 	-> 
+2023-01-20 15:02:16.482454 : 838-big-industrial 0.57(13) 36 	-> 
+2023-01-20 15:03:17.211014 : 838-big-industrial 0.57(13) 37 	-> 
+2023-01-20 15:04:00.969728 : 838-big-industrial 0.57(13) 38 	-> 
+2023-01-20 15:04:04.172798 : 838-big-industrial 0.57(13) 39 	-> 
+2023-01-20 15:06:16.522768 : 838-big-industrial 0.57(13) 40 	-> 
+2023-01-20 15:06:56.285848 : 838-big-industrial 0.57(13) 41 	-> 
+2023-01-20 15:08:00.716432 : 838-big-industrial 0.57(13) 42 	-> 
+2023-01-20 15:08:04.138311 : 838-big-industrial 0.57(13) 43 	-> 
+2023-01-20 15:09:56.695667 : 838-big-industrial 0.57(13) 44 	-> 
+2023-01-20 15:10:37.376822 : 838-big-industrial 0.57(13) 45 	-> 
+2023-01-20 15:11:39.934099 : 838-big-industrial 0.57(13) 46 	-> 
+2023-01-20 15:11:57.666209 : 838-big-industrial 0.57(13) 47 	-> 
+2023-01-20 15:13:04.826772 : 838-big-industrial 0.57(13) 48 	-> 
+2023-01-20 15:13:21.338932 : 838-big-industrial 0.57(13) 49 	-> 
+2023-01-20 15:17:19.756199 : 838-big-industrial 0.59(14) 0 	-> 
+2023-01-20 15:17:24.158903 : 838-big-industrial 0.59(14) 1 	-> 
+2023-01-20 15:17:25.107810 : 838-big-industrial 0.59(14) 3 	-> 
+2023-01-20 15:17:25.560944 : 838-big-industrial 0.59(14) 2 	-> 
+2023-01-20 15:21:24.959691 : 838-big-industrial 0.59(14) 5 	-> 
+2023-01-20 15:21:26.410524 : 838-big-industrial 0.59(14) 6 	-> 
+2023-01-20 15:21:27.266720 : 838-big-industrial 0.59(14) 7 	-> 
+2023-01-20 15:22:02.388883 : 838-big-industrial 0.59(14) 4 	-> 
+2023-01-20 15:24:56.363008 : 838-big-industrial 0.59(14) 8 	-> 
+2023-01-20 15:25:26.685593 : 838-big-industrial 0.59(14) 9 	-> 
+2023-01-20 15:25:27.884894 : 838-big-industrial 0.59(14) 10 	-> 
+2023-01-20 15:26:01.863007 : 838-big-industrial 0.59(14) 11 	-> 
+2023-01-20 15:28:17.027789 : 838-big-industrial 0.59(14) 12 	-> 
+2023-01-20 15:28:43.963031 : 838-big-industrial 0.59(14) 13 	-> 
+2023-01-20 15:29:27.629440 : 838-big-industrial 0.59(14) 14 	-> 
+2023-01-20 15:30:02.140090 : 838-big-industrial 0.59(14) 15 	-> 
+2023-01-20 15:32:17.114807 : 838-big-industrial 0.59(14) 16 	-> 
+2023-01-20 15:32:44.847515 : 838-big-industrial 0.59(14) 17 	-> 
+2023-01-20 15:33:28.779833 : 838-big-industrial 0.59(14) 18 	-> 
+2023-01-20 15:34:02.851544 : 838-big-industrial 0.59(14) 19 	-> 
+2023-01-20 15:35:32.798732 : 838-big-industrial 0.59(14) 20 	-> 
+2023-01-20 15:36:44.559126 : 838-big-industrial 0.59(14) 21 	-> 
+2023-01-20 15:37:30.226418 : 838-big-industrial 0.59(14) 22 	-> 
+2023-01-20 15:38:03.361767 : 838-big-industrial 0.59(14) 23 	-> 
+2023-01-20 15:39:34.106412 : 838-big-industrial 0.59(14) 24 	-> 
+2023-01-20 15:40:45.698907 : 838-big-industrial 0.59(14) 25 	-> 
+2023-01-20 15:41:30.146926 : 838-big-industrial 0.59(14) 26 	-> 
+2023-01-20 15:42:04.657732 : 838-big-industrial 0.59(14) 27 	-> 
+2023-01-20 15:43:20.246438 : 838-big-industrial 0.59(14) 28 	-> 
+2023-01-20 15:44:47.771766 : 838-big-industrial 0.59(14) 29 	-> 
+2023-01-20 15:45:30.781738 : 838-big-industrial 0.59(14) 30 	-> 
+2023-01-20 15:46:05.384381 : 838-big-industrial 0.59(14) 31 	-> 
+2023-01-20 15:47:20.441363 : 838-big-industrial 0.59(14) 32 	-> 
+2023-01-20 15:48:26.342541 : 838-big-industrial 0.59(14) 33 	-> 
+2023-01-20 15:49:30.711823 : 838-big-industrial 0.59(14) 34 	-> 
+2023-01-20 15:50:05.582435 : 838-big-industrial 0.59(14) 35 	-> 
+2023-01-20 15:51:20.702357 : 838-big-industrial 0.59(14) 36 	-> 
+2023-01-20 15:52:26.738571 : 838-big-industrial 0.59(14) 37 	-> 
+2023-01-20 15:53:31.389534 : 838-big-industrial 0.59(14) 38 	-> 
+2023-01-20 15:54:06.102488 : 838-big-industrial 0.59(14) 39 	-> 
+2023-01-20 15:55:21.034512 : 838-big-industrial 0.59(14) 40 	-> 
+2023-01-20 15:55:50.767205 : 838-big-industrial 0.59(14) 41 	-> 
+2023-01-20 15:57:31.432526 : 838-big-industrial 0.59(14) 42 	-> 
+2023-01-20 15:58:05.630026 : 838-big-industrial 0.59(14) 43 	-> 
+2023-01-20 15:59:00.873983 : 838-big-industrial 0.59(14) 44 	-> 
+2023-01-20 15:59:25.545893 : 838-big-industrial 0.59(14) 45 	-> 
+2023-01-20 16:01:10.754776 : 838-big-industrial 0.59(14) 46 	-> 
+2023-01-20 16:01:53.081115 : 838-big-industrial 0.59(14) 47 	-> 
+2023-01-20 16:02:26.292273 : 838-big-industrial 0.59(14) 48 	-> 
+2023-01-20 16:02:36.617108 : 838-big-industrial 0.59(14) 49 	-> 
+2023-01-20 16:06:32.754596 : 838-big-industrial 0.62(15) 0 	-> 
+2023-01-20 16:06:37.705941 : 838-big-industrial 0.62(15) 1 	-> 
+2023-01-20 16:06:40.078620 : 838-big-industrial 0.62(15) 3 	-> 
+2023-01-20 16:06:40.981351 : 838-big-industrial 0.62(15) 2 	-> 
+2023-01-20 16:10:32.922593 : 838-big-industrial 0.62(15) 4 	-> 
+2023-01-20 16:10:37.857701 : 838-big-industrial 0.62(15) 5 	-> 
+2023-01-20 16:10:41.418461 : 838-big-industrial 0.62(15) 6 	-> 
+2023-01-20 16:10:41.621585 : 838-big-industrial 0.62(15) 7 	-> 
+2023-01-20 16:14:04.558092 : 838-big-industrial 0.62(15) 8 	-> 
+2023-01-20 16:14:37.180908 : 838-big-industrial 0.62(15) 9 	-> 
+2023-01-20 16:14:42.037743 : 838-big-industrial 0.62(15) 11 	-> 
+2023-01-20 16:14:43.003311 : 838-big-industrial 0.62(15) 10 	-> 
+2023-01-20 16:17:25.055018 : 838-big-industrial 0.62(15) 12 	-> 
+2023-01-20 16:17:53.117262 : 838-big-industrial 0.62(15) 13 	-> 
+2023-01-20 16:18:07.188971 : 838-big-industrial 0.62(15) 14 	-> 
+2023-01-20 16:18:42.592441 : 838-big-industrial 0.62(15) 15 	-> 
+2023-01-20 16:21:24.657367 : 838-big-industrial 0.62(15) 16 	-> 
+2023-01-20 16:21:53.795853 : 838-big-industrial 0.62(15) 17 	-> 
+2023-01-20 16:22:06.633745 : 838-big-industrial 0.62(15) 18 	-> 
+2023-01-20 16:22:42.697160 : 838-big-industrial 0.62(15) 19 	-> 
+2023-01-20 16:24:41.593757 : 838-big-industrial 0.62(15) 20 	-> 
+2023-01-20 16:25:54.136489 : 838-big-industrial 0.62(15) 21 	-> 
+2023-01-20 16:26:06.505583 : 838-big-industrial 0.62(15) 22 	-> 
+2023-01-20 16:26:43.409211 : 838-big-industrial 0.62(15) 23 	-> 
+2023-01-20 16:28:42.055089 : 838-big-industrial 0.62(15) 24 	-> 
+2023-01-20 16:29:42.538678 : 838-big-industrial 0.62(15) 25 	-> 
+2023-01-20 16:30:06.173884 : 838-big-industrial 0.62(15) 26 	-> 
+2023-01-20 16:30:43.530021 : 838-big-industrial 0.62(15) 27 	-> 
+2023-01-20 16:32:43.048152 : 838-big-industrial 0.62(15) 28 	-> 
+2023-01-20 16:33:58.354760 : 838-big-industrial 0.62(15) 29 	-> 
+2023-01-20 16:34:22.362802 : 838-big-industrial 0.62(15) 30 	-> 
+2023-01-20 16:34:58.813933 : 838-big-industrial 0.62(15) 31 	-> 
+2023-01-20 16:36:44.433239 : 838-big-industrial 0.62(15) 32 	-> 
+2023-01-20 16:37:35.176300 : 838-big-industrial 0.62(15) 33 	-> 
+2023-01-20 16:38:21.936386 : 838-big-industrial 0.62(15) 34 	-> 
+2023-01-20 16:38:58.980375 : 838-big-industrial 0.62(15) 35 	-> 
+2023-01-20 16:40:45.615892 : 838-big-industrial 0.62(15) 36 	-> 
+2023-01-20 16:41:35.375216 : 838-big-industrial 0.62(15) 37 	-> 
+2023-01-20 16:42:22.292293 : 838-big-industrial 0.62(15) 38 	-> 
+2023-01-20 16:43:00.026107 : 838-big-industrial 0.62(15) 39 	-> 
+2023-01-20 16:44:12.111875 : 838-big-industrial 0.62(15) 40 	-> 
+2023-01-20 16:44:59.218157 : 838-big-industrial 0.62(15) 41 	-> 
+2023-01-20 16:46:22.188250 : 838-big-industrial 0.62(15) 42 	-> 
+2023-01-20 16:47:00.489709 : 838-big-industrial 0.62(15) 43 	-> 
+2023-01-20 16:47:28.739711 : 838-big-industrial 0.62(15) 44 	-> 
+2023-01-20 16:48:24.733900 : 838-big-industrial 0.62(15) 45 	-> 
+2023-01-20 16:49:53.447249 : 838-big-industrial 0.62(15) 46 	-> 
+2023-01-20 16:50:44.519123 : 838-big-industrial 0.62(15) 47 	-> 
+2023-01-20 16:51:00.855014 : 838-big-industrial 0.62(15) 48 	-> 
+2023-01-20 16:51:25.698794 : 838-big-industrial 0.62(15) 49 	-> 
+2023-01-20 16:55:02.414645 : 838-big-industrial 0.64(16) 0 	-> 
+2023-01-20 16:55:15.662551 : 838-big-industrial 0.64(16) 2 	-> 
+2023-01-20 16:55:26.457127 : 838-big-industrial 0.64(16) 1 	-> 
+2023-01-20 16:55:27.110219 : 838-big-industrial 0.64(16) 3 	-> 
+2023-01-20 16:59:03.673549 : 838-big-industrial 0.64(16) 4 	-> 
+2023-01-20 16:59:17.593465 : 838-big-industrial 0.64(16) 5 	-> 
+2023-01-20 16:59:26.887154 : 838-big-industrial 0.64(16) 6 	-> 
+2023-01-20 16:59:27.711631 : 838-big-industrial 0.64(16) 7 	-> 
+2023-01-20 17:02:35.418999 : 838-big-industrial 0.64(16) 8 	-> 
+2023-01-20 17:03:18.068835 : 838-big-industrial 0.64(16) 9 	-> 
+2023-01-20 17:03:26.253211 : 838-big-industrial 0.64(16) 10 	-> 
+2023-01-20 17:03:27.499400 : 838-big-industrial 0.64(16) 11 	-> 
+2023-01-20 17:05:57.301491 : 838-big-industrial 0.64(16) 12 	-> 
+2023-01-20 17:06:34.638514 : 838-big-industrial 0.64(16) 13 	-> 
+2023-01-20 17:06:50.604359 : 838-big-industrial 0.64(16) 14 	-> 
+2023-01-20 17:07:24.973296 : 838-big-industrial 0.64(16) 15 	-> 
+2023-01-20 17:09:57.651352 : 838-big-industrial 0.64(16) 16 	-> 
+2023-01-20 17:10:34.005536 : 838-big-industrial 0.64(16) 17 	-> 
+2023-01-20 17:10:49.941190 : 838-big-industrial 0.64(16) 18 	-> 
+2023-01-20 17:11:24.544813 : 838-big-industrial 0.64(16) 19 	-> 
+2023-01-20 17:13:14.847906 : 838-big-industrial 0.64(16) 20 	-> 
+2023-01-20 17:14:33.717101 : 838-big-industrial 0.64(16) 21 	-> 
+2023-01-20 17:14:49.589627 : 838-big-industrial 0.64(16) 22 	-> 
+2023-01-20 17:15:24.489749 : 838-big-industrial 0.64(16) 23 	-> 
+2023-01-20 17:17:15.391519 : 838-big-industrial 0.64(16) 24 	-> 
+2023-01-20 17:18:15.171344 : 838-big-industrial 0.64(16) 25 	-> 
+2023-01-20 17:18:49.420153 : 838-big-industrial 0.64(16) 26 	-> 
+2023-01-20 17:19:12.065252 : 838-big-industrial 0.64(16) 27 	-> 
+2023-01-20 17:20:53.449162 : 838-big-industrial 0.64(16) 28 	-> 
+2023-01-20 17:22:15.407175 : 838-big-industrial 0.64(16) 29 	-> 
+2023-01-20 17:22:48.873562 : 838-big-industrial 0.64(16) 30 	-> 
+2023-01-20 17:23:12.226181 : 838-big-industrial 0.64(16) 31 	-> 
+2023-01-20 17:24:53.189556 : 838-big-industrial 0.64(16) 32 	-> 
+2023-01-20 17:25:52.246708 : 838-big-industrial 0.64(16) 33 	-> 
+2023-01-20 17:26:28.475820 : 838-big-industrial 0.64(16) 35 	-> 
+2023-01-20 17:26:48.660571 : 838-big-industrial 0.64(16) 34 	-> 
+2023-01-20 17:28:53.821826 : 838-big-industrial 0.64(16) 36 	-> 
+2023-01-20 17:29:19.268576 : 838-big-industrial 0.64(16) 37 	-> 
+2023-01-20 17:29:52.796200 : 838-big-industrial 0.64(16) 38 	-> 
+2023-01-20 17:30:47.211724 : 838-big-industrial 0.64(16) 39 	-> 
+2023-01-20 17:32:20.893317 : 838-big-industrial 0.64(16) 40 	-> 
+2023-01-20 17:32:34.656261 : 838-big-industrial 0.64(16) 41 	-> 
+2023-01-20 17:33:51.805913 : 838-big-industrial 0.64(16) 42 	-> 
+2023-01-20 17:34:46.331393 : 838-big-industrial 0.64(16) 43 	-> 
+2023-01-20 17:35:37.169238 : 838-big-industrial 0.64(16) 44 	-> 
+2023-01-20 17:35:59.401527 : 838-big-industrial 0.64(16) 45 	-> 
+2023-01-20 17:37:19.317126 : 838-big-industrial 0.64(16) 46 	-> 
+2023-01-20 17:38:24.201847 : 838-big-industrial 0.64(16) 47 	-> 
+2023-01-20 17:38:53.058503 : 838-big-industrial 0.64(16) 49 	-> 
+2023-01-20 17:38:53.867176 : 838-big-industrial 0.64(16) 48 	-> 
+2023-01-20 17:42:28.342908 : 838-big-industrial 0.66(17) 0 	-> 
+2023-01-20 17:42:42.981164 : 838-big-industrial 0.66(17) 3 	-> 
+2023-01-20 17:42:44.071674 : 838-big-industrial 0.66(17) 2 	-> 
+2023-01-20 17:42:55.850458 : 838-big-industrial 0.66(17) 1 	-> 
+2023-01-20 17:46:28.240121 : 838-big-industrial 0.66(17) 4 	-> 
+2023-01-20 17:46:43.706594 : 838-big-industrial 0.66(17) 5 	-> 
+2023-01-20 17:46:46.422708 : 838-big-industrial 0.66(17) 6 	-> 
+2023-01-20 17:46:56.811237 : 838-big-industrial 0.66(17) 7 	-> 
+2023-01-20 17:49:58.528041 : 838-big-industrial 0.66(17) 8 	-> 
+2023-01-20 17:50:27.239593 : 838-big-industrial 0.66(17) 11 	-> 
+2023-01-20 17:50:43.004374 : 838-big-industrial 0.66(17) 9 	-> 
+2023-01-20 17:50:44.720358 : 838-big-industrial 0.66(17) 10 	-> 
+2023-01-20 17:53:18.628934 : 838-big-industrial 0.66(17) 12 	-> 
+2023-01-20 17:53:42.392723 : 838-big-industrial 0.66(17) 13 	-> 
+2023-01-20 17:54:08.745922 : 838-big-industrial 0.66(17) 14 	-> 
+2023-01-20 17:54:42.133913 : 838-big-industrial 0.66(17) 15 	-> 
+2023-01-20 17:57:17.264670 : 838-big-industrial 0.66(17) 16 	-> 
+2023-01-20 17:57:43.121391 : 838-big-industrial 0.66(17) 17 	-> 
+2023-01-20 17:58:08.991312 : 838-big-industrial 0.66(17) 18 	-> 
+2023-01-20 17:58:41.754957 : 838-big-industrial 0.66(17) 19 	-> 
+2023-01-20 18:00:33.536028 : 838-big-industrial 0.66(17) 20 	-> 
+2023-01-20 18:01:43.154913 : 838-big-industrial 0.66(17) 21 	-> 
+2023-01-20 18:02:09.321211 : 838-big-industrial 0.66(17) 22 	-> 
+2023-01-20 18:02:41.741405 : 838-big-industrial 0.66(17) 23 	-> 
+2023-01-20 18:04:32.950917 : 838-big-industrial 0.66(17) 24 	-> 
+2023-01-20 18:05:23.481049 : 838-big-industrial 0.66(17) 25 	-> 
+2023-01-20 18:06:09.146406 : 838-big-industrial 0.66(17) 26 	-> 
+2023-01-20 18:06:27.503563 : 838-big-industrial 0.66(17) 27 	-> 
+2023-01-20 18:07:56.517045 : 838-big-industrial 0.66(17) 28 	-> 
+2023-01-20 18:09:22.898273 : 838-big-industrial 0.66(17) 29 	-> 
+2023-01-20 18:09:58.520422 : 838-big-industrial 0.66(17) 31 	-> 
+2023-01-20 18:10:08.483111 : 838-big-industrial 0.66(17) 30 	-> 
+2023-01-20 18:11:42.320570 : 838-big-industrial 0.66(17) 32 	-> 
+2023-01-20 18:12:49.643207 : 838-big-industrial 0.66(17) 33 	-> 
+2023-01-20 18:13:25.855599 : 838-big-industrial 0.66(17) 35 	-> 
+2023-01-20 18:13:56.744704 : 838-big-industrial 0.66(17) 34 	-> 
+2023-01-20 18:15:39.625303 : 838-big-industrial 0.66(17) 36 	-> 
+2023-01-20 18:16:15.793603 : 838-big-industrial 0.66(17) 37 	-> 
+2023-01-20 18:16:44.228285 : 838-big-industrial 0.66(17) 38 	-> 
+2023-01-20 18:17:16.394514 : 838-big-industrial 0.66(17) 39 	-> 
+2023-01-20 18:18:55.207984 : 838-big-industrial 0.66(17) 40 	-> 
+2023-01-20 18:19:30.295701 : 838-big-industrial 0.66(17) 41 	-> 
+2023-01-20 18:20:15.789306 : 838-big-industrial 0.66(17) 42 	-> 
+2023-01-20 18:21:14.360688 : 838-big-industrial 0.66(17) 43 	-> 
+2023-01-20 18:22:10.144560 : 838-big-industrial 0.66(17) 44 	-> 
+2023-01-20 18:22:53.602457 : 838-big-industrial 0.66(17) 45 	-> 
+2023-01-20 18:23:44.520346 : 838-big-industrial 0.66(17) 46 	-> 
+2023-01-20 18:24:51.139152 : 838-big-industrial 0.66(17) 47 	-> 
+2023-01-20 18:25:11.709271 : 838-big-industrial 0.66(17) 48 	-> 
+2023-01-20 18:25:29.002594 : 838-big-industrial 0.66(17) 49 	-> 
+2023-01-20 18:28:59.731429 : 838-big-industrial 0.68(18) 0 	-> 
+2023-01-20 18:29:18.370152 : 838-big-industrial 0.68(18) 2 	-> 
+2023-01-20 18:29:18.479514 : 838-big-industrial 0.68(18) 3 	-> 
+2023-01-20 18:29:30.820630 : 838-big-industrial 0.68(18) 1 	-> 
+2023-01-20 18:33:00.213869 : 838-big-industrial 0.68(18) 4 	-> 
+2023-01-20 18:33:18.135358 : 838-big-industrial 0.68(18) 5 	-> 
+2023-01-20 18:33:19.209418 : 838-big-industrial 0.68(18) 7 	-> 
+2023-01-20 18:33:19.225043 : 838-big-industrial 0.68(18) 6 	-> 
+2023-01-20 18:36:25.101772 : 838-big-industrial 0.68(18) 8 	-> 
+2023-01-20 18:36:48.286928 : 838-big-industrial 0.68(18) 11 	-> 
+2023-01-20 18:36:52.519383 : 838-big-industrial 0.68(18) 10 	-> 
+2023-01-20 18:37:14.733387 : 838-big-industrial 0.68(18) 9 	-> 
+2023-01-20 18:39:44.551641 : 838-big-industrial 0.68(18) 12 	-> 
+2023-01-20 18:40:03.420190 : 838-big-industrial 0.68(18) 13 	-> 
+2023-01-20 18:40:17.027397 : 838-big-industrial 0.68(18) 14 	-> 
+2023-01-20 18:41:12.317879 : 838-big-industrial 0.68(18) 15 	-> 
+2023-01-20 18:43:21.996666 : 838-big-industrial 0.68(18) 16 	-> 
+2023-01-20 18:43:38.837242 : 838-big-industrial 0.68(18) 18 	-> 
+2023-01-20 18:44:01.689662 : 838-big-industrial 0.68(18) 17 	-> 
+2023-01-20 18:45:12.403141 : 838-big-industrial 0.68(18) 19 	-> 
+2023-01-20 18:46:38.209979 : 838-big-industrial 0.68(18) 20 	-> 
+2023-01-20 18:47:38.079039 : 838-big-industrial 0.68(18) 21 	-> 
+2023-01-20 18:48:01.228566 : 838-big-industrial 0.68(18) 22 	-> 
+2023-01-20 18:49:12.412021 : 838-big-industrial 0.68(18) 23 	-> 
+2023-01-20 18:50:11.954091 : 838-big-industrial 0.68(18) 24 	-> 
+2023-01-20 18:51:15.716538 : 838-big-industrial 0.68(18) 25 	-> 
+2023-01-20 18:51:28.136103 : 838-big-industrial 0.68(18) 26 	-> 
+2023-01-20 18:52:57.601783 : 838-big-industrial 0.68(18) 27 	-> 
+2023-01-20 18:53:27.657626 : 838-big-industrial 0.68(18) 28 	-> 
+2023-01-20 18:55:14.648545 : 838-big-industrial 0.68(18) 29 	-> 
+2023-01-20 18:55:25.818348 : 838-big-industrial 0.68(18) 30 	-> 
+2023-01-20 18:56:28.313626 : 838-big-industrial 0.68(18) 31 	-> 
+2023-01-20 18:57:14.214138 : 838-big-industrial 0.68(18) 32 	-> 
+2023-01-20 18:58:30.208747 : 838-big-industrial 0.68(18) 33 	-> 
+2023-01-20 18:59:24.251593 : 838-big-industrial 0.68(18) 34 	-> 
+2023-01-20 18:59:44.530338 : 838-big-industrial 0.68(18) 35 	-> 
+2023-01-20 19:01:12.830654 : 838-big-industrial 0.68(18) 36 	-> 
+2023-01-20 19:01:56.515547 : 838-big-industrial 0.68(18) 37 	-> 
+2023-01-20 19:02:40.431054 : 838-big-industrial 0.68(18) 38 	-> 
+2023-01-20 19:03:03.768171 : 838-big-industrial 0.68(18) 39 	-> 
+2023-01-20 19:04:28.342590 : 838-big-industrial 0.68(18) 40 	-> 
+2023-01-20 19:05:10.993525 : 838-big-industrial 0.68(18) 41 	-> 
+2023-01-20 19:06:09.284142 : 838-big-industrial 0.68(18) 42 	-> 
+2023-01-20 19:06:43.031901 : 838-big-industrial 0.68(18) 43 	-> 
+2023-01-20 19:07:42.963579 : 838-big-industrial 0.68(18) 44 	-> 
+2023-01-20 19:08:33.426343 : 838-big-industrial 0.68(18) 45 	-> 
+2023-01-20 19:09:35.561416 : 838-big-industrial 0.68(18) 46 	-> 
+2023-01-20 19:10:25.205485 : 838-big-industrial 0.68(18) 47 	-> 
+2023-01-20 19:10:47.811712 : 838-big-industrial 0.68(18) 48 	-> 
+2023-01-20 19:11:04.819288 : 838-big-industrial 0.68(18) 49 	-> 
+2023-01-20 19:14:23.121533 : 838-big-industrial 0.70(19) 1 	-> 
+2023-01-20 19:14:33.291305 : 838-big-industrial 0.70(19) 0 	-> 
+2023-01-20 19:14:50.366211 : 838-big-industrial 0.70(19) 3 	-> 
+2023-01-20 19:14:52.019141 : 838-big-industrial 0.70(19) 2 	-> 
+2023-01-20 19:17:45.460167 : 838-big-industrial 0.70(19) 4 	-> 
+2023-01-20 19:18:30.969918 : 838-big-industrial 0.70(19) 7 	-> 
+2023-01-20 19:18:31.126177 : 838-big-industrial 0.70(19) 5 	-> 
+2023-01-20 19:18:48.404136 : 838-big-industrial 0.70(19) 6 	-> 
+2023-01-20 19:21:07.302500 : 838-big-industrial 0.70(19) 8 	-> 
+2023-01-20 19:22:03.545989 : 838-big-industrial 0.70(19) 10 	-> 
+2023-01-20 19:22:17.374865 : 838-big-industrial 0.70(19) 11 	-> 
+2023-01-20 19:22:27.512736 : 838-big-industrial 0.70(19) 9 	-> 
+2023-01-20 19:24:26.671019 : 838-big-industrial 0.70(19) 12 	-> 
+2023-01-20 19:25:18.368025 : 838-big-industrial 0.70(19) 13 	-> 
+2023-01-20 19:25:38.913154 : 838-big-industrial 0.70(19) 14 	-> 
+2023-01-20 19:26:24.375577 : 838-big-industrial 0.70(19) 15 	-> 
+2023-01-20 19:27:55.712185 : 838-big-industrial 0.70(19) 16 	-> 
+2023-01-20 19:29:01.249261 : 838-big-industrial 0.70(19) 18 	-> 
+2023-01-20 19:29:15.454752 : 838-big-industrial 0.70(19) 17 	-> 
+2023-01-20 19:29:40.671237 : 838-big-industrial 0.70(19) 19 	-> 
+2023-01-20 19:31:10.973486 : 838-big-industrial 0.70(19) 20 	-> 
+2023-01-20 19:32:31.405447 : 838-big-industrial 0.70(19) 22 	-> 
+2023-01-20 19:32:58.120945 : 838-big-industrial 0.70(19) 21 	-> 
+2023-01-20 19:33:40.209093 : 838-big-industrial 0.70(19) 23 	-> 
+2023-01-20 19:34:43.843895 : 838-big-industrial 0.70(19) 24 	-> 
+2023-01-20 19:36:06.057981 : 838-big-industrial 0.70(19) 25 	-> 
+2023-01-20 19:36:21.274096 : 838-big-industrial 0.70(19) 26 	-> 
+2023-01-20 19:37:24.519762 : 838-big-industrial 0.70(19) 27 	-> 
+2023-01-20 19:37:59.298786 : 838-big-industrial 0.70(19) 28 	-> 
+2023-01-20 19:39:33.714313 : 838-big-industrial 0.70(19) 29 	-> 
+2023-01-20 19:40:18.239589 : 838-big-industrial 0.70(19) 30 	-> 
+2023-01-20 19:40:54.424891 : 838-big-industrial 0.70(19) 31 	-> 
+2023-01-20 19:41:13.309278 : 838-big-industrial 0.70(19) 32 	-> 
+2023-01-20 19:42:49.334609 : 838-big-industrial 0.70(19) 33 	-> 
+2023-01-20 19:44:10.575266 : 838-big-industrial 0.70(19) 35 	-> 
+2023-01-20 19:44:16.197699 : 838-big-industrial 0.70(19) 34 	-> 
+2023-01-20 19:44:43.100561 : 838-big-industrial 0.70(19) 36 	-> 
+2023-01-20 19:46:04.461632 : 838-big-industrial 0.70(19) 37 	-> 
+2023-01-20 19:47:25.533284 : 838-big-industrial 0.70(19) 38 	-> 
+2023-01-20 19:47:33.452554 : 838-big-industrial 0.70(19) 39 	-> 
+2023-01-20 19:47:57.809377 : 838-big-industrial 0.70(19) 40 	-> 
+2023-01-20 19:49:18.267577 : 838-big-industrial 0.70(19) 41 	-> 
+2023-01-20 19:50:54.417877 : 838-big-industrial 0.70(19) 42 	-> 
+2023-01-20 19:50:58.540767 : 838-big-industrial 0.70(19) 43 	-> 
+2023-01-20 19:51:12.363483 : 838-big-industrial 0.70(19) 44 	-> 
+2023-01-20 19:52:40.640223 : 838-big-industrial 0.70(19) 45 	-> 
+2023-01-20 19:54:17.989082 : 838-big-industrial 0.70(19) 46 	-> 
+2023-01-20 19:54:41.627121 : 838-big-industrial 0.70(19) 48 	-> 
+2023-01-20 19:54:45.373377 : 838-big-industrial 0.70(19) 47 	-> 
+2023-01-20 19:55:15.146326 : 838-big-industrial 0.70(19) 49 	-> 

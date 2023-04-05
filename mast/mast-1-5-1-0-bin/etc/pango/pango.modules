@@ -1,0 +1,18 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = /burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules
+#
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-arabic-lang.dll ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-basic-fc.dll BasicScriptEngineFc PangoEngineShape PangoRenderFc common:
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+/burgos.a/gnatmail/gcc-47/install-burgos/gtk3/lib/pango/1.8.0/modules/pango-indic-lang.dll sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+

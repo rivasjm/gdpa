@@ -1,0 +1,1150 @@
+2023-01-19 10:22:33.874956 : 655-medium-offsets 0.50(0) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:33.890607 : 655-medium-offsets 0.50(0) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:33.890607 : 655-medium-offsets 0.50(0) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:33.890607 : 655-medium-offsets 0.50(0) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.062456 : 655-medium-offsets 0.50(0) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.078081 : 655-medium-offsets 0.50(0) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.093709 : 655-medium-offsets 0.50(0) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.124955 : 655-medium-offsets 0.50(0) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.249958 : 655-medium-offsets 0.50(0) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.249958 : 655-medium-offsets 0.50(0) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.265584 : 655-medium-offsets 0.50(0) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.359334 : 655-medium-offsets 0.50(0) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.421834 : 655-medium-offsets 0.50(0) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.437459 : 655-medium-offsets 0.50(0) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.515584 : 655-medium-offsets 0.50(0) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.562459 : 655-medium-offsets 0.50(0) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.624959 : 655-medium-offsets 0.50(0) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.656208 : 655-medium-offsets 0.50(0) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.749962 : 655-medium-offsets 0.50(0) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.796834 : 655-medium-offsets 0.50(0) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.828085 : 655-medium-offsets 0.50(0) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.843711 : 655-medium-offsets 0.50(0) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:34.968712 : 655-medium-offsets 0.50(0) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.046837 : 655-medium-offsets 0.50(0) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.093712 : 655-medium-offsets 0.50(0) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.140589 : 655-medium-offsets 0.50(0) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.203087 : 655-medium-offsets 0.50(0) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.249963 : 655-medium-offsets 0.50(0) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.265588 : 655-medium-offsets 0.50(0) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.328089 : 655-medium-offsets 0.50(0) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.374964 : 655-medium-offsets 0.50(0) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.453089 : 655-medium-offsets 0.50(0) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.453089 : 655-medium-offsets 0.50(0) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.562465 : 655-medium-offsets 0.50(0) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.562465 : 655-medium-offsets 0.50(0) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.624965 : 655-medium-offsets 0.50(0) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.624965 : 655-medium-offsets 0.50(0) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.734339 : 655-medium-offsets 0.50(0) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.749965 : 655-medium-offsets 0.50(0) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.796841 : 655-medium-offsets 0.50(0) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.812468 : 655-medium-offsets 0.50(0) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.921842 : 655-medium-offsets 0.50(0) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.921842 : 655-medium-offsets 0.50(0) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:35.968715 : 655-medium-offsets 0.50(0) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.031217 : 655-medium-offsets 0.50(0) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.093720 : 655-medium-offsets 0.50(0) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.171843 : 655-medium-offsets 0.50(0) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.187469 : 655-medium-offsets 0.50(0) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.218718 : 655-medium-offsets 0.50(0) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:36.265593 : 655-medium-offsets 0.50(0) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.499982 : 655-medium-offsets 0.52(1) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.515606 : 655-medium-offsets 0.52(1) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.562481 : 655-medium-offsets 0.52(1) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.578116 : 655-medium-offsets 0.52(1) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.671856 : 655-medium-offsets 0.52(1) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.703109 : 655-medium-offsets 0.52(1) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.749982 : 655-medium-offsets 0.52(1) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.749982 : 655-medium-offsets 0.52(1) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.843732 : 655-medium-offsets 0.52(1) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.874982 : 655-medium-offsets 0.52(1) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.937484 : 655-medium-offsets 0.52(1) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:38.999983 : 655-medium-offsets 0.52(1) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.046887 : 655-medium-offsets 0.52(1) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.078112 : 655-medium-offsets 0.52(1) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.140609 : 655-medium-offsets 0.52(1) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.171859 : 655-medium-offsets 0.52(1) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.218734 : 655-medium-offsets 0.52(1) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.593831 : 655-medium-offsets 0.52(1) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.624987 : 655-medium-offsets 0.52(1) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.687487 : 655-medium-offsets 0.52(1) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.718738 : 655-medium-offsets 0.52(1) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.812488 : 655-medium-offsets 0.52(1) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.812488 : 655-medium-offsets 0.52(1) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.890613 : 655-medium-offsets 0.52(1) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:39.943683 : 655-medium-offsets 0.52(1) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.008739 : 655-medium-offsets 0.52(1) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.008739 : 655-medium-offsets 0.52(1) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.086864 : 655-medium-offsets 0.52(1) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.164990 : 655-medium-offsets 0.52(1) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.180615 : 655-medium-offsets 0.52(1) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.211868 : 655-medium-offsets 0.52(1) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.274367 : 655-medium-offsets 0.52(1) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.368119 : 655-medium-offsets 0.52(1) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.383743 : 655-medium-offsets 0.52(1) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.446240 : 655-medium-offsets 0.52(1) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.477491 : 655-medium-offsets 0.52(1) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.571243 : 655-medium-offsets 0.52(1) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.586869 : 655-medium-offsets 0.52(1) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.664992 : 655-medium-offsets 0.52(1) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.664992 : 655-medium-offsets 0.52(1) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.768553 : 655-medium-offsets 0.52(1) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.846676 : 655-medium-offsets 0.52(1) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.846676 : 655-medium-offsets 0.52(1) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:40.862303 : 655-medium-offsets 0.52(1) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.034179 : 655-medium-offsets 0.52(1) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.065431 : 655-medium-offsets 0.52(1) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.065431 : 655-medium-offsets 0.52(1) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.081053 : 655-medium-offsets 0.52(1) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.252927 : 655-medium-offsets 0.52(1) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:22:41.331054 : 655-medium-offsets 0.52(1) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.255097 : 655-medium-offsets 0.50(0) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.255097 : 655-medium-offsets 0.50(0) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.255097 : 655-medium-offsets 0.50(0) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.286345 : 655-medium-offsets 0.50(0) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.442595 : 655-medium-offsets 0.50(0) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.442595 : 655-medium-offsets 0.50(0) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.458222 : 655-medium-offsets 0.50(0) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.473849 : 655-medium-offsets 0.50(0) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.614469 : 655-medium-offsets 0.50(0) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.614469 : 655-medium-offsets 0.50(0) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.645722 : 655-medium-offsets 0.50(0) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.661377 : 655-medium-offsets 0.50(0) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.786347 : 655-medium-offsets 0.50(0) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.801976 : 655-medium-offsets 0.50(0) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.801976 : 655-medium-offsets 0.50(0) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.833226 : 655-medium-offsets 0.50(0) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.958224 : 655-medium-offsets 0.50(0) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:00.989478 : 655-medium-offsets 0.50(0) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.020727 : 655-medium-offsets 0.50(0) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.067605 : 655-medium-offsets 0.50(0) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.192609 : 655-medium-offsets 0.50(0) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.239476 : 655-medium-offsets 0.50(0) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.255099 : 655-medium-offsets 0.50(0) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.286356 : 655-medium-offsets 0.50(0) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.458257 : 655-medium-offsets 0.50(0) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.458257 : 655-medium-offsets 0.50(0) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.505102 : 655-medium-offsets 0.50(0) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.505102 : 655-medium-offsets 0.50(0) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.630102 : 655-medium-offsets 0.50(0) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.630102 : 655-medium-offsets 0.50(0) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.692604 : 655-medium-offsets 0.50(0) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.692604 : 655-medium-offsets 0.50(0) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.801982 : 655-medium-offsets 0.50(0) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.817603 : 655-medium-offsets 0.50(0) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.880108 : 655-medium-offsets 0.50(0) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.880108 : 655-medium-offsets 0.50(0) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.973859 : 655-medium-offsets 0.50(0) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:01.989482 : 655-medium-offsets 0.50(0) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.036357 : 655-medium-offsets 0.50(0) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.051982 : 655-medium-offsets 0.50(0) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.145731 : 655-medium-offsets 0.50(0) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.177005 : 655-medium-offsets 0.50(0) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.239482 : 655-medium-offsets 0.50(0) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.239482 : 655-medium-offsets 0.50(0) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.333234 : 655-medium-offsets 0.50(0) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.395732 : 655-medium-offsets 0.50(0) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.426983 : 655-medium-offsets 0.50(0) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.426983 : 655-medium-offsets 0.50(0) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.520765 : 655-medium-offsets 0.50(0) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:02.567639 : 655-medium-offsets 0.50(0) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.252141 : 655-medium-offsets 0.50(0) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.267765 : 655-medium-offsets 0.50(0) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.283392 : 655-medium-offsets 0.50(0) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.283392 : 655-medium-offsets 0.50(0) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.439640 : 655-medium-offsets 0.50(0) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.439640 : 655-medium-offsets 0.50(0) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.486516 : 655-medium-offsets 0.50(0) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.533391 : 655-medium-offsets 0.50(0) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.627143 : 655-medium-offsets 0.50(0) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.642765 : 655-medium-offsets 0.50(0) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.642765 : 655-medium-offsets 0.50(0) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.705268 : 655-medium-offsets 0.50(0) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.814643 : 655-medium-offsets 0.50(0) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.814643 : 655-medium-offsets 0.50(0) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.861520 : 655-medium-offsets 0.50(0) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:42.877142 : 655-medium-offsets 0.50(0) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.002145 : 655-medium-offsets 0.50(0) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.002145 : 655-medium-offsets 0.50(0) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.017770 : 655-medium-offsets 0.50(0) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.080268 : 655-medium-offsets 0.50(0) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.220903 : 655-medium-offsets 0.50(0) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.236520 : 655-medium-offsets 0.50(0) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.252147 : 655-medium-offsets 0.50(0) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.330269 : 655-medium-offsets 0.50(0) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.439646 : 655-medium-offsets 0.50(0) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.439646 : 655-medium-offsets 0.50(0) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.549022 : 655-medium-offsets 0.50(0) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.549022 : 655-medium-offsets 0.50(0) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.627146 : 655-medium-offsets 0.50(0) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.627146 : 655-medium-offsets 0.50(0) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.720897 : 655-medium-offsets 0.50(0) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.720897 : 655-medium-offsets 0.50(0) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.831083 : 655-medium-offsets 0.50(0) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.924582 : 655-medium-offsets 0.50(0) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:43.991581 : 655-medium-offsets 0.50(0) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.001582 : 655-medium-offsets 0.50(0) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.063585 : 655-medium-offsets 0.50(0) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.122584 : 655-medium-offsets 0.50(0) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.139583 : 655-medium-offsets 0.50(0) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.151582 : 655-medium-offsets 0.50(0) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.288594 : 655-medium-offsets 0.50(0) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.360582 : 655-medium-offsets 0.50(0) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.365583 : 655-medium-offsets 0.50(0) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.384585 : 655-medium-offsets 0.50(0) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.446589 : 655-medium-offsets 0.50(0) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.546585 : 655-medium-offsets 0.50(0) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.548584 : 655-medium-offsets 0.50(0) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.549585 : 655-medium-offsets 0.50(0) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.619588 : 655-medium-offsets 0.50(0) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:44.705586 : 655-medium-offsets 0.50(0) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.057599 : 655-medium-offsets 0.52(1) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.089599 : 655-medium-offsets 0.52(1) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.102599 : 655-medium-offsets 0.52(1) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.103599 : 655-medium-offsets 0.52(1) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.238600 : 655-medium-offsets 0.52(1) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.280602 : 655-medium-offsets 0.52(1) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.429600 : 655-medium-offsets 0.52(1) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.430600 : 655-medium-offsets 0.52(1) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.560602 : 655-medium-offsets 0.52(1) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.582603 : 655-medium-offsets 0.52(1) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.639619 : 655-medium-offsets 0.52(1) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.656603 : 655-medium-offsets 0.52(1) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.772603 : 655-medium-offsets 0.52(1) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.791603 : 655-medium-offsets 0.52(1) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.841605 : 655-medium-offsets 0.52(1) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:47.884607 : 655-medium-offsets 0.52(1) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.482025 : 655-medium-offsets 0.52(1) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.497520 : 655-medium-offsets 0.52(1) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.508524 : 655-medium-offsets 0.52(1) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.576522 : 655-medium-offsets 0.52(1) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.749524 : 655-medium-offsets 0.52(1) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.753546 : 655-medium-offsets 0.52(1) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.759522 : 655-medium-offsets 0.52(1) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:48.830524 : 655-medium-offsets 0.52(1) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.028527 : 655-medium-offsets 0.52(1) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.033527 : 655-medium-offsets 0.52(1) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.045524 : 655-medium-offsets 0.52(1) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.144528 : 655-medium-offsets 0.52(1) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.234528 : 655-medium-offsets 0.52(1) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.267525 : 655-medium-offsets 0.52(1) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.277525 : 655-medium-offsets 0.52(1) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.370538 : 655-medium-offsets 0.52(1) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.444526 : 655-medium-offsets 0.52(1) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.567528 : 655-medium-offsets 0.52(1) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.574527 : 655-medium-offsets 0.52(1) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.579530 : 655-medium-offsets 0.52(1) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.673529 : 655-medium-offsets 0.52(1) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.760528 : 655-medium-offsets 0.52(1) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.774528 : 655-medium-offsets 0.52(1) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.781528 : 655-medium-offsets 0.52(1) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.893528 : 655-medium-offsets 0.52(1) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.983529 : 655-medium-offsets 0.52(1) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:49.994528 : 655-medium-offsets 0.52(1) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.058529 : 655-medium-offsets 0.52(1) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.138558 : 655-medium-offsets 0.52(1) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.232529 : 655-medium-offsets 0.52(1) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.331532 : 655-medium-offsets 0.52(1) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.359531 : 655-medium-offsets 0.52(1) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.448534 : 655-medium-offsets 0.52(1) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:50.528530 : 655-medium-offsets 0.52(1) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.585596 : 655-medium-offsets 0.54(2) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.602595 : 655-medium-offsets 0.54(2) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.613598 : 655-medium-offsets 0.54(2) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.629596 : 655-medium-offsets 0.54(2) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.813596 : 655-medium-offsets 0.54(2) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.820598 : 655-medium-offsets 0.54(2) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.842598 : 655-medium-offsets 0.54(2) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:52.853596 : 655-medium-offsets 0.54(2) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.017597 : 655-medium-offsets 0.54(2) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.018599 : 655-medium-offsets 0.54(2) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.034597 : 655-medium-offsets 0.54(2) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.045599 : 655-medium-offsets 0.54(2) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.198599 : 655-medium-offsets 0.54(2) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.204599 : 655-medium-offsets 0.54(2) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.205600 : 655-medium-offsets 0.54(2) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.210600 : 655-medium-offsets 0.54(2) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.415603 : 655-medium-offsets 0.54(2) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.415603 : 655-medium-offsets 0.54(2) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.416600 : 655-medium-offsets 0.54(2) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.439605 : 655-medium-offsets 0.54(2) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.627608 : 655-medium-offsets 0.54(2) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.633601 : 655-medium-offsets 0.54(2) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.646601 : 655-medium-offsets 0.54(2) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.652604 : 655-medium-offsets 0.54(2) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.808603 : 655-medium-offsets 0.54(2) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.835605 : 655-medium-offsets 0.54(2) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.863605 : 655-medium-offsets 0.54(2) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:53.901601 : 655-medium-offsets 0.54(2) 27 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.045609 : 655-medium-offsets 0.54(2) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.074612 : 655-medium-offsets 0.54(2) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.089604 : 655-medium-offsets 0.54(2) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.113604 : 655-medium-offsets 0.54(2) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.253605 : 655-medium-offsets 0.54(2) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.267605 : 655-medium-offsets 0.54(2) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.278607 : 655-medium-offsets 0.54(2) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.282607 : 655-medium-offsets 0.54(2) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.438608 : 655-medium-offsets 0.54(2) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.443605 : 655-medium-offsets 0.54(2) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.444608 : 655-medium-offsets 0.54(2) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.451609 : 655-medium-offsets 0.54(2) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.621605 : 655-medium-offsets 0.54(2) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.626606 : 655-medium-offsets 0.54(2) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.638609 : 655-medium-offsets 0.54(2) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.649607 : 655-medium-offsets 0.54(2) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.776609 : 655-medium-offsets 0.54(2) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.790610 : 655-medium-offsets 0.54(2) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.806607 : 655-medium-offsets 0.54(2) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.812607 : 655-medium-offsets 0.54(2) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.950607 : 655-medium-offsets 0.54(2) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:54.950607 : 655-medium-offsets 0.54(2) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:56.941662 : 655-medium-offsets 0.56(3) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:56.945662 : 655-medium-offsets 0.56(3) 0 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:56.953662 : 655-medium-offsets 0.56(3) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:56.959660 : 655-medium-offsets 0.56(3) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.151669 : 655-medium-offsets 0.56(3) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.164663 : 655-medium-offsets 0.56(3) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.167664 : 655-medium-offsets 0.56(3) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.167664 : 655-medium-offsets 0.56(3) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.404663 : 655-medium-offsets 0.56(3) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.417678 : 655-medium-offsets 0.56(3) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.418667 : 655-medium-offsets 0.56(3) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.429663 : 655-medium-offsets 0.56(3) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.611667 : 655-medium-offsets 0.56(3) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.615664 : 655-medium-offsets 0.56(3) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.617663 : 655-medium-offsets 0.56(3) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.639665 : 655-medium-offsets 0.56(3) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.823665 : 655-medium-offsets 0.56(3) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.823665 : 655-medium-offsets 0.56(3) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.831668 : 655-medium-offsets 0.56(3) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:57.872666 : 655-medium-offsets 0.56(3) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.013668 : 655-medium-offsets 0.56(3) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.018669 : 655-medium-offsets 0.56(3) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.031668 : 655-medium-offsets 0.56(3) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.056666 : 655-medium-offsets 0.56(3) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.197669 : 655-medium-offsets 0.56(3) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.238669 : 655-medium-offsets 0.56(3) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.238669 : 655-medium-offsets 0.56(3) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.280675 : 655-medium-offsets 0.56(3) 27 	-> hopa gdpa-hopa
+2023-01-19 10:27:58.437669 : 655-medium-offsets 0.56(3) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.438670 : 655-medium-offsets 0.56(3) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.440671 : 655-medium-offsets 0.56(3) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.448670 : 655-medium-offsets 0.56(3) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.613671 : 655-medium-offsets 0.56(3) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.679695 : 655-medium-offsets 0.56(3) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.682669 : 655-medium-offsets 0.56(3) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.687672 : 655-medium-offsets 0.56(3) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.853673 : 655-medium-offsets 0.56(3) 36 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.857672 : 655-medium-offsets 0.56(3) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.858671 : 655-medium-offsets 0.56(3) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:58.882671 : 655-medium-offsets 0.56(3) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.034674 : 655-medium-offsets 0.56(3) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.041687 : 655-medium-offsets 0.56(3) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.044674 : 655-medium-offsets 0.56(3) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.061673 : 655-medium-offsets 0.56(3) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.480892 : 655-medium-offsets 0.56(3) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.499894 : 655-medium-offsets 0.56(3) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.502893 : 655-medium-offsets 0.56(3) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.504893 : 655-medium-offsets 0.56(3) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.653894 : 655-medium-offsets 0.56(3) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:27:59.656894 : 655-medium-offsets 0.56(3) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:01.761815 : 655-medium-offsets 0.58(4) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:01.763823 : 655-medium-offsets 0.58(4) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:01.764809 : 655-medium-offsets 0.58(4) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:01.826810 : 655-medium-offsets 0.58(4) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:02.089809 : 655-medium-offsets 0.58(4) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.092826 : 655-medium-offsets 0.58(4) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.102815 : 655-medium-offsets 0.58(4) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.131816 : 655-medium-offsets 0.58(4) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.339812 : 655-medium-offsets 0.58(4) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.342811 : 655-medium-offsets 0.58(4) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.345811 : 655-medium-offsets 0.58(4) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.391811 : 655-medium-offsets 0.58(4) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.532815 : 655-medium-offsets 0.58(4) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.550812 : 655-medium-offsets 0.58(4) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.558813 : 655-medium-offsets 0.58(4) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.585813 : 655-medium-offsets 0.58(4) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.705813 : 655-medium-offsets 0.58(4) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.723814 : 655-medium-offsets 0.58(4) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.724814 : 655-medium-offsets 0.58(4) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.790811 : 655-medium-offsets 0.58(4) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.889812 : 655-medium-offsets 0.58(4) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.908815 : 655-medium-offsets 0.58(4) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.921818 : 655-medium-offsets 0.58(4) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:02.990816 : 655-medium-offsets 0.58(4) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.078814 : 655-medium-offsets 0.58(4) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.091813 : 655-medium-offsets 0.58(4) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.136815 : 655-medium-offsets 0.58(4) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.234816 : 655-medium-offsets 0.58(4) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:03.275821 : 655-medium-offsets 0.58(4) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.289819 : 655-medium-offsets 0.58(4) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.368819 : 655-medium-offsets 0.58(4) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.453820 : 655-medium-offsets 0.58(4) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.488820 : 655-medium-offsets 0.58(4) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.511817 : 655-medium-offsets 0.58(4) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.574817 : 655-medium-offsets 0.58(4) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.667819 : 655-medium-offsets 0.58(4) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.721819 : 655-medium-offsets 0.58(4) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:03.738819 : 655-medium-offsets 0.58(4) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:03.767836 : 655-medium-offsets 0.58(4) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.019054 : 655-medium-offsets 0.58(4) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.053061 : 655-medium-offsets 0.58(4) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.106041 : 655-medium-offsets 0.58(4) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.109040 : 655-medium-offsets 0.58(4) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.221043 : 655-medium-offsets 0.58(4) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.304042 : 655-medium-offsets 0.58(4) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.309040 : 655-medium-offsets 0.58(4) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.381041 : 655-medium-offsets 0.58(4) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.460044 : 655-medium-offsets 0.58(4) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.495042 : 655-medium-offsets 0.58(4) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:05.505039 : 655-medium-offsets 0.58(4) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.733656 : 655-medium-offsets 0.61(5) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.739657 : 655-medium-offsets 0.61(5) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.761653 : 655-medium-offsets 0.61(5) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:07.779656 : 655-medium-offsets 0.61(5) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.907658 : 655-medium-offsets 0.61(5) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.915658 : 655-medium-offsets 0.61(5) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.944658 : 655-medium-offsets 0.61(5) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:07.951659 : 655-medium-offsets 0.61(5) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.093656 : 655-medium-offsets 0.61(5) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.099655 : 655-medium-offsets 0.61(5) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.120659 : 655-medium-offsets 0.61(5) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.120659 : 655-medium-offsets 0.61(5) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.275658 : 655-medium-offsets 0.61(5) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.288658 : 655-medium-offsets 0.61(5) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.294657 : 655-medium-offsets 0.61(5) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.333659 : 655-medium-offsets 0.61(5) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.472662 : 655-medium-offsets 0.61(5) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.474659 : 655-medium-offsets 0.61(5) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.490659 : 655-medium-offsets 0.61(5) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.591658 : 655-medium-offsets 0.61(5) 19 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.688683 : 655-medium-offsets 0.61(5) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.722659 : 655-medium-offsets 0.61(5) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.730662 : 655-medium-offsets 0.61(5) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.816662 : 655-medium-offsets 0.61(5) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.936671 : 655-medium-offsets 0.61(5) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.963662 : 655-medium-offsets 0.61(5) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:08.996659 : 655-medium-offsets 0.61(5) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.122664 : 655-medium-offsets 0.61(5) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:09.194661 : 655-medium-offsets 0.61(5) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.214663 : 655-medium-offsets 0.61(5) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.306667 : 655-medium-offsets 0.61(5) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.358665 : 655-medium-offsets 0.61(5) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.424664 : 655-medium-offsets 0.61(5) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.440666 : 655-medium-offsets 0.61(5) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.561664 : 655-medium-offsets 0.61(5) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.578665 : 655-medium-offsets 0.61(5) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.672686 : 655-medium-offsets 0.61(5) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.679664 : 655-medium-offsets 0.61(5) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:09.807667 : 655-medium-offsets 0.61(5) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.823667 : 655-medium-offsets 0.61(5) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.905691 : 655-medium-offsets 0.61(5) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:09.924669 : 655-medium-offsets 0.61(5) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.046667 : 655-medium-offsets 0.61(5) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.078668 : 655-medium-offsets 0.61(5) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.118670 : 655-medium-offsets 0.61(5) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.165666 : 655-medium-offsets 0.61(5) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.300668 : 655-medium-offsets 0.61(5) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.329667 : 655-medium-offsets 0.61(5) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.357672 : 655-medium-offsets 0.61(5) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:10.390678 : 655-medium-offsets 0.61(5) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:12.828683 : 655-medium-offsets 0.63(6) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:12.843684 : 655-medium-offsets 0.63(6) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:12.866680 : 655-medium-offsets 0.63(6) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:12.918681 : 655-medium-offsets 0.63(6) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:13.033683 : 655-medium-offsets 0.63(6) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.087681 : 655-medium-offsets 0.63(6) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.097683 : 655-medium-offsets 0.63(6) 6 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.130685 : 655-medium-offsets 0.63(6) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.251686 : 655-medium-offsets 0.63(6) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.330687 : 655-medium-offsets 0.63(6) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.337687 : 655-medium-offsets 0.63(6) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:13.346684 : 655-medium-offsets 0.63(6) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.483263 : 655-medium-offsets 0.63(6) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.546262 : 655-medium-offsets 0.63(6) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.566262 : 655-medium-offsets 0.63(6) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.575291 : 655-medium-offsets 0.63(6) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.712263 : 655-medium-offsets 0.63(6) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.775280 : 655-medium-offsets 0.63(6) 17 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.783265 : 655-medium-offsets 0.63(6) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:14.852263 : 655-medium-offsets 0.63(6) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:14.943278 : 655-medium-offsets 0.63(6) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.016263 : 655-medium-offsets 0.63(6) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.022263 : 655-medium-offsets 0.63(6) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.085264 : 655-medium-offsets 0.63(6) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.156783 : 655-medium-offsets 0.63(6) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.232784 : 655-medium-offsets 0.63(6) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.288781 : 655-medium-offsets 0.63(6) 26 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.397784 : 655-medium-offsets 0.63(6) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.429782 : 655-medium-offsets 0.63(6) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:15.430782 : 655-medium-offsets 0.63(6) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.531782 : 655-medium-offsets 0.63(6) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.612785 : 655-medium-offsets 0.63(6) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.646783 : 655-medium-offsets 0.63(6) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.717784 : 655-medium-offsets 0.63(6) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.820784 : 655-medium-offsets 0.63(6) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.920786 : 655-medium-offsets 0.63(6) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:15.921787 : 655-medium-offsets 0.63(6) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:15.987786 : 655-medium-offsets 0.63(6) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.098785 : 655-medium-offsets 0.63(6) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.131785 : 655-medium-offsets 0.63(6) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.132786 : 655-medium-offsets 0.63(6) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.188786 : 655-medium-offsets 0.63(6) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.436791 : 655-medium-offsets 0.63(6) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.439789 : 655-medium-offsets 0.63(6) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.445790 : 655-medium-offsets 0.63(6) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.538788 : 655-medium-offsets 0.63(6) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.679791 : 655-medium-offsets 0.63(6) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.695790 : 655-medium-offsets 0.63(6) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.765792 : 655-medium-offsets 0.63(6) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:16.766790 : 655-medium-offsets 0.63(6) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.143803 : 655-medium-offsets 0.65(7) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.149804 : 655-medium-offsets 0.65(7) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.151802 : 655-medium-offsets 0.65(7) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.223802 : 655-medium-offsets 0.65(7) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:19.381805 : 655-medium-offsets 0.65(7) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.402802 : 655-medium-offsets 0.65(7) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.405803 : 655-medium-offsets 0.65(7) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:19.437804 : 655-medium-offsets 0.65(7) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.605804 : 655-medium-offsets 0.65(7) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.635804 : 655-medium-offsets 0.65(7) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.648824 : 655-medium-offsets 0.65(7) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.667808 : 655-medium-offsets 0.65(7) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:19.958524 : 655-medium-offsets 0.65(7) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.025524 : 655-medium-offsets 0.65(7) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.026525 : 655-medium-offsets 0.65(7) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.039525 : 655-medium-offsets 0.65(7) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.187524 : 655-medium-offsets 0.65(7) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.241526 : 655-medium-offsets 0.65(7) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.266526 : 655-medium-offsets 0.65(7) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:20.410526 : 655-medium-offsets 0.65(7) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:20.469526 : 655-medium-offsets 0.65(7) 21 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.500527 : 655-medium-offsets 0.65(7) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.537527 : 655-medium-offsets 0.65(7) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.652528 : 655-medium-offsets 0.65(7) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.737528 : 655-medium-offsets 0.65(7) 24 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.793529 : 655-medium-offsets 0.65(7) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.804529 : 655-medium-offsets 0.65(7) 26 	-> hopa gdpa-hopa
+2023-01-19 10:28:20.971530 : 655-medium-offsets 0.65(7) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:20.984529 : 655-medium-offsets 0.65(7) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:20.991529 : 655-medium-offsets 0.65(7) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.021529 : 655-medium-offsets 0.65(7) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.168532 : 655-medium-offsets 0.65(7) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.223530 : 655-medium-offsets 0.65(7) 32 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.224532 : 655-medium-offsets 0.65(7) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.235531 : 655-medium-offsets 0.65(7) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.568531 : 655-medium-offsets 0.65(7) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.652535 : 655-medium-offsets 0.65(7) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.653534 : 655-medium-offsets 0.65(7) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:21.668535 : 655-medium-offsets 0.65(7) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.784535 : 655-medium-offsets 0.65(7) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.857534 : 655-medium-offsets 0.65(7) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:21.872534 : 655-medium-offsets 0.65(7) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.160539 : 655-medium-offsets 0.65(7) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.250535 : 655-medium-offsets 0.65(7) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.316541 : 655-medium-offsets 0.65(7) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.375538 : 655-medium-offsets 0.65(7) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.421540 : 655-medium-offsets 0.65(7) 46 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.467560 : 655-medium-offsets 0.65(7) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.535543 : 655-medium-offsets 0.65(7) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:22.568540 : 655-medium-offsets 0.65(7) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.444848 : 655-medium-offsets 0.67(8) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.445849 : 655-medium-offsets 0.67(8) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.454845 : 655-medium-offsets 0.67(8) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.504848 : 655-medium-offsets 0.67(8) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:25.672849 : 655-medium-offsets 0.67(8) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.696845 : 655-medium-offsets 0.67(8) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.700854 : 655-medium-offsets 0.67(8) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.723846 : 655-medium-offsets 0.67(8) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:25.881848 : 655-medium-offsets 0.67(8) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.924848 : 655-medium-offsets 0.67(8) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.937850 : 655-medium-offsets 0.67(8) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:25.940851 : 655-medium-offsets 0.67(8) 9 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.152873 : 655-medium-offsets 0.67(8) 12 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.165851 : 655-medium-offsets 0.67(8) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.174851 : 655-medium-offsets 0.67(8) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.288850 : 655-medium-offsets 0.67(8) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.379850 : 655-medium-offsets 0.67(8) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.393850 : 655-medium-offsets 0.67(8) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:26.400851 : 655-medium-offsets 0.67(8) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.555849 : 655-medium-offsets 0.67(8) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.603850 : 655-medium-offsets 0.67(8) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:26.618852 : 655-medium-offsets 0.67(8) 21 	-> hopa gdpa-hopa
+2023-01-19 10:28:26.625851 : 655-medium-offsets 0.67(8) 22 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.767853 : 655-medium-offsets 0.67(8) 23 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.826851 : 655-medium-offsets 0.67(8) 24 	-> hopa gdpa-hopa
+2023-01-19 10:28:26.835851 : 655-medium-offsets 0.67(8) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:26.920851 : 655-medium-offsets 0.67(8) 26 	-> hopa gdpa-hopa
+2023-01-19 10:28:27.065856 : 655-medium-offsets 0.67(8) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.110855 : 655-medium-offsets 0.67(8) 28 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.124855 : 655-medium-offsets 0.67(8) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:27.167856 : 655-medium-offsets 0.67(8) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.240854 : 655-medium-offsets 0.67(8) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.299855 : 655-medium-offsets 0.67(8) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.322877 : 655-medium-offsets 0.67(8) 32 	-> hopa gdpa-hopa
+2023-01-19 10:28:27.467859 : 655-medium-offsets 0.67(8) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.554868 : 655-medium-offsets 0.67(8) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.656857 : 655-medium-offsets 0.67(8) 37 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.677857 : 655-medium-offsets 0.67(8) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:27.709857 : 655-medium-offsets 0.67(8) 38 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.763860 : 655-medium-offsets 0.67(8) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.888861 : 655-medium-offsets 0.67(8) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.890861 : 655-medium-offsets 0.67(8) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.948862 : 655-medium-offsets 0.67(8) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:27.989859 : 655-medium-offsets 0.67(8) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:28.130858 : 655-medium-offsets 0.67(8) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:28.187873 : 655-medium-offsets 0.67(8) 45 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:28.242862 : 655-medium-offsets 0.67(8) 46 	-> hopa gdpa-hopa
+2023-01-19 10:28:28.281859 : 655-medium-offsets 0.67(8) 47 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:28.380861 : 655-medium-offsets 0.67(8) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:28.388861 : 655-medium-offsets 0.67(8) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.643875 : 655-medium-offsets 0.69(9) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.647874 : 655-medium-offsets 0.69(9) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.708875 : 655-medium-offsets 0.69(9) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.727872 : 655-medium-offsets 0.69(9) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:30.885875 : 655-medium-offsets 0.69(9) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.907877 : 655-medium-offsets 0.69(9) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.944873 : 655-medium-offsets 0.69(9) 7 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:30.982874 : 655-medium-offsets 0.69(9) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.125878 : 655-medium-offsets 0.69(9) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.167878 : 655-medium-offsets 0.69(9) 9 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.200875 : 655-medium-offsets 0.69(9) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.257879 : 655-medium-offsets 0.69(9) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.426881 : 655-medium-offsets 0.69(9) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.434875 : 655-medium-offsets 0.69(9) 12 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.449877 : 655-medium-offsets 0.69(9) 13 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.526880 : 655-medium-offsets 0.69(9) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.683878 : 655-medium-offsets 0.69(9) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.715878 : 655-medium-offsets 0.69(9) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.718891 : 655-medium-offsets 0.69(9) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.911879 : 655-medium-offsets 0.69(9) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.952883 : 655-medium-offsets 0.69(9) 20 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:31.966882 : 655-medium-offsets 0.69(9) 21 	-> hopa gdpa-hopa
+2023-01-19 10:28:31.992899 : 655-medium-offsets 0.69(9) 22 	-> hopa gdpa-hopa
+2023-01-19 10:28:32.177882 : 655-medium-offsets 0.69(9) 23 	-> hopa gdpa-hopa
+2023-01-19 10:28:32.244884 : 655-medium-offsets 0.69(9) 24 	-> hopa gdpa-hopa
+2023-01-19 10:28:32.264880 : 655-medium-offsets 0.69(9) 25 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:32.376883 : 655-medium-offsets 0.69(9) 26 	-> hopa gdpa-hopa
+2023-01-19 10:28:32.493885 : 655-medium-offsets 0.69(9) 29 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.110801 : 655-medium-offsets 0.69(9) 28 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.130801 : 655-medium-offsets 0.69(9) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.227801 : 655-medium-offsets 0.69(9) 30 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.327834 : 655-medium-offsets 0.69(9) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.405818 : 655-medium-offsets 0.69(9) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.460803 : 655-medium-offsets 0.69(9) 32 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.496804 : 655-medium-offsets 0.69(9) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.541813 : 655-medium-offsets 0.69(9) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:33.727804 : 655-medium-offsets 0.69(9) 37 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.742825 : 655-medium-offsets 0.69(9) 38 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.744805 : 655-medium-offsets 0.69(9) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:33.763805 : 655-medium-offsets 0.69(9) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.026807 : 655-medium-offsets 0.69(9) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.044809 : 655-medium-offsets 0.69(9) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.059816 : 655-medium-offsets 0.69(9) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.144806 : 655-medium-offsets 0.69(9) 42 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.250807 : 655-medium-offsets 0.69(9) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.348808 : 655-medium-offsets 0.69(9) 45 	-> hopa gdpa-hopa
+2023-01-19 10:28:34.546809 : 655-medium-offsets 0.69(9) 47 	-> hopa gdpa-hopa
+2023-01-19 10:28:34.565808 : 655-medium-offsets 0.69(9) 46 	-> hopa gdpa-hopa
+2023-01-19 10:28:34.664810 : 655-medium-offsets 0.69(9) 48 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:34.719840 : 655-medium-offsets 0.69(9) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:36.962822 : 655-medium-offsets 0.71(10) 1 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:36.972825 : 655-medium-offsets 0.71(10) 2 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.012824 : 655-medium-offsets 0.71(10) 3 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.130823 : 655-medium-offsets 0.71(10) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.213824 : 655-medium-offsets 0.71(10) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.261832 : 655-medium-offsets 0.71(10) 4 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.271824 : 655-medium-offsets 0.71(10) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.346829 : 655-medium-offsets 0.71(10) 7 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.457826 : 655-medium-offsets 0.71(10) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.483856 : 655-medium-offsets 0.71(10) 9 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.519825 : 655-medium-offsets 0.71(10) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.685826 : 655-medium-offsets 0.71(10) 11 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.737827 : 655-medium-offsets 0.71(10) 12 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.764835 : 655-medium-offsets 0.71(10) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.765827 : 655-medium-offsets 0.71(10) 13 	-> hopa gdpa-hopa
+2023-01-19 10:28:37.955826 : 655-medium-offsets 0.71(10) 15 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:37.989826 : 655-medium-offsets 0.71(10) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:38.007828 : 655-medium-offsets 0.71(10) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.019828 : 655-medium-offsets 0.71(10) 16 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:38.229828 : 655-medium-offsets 0.71(10) 20 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.288831 : 655-medium-offsets 0.71(10) 21 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.332829 : 655-medium-offsets 0.71(10) 22 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.391828 : 655-medium-offsets 0.71(10) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.504831 : 655-medium-offsets 0.71(10) 23 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.623828 : 655-medium-offsets 0.71(10) 24 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.689830 : 655-medium-offsets 0.71(10) 25 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.856832 : 655-medium-offsets 0.71(10) 26 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.934832 : 655-medium-offsets 0.71(10) 28 	-> hopa gdpa-hopa
+2023-01-19 10:28:38.954832 : 655-medium-offsets 0.71(10) 29 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.114835 : 655-medium-offsets 0.71(10) 30 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.139834 : 655-medium-offsets 0.71(10) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.297833 : 655-medium-offsets 0.71(10) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.320832 : 655-medium-offsets 0.71(10) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.388833 : 655-medium-offsets 0.71(10) 34 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.484837 : 655-medium-offsets 0.71(10) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.647839 : 655-medium-offsets 0.71(10) 37 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.730845 : 655-medium-offsets 0.71(10) 38 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.754835 : 655-medium-offsets 0.71(10) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:39.861847 : 655-medium-offsets 0.71(10) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.962845 : 655-medium-offsets 0.71(10) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:39.968837 : 655-medium-offsets 0.71(10) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:40.174838 : 655-medium-offsets 0.71(10) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:40.175839 : 655-medium-offsets 0.71(10) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:40.191841 : 655-medium-offsets 0.71(10) 42 	-> hopa gdpa-hopa
+2023-01-19 10:28:40.406840 : 655-medium-offsets 0.71(10) 47 	-> hopa gdpa-hopa
+2023-01-19 10:28:40.464850 : 655-medium-offsets 0.71(10) 45 	-> hopa gdpa-hopa
+2023-01-19 10:28:40.528844 : 655-medium-offsets 0.71(10) 46 	-> hopa gdpa-hopa
+2023-01-19 10:28:40.614840 : 655-medium-offsets 0.71(10) 48 	-> hopa gdpa-hopa
+2023-01-19 10:28:40.659842 : 655-medium-offsets 0.71(10) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:40.807843 : 655-medium-offsets 0.71(10) 32 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.076855 : 655-medium-offsets 0.73(11) 1 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.085855 : 655-medium-offsets 0.73(11) 2 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.125853 : 655-medium-offsets 0.73(11) 3 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.234858 : 655-medium-offsets 0.73(11) 0 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.350862 : 655-medium-offsets 0.73(11) 5 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:43.394857 : 655-medium-offsets 0.73(11) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.697906 : 655-medium-offsets 0.73(11) 7 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.708892 : 655-medium-offsets 0.73(11) 4 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.823892 : 655-medium-offsets 0.73(11) 8 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:43.936893 : 655-medium-offsets 0.73(11) 9 	-> hopa gdpa-hopa
+2023-01-19 10:28:43.996896 : 655-medium-offsets 0.73(11) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:44.035896 : 655-medium-offsets 0.73(11) 11 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.170895 : 655-medium-offsets 0.73(11) 12 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.252896 : 655-medium-offsets 0.73(11) 14 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:44.288895 : 655-medium-offsets 0.73(11) 13 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.373897 : 655-medium-offsets 0.73(11) 15 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.456899 : 655-medium-offsets 0.73(11) 16 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.508897 : 655-medium-offsets 0.73(11) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.512900 : 655-medium-offsets 0.73(11) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:44.709896 : 655-medium-offsets 0.73(11) 20 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.804898 : 655-medium-offsets 0.73(11) 21 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.910901 : 655-medium-offsets 0.73(11) 22 	-> hopa gdpa-hopa
+2023-01-19 10:28:44.995898 : 655-medium-offsets 0.73(11) 19 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.109901 : 655-medium-offsets 0.73(11) 23 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.159899 : 655-medium-offsets 0.73(11) 24 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.302917 : 655-medium-offsets 0.73(11) 25 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.527905 : 655-medium-offsets 0.73(11) 28 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.562904 : 655-medium-offsets 0.73(11) 29 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.812904 : 655-medium-offsets 0.73(11) 30 	-> hopa gdpa-hopa
+2023-01-19 10:28:45.820903 : 655-medium-offsets 0.73(11) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:45.885927 : 655-medium-offsets 0.73(11) 27 	-> hopa gdpa-hopa
+2023-01-19 10:28:46.046907 : 655-medium-offsets 0.73(11) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:46.144904 : 655-medium-offsets 0.73(11) 34 	-> hopa gdpa-hopa
+2023-01-19 10:28:46.257907 : 655-medium-offsets 0.73(11) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:46.589907 : 655-medium-offsets 0.73(11) 37 	-> hopa gdpa-hopa
+2023-01-19 10:28:46.723908 : 655-medium-offsets 0.73(11) 36 	-> hopa gdpa-hopa
+2023-01-19 10:28:46.851927 : 655-medium-offsets 0.73(11) 38 	-> hopa gdpa-hopa
+2023-01-19 10:28:46.963908 : 655-medium-offsets 0.73(11) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:47.116911 : 655-medium-offsets 0.73(11) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:47.196912 : 655-medium-offsets 0.73(11) 41 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:47.413910 : 655-medium-offsets 0.73(11) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:47.431912 : 655-medium-offsets 0.73(11) 42 	-> hopa gdpa-hopa
+2023-01-19 10:28:47.626914 : 655-medium-offsets 0.73(11) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:47.741915 : 655-medium-offsets 0.73(11) 45 	-> hopa gdpa-hopa
+2023-01-19 10:28:48.069924 : 655-medium-offsets 0.73(11) 46 	-> hopa gdpa-hopa
+2023-01-19 10:28:48.099916 : 655-medium-offsets 0.73(11) 47 	-> hopa gdpa-hopa
+2023-01-19 10:28:48.331915 : 655-medium-offsets 0.73(11) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:48.380948 : 655-medium-offsets 0.73(11) 48 	-> hopa gdpa-hopa
+2023-01-19 10:28:51.449933 : 655-medium-offsets 0.73(11) 26 	-> hopa gdpa-hopa
+2023-01-19 10:28:52.101472 : 655-medium-offsets 0.73(11) 32 	-> gdpa-hopa
+2023-01-19 10:28:53.910482 : 655-medium-offsets 0.75(12) 1 	-> hopa gdpa-hopa
+2023-01-19 10:28:53.928485 : 655-medium-offsets 0.75(12) 2 	-> hopa gdpa-hopa
+2023-01-19 10:28:53.939487 : 655-medium-offsets 0.75(12) 3 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.159487 : 655-medium-offsets 0.75(12) 5 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.206488 : 655-medium-offsets 0.75(12) 6 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.242485 : 655-medium-offsets 0.75(12) 4 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.364515 : 655-medium-offsets 0.75(12) 7 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.477489 : 655-medium-offsets 0.75(12) 8 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.512489 : 655-medium-offsets 0.75(12) 9 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.588488 : 655-medium-offsets 0.75(12) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:54.795490 : 655-medium-offsets 0.75(12) 12 	-> hopa gdpa-hopa
+2023-01-19 10:28:54.910489 : 655-medium-offsets 0.75(12) 13 	-> hopa gdpa-hopa
+2023-01-19 10:28:55.050487 : 655-medium-offsets 0.75(12) 14 	-> hopa gdpa-hopa
+2023-01-19 10:28:55.153488 : 655-medium-offsets 0.75(12) 15 	-> hopa gdpa-hopa
+2023-01-19 10:28:55.318489 : 655-medium-offsets 0.75(12) 16 	-> hopa gdpa-hopa
+2023-01-19 10:28:55.394490 : 655-medium-offsets 0.75(12) 17 	-> hopa gdpa-hopa
+2023-01-19 10:28:55.509492 : 655-medium-offsets 0.75(12) 18 	-> pd hopa gdpa-hopa
+2023-01-19 10:28:55.718494 : 655-medium-offsets 0.75(12) 20 	-> hopa gdpa-hopa
+2023-01-19 10:28:56.009497 : 655-medium-offsets 0.75(12) 21 	-> hopa gdpa-hopa
+2023-01-19 10:28:56.334497 : 655-medium-offsets 0.75(12) 22 	-> hopa gdpa-hopa
+2023-01-19 10:28:56.715501 : 655-medium-offsets 0.75(12) 23 	-> hopa gdpa-hopa
+2023-01-19 10:28:57.170769 : 655-medium-offsets 0.75(12) 24 	-> hopa gdpa-hopa
+2023-01-19 10:28:57.597772 : 655-medium-offsets 0.75(12) 25 	-> hopa gdpa-hopa
+2023-01-19 10:28:58.983903 : 655-medium-offsets 0.75(12) 11 	-> gdpa-hopa
+2023-01-19 10:28:59.606906 : 655-medium-offsets 0.75(12) 27 	-> hopa gdpa-hopa
+2023-01-19 10:29:00.016911 : 655-medium-offsets 0.75(12) 0 	-> hopa gdpa-hopa
+2023-01-19 10:29:00.249913 : 655-medium-offsets 0.75(12) 29 	-> hopa gdpa-hopa
+2023-01-19 10:29:00.546911 : 655-medium-offsets 0.75(12) 30 	-> hopa gdpa-hopa
+2023-01-19 10:29:00.756912 : 655-medium-offsets 0.75(12) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:00.913911 : 655-medium-offsets 0.75(12) 19 	-> gdpa-hopa
+2023-01-19 10:29:01.126915 : 655-medium-offsets 0.75(12) 33 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:01.329917 : 655-medium-offsets 0.75(12) 34 	-> hopa gdpa-hopa
+2023-01-19 10:29:01.503919 : 655-medium-offsets 0.75(12) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:01.923918 : 655-medium-offsets 0.75(12) 28 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.002919 : 655-medium-offsets 0.75(12) 36 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.249921 : 655-medium-offsets 0.75(12) 38 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.272920 : 655-medium-offsets 0.75(12) 37 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.475921 : 655-medium-offsets 0.75(12) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:02.496923 : 655-medium-offsets 0.75(12) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:02.701921 : 655-medium-offsets 0.75(12) 41 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.800925 : 655-medium-offsets 0.75(12) 42 	-> hopa gdpa-hopa
+2023-01-19 10:29:02.917926 : 655-medium-offsets 0.75(12) 43 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:02.982925 : 655-medium-offsets 0.75(12) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:03.328928 : 655-medium-offsets 0.75(12) 45 	-> hopa gdpa-hopa
+2023-01-19 10:29:03.423931 : 655-medium-offsets 0.75(12) 46 	-> hopa gdpa-hopa
+2023-01-19 10:29:03.723926 : 655-medium-offsets 0.75(12) 48 	-> hopa gdpa-hopa
+2023-01-19 10:29:03.768929 : 655-medium-offsets 0.75(12) 47 	-> hopa gdpa-hopa
+2023-01-19 10:29:03.919931 : 655-medium-offsets 0.75(12) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:06.588944 : 655-medium-offsets 0.75(12) 26 	-> 
+2023-01-19 10:29:13.013977 : 655-medium-offsets 0.75(12) 32 	-> gdpa-hopa
+2023-01-19 10:29:14.895984 : 655-medium-offsets 0.77(13) 2 	-> hopa gdpa-hopa
+2023-01-19 10:29:14.910984 : 655-medium-offsets 0.77(13) 1 	-> hopa gdpa-hopa
+2023-01-19 10:29:14.920987 : 655-medium-offsets 0.77(13) 3 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.174987 : 655-medium-offsets 0.77(13) 5 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.214988 : 655-medium-offsets 0.77(13) 6 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.383985 : 655-medium-offsets 0.77(13) 7 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.446987 : 655-medium-offsets 0.77(13) 4 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.473989 : 655-medium-offsets 0.77(13) 8 	-> hopa gdpa-hopa
+2023-01-19 10:29:15.691011 : 655-medium-offsets 0.77(13) 10 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:15.999992 : 655-medium-offsets 0.77(13) 12 	-> hopa gdpa-hopa
+2023-01-19 10:29:16.569994 : 655-medium-offsets 0.77(13) 13 	-> hopa gdpa-hopa
+2023-01-19 10:29:16.859009 : 655-medium-offsets 0.77(13) 14 	-> hopa gdpa-hopa
+2023-01-19 10:29:17.159995 : 655-medium-offsets 0.77(13) 15 	-> hopa gdpa-hopa
+2023-01-19 10:29:17.442996 : 655-medium-offsets 0.77(13) 16 	-> hopa gdpa-hopa
+2023-01-19 10:29:17.738002 : 655-medium-offsets 0.77(13) 17 	-> hopa gdpa-hopa
+2023-01-19 10:29:18.011002 : 655-medium-offsets 0.77(13) 18 	-> hopa gdpa-hopa
+2023-01-19 10:29:18.990004 : 655-medium-offsets 0.77(13) 11 	-> gdpa-hopa
+2023-01-19 10:29:19.309008 : 655-medium-offsets 0.77(13) 20 	-> hopa gdpa-hopa
+2023-01-19 10:29:19.608009 : 655-medium-offsets 0.77(13) 21 	-> hopa gdpa-hopa
+2023-01-19 10:29:20.079011 : 655-medium-offsets 0.77(13) 22 	-> hopa gdpa-hopa
+2023-01-19 10:29:20.417012 : 655-medium-offsets 0.77(13) 23 	-> hopa gdpa-hopa
+2023-01-19 10:29:20.889018 : 655-medium-offsets 0.77(13) 24 	-> hopa gdpa-hopa
+2023-01-19 10:29:21.276019 : 655-medium-offsets 0.77(13) 25 	-> hopa gdpa-hopa
+2023-01-19 10:29:22.092023 : 655-medium-offsets 0.77(13) 9 	-> hopa gdpa-hopa
+2023-01-19 10:29:22.751026 : 655-medium-offsets 0.77(13) 27 	-> hopa gdpa-hopa
+2023-01-19 10:29:24.968036 : 655-medium-offsets 0.77(13) 0 	-> gdpa-hopa
+2023-01-19 10:29:25.051038 : 655-medium-offsets 0.77(13) 19 	-> gdpa-hopa
+2023-01-19 10:29:25.221038 : 655-medium-offsets 0.77(13) 29 	-> hopa gdpa-hopa
+2023-01-19 10:29:25.362040 : 655-medium-offsets 0.77(13) 30 	-> hopa gdpa-hopa
+2023-01-19 10:29:25.409039 : 655-medium-offsets 0.77(13) 31 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:25.628040 : 655-medium-offsets 0.77(13) 33 	-> hopa gdpa-hopa
+2023-01-19 10:29:25.854042 : 655-medium-offsets 0.77(13) 34 	-> hopa gdpa-hopa
+2023-01-19 10:29:26.059043 : 655-medium-offsets 0.77(13) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:26.446044 : 655-medium-offsets 0.77(13) 36 	-> hopa gdpa-hopa
+2023-01-19 10:29:26.839047 : 655-medium-offsets 0.77(13) 37 	-> hopa gdpa-hopa
+2023-01-19 10:29:27.092048 : 655-medium-offsets 0.77(13) 38 	-> hopa gdpa-hopa
+2023-01-19 10:29:27.323050 : 655-medium-offsets 0.77(13) 39 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:27.520052 : 655-medium-offsets 0.77(13) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:27.749051 : 655-medium-offsets 0.77(13) 41 	-> hopa gdpa-hopa
+2023-01-19 10:29:28.078052 : 655-medium-offsets 0.77(13) 42 	-> hopa gdpa-hopa
+2023-01-19 10:29:28.313054 : 655-medium-offsets 0.77(13) 43 	-> hopa gdpa-hopa
+2023-01-19 10:29:28.515056 : 655-medium-offsets 0.77(13) 44 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:28.907058 : 655-medium-offsets 0.77(13) 45 	-> hopa gdpa-hopa
+2023-01-19 10:29:31.524068 : 655-medium-offsets 0.77(13) 28 	-> gdpa-hopa
+2023-01-19 10:29:31.620070 : 655-medium-offsets 0.77(13) 26 	-> 
+2023-01-19 10:29:31.917072 : 655-medium-offsets 0.77(13) 48 	-> hopa gdpa-hopa
+2023-01-19 10:29:31.996074 : 655-medium-offsets 0.77(13) 47 	-> hopa gdpa-hopa
+2023-01-19 10:29:32.154073 : 655-medium-offsets 0.77(13) 49 	-> pd hopa gdpa-hopa
+2023-01-19 10:29:32.906075 : 655-medium-offsets 0.77(13) 46 	-> hopa gdpa-hopa
+2023-01-19 10:29:42.371762 : 655-medium-offsets 0.77(13) 32 	-> 
+2023-01-19 10:29:44.204741 : 655-medium-offsets 0.79(14) 2 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.246751 : 655-medium-offsets 0.79(14) 1 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.371743 : 655-medium-offsets 0.79(14) 3 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.562744 : 655-medium-offsets 0.79(14) 5 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.698746 : 655-medium-offsets 0.79(14) 6 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.758745 : 655-medium-offsets 0.79(14) 7 	-> hopa gdpa-hopa
+2023-01-19 10:29:44.970744 : 655-medium-offsets 0.79(14) 8 	-> hopa gdpa-hopa
+2023-01-19 10:29:45.371745 : 655-medium-offsets 0.79(14) 10 	-> hopa gdpa-hopa
+2023-01-19 10:29:46.424753 : 655-medium-offsets 0.79(14) 4 	-> hopa gdpa-hopa
+2023-01-19 10:29:46.823755 : 655-medium-offsets 0.79(14) 12 	-> hopa gdpa-hopa
+2023-01-19 10:29:47.311755 : 655-medium-offsets 0.79(14) 13 	-> hopa gdpa-hopa
+2023-01-19 10:29:47.599760 : 655-medium-offsets 0.79(14) 14 	-> hopa gdpa-hopa
+2023-01-19 10:29:47.908758 : 655-medium-offsets 0.79(14) 15 	-> hopa gdpa-hopa
+2023-01-19 10:29:48.207761 : 655-medium-offsets 0.79(14) 16 	-> hopa gdpa-hopa
+2023-01-19 10:29:48.561765 : 655-medium-offsets 0.79(14) 17 	-> hopa gdpa-hopa
+2023-01-19 10:29:48.840768 : 655-medium-offsets 0.79(14) 18 	-> hopa gdpa-hopa
+2023-01-19 10:29:49.678768 : 655-medium-offsets 0.79(14) 11 	-> gdpa-hopa
+2023-01-19 10:29:50.097772 : 655-medium-offsets 0.79(14) 20 	-> hopa gdpa-hopa
+2023-01-19 10:29:50.558776 : 655-medium-offsets 0.79(14) 21 	-> hopa gdpa-hopa
+2023-01-19 10:29:54.296794 : 655-medium-offsets 0.79(14) 22 	-> gdpa-hopa
+2023-01-19 10:29:54.728795 : 655-medium-offsets 0.79(14) 23 	-> hopa gdpa-hopa
+2023-01-19 10:29:55.249799 : 655-medium-offsets 0.79(14) 24 	-> hopa gdpa-hopa
+2023-01-19 10:29:55.809804 : 655-medium-offsets 0.79(14) 25 	-> hopa gdpa-hopa
+2023-01-19 10:29:56.488806 : 655-medium-offsets 0.79(14) 0 	-> 
+2023-01-19 10:29:58.109813 : 655-medium-offsets 0.79(14) 9 	-> 
+2023-01-19 10:30:03.878131 : 655-medium-offsets 0.79(14) 19 	-> gdpa-hopa
+2023-01-19 10:30:04.223126 : 655-medium-offsets 0.79(14) 29 	-> hopa gdpa-hopa
+2023-01-19 10:30:05.229048 : 655-medium-offsets 0.79(14) 30 	-> hopa gdpa-hopa
+2023-01-19 10:30:05.548045 : 655-medium-offsets 0.79(14) 31 	-> hopa gdpa-hopa
+2023-01-19 10:30:10.152867 : 655-medium-offsets 0.79(14) 28 	-> hopa gdpa-hopa
+2023-01-19 10:30:10.372851 : 655-medium-offsets 0.79(14) 33 	-> hopa gdpa-hopa
+2023-01-19 10:30:10.525849 : 655-medium-offsets 0.79(14) 26 	-> 
+2023-01-19 10:30:10.624852 : 655-medium-offsets 0.79(14) 34 	-> hopa gdpa-hopa
+2023-01-19 10:30:10.715851 : 655-medium-offsets 0.79(14) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:30:13.252863 : 655-medium-offsets 0.79(14) 27 	-> 
+2023-01-19 10:30:13.596866 : 655-medium-offsets 0.79(14) 38 	-> hopa gdpa-hopa
+2023-01-19 10:30:13.842869 : 655-medium-offsets 0.79(14) 39 	-> hopa gdpa-hopa
+2023-01-19 10:30:14.060870 : 655-medium-offsets 0.79(14) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:30:14.765872 : 655-medium-offsets 0.79(14) 37 	-> gdpa-hopa
+2023-01-19 10:30:15.185878 : 655-medium-offsets 0.79(14) 42 	-> hopa gdpa-hopa
+2023-01-19 10:30:15.633877 : 655-medium-offsets 0.79(14) 43 	-> hopa gdpa-hopa
+2023-01-19 10:30:15.880878 : 655-medium-offsets 0.79(14) 44 	-> hopa gdpa-hopa
+2023-01-19 10:30:16.561884 : 655-medium-offsets 0.79(14) 45 	-> hopa gdpa-hopa
+2023-01-19 10:30:22.066097 : 655-medium-offsets 0.79(14) 36 	-> hopa gdpa-hopa
+2023-01-19 10:30:22.202097 : 655-medium-offsets 0.79(14) 32 	-> 
+2023-01-19 10:30:22.577101 : 655-medium-offsets 0.79(14) 48 	-> hopa gdpa-hopa
+2023-01-19 10:30:22.814102 : 655-medium-offsets 0.79(14) 49 	-> hopa gdpa-hopa
+2023-01-19 10:30:24.533114 : 655-medium-offsets 0.79(14) 46 	-> gdpa-hopa
+2023-01-19 10:30:24.898143 : 655-medium-offsets 0.79(14) 41 	-> 
+2023-01-19 10:30:32.037179 : 655-medium-offsets 0.79(14) 47 	-> gdpa-hopa
+2023-01-19 10:30:33.883159 : 655-medium-offsets 0.82(15) 1 	-> hopa gdpa-hopa
+2023-01-19 10:30:41.055362 : 655-medium-offsets 0.82(15) 2 	-> hopa gdpa-hopa
+2023-01-19 10:30:41.693364 : 655-medium-offsets 0.82(15) 5 	-> hopa gdpa-hopa
+2023-01-19 10:30:42.150373 : 655-medium-offsets 0.82(15) 6 	-> hopa gdpa-hopa
+2023-01-19 10:30:42.455371 : 655-medium-offsets 0.82(15) 7 	-> hopa gdpa-hopa
+2023-01-19 10:30:42.833780 : 655-medium-offsets 0.82(15) 8 	-> hopa gdpa-hopa
+2023-01-19 10:30:43.283496 : 655-medium-offsets 0.82(15) 3 	-> hopa gdpa-hopa
+2023-01-19 10:30:43.418458 : 655-medium-offsets 0.82(15) 4 	-> gdpa-hopa
+2023-01-19 10:30:43.869461 : 655-medium-offsets 0.82(15) 10 	-> hopa gdpa-hopa
+2023-01-19 10:30:50.984253 : 655-medium-offsets 0.82(15) 11 	-> gdpa-hopa
+2023-01-19 10:30:51.389257 : 655-medium-offsets 0.82(15) 12 	-> gdpa-hopa
+2023-01-19 10:30:51.689254 : 655-medium-offsets 0.82(15) 0 	-> 
+2023-01-19 10:30:51.752255 : 655-medium-offsets 0.82(15) 13 	-> hopa gdpa-hopa
+2023-01-19 10:30:51.863258 : 655-medium-offsets 0.82(15) 14 	-> hopa gdpa-hopa
+2023-01-19 10:30:52.165260 : 655-medium-offsets 0.82(15) 16 	-> hopa gdpa-hopa
+2023-01-19 10:30:52.196258 : 655-medium-offsets 0.82(15) 15 	-> hopa gdpa-hopa
+2023-01-19 10:30:52.308262 : 655-medium-offsets 0.82(15) 17 	-> hopa gdpa-hopa
+2023-01-19 10:30:52.543262 : 655-medium-offsets 0.82(15) 18 	-> hopa gdpa-hopa
+2023-01-19 10:30:53.157268 : 655-medium-offsets 0.82(15) 21 	-> hopa gdpa-hopa
+2023-01-19 10:30:59.462355 : 655-medium-offsets 0.82(15) 22 	-> gdpa-hopa
+2023-01-19 10:31:01.117879 : 655-medium-offsets 0.82(15) 9 	-> 
+2023-01-19 10:31:09.459314 : 655-medium-offsets 0.82(15) 20 	-> hopa gdpa-hopa
+2023-01-19 10:31:10.022313 : 655-medium-offsets 0.82(15) 24 	-> hopa gdpa-hopa
+2023-01-19 10:31:10.381316 : 655-medium-offsets 0.82(15) 25 	-> hopa gdpa-hopa
+2023-01-19 10:31:13.584377 : 655-medium-offsets 0.82(15) 19 	-> 
+2023-01-19 10:31:24.314704 : 655-medium-offsets 0.82(15) 28 	-> gdpa-hopa
+2023-01-19 10:31:28.782680 : 655-medium-offsets 0.82(15) 26 	-> 
+2023-01-19 10:31:31.673888 : 655-medium-offsets 0.82(15) 29 	-> gdpa-hopa
+2023-01-19 10:31:31.930889 : 655-medium-offsets 0.82(15) 31 	-> hopa gdpa-hopa
+2023-01-19 10:31:31.976888 : 655-medium-offsets 0.82(15) 27 	-> 
+2023-01-19 10:31:32.213889 : 655-medium-offsets 0.82(15) 33 	-> hopa gdpa-hopa
+2023-01-19 10:31:32.602895 : 655-medium-offsets 0.82(15) 34 	-> hopa gdpa-hopa
+2023-01-19 10:31:32.947917 : 655-medium-offsets 0.82(15) 35 	-> pd hopa gdpa-hopa
+2023-01-19 10:31:44.411907 : 655-medium-offsets 0.82(15) 23 	-> hopa gdpa-hopa
+2023-01-19 10:31:45.148910 : 655-medium-offsets 0.82(15) 36 	-> hopa gdpa-hopa
+2023-01-19 10:31:45.499913 : 655-medium-offsets 0.82(15) 38 	-> hopa gdpa-hopa
+2023-01-19 10:31:45.768914 : 655-medium-offsets 0.82(15) 39 	-> hopa gdpa-hopa
+2023-01-19 10:31:45.998912 : 655-medium-offsets 0.82(15) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:31:50.856937 : 655-medium-offsets 0.82(15) 37 	-> gdpa-hopa
+2023-01-19 10:31:51.193943 : 655-medium-offsets 0.82(15) 30 	-> gdpa-hopa
+2023-01-19 10:31:51.639944 : 655-medium-offsets 0.82(15) 43 	-> hopa gdpa-hopa
+2023-01-19 10:31:51.891947 : 655-medium-offsets 0.82(15) 44 	-> hopa gdpa-hopa
+2023-01-19 10:31:52.685950 : 655-medium-offsets 0.82(15) 45 	-> hopa gdpa-hopa
+2023-01-19 10:31:55.939999 : 655-medium-offsets 0.82(15) 32 	-> 
+2023-01-19 10:31:57.247973 : 655-medium-offsets 0.82(15) 41 	-> 
+2023-01-19 10:31:57.268973 : 655-medium-offsets 0.82(15) 42 	-> hopa gdpa-hopa
+2023-01-19 10:31:57.602970 : 655-medium-offsets 0.82(15) 49 	-> hopa gdpa-hopa
+2023-01-19 10:31:57.819972 : 655-medium-offsets 0.82(15) 48 	-> hopa gdpa-hopa
+2023-01-19 10:32:08.166029 : 655-medium-offsets 0.82(15) 46 	-> 
+2023-01-19 10:32:09.599035 : 655-medium-offsets 0.82(15) 47 	-> 
+2023-01-19 10:32:11.546046 : 655-medium-offsets 0.84(16) 1 	-> hopa gdpa-hopa
+2023-01-19 10:32:18.267077 : 655-medium-offsets 0.84(16) 2 	-> hopa gdpa-hopa
+2023-01-19 10:32:20.662090 : 655-medium-offsets 0.84(16) 4 	-> gdpa-hopa
+2023-01-19 10:32:21.094093 : 655-medium-offsets 0.84(16) 6 	-> hopa gdpa-hopa
+2023-01-19 10:32:24.041107 : 655-medium-offsets 0.84(16) 5 	-> hopa gdpa-hopa
+2023-01-19 10:32:26.393118 : 655-medium-offsets 0.84(16) 3 	-> hopa gdpa-hopa
+2023-01-19 10:32:27.601124 : 655-medium-offsets 0.84(16) 7 	-> gdpa-hopa
+2023-01-19 10:32:28.258128 : 655-medium-offsets 0.84(16) 10 	-> hopa gdpa-hopa
+2023-01-19 10:32:31.140145 : 655-medium-offsets 0.84(16) 8 	-> hopa gdpa-hopa
+2023-01-19 10:32:32.219150 : 655-medium-offsets 0.84(16) 0 	-> 
+2023-01-19 10:32:47.621958 : 655-medium-offsets 0.84(16) 9 	-> 
+2023-01-19 10:32:48.106334 : 655-medium-offsets 0.84(16) 14 	-> hopa gdpa-hopa
+2023-01-19 10:32:54.298974 : 655-medium-offsets 0.84(16) 12 	-> gdpa-hopa
+2023-01-19 10:32:54.798974 : 655-medium-offsets 0.84(16) 16 	-> hopa gdpa-hopa
+2023-01-19 10:32:55.267730 : 655-medium-offsets 0.84(16) 17 	-> hopa gdpa-hopa
+2023-01-19 10:32:55.689602 : 655-medium-offsets 0.84(16) 18 	-> hopa gdpa-hopa
+2023-01-19 10:32:58.345276 : 655-medium-offsets 0.84(16) 13 	-> hopa gdpa-hopa
+2023-01-19 10:33:05.118430 : 655-medium-offsets 0.84(16) 11 	-> 
+2023-01-19 10:33:07.635680 : 655-medium-offsets 0.84(16) 15 	-> gdpa-hopa
+2023-01-19 10:33:14.666875 : 655-medium-offsets 0.84(16) 21 	-> gdpa-hopa
+2023-01-19 10:33:17.213734 : 655-medium-offsets 0.84(16) 19 	-> 
+2023-01-19 10:33:17.760641 : 655-medium-offsets 0.84(16) 22 	-> gdpa-hopa
+2023-01-19 10:33:18.816707 : 655-medium-offsets 0.84(16) 25 	-> hopa gdpa-hopa
+2023-01-19 10:33:20.082335 : 655-medium-offsets 0.84(16) 20 	-> 
+2023-01-19 10:33:38.273690 : 655-medium-offsets 0.84(16) 27 	-> 
+2023-01-19 10:33:38.577695 : 655-medium-offsets 0.84(16) 26 	-> 
+2023-01-19 10:33:42.491881 : 655-medium-offsets 0.84(16) 24 	-> 
+2023-01-19 10:33:50.505739 : 655-medium-offsets 0.84(16) 29 	-> gdpa-hopa
+2023-01-19 10:33:51.012353 : 655-medium-offsets 0.84(16) 31 	-> hopa gdpa-hopa
+2023-01-19 10:34:05.041638 : 655-medium-offsets 0.84(16) 28 	-> 
+2023-01-19 10:34:05.432267 : 655-medium-offsets 0.84(16) 33 	-> hopa gdpa-hopa
+2023-01-19 10:34:11.339083 : 655-medium-offsets 0.84(16) 34 	-> gdpa-hopa
+2023-01-19 10:34:11.597139 : 655-medium-offsets 0.84(16) 35 	-> hopa gdpa-hopa
+2023-01-19 10:34:11.723326 : 655-medium-offsets 0.84(16) 23 	-> hopa
+2023-01-19 10:34:18.076522 : 655-medium-offsets 0.84(16) 37 	-> gdpa-hopa
+2023-01-19 10:34:18.475637 : 655-medium-offsets 0.84(16) 30 	-> 
+2023-01-19 10:34:18.711307 : 655-medium-offsets 0.84(16) 38 	-> hopa gdpa-hopa
+2023-01-19 10:34:18.834945 : 655-medium-offsets 0.84(16) 39 	-> hopa gdpa-hopa
+2023-01-19 10:34:19.173166 : 655-medium-offsets 0.84(16) 40 	-> pd hopa gdpa-hopa
+2023-01-19 10:34:24.251048 : 655-medium-offsets 0.84(16) 32 	-> 
+2023-01-19 10:34:25.781430 : 655-medium-offsets 0.84(16) 36 	-> 
+2023-01-19 10:34:26.078761 : 655-medium-offsets 0.84(16) 44 	-> hopa gdpa-hopa
+2023-01-19 10:34:27.326781 : 655-medium-offsets 0.84(16) 45 	-> hopa gdpa-hopa
+2023-01-19 10:34:33.935894 : 655-medium-offsets 0.84(16) 41 	-> 
+2023-01-19 10:34:38.980544 : 655-medium-offsets 0.84(16) 42 	-> gdpa-hopa
+2023-01-19 10:34:39.663981 : 655-medium-offsets 0.84(16) 48 	-> hopa gdpa-hopa
+2023-01-19 10:34:47.070996 : 655-medium-offsets 0.84(16) 43 	-> gdpa-hopa
+2023-01-19 10:34:49.290016 : 655-medium-offsets 0.84(16) 49 	-> hopa gdpa-hopa
+2023-01-19 10:34:52.860499 : 655-medium-offsets 0.84(16) 46 	-> 
+2023-01-19 10:34:52.936747 : 655-medium-offsets 0.84(16) 47 	-> 
+2023-01-19 10:35:15.732587 : 655-medium-offsets 0.86(17) 3 	-> gdpa-hopa
+2023-01-19 10:35:20.501413 : 655-medium-offsets 0.86(17) 1 	-> hopa gdpa-hopa
+2023-01-19 10:35:22.397266 : 655-medium-offsets 0.86(17) 0 	-> 
+2023-01-19 10:35:23.116017 : 655-medium-offsets 0.86(17) 2 	-> hopa gdpa-hopa
+2023-01-19 10:35:34.450626 : 655-medium-offsets 0.86(17) 5 	-> gdpa-hopa
+2023-01-19 10:35:35.678147 : 655-medium-offsets 0.86(17) 6 	-> gdpa-hopa
+2023-01-19 10:35:40.168743 : 655-medium-offsets 0.86(17) 7 	-> 
+2023-01-19 10:35:41.246872 : 655-medium-offsets 0.86(17) 10 	-> hopa gdpa-hopa
+2023-01-19 10:35:45.685988 : 655-medium-offsets 0.86(17) 8 	-> gdpa-hopa
+2023-01-19 10:35:53.879625 : 655-medium-offsets 0.86(17) 4 	-> 
+2023-01-19 10:36:03.677359 : 655-medium-offsets 0.86(17) 9 	-> 
+2023-01-19 10:36:12.216839 : 655-medium-offsets 0.86(17) 14 	-> hopa gdpa-hopa
+2023-01-19 10:36:12.466808 : 655-medium-offsets 0.86(17) 12 	-> 
+2023-01-19 10:36:13.117482 : 655-medium-offsets 0.86(17) 16 	-> hopa gdpa-hopa
+2023-01-19 10:36:25.960065 : 655-medium-offsets 0.86(17) 13 	-> 
+2023-01-19 10:36:27.335072 : 655-medium-offsets 0.86(17) 11 	-> gdpa-hopa
+2023-01-19 10:36:30.225741 : 655-medium-offsets 0.86(17) 17 	-> hopa gdpa-hopa
+2023-01-19 10:36:32.316341 : 655-medium-offsets 0.86(17) 18 	-> gdpa-hopa
+2023-01-19 10:36:35.922847 : 655-medium-offsets 0.86(17) 15 	-> 
+2023-01-19 10:36:48.489775 : 655-medium-offsets 0.86(17) 21 	-> gdpa-hopa
+2023-01-19 10:37:06.336406 : 655-medium-offsets 0.86(17) 22 	-> 
+2023-01-19 10:37:06.665034 : 655-medium-offsets 0.86(17) 19 	-> 
+2023-01-19 10:37:08.365379 : 655-medium-offsets 0.86(17) 25 	-> hopa gdpa-hopa
+2023-01-19 10:37:10.043457 : 655-medium-offsets 0.86(17) 20 	-> 
+2023-01-19 10:37:24.679037 : 655-medium-offsets 0.86(17) 23 	-> 
+2023-01-19 10:37:26.892203 : 655-medium-offsets 0.86(17) 27 	-> 
+2023-01-19 10:37:33.631532 : 655-medium-offsets 0.86(17) 26 	-> 
+2023-01-19 10:37:42.618168 : 655-medium-offsets 0.86(17) 24 	-> 
+2023-01-19 10:37:52.057470 : 655-medium-offsets 0.86(17) 29 	-> gdpa-hopa
+2023-01-19 10:37:54.635603 : 655-medium-offsets 0.86(17) 31 	-> gdpa-hopa
+2023-01-19 10:37:55.823111 : 655-medium-offsets 0.86(17) 28 	-> 
+2023-01-19 10:37:56.634434 : 655-medium-offsets 0.86(17) 34 	-> hopa gdpa-hopa
+2023-01-19 10:37:56.915687 : 655-medium-offsets 0.86(17) 35 	-> hopa gdpa-hopa
+2023-01-19 10:38:06.198705 : 655-medium-offsets 0.86(17) 30 	-> 
+2023-01-19 10:38:10.896134 : 655-medium-offsets 0.86(17) 33 	-> gdpa-hopa
+2023-01-19 10:38:11.661735 : 655-medium-offsets 0.86(17) 38 	-> hopa gdpa-hopa
+2023-01-19 10:38:12.013280 : 655-medium-offsets 0.86(17) 39 	-> hopa gdpa-hopa
+2023-01-19 10:38:12.634538 : 655-medium-offsets 0.86(17) 40 	-> hopa gdpa-hopa
+2023-01-19 10:38:16.766487 : 655-medium-offsets 0.86(17) 36 	-> 
+2023-01-19 10:38:20.329785 : 655-medium-offsets 0.86(17) 37 	-> gdpa-hopa
+2023-01-19 10:38:22.848252 : 655-medium-offsets 0.86(17) 32 	-> 
+2023-01-19 10:38:29.740783 : 655-medium-offsets 0.86(17) 41 	-> 
+2023-01-19 10:38:33.099854 : 655-medium-offsets 0.86(17) 45 	-> hopa gdpa-hopa
+2023-01-19 10:38:45.406490 : 655-medium-offsets 0.86(17) 43 	-> gdpa-hopa
+2023-01-19 10:38:50.057954 : 655-medium-offsets 0.86(17) 42 	-> 
+2023-01-19 10:38:53.072979 : 655-medium-offsets 0.86(17) 44 	-> 
+2023-01-19 10:39:02.490162 : 655-medium-offsets 0.86(17) 46 	-> 
+2023-01-19 10:39:05.075886 : 655-medium-offsets 0.86(17) 48 	-> hopa gdpa-hopa
+2023-01-19 10:39:07.466524 : 655-medium-offsets 0.86(17) 47 	-> 
+2023-01-19 10:39:12.159397 : 655-medium-offsets 0.86(17) 49 	-> gdpa-hopa
+2023-01-19 10:39:39.522600 : 655-medium-offsets 0.88(18) 3 	-> 
+2023-01-19 10:39:40.108631 : 655-medium-offsets 0.88(18) 1 	-> 
+2023-01-19 10:39:47.084336 : 655-medium-offsets 0.88(18) 2 	-> hopa
+2023-01-19 10:39:50.397995 : 655-medium-offsets 0.88(18) 0 	-> 
+2023-01-19 10:40:00.300635 : 655-medium-offsets 0.88(18) 5 	-> gdpa-hopa
+2023-01-19 10:40:02.753773 : 655-medium-offsets 0.88(18) 6 	-> hopa gdpa-hopa
+2023-01-19 10:40:11.687222 : 655-medium-offsets 0.88(18) 7 	-> 
+2023-01-19 10:40:13.037947 : 655-medium-offsets 0.88(18) 10 	-> hopa gdpa-hopa
+2023-01-19 10:40:16.218114 : 655-medium-offsets 0.88(18) 4 	-> 
+2023-01-19 10:40:18.077493 : 655-medium-offsets 0.88(18) 8 	-> gdpa-hopa
+2023-01-19 10:40:36.635472 : 655-medium-offsets 0.88(18) 9 	-> 
+2023-01-19 10:40:38.979203 : 655-medium-offsets 0.88(18) 11 	-> 
+2023-01-19 10:40:53.875364 : 655-medium-offsets 0.88(18) 12 	-> 
+2023-01-19 10:40:54.875401 : 655-medium-offsets 0.88(18) 16 	-> hopa gdpa-hopa
+2023-01-19 10:40:56.516004 : 655-medium-offsets 0.88(18) 13 	-> 
+2023-01-19 10:40:57.156631 : 655-medium-offsets 0.88(18) 14 	-> gdpa-hopa
+2023-01-19 10:41:03.582479 : 655-medium-offsets 0.88(18) 18 	-> gdpa-hopa
+2023-01-19 10:41:12.665644 : 655-medium-offsets 0.88(18) 15 	-> 
+2023-01-19 10:41:31.809735 : 655-medium-offsets 0.88(18) 17 	-> 
+2023-01-19 10:41:40.541292 : 655-medium-offsets 0.88(18) 19 	-> 
+2023-01-19 10:41:47.206950 : 655-medium-offsets 0.88(18) 21 	-> 
+2023-01-19 10:41:58.258405 : 655-medium-offsets 0.88(18) 20 	-> 
+2023-01-19 10:42:30.844345 : 655-medium-offsets 0.88(18) 22 	-> 
+2023-01-19 10:42:35.541980 : 655-medium-offsets 0.88(18) 25 	-> hopa gdpa-hopa
+2023-01-19 10:42:36.386326 : 655-medium-offsets 0.88(18) 23 	-> 
+2023-01-19 10:42:44.490142 : 655-medium-offsets 0.88(18) 24 	-> 
+2023-01-19 10:43:04.796549 : 655-medium-offsets 0.88(18) 26 	-> 
+2023-01-19 10:43:05.286983 : 655-medium-offsets 0.88(18) 27 	-> 
+2023-01-19 10:43:20.765394 : 655-medium-offsets 0.88(18) 28 	-> 
+2023-01-19 10:43:27.006754 : 655-medium-offsets 0.88(18) 29 	-> 
+2023-01-19 10:43:42.892688 : 655-medium-offsets 0.88(18) 30 	-> 
+2023-01-19 10:43:48.846193 : 655-medium-offsets 0.88(18) 31 	-> 
+2023-01-19 10:43:56.809671 : 655-medium-offsets 0.88(18) 35 	-> hopa gdpa-hopa
+2023-01-19 10:44:04.952687 : 655-medium-offsets 0.88(18) 32 	-> 
+2023-01-19 10:44:08.741824 : 655-medium-offsets 0.88(18) 34 	-> hopa gdpa-hopa
+2023-01-19 10:44:09.732368 : 655-medium-offsets 0.88(18) 38 	-> hopa gdpa-hopa
+2023-01-19 10:44:12.732381 : 655-medium-offsets 0.88(18) 33 	-> 
+2023-01-19 10:44:21.627506 : 655-medium-offsets 0.88(18) 39 	-> gdpa-hopa
+2023-01-19 10:44:23.925787 : 655-medium-offsets 0.88(18) 40 	-> gdpa-hopa
+2023-01-19 10:44:28.406593 : 655-medium-offsets 0.88(18) 36 	-> 
+2023-01-19 10:44:35.290848 : 655-medium-offsets 0.88(18) 37 	-> 
+2023-01-19 10:44:49.167212 : 655-medium-offsets 0.88(18) 41 	-> 
+2023-01-19 10:44:52.459273 : 655-medium-offsets 0.88(18) 45 	-> hopa gdpa-hopa
+2023-01-19 10:45:11.750312 : 655-medium-offsets 0.88(18) 43 	-> gdpa-hopa
+2023-01-19 10:45:13.255516 : 655-medium-offsets 0.88(18) 42 	-> 
+2023-01-19 10:45:18.053689 : 655-medium-offsets 0.88(18) 44 	-> 
+2023-01-19 10:45:39.096596 : 655-medium-offsets 0.88(18) 47 	-> 
+2023-01-19 10:45:46.973713 : 655-medium-offsets 0.88(18) 48 	-> gdpa-hopa
+2023-01-19 10:45:52.523777 : 655-medium-offsets 0.88(18) 46 	-> 
+2023-01-19 10:45:52.999993 : 655-medium-offsets 0.88(18) 49 	-> 
+2023-01-19 10:46:28.570227 : 655-medium-offsets 0.90(19) 1 	-> 
+2023-01-19 10:46:29.273356 : 655-medium-offsets 0.90(19) 3 	-> 
+2023-01-19 10:46:44.758496 : 655-medium-offsets 0.90(19) 0 	-> 
+2023-01-19 10:46:57.804812 : 655-medium-offsets 0.90(19) 2 	-> 
+2023-01-19 10:47:16.691233 : 655-medium-offsets 0.90(19) 5 	-> 
+2023-01-19 10:47:22.028645 : 655-medium-offsets 0.90(19) 4 	-> 
+2023-01-19 10:47:29.123409 : 655-medium-offsets 0.90(19) 7 	-> 
+2023-01-19 10:47:34.314735 : 655-medium-offsets 0.90(19) 6 	-> 
+2023-01-19 10:48:12.011008 : 655-medium-offsets 0.90(19) 9 	-> 
+2023-01-19 10:48:12.557856 : 655-medium-offsets 0.90(19) 11 	-> 
+2023-01-19 10:48:15.076533 : 655-medium-offsets 0.90(19) 8 	-> 
+2023-01-19 10:48:22.891080 : 655-medium-offsets 0.90(19) 10 	-> gdpa-hopa
+2023-01-19 10:49:04.480584 : 655-medium-offsets 0.90(19) 12 	-> 
+2023-01-19 10:49:08.346095 : 655-medium-offsets 0.90(19) 15 	-> 
+2023-01-19 10:49:09.856060 : 655-medium-offsets 0.90(19) 14 	-> 
+2023-01-19 10:49:26.774824 : 655-medium-offsets 0.90(19) 13 	-> 
+2023-01-19 10:49:38.807879 : 655-medium-offsets 0.90(19) 16 	-> 
+2023-01-19 10:49:45.691012 : 655-medium-offsets 0.90(19) 18 	-> gdpa-hopa
+2023-01-19 10:49:53.276504 : 655-medium-offsets 0.90(19) 17 	-> 
+2023-01-19 10:50:27.736336 : 655-medium-offsets 0.90(19) 20 	-> 
+2023-01-19 10:50:31.355744 : 655-medium-offsets 0.90(19) 21 	-> 
+2023-01-19 10:50:47.098455 : 655-medium-offsets 0.90(19) 19 	-> 
+2023-01-19 10:51:02.724302 : 655-medium-offsets 0.90(19) 22 	-> 
+2023-01-19 10:51:36.430828 : 655-medium-offsets 0.90(19) 23 	-> 
+2023-01-19 10:51:37.430832 : 655-medium-offsets 0.90(19) 24 	-> 
+2023-01-19 10:51:45.127432 : 655-medium-offsets 0.90(19) 25 	-> 
+2023-01-19 10:51:48.143106 : 655-medium-offsets 0.90(19) 26 	-> 
+2023-01-19 10:52:16.646073 : 655-medium-offsets 0.90(19) 27 	-> 
+2023-01-19 10:52:45.735780 : 655-medium-offsets 0.90(19) 28 	-> 
+2023-01-19 10:52:49.631384 : 655-medium-offsets 0.90(19) 30 	-> 
+2023-01-19 10:53:02.111027 : 655-medium-offsets 0.90(19) 29 	-> 
+2023-01-19 10:53:26.775292 : 655-medium-offsets 0.90(19) 31 	-> 
+2023-01-19 10:53:35.929712 : 655-medium-offsets 0.90(19) 34 	-> 
+2023-01-19 10:53:40.957786 : 655-medium-offsets 0.90(19) 35 	-> gdpa-hopa
+2023-01-19 10:53:43.498753 : 655-medium-offsets 0.90(19) 33 	-> 
+2023-01-19 10:53:45.436008 : 655-medium-offsets 0.90(19) 38 	-> hopa gdpa-hopa
+2023-01-19 10:53:45.727937 : 655-medium-offsets 0.90(19) 39 	-> hopa gdpa-hopa
+2023-01-19 10:54:11.248482 : 655-medium-offsets 0.90(19) 36 	-> 
+2023-01-19 10:54:12.724850 : 655-medium-offsets 0.90(19) 40 	-> gdpa-hopa
+2023-01-19 10:54:17.490363 : 655-medium-offsets 0.90(19) 37 	-> 
+2023-01-19 10:54:18.625831 : 655-medium-offsets 0.90(19) 32 	-> 
+2023-01-19 10:54:40.180230 : 655-medium-offsets 0.90(19) 41 	-> 
+2023-01-19 10:54:53.468712 : 655-medium-offsets 0.90(19) 45 	-> hopa gdpa-hopa
+2023-01-19 10:55:07.884226 : 655-medium-offsets 0.90(19) 43 	-> 
+2023-01-19 10:55:29.281626 : 655-medium-offsets 0.90(19) 44 	-> 
+2023-01-19 10:55:31.956033 : 655-medium-offsets 0.90(19) 42 	-> 
+2023-01-19 10:55:45.368028 : 655-medium-offsets 0.90(19) 47 	-> 
+2023-01-19 10:55:53.619542 : 655-medium-offsets 0.90(19) 46 	-> 
+2023-01-19 10:56:10.030735 : 655-medium-offsets 0.90(19) 48 	-> 
+2023-01-19 10:56:18.395745 : 655-medium-offsets 0.90(19) 49 	-> 

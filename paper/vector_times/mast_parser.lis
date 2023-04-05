@@ -1,0 +1,457 @@
+Initializing error report...
+ 1   Model (
+ 2           Model_Name  => System,
+ 3           Model_Date  => 2000-01-01);
+ 5   Processing_Resource (
+ 6         Type 			            => Fixed_Priority_Processor,
+ 7         Name 			            => proc0,
+ 8         Max_Priority		        => 500,
+ 9         Min_Priority		        =>  1,
+ 10        Max_Interrupt_Priority	    => 512,
+ 11        Min_Interrupt_Priority	    => 501);
+ 13  Processing_Resource (
+ 14        Type 			            => Fixed_Priority_Processor,
+ 15        Name 			            => proc1,
+ 16        Max_Priority		        => 500,
+ 17        Min_Priority		        =>  1,
+ 18        Max_Interrupt_Priority	    => 512,
+ 19        Min_Interrupt_Priority	    => 501);
+ 21  Processing_Resource (
+ 22        Type 			            => Fixed_Priority_Processor,
+ 23        Name 			            => proc2,
+ 24        Max_Priority		        => 500,
+ 25        Min_Priority		        =>  1,
+ 26        Max_Interrupt_Priority	    => 512,
+ 27        Min_Interrupt_Priority	    => 501);
+ 29  Scheduling_Server (
+ 30          Type				=> Fixed_Priority,
+ 31          Name 				=> task0_0,
+ 32          Server_Sched_Parameters		=> (
+ 33                  Type		=> Fixed_Priority_policy,
+ 34                  The_Priority	=> 7,
+ 35                  Preassigned		=> no),
+ 36          Server_Processing_Resource	=> proc1);
+ 38  Scheduling_Server (
+ 39          Type				=> Fixed_Priority,
+ 40          Name 				=> task0_1,
+ 41          Server_Sched_Parameters		=> (
+ 42                  Type		=> Fixed_Priority_policy,
+ 43                  The_Priority	=> 4,
+ 44                  Preassigned		=> no),
+ 45          Server_Processing_Resource	=> proc1);
+ 47  Scheduling_Server (
+ 48          Type				=> Fixed_Priority,
+ 49          Name 				=> task0_2,
+ 50          Server_Sched_Parameters		=> (
+ 51                  Type		=> Fixed_Priority_policy,
+ 52                  The_Priority	=> 8,
+ 53                  Preassigned		=> no),
+ 54          Server_Processing_Resource	=> proc0);
+ 56  Scheduling_Server (
+ 57          Type				=> Fixed_Priority,
+ 58          Name 				=> task0_3,
+ 59          Server_Sched_Parameters		=> (
+ 60                  Type		=> Fixed_Priority_policy,
+ 61                  The_Priority	=> 1,
+ 62                  Preassigned		=> no),
+ 63          Server_Processing_Resource	=> proc1);
+ 65  Scheduling_Server (
+ 66          Type				=> Fixed_Priority,
+ 67          Name 				=> task0_4,
+ 68          Server_Sched_Parameters		=> (
+ 69                  Type		=> Fixed_Priority_policy,
+ 70                  The_Priority	=> 5,
+ 71                  Preassigned		=> no),
+ 72          Server_Processing_Resource	=> proc2);
+ 74  Scheduling_Server (
+ 75          Type				=> Fixed_Priority,
+ 76          Name 				=> task1_0,
+ 77          Server_Sched_Parameters		=> (
+ 78                  Type		=> Fixed_Priority_policy,
+ 79                  The_Priority	=> 15,
+ 80                  Preassigned		=> no),
+ 81          Server_Processing_Resource	=> proc0);
+ 83  Scheduling_Server (
+ 84          Type				=> Fixed_Priority,
+ 85          Name 				=> task1_1,
+ 86          Server_Sched_Parameters		=> (
+ 87                  Type		=> Fixed_Priority_policy,
+ 88                  The_Priority	=> 6,
+ 89                  Preassigned		=> no),
+ 90          Server_Processing_Resource	=> proc0);
+ 92  Scheduling_Server (
+ 93          Type				=> Fixed_Priority,
+ 94          Name 				=> task1_2,
+ 95          Server_Sched_Parameters		=> (
+ 96                  Type		=> Fixed_Priority_policy,
+ 97                  The_Priority	=> 2,
+ 98                  Preassigned		=> no),
+ 99          Server_Processing_Resource	=> proc2);
+ 101 Scheduling_Server (
+ 102         Type				=> Fixed_Priority,
+ 103         Name 				=> task1_3,
+ 104         Server_Sched_Parameters		=> (
+ 105                 Type		=> Fixed_Priority_policy,
+ 106                 The_Priority	=> 18,
+ 107                 Preassigned		=> no),
+ 108         Server_Processing_Resource	=> proc1);
+ 110 Scheduling_Server (
+ 111         Type				=> Fixed_Priority,
+ 112         Name 				=> task1_4,
+ 113         Server_Sched_Parameters		=> (
+ 114                 Type		=> Fixed_Priority_policy,
+ 115                 The_Priority	=> 20,
+ 116                 Preassigned		=> no),
+ 117         Server_Processing_Resource	=> proc1);
+ 119 Scheduling_Server (
+ 120         Type				=> Fixed_Priority,
+ 121         Name 				=> task2_0,
+ 122         Server_Sched_Parameters		=> (
+ 123                 Type		=> Fixed_Priority_policy,
+ 124                 The_Priority	=> 9,
+ 125                 Preassigned		=> no),
+ 126         Server_Processing_Resource	=> proc2);
+ 128 Scheduling_Server (
+ 129         Type				=> Fixed_Priority,
+ 130         Name 				=> task2_1,
+ 131         Server_Sched_Parameters		=> (
+ 132                 Type		=> Fixed_Priority_policy,
+ 133                 The_Priority	=> 19,
+ 134                 Preassigned		=> no),
+ 135         Server_Processing_Resource	=> proc1);
+ 137 Scheduling_Server (
+ 138         Type				=> Fixed_Priority,
+ 139         Name 				=> task2_2,
+ 140         Server_Sched_Parameters		=> (
+ 141                 Type		=> Fixed_Priority_policy,
+ 142                 The_Priority	=> 13,
+ 143                 Preassigned		=> no),
+ 144         Server_Processing_Resource	=> proc1);
+ 146 Scheduling_Server (
+ 147         Type				=> Fixed_Priority,
+ 148         Name 				=> task2_3,
+ 149         Server_Sched_Parameters		=> (
+ 150                 Type		=> Fixed_Priority_policy,
+ 151                 The_Priority	=> 16,
+ 152                 Preassigned		=> no),
+ 153         Server_Processing_Resource	=> proc1);
+ 155 Scheduling_Server (
+ 156         Type				=> Fixed_Priority,
+ 157         Name 				=> task2_4,
+ 158         Server_Sched_Parameters		=> (
+ 159                 Type		=> Fixed_Priority_policy,
+ 160                 The_Priority	=> 10,
+ 161                 Preassigned		=> no),
+ 162         Server_Processing_Resource	=> proc0);
+ 164 Scheduling_Server (
+ 165         Type				=> Fixed_Priority,
+ 166         Name 				=> task3_0,
+ 167         Server_Sched_Parameters		=> (
+ 168                 Type		=> Fixed_Priority_policy,
+ 169                 The_Priority	=> 11,
+ 170                 Preassigned		=> no),
+ 171         Server_Processing_Resource	=> proc2);
+ 173 Scheduling_Server (
+ 174         Type				=> Fixed_Priority,
+ 175         Name 				=> task3_1,
+ 176         Server_Sched_Parameters		=> (
+ 177                 Type		=> Fixed_Priority_policy,
+ 178                 The_Priority	=> 17,
+ 179                 Preassigned		=> no),
+ 180         Server_Processing_Resource	=> proc1);
+ 182 Scheduling_Server (
+ 183         Type				=> Fixed_Priority,
+ 184         Name 				=> task3_2,
+ 185         Server_Sched_Parameters		=> (
+ 186                 Type		=> Fixed_Priority_policy,
+ 187                 The_Priority	=> 12,
+ 188                 Preassigned		=> no),
+ 189         Server_Processing_Resource	=> proc1);
+ 191 Scheduling_Server (
+ 192         Type				=> Fixed_Priority,
+ 193         Name 				=> task3_3,
+ 194         Server_Sched_Parameters		=> (
+ 195                 Type		=> Fixed_Priority_policy,
+ 196                 The_Priority	=> 14,
+ 197                 Preassigned		=> no),
+ 198         Server_Processing_Resource	=> proc0);
+ 200 Scheduling_Server (
+ 201         Type				=> Fixed_Priority,
+ 202         Name 				=> task3_4,
+ 203         Server_Sched_Parameters		=> (
+ 204                 Type		=> Fixed_Priority_policy,
+ 205                 The_Priority	=> 3,
+ 206                 Preassigned		=> no),
+ 207         Server_Processing_Resource	=> proc0);
+ 209 Operation (
+ 210         Type        => Simple,
+ 211         Name        => task0_0,
+ 212         Worst_Case_Execution_Time   => 27.59496021864395);
+ 214 Operation (
+ 215         Type        => Simple,
+ 216         Name        => task0_1,
+ 217         Worst_Case_Execution_Time   => 31.33231142361614);
+ 219 Operation (
+ 220         Type        => Simple,
+ 221         Name        => task0_2,
+ 222         Worst_Case_Execution_Time   => 16.73959920707616);
+ 224 Operation (
+ 225         Type        => Simple,
+ 226         Name        => task0_3,
+ 227         Worst_Case_Execution_Time   => 46.842158819147585);
+ 229 Operation (
+ 230         Type        => Simple,
+ 231         Name        => task0_4,
+ 232         Worst_Case_Execution_Time   => 26.936839397209354);
+ 234 Operation (
+ 235         Type        => Simple,
+ 236         Name        => task1_0,
+ 237         Worst_Case_Execution_Time   => 2.9126215312913257);
+ 239 Operation (
+ 240         Type        => Simple,
+ 241         Name        => task1_1,
+ 242         Worst_Case_Execution_Time   => 41.95816340814613);
+ 244 Operation (
+ 245         Type        => Simple,
+ 246         Name        => task1_2,
+ 247         Worst_Case_Execution_Time   => 54.859952362411626);
+ 249 Operation (
+ 250         Type        => Simple,
+ 251         Name        => task1_3,
+ 252         Worst_Case_Execution_Time   => 10.526971799781196);
+ 254 Operation (
+ 255         Type        => Simple,
+ 256         Name        => task1_4,
+ 257         Worst_Case_Execution_Time   => 3.631313507882798);
+ 259 Operation (
+ 260         Type        => Simple,
+ 261         Name        => task2_0,
+ 262         Worst_Case_Execution_Time   => 17.55063551808347);
+ 264 Operation (
+ 265         Type        => Simple,
+ 266         Name        => task2_1,
+ 267         Worst_Case_Execution_Time   => 2.5036410667670643);
+ 269 Operation (
+ 270         Type        => Simple,
+ 271         Name        => task2_2,
+ 272         Worst_Case_Execution_Time   => 5.586431995710559);
+ 274 Operation (
+ 275         Type        => Simple,
+ 276         Name        => task2_3,
+ 277         Worst_Case_Execution_Time   => 5.581951187712233);
+ 279 Operation (
+ 280         Type        => Simple,
+ 281         Name        => task2_4,
+ 282         Worst_Case_Execution_Time   => 6.84736513456229);
+ 284 Operation (
+ 285         Type        => Simple,
+ 286         Name        => task3_0,
+ 287         Worst_Case_Execution_Time   => 5.917498712465618);
+ 289 Operation (
+ 290         Type        => Simple,
+ 291         Name        => task3_1,
+ 292         Worst_Case_Execution_Time   => 6.2949514238962925);
+ 294 Operation (
+ 295         Type        => Simple,
+ 296         Name        => task3_2,
+ 297         Worst_Case_Execution_Time   => 7.899827508956813);
+ 299 Operation (
+ 300         Type        => Simple,
+ 301         Name        => task3_3,
+ 302         Worst_Case_Execution_Time   => 5.3142613971513635);
+ 304 Operation (
+ 305         Type        => Simple,
+ 306         Name        => task3_4,
+ 307         Worst_Case_Execution_Time   => 23.8550430209401);
+ 309 Transaction (
+ 310         Type	=> Regular, 
+ 311         Name	=> flow0,
+ 312         External_Events => (
+ 313             (Type 		=> Periodic,
+ 314             Name 		=> e_flow0,
+ 315             Period 	    => 296.6798779893949)),
+ 316         Internal_Events => (
+ 317             (Type 	=> regular,
+ 318             name 	=> o_task0_0),
+ 319             (Type 	=> regular,
+ 320             name 	=> o_task0_1),
+ 321             (Type 	=> regular,
+ 322             name 	=> o_task0_2),
+ 323             (Type 	=> regular,
+ 324             name 	=> o_task0_3),
+ 325             (Type 	=> regular,
+ 326             name 	=> o_task0_4,
+ 327             Timing_Requirements => (
+ 328                 Type 		  => Hard_Global_Deadline,
+ 329                 Deadline 	  => 1132.7750191129135,
+ 330                 referenced_event => e_flow0))),
+ 331         Event_Handlers => (
+ 332             (Type         => Activity,
+ 333             Input_Event         => e_flow0,
+ 334             Output_Event        => o_task0_0,
+ 335             Activity_Operation  => task0_0,
+ 336             Activity_Server     => task0_0),
+ 337             (Type         => Activity,
+ 338             Input_Event         => o_task0_0,
+ 339             Output_Event        => o_task0_1,
+ 340             Activity_Operation  => task0_1,
+ 341             Activity_Server     => task0_1),
+ 342             (Type         => Activity,
+ 343             Input_Event         => o_task0_1,
+ 344             Output_Event        => o_task0_2,
+ 345             Activity_Operation  => task0_2,
+ 346             Activity_Server     => task0_2),
+ 347             (Type         => Activity,
+ 348             Input_Event         => o_task0_2,
+ 349             Output_Event        => o_task0_3,
+ 350             Activity_Operation  => task0_3,
+ 351             Activity_Server     => task0_3),
+ 352             (Type         => Activity,
+ 353             Input_Event         => o_task0_3,
+ 354             Output_Event        => o_task0_4,
+ 355             Activity_Operation  => task0_4,
+ 356             Activity_Server     => task0_4)));
+ 358 Transaction (
+ 359         Type	=> Regular, 
+ 360         Name	=> flow1,
+ 361         External_Events => (
+ 362             (Type 		=> Periodic,
+ 363             Name 		=> e_flow1,
+ 364             Period 	    => 133.9201743218212)),
+ 365         Internal_Events => (
+ 366             (Type 	=> regular,
+ 367             name 	=> o_task1_0),
+ 368             (Type 	=> regular,
+ 369             name 	=> o_task1_1),
+ 370             (Type 	=> regular,
+ 371             name 	=> o_task1_2),
+ 372             (Type 	=> regular,
+ 373             name 	=> o_task1_3),
+ 374             (Type 	=> regular,
+ 375             name 	=> o_task1_4,
+ 376             Timing_Requirements => (
+ 377                 Type 		  => Hard_Global_Deadline,
+ 378                 Deadline 	  => 616.2236974540094,
+ 379                 referenced_event => e_flow1))),
+ 380         Event_Handlers => (
+ 381             (Type         => Activity,
+ 382             Input_Event         => e_flow1,
+ 383             Output_Event        => o_task1_0,
+ 384             Activity_Operation  => task1_0,
+ 385             Activity_Server     => task1_0),
+ 386             (Type         => Activity,
+ 387             Input_Event         => o_task1_0,
+ 388             Output_Event        => o_task1_1,
+ 389             Activity_Operation  => task1_1,
+ 390             Activity_Server     => task1_1),
+ 391             (Type         => Activity,
+ 392             Input_Event         => o_task1_1,
+ 393             Output_Event        => o_task1_2,
+ 394             Activity_Operation  => task1_2,
+ 395             Activity_Server     => task1_2),
+ 396             (Type         => Activity,
+ 397             Input_Event         => o_task1_2,
+ 398             Output_Event        => o_task1_3,
+ 399             Activity_Operation  => task1_3,
+ 400             Activity_Server     => task1_3),
+ 401             (Type         => Activity,
+ 402             Input_Event         => o_task1_3,
+ 403             Output_Event        => o_task1_4,
+ 404             Activity_Operation  => task1_4,
+ 405             Activity_Server     => task1_4)));
+ 407 Transaction (
+ 408         Type	=> Regular, 
+ 409         Name	=> flow2,
+ 410         External_Events => (
+ 411             (Type 		=> Periodic,
+ 412             Name 		=> e_flow2,
+ 413             Period 	    => 117.99296194665935)),
+ 414         Internal_Events => (
+ 415             (Type 	=> regular,
+ 416             name 	=> o_task2_0),
+ 417             (Type 	=> regular,
+ 418             name 	=> o_task2_1),
+ 419             (Type 	=> regular,
+ 420             name 	=> o_task2_2),
+ 421             (Type 	=> regular,
+ 422             name 	=> o_task2_3),
+ 423             (Type 	=> regular,
+ 424             name 	=> o_task2_4,
+ 425             Timing_Requirements => (
+ 426                 Type 		  => Hard_Global_Deadline,
+ 427                 Deadline 	  => 429.46468777363486,
+ 428                 referenced_event => e_flow2))),
+ 429         Event_Handlers => (
+ 430             (Type         => Activity,
+ 431             Input_Event         => e_flow2,
+ 432             Output_Event        => o_task2_0,
+ 433             Activity_Operation  => task2_0,
+ 434             Activity_Server     => task2_0),
+ 435             (Type         => Activity,
+ 436             Input_Event         => o_task2_0,
+ 437             Output_Event        => o_task2_1,
+ 438             Activity_Operation  => task2_1,
+ 439             Activity_Server     => task2_1),
+ 440             (Type         => Activity,
+ 441             Input_Event         => o_task2_1,
+ 442             Output_Event        => o_task2_2,
+ 443             Activity_Operation  => task2_2,
+ 444             Activity_Server     => task2_2),
+ 445             (Type         => Activity,
+ 446             Input_Event         => o_task2_2,
+ 447             Output_Event        => o_task2_3,
+ 448             Activity_Operation  => task2_3,
+ 449             Activity_Server     => task2_3),
+ 450             (Type         => Activity,
+ 451             Input_Event         => o_task2_3,
+ 452             Output_Event        => o_task2_4,
+ 453             Activity_Operation  => task2_4,
+ 454             Activity_Server     => task2_4)));
+ 456 Transaction (
+ 457         Type	=> Regular, 
+ 458         Name	=> flow3,
+ 459         External_Events => (
+ 460             (Type 		=> Periodic,
+ 461             Name 		=> e_flow3,
+ 462             Period 	    => 116.4495744612419)),
+ 463         Internal_Events => (
+ 464             (Type 	=> regular,
+ 465             name 	=> o_task3_0),
+ 466             (Type 	=> regular,
+ 467             name 	=> o_task3_1),
+ 468             (Type 	=> regular,
+ 469             name 	=> o_task3_2),
+ 470             (Type 	=> regular,
+ 471             name 	=> o_task3_3),
+ 472             (Type 	=> regular,
+ 473             name 	=> o_task3_4,
+ 474             Timing_Requirements => (
+ 475                 Type 		  => Hard_Global_Deadline,
+ 476                 Deadline 	  => 485.4649936763417,
+ 477                 referenced_event => e_flow3))),
+ 478         Event_Handlers => (
+ 479             (Type         => Activity,
+ 480             Input_Event         => e_flow3,
+ 481             Output_Event        => o_task3_0,
+ 482             Activity_Operation  => task3_0,
+ 483             Activity_Server     => task3_0),
+ 484             (Type         => Activity,
+ 485             Input_Event         => o_task3_0,
+ 486             Output_Event        => o_task3_1,
+ 487             Activity_Operation  => task3_1,
+ 488             Activity_Server     => task3_1),
+ 489             (Type         => Activity,
+ 490             Input_Event         => o_task3_1,
+ 491             Output_Event        => o_task3_2,
+ 492             Activity_Operation  => task3_2,
+ 493             Activity_Server     => task3_2),
+ 494             (Type         => Activity,
+ 495             Input_Event         => o_task3_2,
+ 496             Output_Event        => o_task3_3,
+ 497             Activity_Operation  => task3_3,
+ 498             Activity_Server     => task3_3),
+ 499             (Type         => Activity,
+ 500             Input_Event         => o_task3_3,
+ 501             Output_Event        => o_task3_4,
+ 502             Activity_Operation  => task3_4,
+ 503             Activity_Server     => task3_4)));

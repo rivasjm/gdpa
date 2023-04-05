@@ -1,0 +1,1457 @@
+2023-01-19 11:59:28.667234 : 35312-big-industrial 0.50(0) 3 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:28.714108 : 35312-big-industrial 0.50(0) 2 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:28.714108 : 35312-big-industrial 0.50(0) 1 	-> hopa gdpa-hopa
+2023-01-19 11:59:28.839112 : 35312-big-industrial 0.50(0) 0 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.089113 : 35312-big-industrial 0.50(0) 6 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.104738 : 35312-big-industrial 0.50(0) 4 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.167238 : 35312-big-industrial 0.50(0) 5 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.245363 : 35312-big-industrial 0.50(0) 7 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.354738 : 35312-big-industrial 0.50(0) 8 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.401616 : 35312-big-industrial 0.50(0) 9 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.510989 : 35312-big-industrial 0.50(0) 11 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.542248 : 35312-big-industrial 0.50(0) 10 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.667239 : 35312-big-industrial 0.50(0) 12 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.760990 : 35312-big-industrial 0.50(0) 13 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.854740 : 35312-big-industrial 0.50(0) 14 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:29.917241 : 35312-big-industrial 0.50(0) 15 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.010990 : 35312-big-industrial 0.50(0) 16 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.182864 : 35312-big-industrial 0.50(0) 17 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.198490 : 35312-big-industrial 0.50(0) 19 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.229739 : 35312-big-industrial 0.50(0) 18 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.495365 : 35312-big-industrial 0.50(0) 20 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.589114 : 35312-big-industrial 0.50(0) 23 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.620366 : 35312-big-industrial 0.50(0) 22 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.792239 : 35312-big-industrial 0.50(0) 24 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.885993 : 35312-big-industrial 0.50(0) 25 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:30.968703 : 35312-big-industrial 0.50(0) 26 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.150294 : 35312-big-industrial 0.50(0) 27 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.244042 : 35312-big-industrial 0.50(0) 28 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.275293 : 35312-big-industrial 0.50(0) 29 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.415919 : 35312-big-industrial 0.50(0) 30 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.509671 : 35312-big-industrial 0.50(0) 31 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.681545 : 35312-big-industrial 0.50(0) 32 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.822170 : 35312-big-industrial 0.50(0) 33 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:31.896422 : 35312-big-industrial 0.50(0) 34 	-> hopa gdpa-hopa
+2023-01-19 11:59:31.974852 : 35312-big-industrial 0.50(0) 35 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.175961 : 35312-big-industrial 0.50(0) 37 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.192659 : 35312-big-industrial 0.50(0) 36 	-> hopa gdpa-hopa
+2023-01-19 11:59:32.340076 : 35312-big-industrial 0.50(0) 38 	-> hopa gdpa-hopa
+2023-01-19 11:59:32.511986 : 35312-big-industrial 0.50(0) 40 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.558830 : 35312-big-industrial 0.50(0) 39 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.652580 : 35312-big-industrial 0.50(0) 41 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.840080 : 35312-big-industrial 0.50(0) 43 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:32.918207 : 35312-big-industrial 0.50(0) 42 	-> hopa gdpa-hopa
+2023-01-19 11:59:33.027581 : 35312-big-industrial 0.50(0) 44 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:33.121331 : 35312-big-industrial 0.50(0) 45 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:33.449457 : 35312-big-industrial 0.50(0) 46 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:33.480707 : 35312-big-industrial 0.50(0) 47 	-> hopa gdpa-hopa
+2023-01-19 11:59:33.574457 : 35312-big-industrial 0.50(0) 48 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:33.868424 : 35312-big-industrial 0.50(0) 49 	-> pd hopa gdpa-hopa
+2023-01-19 11:59:59.438021 : 35312-big-industrial 0.50(0) 21 	-> gdpa-hopa
+2023-01-19 12:00:01.838697 : 35312-big-industrial 0.52(1) 1 	-> hopa gdpa-hopa
+2023-01-19 12:00:01.880613 : 35312-big-industrial 0.52(1) 3 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:01.943115 : 35312-big-industrial 0.52(1) 0 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:01.974364 : 35312-big-industrial 0.52(1) 2 	-> hopa gdpa-hopa
+2023-01-19 12:00:02.208742 : 35312-big-industrial 0.52(1) 6 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.318117 : 35312-big-industrial 0.52(1) 4 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.333743 : 35312-big-industrial 0.52(1) 5 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.568121 : 35312-big-industrial 0.52(1) 8 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.599399 : 35312-big-industrial 0.52(1) 9 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.724398 : 35312-big-industrial 0.52(1) 10 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.864995 : 35312-big-industrial 0.52(1) 11 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:02.943120 : 35312-big-industrial 0.52(1) 12 	-> hopa gdpa-hopa
+2023-01-19 12:00:03.146279 : 35312-big-industrial 0.52(1) 13 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:03.224371 : 35312-big-industrial 0.52(1) 15 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:03.411872 : 35312-big-industrial 0.52(1) 16 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:03.505621 : 35312-big-industrial 0.52(1) 17 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:03.505621 : 35312-big-industrial 0.52(1) 14 	-> hopa gdpa-hopa
+2023-01-19 12:00:03.677494 : 35312-big-industrial 0.52(1) 18 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:03.849372 : 35312-big-industrial 0.52(1) 19 	-> hopa gdpa-hopa
+2023-01-19 12:00:03.943121 : 35312-big-industrial 0.52(1) 20 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:04.271276 : 35312-big-industrial 0.52(1) 22 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:04.365029 : 35312-big-industrial 0.52(1) 23 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:04.646250 : 35312-big-industrial 0.52(1) 25 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:05.036875 : 35312-big-industrial 0.52(1) 26 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:05.443127 : 35312-big-industrial 0.52(1) 27 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:05.786878 : 35312-big-industrial 0.52(1) 28 	-> hopa gdpa-hopa
+2023-01-19 12:00:06.240004 : 35312-big-industrial 0.52(1) 29 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:06.630627 : 35312-big-industrial 0.52(1) 30 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:06.927505 : 35312-big-industrial 0.52(1) 31 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:07.568130 : 35312-big-industrial 0.52(1) 32 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:08.005633 : 35312-big-industrial 0.52(1) 33 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:08.380634 : 35312-big-industrial 0.52(1) 34 	-> hopa gdpa-hopa
+2023-01-19 12:00:08.818133 : 35312-big-industrial 0.52(1) 35 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:09.505639 : 35312-big-industrial 0.52(1) 36 	-> hopa gdpa-hopa
+2023-01-19 12:00:09.943138 : 35312-big-industrial 0.52(1) 37 	-> hopa gdpa-hopa
+2023-01-19 12:00:16.604521 : 35312-big-industrial 0.52(1) 38 	-> hopa gdpa-hopa
+2023-01-19 12:00:17.042052 : 35312-big-industrial 0.52(1) 39 	-> hopa gdpa-hopa
+2023-01-19 12:00:17.432684 : 35312-big-industrial 0.52(1) 40 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:17.932659 : 35312-big-industrial 0.52(1) 41 	-> hopa gdpa-hopa
+2023-01-19 12:00:18.432710 : 35312-big-industrial 0.52(1) 42 	-> hopa gdpa-hopa
+2023-01-19 12:00:18.838944 : 35312-big-industrial 0.52(1) 43 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:19.151419 : 35312-big-industrial 0.52(1) 44 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:19.557673 : 35312-big-industrial 0.52(1) 45 	-> hopa gdpa-hopa
+2023-01-19 12:00:20.042077 : 35312-big-industrial 0.52(1) 46 	-> hopa gdpa-hopa
+2023-01-19 12:00:20.479597 : 35312-big-industrial 0.52(1) 47 	-> hopa gdpa-hopa
+2023-01-19 12:00:20.776415 : 35312-big-industrial 0.52(1) 48 	-> pd hopa gdpa-hopa
+2023-01-19 12:00:21.338926 : 35312-big-industrial 0.52(1) 49 	-> hopa gdpa-hopa
+2023-01-19 12:01:14.262922 : 35312-big-industrial 0.52(1) 24 	-> gdpa-hopa
+2023-01-19 12:01:54.740447 : 35312-big-industrial 0.52(1) 7 	-> gdpa-hopa
+2023-01-19 12:02:39.584546 : 35312-big-industrial 0.52(1) 21 	-> 
+2023-01-19 12:02:41.568895 : 35312-big-industrial 0.54(2) 1 	-> hopa gdpa-hopa
+2023-01-19 12:02:41.631398 : 35312-big-industrial 0.54(2) 3 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:41.647025 : 35312-big-industrial 0.54(2) 0 	-> hopa gdpa-hopa
+2023-01-19 12:02:41.928275 : 35312-big-industrial 0.54(2) 6 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:42.053275 : 35312-big-industrial 0.54(2) 5 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:42.068900 : 35312-big-industrial 0.54(2) 4 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:42.443901 : 35312-big-industrial 0.54(2) 8 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:42.537648 : 35312-big-industrial 0.54(2) 9 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:42.928275 : 35312-big-industrial 0.54(2) 10 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:43.006401 : 35312-big-industrial 0.54(2) 11 	-> hopa gdpa-hopa
+2023-01-19 12:02:43.381403 : 35312-big-industrial 0.54(2) 13 	-> pd hopa gdpa-hopa
+2023-01-19 12:02:43.428276 : 35312-big-industrial 0.54(2) 12 	-> hopa gdpa-hopa
+2023-01-19 12:02:43.818904 : 35312-big-industrial 0.54(2) 15 	-> hopa gdpa-hopa
+2023-01-19 12:02:44.318906 : 35312-big-industrial 0.54(2) 16 	-> hopa gdpa-hopa
+2023-01-19 12:02:44.693907 : 35312-big-industrial 0.54(2) 17 	-> hopa gdpa-hopa
+2023-01-19 12:02:45.147030 : 35312-big-industrial 0.54(2) 18 	-> hopa gdpa-hopa
+2023-01-19 12:02:45.631441 : 35312-big-industrial 0.54(2) 19 	-> hopa gdpa-hopa
+2023-01-19 12:03:42.341839 : 35312-big-industrial 0.54(2) 2 	-> gdpa-hopa
+2023-01-19 12:03:47.232432 : 35312-big-industrial 0.54(2) 20 	-> gdpa-hopa
+2023-01-19 12:03:47.716859 : 35312-big-industrial 0.54(2) 22 	-> hopa gdpa-hopa
+2023-01-19 12:03:48.263713 : 35312-big-industrial 0.54(2) 23 	-> hopa gdpa-hopa
+2023-01-19 12:04:36.246216 : 35312-big-industrial 0.54(2) 24 	-> gdpa-hopa
+2023-01-19 12:04:36.742259 : 35312-big-industrial 0.54(2) 25 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:37.257839 : 35312-big-industrial 0.54(2) 26 	-> hopa gdpa-hopa
+2023-01-19 12:04:37.773475 : 35312-big-industrial 0.54(2) 27 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:38.148472 : 35312-big-industrial 0.54(2) 28 	-> hopa gdpa-hopa
+2023-01-19 12:04:38.539105 : 35312-big-industrial 0.54(2) 29 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:38.945359 : 35312-big-industrial 0.54(2) 30 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:39.367247 : 35312-big-industrial 0.54(2) 31 	-> hopa gdpa-hopa
+2023-01-19 12:04:39.929725 : 35312-big-industrial 0.54(2) 32 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:40.367219 : 35312-big-industrial 0.54(2) 33 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:40.920173 : 35312-big-industrial 0.54(2) 34 	-> hopa gdpa-hopa
+2023-01-19 12:04:41.281803 : 35312-big-industrial 0.54(2) 35 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:43.750576 : 35312-big-industrial 0.54(2) 14 	-> gdpa-hopa
+2023-01-19 12:04:44.172461 : 35312-big-industrial 0.54(2) 37 	-> hopa gdpa-hopa
+2023-01-19 12:04:44.703664 : 35312-big-industrial 0.54(2) 38 	-> hopa gdpa-hopa
+2023-01-19 12:04:45.063067 : 35312-big-industrial 0.54(2) 39 	-> hopa gdpa-hopa
+2023-01-19 12:04:45.625553 : 35312-big-industrial 0.54(2) 40 	-> hopa gdpa-hopa
+2023-01-19 12:04:46.188084 : 35312-big-industrial 0.54(2) 41 	-> hopa gdpa-hopa
+2023-01-19 12:04:46.516194 : 35312-big-industrial 0.54(2) 42 	-> hopa gdpa-hopa
+2023-01-19 12:04:47.000583 : 35312-big-industrial 0.54(2) 43 	-> hopa gdpa-hopa
+2023-01-19 12:04:47.297425 : 35312-big-industrial 0.54(2) 44 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:47.656811 : 35312-big-industrial 0.54(2) 45 	-> hopa gdpa-hopa
+2023-01-19 12:04:48.125591 : 35312-big-industrial 0.54(2) 46 	-> hopa gdpa-hopa
+2023-01-19 12:04:48.766187 : 35312-big-industrial 0.54(2) 47 	-> hopa gdpa-hopa
+2023-01-19 12:04:49.156836 : 35312-big-industrial 0.54(2) 48 	-> pd hopa gdpa-hopa
+2023-01-19 12:04:49.672441 : 35312-big-industrial 0.54(2) 49 	-> hopa gdpa-hopa
+2023-01-19 12:06:18.413808 : 35312-big-industrial 0.54(2) 36 	-> gdpa-hopa
+2023-01-19 12:06:55.099386 : 35312-big-industrial 0.54(2) 7 	-> 
+2023-01-19 12:07:22.150069 : 35312-big-industrial 0.54(2) 21 	-> 
+2023-01-19 12:07:24.232191 : 35312-big-industrial 0.56(3) 1 	-> hopa gdpa-hopa
+2023-01-19 12:07:24.325942 : 35312-big-industrial 0.56(3) 0 	-> hopa gdpa-hopa
+2023-01-19 12:07:24.716568 : 35312-big-industrial 0.56(3) 4 	-> pd hopa gdpa-hopa
+2023-01-19 12:07:24.950946 : 35312-big-industrial 0.56(3) 5 	-> pd hopa gdpa-hopa
+2023-01-19 12:07:25.122819 : 35312-big-industrial 0.56(3) 6 	-> hopa gdpa-hopa
+2023-01-19 12:07:25.669696 : 35312-big-industrial 0.56(3) 8 	-> hopa gdpa-hopa
+2023-01-19 12:07:26.185321 : 35312-big-industrial 0.56(3) 9 	-> hopa gdpa-hopa
+2023-01-19 12:07:26.810348 : 35312-big-industrial 0.56(3) 10 	-> pd hopa gdpa-hopa
+2023-01-19 12:07:27.321858 : 35312-big-industrial 0.56(3) 11 	-> hopa gdpa-hopa
+2023-01-19 12:08:57.995241 : 35312-big-industrial 0.56(3) 12 	-> gdpa-hopa
+2023-01-19 12:10:42.648144 : 35312-big-industrial 0.56(3) 3 	-> gdpa-hopa
+2023-01-19 12:12:11.645016 : 35312-big-industrial 0.56(3) 2 	-> 
+2023-01-19 12:12:12.020015 : 35312-big-industrial 0.56(3) 15 	-> hopa gdpa-hopa
+2023-01-19 12:12:12.535638 : 35312-big-industrial 0.56(3) 16 	-> hopa gdpa-hopa
+2023-01-19 12:12:13.066890 : 35312-big-industrial 0.56(3) 17 	-> hopa gdpa-hopa
+2023-01-19 12:12:20.537571 : 35312-big-industrial 0.56(3) 18 	-> hopa gdpa-hopa
+2023-01-19 12:12:30.028623 : 35312-big-industrial 0.56(3) 19 	-> hopa gdpa-hopa
+2023-01-19 12:12:50.587923 : 35312-big-industrial 0.56(3) 7 	-> 
+2023-01-19 12:13:38.019153 : 35312-big-industrial 0.56(3) 13 	-> 
+2023-01-19 12:14:42.339817 : 35312-big-industrial 0.56(3) 22 	-> gdpa-hopa
+2023-01-19 12:14:42.480439 : 35312-big-industrial 0.56(3) 20 	-> gdpa-hopa
+2023-01-19 12:14:43.055476 : 35312-big-industrial 0.56(3) 23 	-> hopa gdpa-hopa
+2023-01-19 12:14:43.446104 : 35312-big-industrial 0.56(3) 25 	-> pd hopa gdpa-hopa
+2023-01-19 12:14:43.867980 : 35312-big-industrial 0.56(3) 26 	-> hopa gdpa-hopa
+2023-01-19 12:14:44.571105 : 35312-big-industrial 0.56(3) 27 	-> pd hopa gdpa-hopa
+2023-01-19 12:15:42.571021 : 35312-big-industrial 0.56(3) 14 	-> 
+2023-01-19 12:15:43.066557 : 35312-big-industrial 0.56(3) 29 	-> hopa gdpa-hopa
+2023-01-19 12:15:43.644644 : 35312-big-industrial 0.56(3) 30 	-> pd hopa gdpa-hopa
+2023-01-19 12:15:44.113388 : 35312-big-industrial 0.56(3) 31 	-> hopa gdpa-hopa
+2023-01-19 12:15:44.691531 : 35312-big-industrial 0.56(3) 32 	-> hopa gdpa-hopa
+2023-01-19 12:16:13.169611 : 35312-big-industrial 0.56(3) 28 	-> gdpa-hopa
+2023-01-19 12:16:13.869715 : 35312-big-industrial 0.56(3) 34 	-> hopa gdpa-hopa
+2023-01-19 12:16:42.369603 : 35312-big-industrial 0.56(3) 33 	-> gdpa-hopa
+2023-01-19 12:17:03.560008 : 35312-big-industrial 0.56(3) 35 	-> gdpa-hopa
+2023-01-19 12:17:56.305614 : 35312-big-industrial 0.56(3) 21 	-> 
+2023-01-19 12:17:56.786176 : 35312-big-industrial 0.56(3) 38 	-> hopa gdpa-hopa
+2023-01-19 12:18:03.627575 : 35312-big-industrial 0.56(3) 39 	-> hopa gdpa-hopa
+2023-01-19 12:19:05.105983 : 35312-big-industrial 0.56(3) 24 	-> 
+2023-01-19 12:19:05.697157 : 35312-big-industrial 0.56(3) 41 	-> hopa gdpa-hopa
+2023-01-19 12:19:06.244012 : 35312-big-industrial 0.56(3) 42 	-> hopa gdpa-hopa
+2023-01-19 12:21:30.924641 : 35312-big-industrial 0.56(3) 36 	-> 
+2023-01-19 12:21:31.221498 : 35312-big-industrial 0.56(3) 44 	-> pd hopa gdpa-hopa
+2023-01-19 12:21:31.580899 : 35312-big-industrial 0.56(3) 45 	-> hopa gdpa-hopa
+2023-01-19 12:21:44.564527 : 35312-big-industrial 0.56(3) 43 	-> gdpa-hopa
+2023-01-19 12:21:45.138759 : 35312-big-industrial 0.56(3) 47 	-> hopa gdpa-hopa
+2023-01-19 12:21:49.376334 : 35312-big-industrial 0.56(3) 37 	-> 
+2023-01-19 12:21:49.982785 : 35312-big-industrial 0.56(3) 49 	-> hopa gdpa-hopa
+2023-01-19 12:22:39.680474 : 35312-big-industrial 0.56(3) 40 	-> 
+2023-01-19 12:23:09.615588 : 35312-big-industrial 0.56(3) 48 	-> gdpa-hopa
+2023-01-19 12:23:51.939721 : 35312-big-industrial 0.56(3) 46 	-> gdpa-hopa
+2023-01-19 12:23:53.954416 : 35312-big-industrial 0.58(4) 1 	-> hopa gdpa-hopa
+2023-01-19 12:23:54.345039 : 35312-big-industrial 0.58(4) 0 	-> hopa gdpa-hopa
+2023-01-19 12:23:54.891950 : 35312-big-industrial 0.58(4) 5 	-> hopa gdpa-hopa
+2023-01-19 12:25:50.365542 : 35312-big-industrial 0.58(4) 4 	-> gdpa-hopa
+2023-01-19 12:26:27.569280 : 35312-big-industrial 0.58(4) 3 	-> gdpa-hopa
+2023-01-19 12:27:45.600565 : 35312-big-industrial 0.58(4) 8 	-> gdpa-hopa
+2023-01-19 12:28:50.095509 : 35312-big-industrial 0.58(4) 2 	-> 
+2023-01-19 12:28:56.713777 : 35312-big-industrial 0.58(4) 6 	-> 
+2023-01-19 12:30:44.450152 : 35312-big-industrial 0.58(4) 10 	-> gdpa-hopa
+2023-01-19 12:30:55.598775 : 35312-big-industrial 0.58(4) 9 	-> gdpa-hopa
+2023-01-19 12:30:57.157740 : 35312-big-industrial 0.58(4) 7 	-> 
+2023-01-19 12:31:05.353681 : 35312-big-industrial 0.58(4) 11 	-> gdpa-hopa
+2023-01-19 12:35:29.319261 : 35312-big-industrial 0.58(4) 15 	-> gdpa-hopa
+2023-01-19 12:35:29.887720 : 35312-big-industrial 0.58(4) 16 	-> hopa gdpa-hopa
+2023-01-19 12:37:20.694022 : 35312-big-industrial 0.58(4) 13 	-> 
+2023-01-19 12:37:22.935163 : 35312-big-industrial 0.58(4) 12 	-> 
+2023-01-19 12:37:28.836553 : 35312-big-industrial 0.58(4) 14 	-> 
+2023-01-19 12:39:20.572478 : 35312-big-industrial 0.58(4) 18 	-> gdpa-hopa
+2023-01-19 12:40:52.229544 : 35312-big-industrial 0.58(4) 17 	-> 
+2023-01-19 12:43:37.711579 : 35312-big-industrial 0.58(4) 19 	-> 
+2023-01-19 12:43:42.567361 : 35312-big-industrial 0.58(4) 20 	-> 
+2023-01-19 12:45:52.147488 : 35312-big-industrial 0.58(4) 21 	-> 
+2023-01-19 12:45:53.077675 : 35312-big-industrial 0.58(4) 25 	-> hopa gdpa-hopa
+2023-01-19 12:46:48.344821 : 35312-big-industrial 0.58(4) 22 	-> 
+2023-01-19 12:47:25.028748 : 35312-big-industrial 0.58(4) 26 	-> gdpa-hopa
+2023-01-19 12:48:50.382885 : 35312-big-industrial 0.58(4) 27 	-> gdpa-hopa
+2023-01-19 12:48:51.286887 : 35312-big-industrial 0.58(4) 29 	-> hopa gdpa-hopa
+2023-01-19 12:48:55.097292 : 35312-big-industrial 0.58(4) 30 	-> hopa gdpa-hopa
+2023-01-19 12:49:19.071855 : 35312-big-industrial 0.58(4) 24 	-> 
+2023-01-19 12:49:19.960958 : 35312-big-industrial 0.58(4) 32 	-> hopa gdpa-hopa
+2023-01-19 12:49:38.121569 : 35312-big-industrial 0.58(4) 23 	-> 
+2023-01-19 12:51:05.277501 : 35312-big-industrial 0.58(4) 33 	-> gdpa-hopa
+2023-01-19 12:51:42.054321 : 35312-big-industrial 0.58(4) 34 	-> gdpa-hopa
+2023-01-19 12:52:37.024218 : 35312-big-industrial 0.58(4) 28 	-> 
+2023-01-19 12:54:02.329565 : 35312-big-industrial 0.58(4) 31 	-> 
+2023-01-19 12:54:22.464206 : 35312-big-industrial 0.58(4) 35 	-> gdpa-hopa
+2023-01-19 12:58:47.115640 : 35312-big-industrial 0.58(4) 36 	-> 
+2023-01-19 12:59:01.765811 : 35312-big-industrial 0.58(4) 37 	-> 
+2023-01-19 13:00:52.196942 : 35312-big-industrial 0.58(4) 39 	-> 
+2023-01-19 13:01:08.188230 : 35312-big-industrial 0.58(4) 38 	-> 
+2023-01-19 13:02:06.775964 : 35312-big-industrial 0.58(4) 42 	-> gdpa-hopa
+2023-01-19 13:02:58.807893 : 35312-big-industrial 0.58(4) 41 	-> gdpa-hopa
+2023-01-19 13:02:59.543895 : 35312-big-industrial 0.58(4) 45 	-> hopa gdpa-hopa
+2023-01-19 13:04:18.411622 : 35312-big-industrial 0.58(4) 44 	-> gdpa-hopa
+2023-01-19 13:04:47.202166 : 35312-big-industrial 0.58(4) 40 	-> 
+2023-01-19 13:07:33.567883 : 35312-big-industrial 0.58(4) 43 	-> 
+2023-01-19 13:09:10.005093 : 35312-big-industrial 0.58(4) 46 	-> 
+2023-01-19 13:10:20.822077 : 35312-big-industrial 0.58(4) 47 	-> 
+2023-01-19 13:10:50.492141 : 35312-big-industrial 0.58(4) 48 	-> 
+2023-01-19 13:11:37.077134 : 35312-big-industrial 0.58(4) 49 	-> gdpa-hopa
+2023-01-19 13:17:45.097851 : 35312-big-industrial 0.61(5) 0 	-> 
+2023-01-19 13:18:30.012622 : 35312-big-industrial 0.61(5) 1 	-> 
+2023-01-19 13:18:32.209519 : 35312-big-industrial 0.61(5) 3 	-> 
+2023-01-19 13:18:45.004541 : 35312-big-industrial 0.61(5) 2 	-> 
+2023-01-19 13:20:38.763370 : 35312-big-industrial 0.61(5) 5 	-> gdpa-hopa
+2023-01-19 13:24:36.526502 : 35312-big-industrial 0.61(5) 4 	-> 
+2023-01-19 13:24:54.295989 : 35312-big-industrial 0.61(5) 6 	-> 
+2023-01-19 13:25:39.389728 : 35312-big-industrial 0.61(5) 8 	-> gdpa-hopa
+2023-01-19 13:26:19.682055 : 35312-big-industrial 0.61(5) 7 	-> 
+2023-01-19 13:32:04.902967 : 35312-big-industrial 0.61(5) 10 	-> 
+2023-01-19 13:32:09.409024 : 35312-big-industrial 0.61(5) 9 	-> 
+2023-01-19 13:32:59.902349 : 35312-big-industrial 0.61(5) 11 	-> 
+2023-01-19 13:34:39.068506 : 35312-big-industrial 0.61(5) 12 	-> 
+2023-01-19 13:34:39.968392 : 35312-big-industrial 0.61(5) 16 	-> hopa gdpa-hopa
+2023-01-19 13:38:41.415796 : 35312-big-industrial 0.61(5) 13 	-> 
+2023-01-19 13:38:46.526161 : 35312-big-industrial 0.61(5) 14 	-> 
+2023-01-19 13:39:30.051311 : 35312-big-industrial 0.61(5) 15 	-> 
+2023-01-19 13:40:48.949512 : 35312-big-industrial 0.61(5) 17 	-> 
+2023-01-19 13:45:33.126545 : 35312-big-industrial 0.61(5) 19 	-> 
+2023-01-19 13:45:45.877026 : 35312-big-industrial 0.61(5) 18 	-> 
+2023-01-19 13:46:42.593996 : 35312-big-industrial 0.61(5) 20 	-> 
+2023-01-19 13:48:00.065648 : 35312-big-industrial 0.61(5) 21 	-> 
+2023-01-19 13:49:55.072259 : 35312-big-industrial 0.61(5) 25 	-> gdpa-hopa
+2023-01-19 13:51:26.384956 : 35312-big-industrial 0.61(5) 22 	-> 
+2023-01-19 13:52:29.041297 : 35312-big-industrial 0.61(5) 23 	-> 
+2023-01-19 13:52:37.697531 : 35312-big-industrial 0.61(5) 24 	-> 
+2023-01-19 13:55:33.682154 : 35312-big-industrial 0.61(5) 26 	-> 
+2023-01-19 13:57:24.776052 : 35312-big-industrial 0.61(5) 27 	-> 
+2023-01-19 13:58:08.182394 : 35312-big-industrial 0.61(5) 29 	-> 
+2023-01-19 13:58:19.573004 : 35312-big-industrial 0.61(5) 28 	-> 
+2023-01-19 13:59:29.573110 : 35312-big-industrial 0.61(5) 30 	-> gdpa-hopa
+2023-01-19 14:03:02.292688 : 35312-big-industrial 0.61(5) 31 	-> 
+2023-01-19 14:03:56.292767 : 35312-big-industrial 0.61(5) 33 	-> gdpa-hopa
+2023-01-19 14:03:56.808380 : 35312-big-industrial 0.61(5) 32 	-> 
+2023-01-19 14:05:10.546227 : 35312-big-industrial 0.61(5) 34 	-> 
+2023-01-19 14:08:08.146148 : 35312-big-industrial 0.61(5) 35 	-> 
+2023-01-19 14:09:38.111008 : 35312-big-industrial 0.61(5) 37 	-> 
+2023-01-19 14:09:47.110968 : 35312-big-industrial 0.61(5) 36 	-> 
+2023-01-19 14:10:53.560766 : 35312-big-industrial 0.61(5) 38 	-> 
+2023-01-19 14:13:24.566420 : 35312-big-industrial 0.61(5) 39 	-> 
+2023-01-19 14:13:55.457128 : 35312-big-industrial 0.61(5) 41 	-> gdpa-hopa
+2023-01-19 14:15:13.965540 : 35312-big-industrial 0.61(5) 40 	-> 
+2023-01-19 14:16:04.616391 : 35312-big-industrial 0.61(5) 42 	-> 
+2023-01-19 14:19:19.631701 : 35312-big-industrial 0.61(5) 43 	-> 
+2023-01-19 14:19:24.678536 : 35312-big-industrial 0.61(5) 44 	-> 
+2023-01-19 14:20:29.018751 : 35312-big-industrial 0.61(5) 45 	-> 
+2023-01-19 14:21:36.257055 : 35312-big-industrial 0.61(5) 46 	-> 
+2023-01-19 14:24:12.214283 : 35312-big-industrial 0.61(5) 47 	-> 
+2023-01-19 14:24:14.073653 : 35312-big-industrial 0.61(5) 48 	-> 
+2023-01-19 14:24:36.193913 : 35312-big-industrial 0.61(5) 49 	-> 
+2023-01-19 14:29:56.494875 : 35312-big-industrial 0.63(6) 0 	-> 
+2023-01-19 14:30:16.653961 : 35312-big-industrial 0.63(6) 3 	-> 
+2023-01-19 14:30:17.044571 : 35312-big-industrial 0.63(6) 1 	-> 
+2023-01-19 14:30:41.950867 : 35312-big-industrial 0.63(6) 2 	-> 
+2023-01-19 14:35:25.964059 : 35312-big-industrial 0.63(6) 6 	-> 
+2023-01-19 14:35:50.245302 : 35312-big-industrial 0.63(6) 4 	-> 
+2023-01-19 14:36:00.258397 : 35312-big-industrial 0.63(6) 5 	-> 
+2023-01-19 14:36:35.191973 : 35312-big-industrial 0.63(6) 7 	-> 
+2023-01-19 14:40:55.503546 : 35312-big-industrial 0.63(6) 8 	-> 
+2023-01-19 14:41:33.561872 : 35312-big-industrial 0.63(6) 10 	-> 
+2023-01-19 14:41:34.124379 : 35312-big-industrial 0.63(6) 9 	-> 
+2023-01-19 14:42:40.402112 : 35312-big-industrial 0.63(6) 11 	-> 
+2023-01-19 14:46:45.435293 : 35312-big-industrial 0.63(6) 12 	-> 
+2023-01-19 14:47:19.338254 : 35312-big-industrial 0.63(6) 13 	-> 
+2023-01-19 14:47:36.244516 : 35312-big-industrial 0.63(6) 14 	-> 
+2023-01-19 14:48:42.506842 : 35312-big-industrial 0.63(6) 15 	-> 
+2023-01-19 14:52:17.633717 : 35312-big-industrial 0.63(6) 16 	-> 
+2023-01-19 14:52:49.711854 : 35312-big-industrial 0.63(6) 17 	-> 
+2023-01-19 14:53:44.499287 : 35312-big-industrial 0.63(6) 18 	-> 
+2023-01-19 14:54:34.715305 : 35312-big-industrial 0.63(6) 19 	-> 
+2023-01-19 14:58:57.731571 : 35312-big-industrial 0.63(6) 21 	-> 
+2023-01-19 14:59:06.180646 : 35312-big-industrial 0.63(6) 20 	-> 
+2023-01-19 14:59:33.368203 : 35312-big-industrial 0.63(6) 22 	-> 
+2023-01-19 15:00:18.864699 : 35312-big-industrial 0.63(6) 23 	-> 
+2023-01-19 15:04:55.030954 : 35312-big-industrial 0.63(6) 25 	-> 
+2023-01-19 15:05:26.576973 : 35312-big-industrial 0.63(6) 24 	-> 
+2023-01-19 15:05:29.933549 : 35312-big-industrial 0.63(6) 26 	-> 
+2023-01-19 15:06:07.254945 : 35312-big-industrial 0.63(6) 27 	-> 
+2023-01-19 15:10:39.847869 : 35312-big-industrial 0.63(6) 28 	-> 
+2023-01-19 15:10:57.595227 : 35312-big-industrial 0.63(6) 30 	-> 
+2023-01-19 15:11:02.620058 : 35312-big-industrial 0.63(6) 29 	-> 
+2023-01-19 15:12:06.363122 : 35312-big-industrial 0.63(6) 31 	-> 
+2023-01-19 15:16:22.193319 : 35312-big-industrial 0.63(6) 32 	-> 
+2023-01-19 15:16:46.800220 : 35312-big-industrial 0.63(6) 33 	-> 
+2023-01-19 15:17:14.980725 : 35312-big-industrial 0.63(6) 34 	-> 
+2023-01-19 15:17:31.509563 : 35312-big-industrial 0.63(6) 35 	-> 
+2023-01-19 15:22:35.510927 : 35312-big-industrial 0.63(6) 36 	-> 
+2023-01-19 15:22:39.352140 : 35312-big-industrial 0.63(6) 37 	-> 
+2023-01-19 15:23:10.641954 : 35312-big-industrial 0.63(6) 39 	-> 
+2023-01-19 15:23:35.046147 : 35312-big-industrial 0.63(6) 38 	-> 
+2023-01-19 15:28:10.677975 : 35312-big-industrial 0.63(6) 40 	-> 
+2023-01-19 15:28:45.347456 : 35312-big-industrial 0.63(6) 41 	-> 
+2023-01-19 15:28:46.532596 : 35312-big-industrial 0.63(6) 42 	-> 
+2023-01-19 15:29:18.274947 : 35312-big-industrial 0.63(6) 43 	-> 
+2023-01-19 15:34:04.536876 : 35312-big-industrial 0.63(6) 44 	-> 
+2023-01-19 15:34:25.783521 : 35312-big-industrial 0.63(6) 45 	-> 
+2023-01-19 15:34:44.499681 : 35312-big-industrial 0.63(6) 46 	-> 
+2023-01-19 15:35:08.055120 : 35312-big-industrial 0.63(6) 47 	-> 
+2023-01-19 15:37:53.888266 : 35312-big-industrial 0.63(6) 48 	-> 
+2023-01-19 15:38:04.505311 : 35312-big-industrial 0.63(6) 49 	-> 
+2023-01-19 15:44:09.591695 : 35312-big-industrial 0.65(7) 0 	-> 
+2023-01-19 15:44:16.480063 : 35312-big-industrial 0.65(7) 2 	-> 
+2023-01-19 15:44:16.944757 : 35312-big-industrial 0.65(7) 1 	-> 
+2023-01-19 15:44:41.647899 : 35312-big-industrial 0.65(7) 3 	-> 
+2023-01-19 15:49:55.363577 : 35312-big-industrial 0.65(7) 6 	-> 
+2023-01-19 15:50:20.810083 : 35312-big-industrial 0.65(7) 5 	-> 
+2023-01-19 15:50:57.932781 : 35312-big-industrial 0.65(7) 4 	-> 
+2023-01-19 15:51:44.080841 : 35312-big-industrial 0.65(7) 7 	-> 
+2023-01-19 15:55:28.548541 : 35312-big-industrial 0.65(7) 8 	-> 
+2023-01-19 15:56:36.528378 : 35312-big-industrial 0.65(7) 9 	-> 
+2023-01-19 15:57:09.647711 : 35312-big-industrial 0.65(7) 10 	-> 
+2023-01-19 15:58:03.432650 : 35312-big-industrial 0.65(7) 11 	-> 
+2023-01-19 16:01:44.092163 : 35312-big-industrial 0.65(7) 12 	-> 
+2023-01-19 16:02:40.710685 : 35312-big-industrial 0.65(7) 13 	-> 
+2023-01-19 16:03:26.818413 : 35312-big-industrial 0.65(7) 14 	-> 
+2023-01-19 16:05:55.106283 : 35312-big-industrial 0.65(7) 15 	-> 
+2023-01-19 16:08:07.982978 : 35312-big-industrial 0.65(7) 16 	-> 
+2023-01-19 16:08:21.293230 : 35312-big-industrial 0.65(7) 17 	-> 
+2023-01-19 16:10:09.689449 : 35312-big-industrial 0.65(7) 18 	-> 
+2023-01-19 16:12:16.741855 : 35312-big-industrial 0.65(7) 19 	-> 
+2023-01-19 16:14:58.932611 : 35312-big-industrial 0.65(7) 21 	-> 
+2023-01-19 16:15:39.283660 : 35312-big-industrial 0.65(7) 20 	-> 
+2023-01-19 16:16:29.654258 : 35312-big-industrial 0.65(7) 22 	-> 
+2023-01-19 16:18:24.832822 : 35312-big-industrial 0.65(7) 23 	-> 
+2023-01-19 16:21:34.928942 : 35312-big-industrial 0.65(7) 25 	-> 
+2023-01-19 16:22:00.913107 : 35312-big-industrial 0.65(7) 26 	-> 
+2023-01-19 16:22:31.538115 : 35312-big-industrial 0.65(7) 24 	-> 
+2023-01-19 16:25:05.916075 : 35312-big-industrial 0.65(7) 27 	-> 
+2023-01-19 16:28:04.668449 : 35312-big-industrial 0.65(7) 29 	-> 
+2023-01-19 16:28:05.837615 : 35312-big-industrial 0.65(7) 28 	-> 
+2023-01-19 16:28:35.568696 : 35312-big-industrial 0.65(7) 30 	-> 
+2023-01-19 16:31:39.578830 : 35312-big-industrial 0.65(7) 31 	-> 
+2023-01-19 16:34:09.534064 : 35312-big-industrial 0.65(7) 32 	-> 
+2023-01-19 16:35:03.591047 : 35312-big-industrial 0.65(7) 33 	-> 
+2023-01-19 16:35:30.823307 : 35312-big-industrial 0.65(7) 34 	-> 
+2023-01-19 16:37:43.879050 : 35312-big-industrial 0.65(7) 35 	-> 
+2023-01-19 16:40:33.742391 : 35312-big-industrial 0.65(7) 36 	-> 
+2023-01-19 16:40:59.692902 : 35312-big-industrial 0.65(7) 37 	-> 
+2023-01-19 16:41:48.393703 : 35312-big-industrial 0.65(7) 38 	-> 
+2023-01-19 16:43:46.462599 : 35312-big-industrial 0.65(7) 39 	-> 
+2023-01-19 16:47:16.309543 : 35312-big-industrial 0.65(7) 41 	-> 
+2023-01-19 16:47:24.776226 : 35312-big-industrial 0.65(7) 40 	-> 
+2023-01-19 16:48:13.206355 : 35312-big-industrial 0.65(7) 42 	-> 
+2023-01-19 16:49:56.106671 : 35312-big-industrial 0.65(7) 43 	-> 
+2023-01-19 16:53:42.714341 : 35312-big-industrial 0.65(7) 45 	-> 
+2023-01-19 16:53:48.086201 : 35312-big-industrial 0.65(7) 44 	-> 
+2023-01-19 16:54:25.266575 : 35312-big-industrial 0.65(7) 46 	-> 
+2023-01-19 16:55:48.339369 : 35312-big-industrial 0.65(7) 47 	-> 
+2023-01-19 16:57:52.045660 : 35312-big-industrial 0.65(7) 49 	-> 
+2023-01-19 16:57:56.260469 : 35312-big-industrial 0.65(7) 48 	-> 
+2023-01-19 17:04:12.716106 : 35312-big-industrial 0.67(8) 2 	-> 
+2023-01-19 17:04:31.309033 : 35312-big-industrial 0.67(8) 1 	-> 
+2023-01-19 17:04:39.775283 : 35312-big-industrial 0.67(8) 0 	-> 
+2023-01-19 17:04:40.396899 : 35312-big-industrial 0.67(8) 3 	-> 
+2023-01-19 17:10:35.401360 : 35312-big-industrial 0.67(8) 6 	-> 
+2023-01-19 17:11:03.223517 : 35312-big-industrial 0.67(8) 5 	-> 
+2023-01-19 17:11:10.205407 : 35312-big-industrial 0.67(8) 4 	-> 
+2023-01-19 17:13:17.930920 : 35312-big-industrial 0.67(8) 7 	-> 
+2023-01-19 17:16:17.106087 : 35312-big-industrial 0.67(8) 8 	-> 
+2023-01-19 17:18:20.076962 : 35312-big-industrial 0.67(8) 9 	-> 
+2023-01-19 17:18:33.230014 : 35312-big-industrial 0.67(8) 10 	-> 
+2023-01-19 17:20:14.066108 : 35312-big-industrial 0.67(8) 11 	-> 
+2023-01-19 17:23:47.514622 : 35312-big-industrial 0.67(8) 12 	-> 
+2023-01-19 17:24:54.758454 : 35312-big-industrial 0.67(8) 13 	-> 
+2023-01-19 17:25:48.096358 : 35312-big-industrial 0.67(8) 14 	-> 
+2023-01-19 17:27:10.665673 : 35312-big-industrial 0.67(8) 15 	-> 
+2023-01-19 17:30:50.876604 : 35312-big-industrial 0.67(8) 16 	-> 
+2023-01-19 17:32:03.538787 : 35312-big-industrial 0.67(8) 17 	-> 
+2023-01-19 17:32:48.927143 : 35312-big-industrial 0.67(8) 18 	-> 
+2023-01-19 17:35:17.443223 : 35312-big-industrial 0.67(8) 19 	-> 
+2023-01-19 17:38:25.481011 : 35312-big-industrial 0.67(8) 20 	-> 
+2023-01-19 17:39:21.022343 : 35312-big-industrial 0.67(8) 21 	-> 
+2023-01-19 17:39:32.471363 : 35312-big-industrial 0.67(8) 22 	-> 
+2023-01-19 17:42:16.345912 : 35312-big-industrial 0.67(8) 23 	-> 
+2023-01-19 17:45:52.280144 : 35312-big-industrial 0.67(8) 26 	-> 
+2023-01-19 17:46:17.810227 : 35312-big-industrial 0.67(8) 25 	-> 
+2023-01-19 17:46:38.792332 : 35312-big-industrial 0.67(8) 24 	-> 
+2023-01-19 17:49:21.065759 : 35312-big-industrial 0.67(8) 27 	-> 
+2023-01-19 17:52:37.883986 : 35312-big-industrial 0.67(8) 28 	-> 
+2023-01-19 17:52:39.475218 : 35312-big-industrial 0.67(8) 29 	-> 
+2023-01-19 17:53:14.233655 : 35312-big-industrial 0.67(8) 30 	-> 
+2023-01-19 17:55:58.725747 : 35312-big-industrial 0.67(8) 31 	-> 
+2023-01-19 17:59:36.460984 : 35312-big-industrial 0.67(8) 32 	-> 
+2023-01-19 18:00:21.157568 : 35312-big-industrial 0.67(8) 33 	-> 
+2023-01-19 18:00:43.655548 : 35312-big-industrial 0.67(8) 34 	-> 
+2023-01-19 18:02:17.380402 : 35312-big-industrial 0.67(8) 35 	-> 
+2023-01-19 18:07:02.402719 : 35312-big-industrial 0.67(8) 36 	-> 
+2023-01-19 18:07:05.587161 : 35312-big-industrial 0.67(8) 37 	-> 
+2023-01-19 18:07:29.396376 : 35312-big-industrial 0.67(8) 38 	-> 
+2023-01-19 18:09:16.763739 : 35312-big-industrial 0.67(8) 39 	-> 
+2023-01-19 18:13:48.843894 : 35312-big-industrial 0.67(8) 41 	-> 
+2023-01-19 18:13:50.200848 : 35312-big-industrial 0.67(8) 42 	-> 
+2023-01-19 18:13:53.494431 : 35312-big-industrial 0.67(8) 40 	-> 
+2023-01-19 18:15:54.156314 : 35312-big-industrial 0.67(8) 43 	-> 
+2023-01-19 18:20:30.597914 : 35312-big-industrial 0.67(8) 45 	-> 
+2023-01-19 18:20:35.782358 : 35312-big-industrial 0.67(8) 46 	-> 
+2023-01-19 18:21:16.134999 : 35312-big-industrial 0.67(8) 44 	-> 
+2023-01-19 18:22:40.207470 : 35312-big-industrial 0.67(8) 47 	-> 
+2023-01-19 18:24:47.806369 : 35312-big-industrial 0.67(8) 48 	-> 
+2023-01-19 18:24:47.821995 : 35312-big-industrial 0.67(8) 49 	-> 
+2023-01-19 18:32:19.125490 : 35312-big-industrial 0.69(9) 1 	-> 
+2023-01-19 18:32:28.358248 : 35312-big-industrial 0.69(9) 0 	-> 
+2023-01-19 18:33:06.694955 : 35312-big-industrial 0.69(9) 3 	-> 
+2023-01-19 18:33:07.927546 : 35312-big-industrial 0.69(9) 2 	-> 
+2023-01-19 18:39:58.621109 : 35312-big-industrial 0.69(9) 4 	-> 
+2023-01-19 18:40:18.453771 : 35312-big-industrial 0.69(9) 6 	-> 
+2023-01-19 18:40:43.877960 : 35312-big-industrial 0.69(9) 5 	-> 
+2023-01-19 18:42:44.972365 : 35312-big-industrial 0.30(0) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:44.987368 : 35312-big-industrial 0.30(0) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.008368 : 35312-big-industrial 0.30(0) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.136368 : 35312-big-industrial 0.30(0) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.164399 : 35312-big-industrial 0.30(0) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.170374 : 35312-big-industrial 0.30(0) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.181371 : 35312-big-industrial 0.30(0) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.333368 : 35312-big-industrial 0.30(0) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.337369 : 35312-big-industrial 0.30(0) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.339371 : 35312-big-industrial 0.30(0) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.344372 : 35312-big-industrial 0.30(0) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.503369 : 35312-big-industrial 0.30(0) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.524372 : 35312-big-industrial 0.30(0) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.526374 : 35312-big-industrial 0.30(0) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.528400 : 35312-big-industrial 0.30(0) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.689373 : 35312-big-industrial 0.30(0) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.708374 : 35312-big-industrial 0.30(0) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.711374 : 35312-big-industrial 0.30(0) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.716375 : 35312-big-industrial 0.30(0) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.853375 : 35312-big-industrial 0.30(0) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.868375 : 35312-big-industrial 0.30(0) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.869373 : 35312-big-industrial 0.30(0) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:45.918399 : 35312-big-industrial 0.30(0) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.022375 : 35312-big-industrial 0.30(0) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.031376 : 35312-big-industrial 0.30(0) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.037374 : 35312-big-industrial 0.30(0) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.111375 : 35312-big-industrial 0.30(0) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.198406 : 35312-big-industrial 0.30(0) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.222376 : 35312-big-industrial 0.30(0) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.226407 : 35312-big-industrial 0.30(0) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.288378 : 35312-big-industrial 0.30(0) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.358379 : 35312-big-industrial 0.30(0) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.382379 : 35312-big-industrial 0.30(0) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.430378 : 35312-big-industrial 0.30(0) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.461409 : 35312-big-industrial 0.30(0) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.546377 : 35312-big-industrial 0.30(0) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.555378 : 35312-big-industrial 0.30(0) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.615377 : 35312-big-industrial 0.30(0) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.644378 : 35312-big-industrial 0.30(0) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.717380 : 35312-big-industrial 0.30(0) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.728380 : 35312-big-industrial 0.30(0) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.784381 : 35312-big-industrial 0.30(0) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.845382 : 35312-big-industrial 0.30(0) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.877382 : 35312-big-industrial 0.30(0) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.910382 : 35312-big-industrial 0.30(0) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:46.944383 : 35312-big-industrial 0.30(0) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:47.012381 : 35312-big-industrial 0.30(0) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:47.042381 : 35312-big-industrial 0.30(0) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:47.098381 : 35312-big-industrial 0.30(0) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:47.118381 : 35312-big-industrial 0.30(0) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.470030 : 35312-big-industrial 0.32(1) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.481000 : 35312-big-industrial 0.32(1) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.483000 : 35312-big-industrial 0.32(1) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.587004 : 35312-big-industrial 0.32(1) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.650002 : 35312-big-industrial 0.32(1) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.660004 : 35312-big-industrial 0.32(1) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.672035 : 35312-big-industrial 0.32(1) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.754031 : 35312-big-industrial 0.32(1) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.813033 : 35312-big-industrial 0.32(1) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.819002 : 35312-big-industrial 0.32(1) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.839003 : 35312-big-industrial 0.32(1) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.914037 : 35312-big-industrial 0.32(1) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:49.995004 : 35312-big-industrial 0.32(1) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.004040 : 35312-big-industrial 0.32(1) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.015003 : 35312-big-industrial 0.32(1) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.104004 : 35312-big-industrial 0.32(1) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.158004 : 35312-big-industrial 0.32(1) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.191005 : 35312-big-industrial 0.32(1) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.207006 : 35312-big-industrial 0.32(1) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.275033 : 35312-big-industrial 0.32(1) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.336004 : 35312-big-industrial 0.32(1) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.384005 : 35312-big-industrial 0.32(1) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.401005 : 35312-big-industrial 0.32(1) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.438005 : 35312-big-industrial 0.32(1) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.505008 : 35312-big-industrial 0.32(1) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.600008 : 35312-big-industrial 0.32(1) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.609039 : 35312-big-industrial 0.32(1) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.652010 : 35312-big-industrial 0.32(1) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.670009 : 35312-big-industrial 0.32(1) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.778009 : 35312-big-industrial 0.32(1) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.831040 : 35312-big-industrial 0.32(1) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.852010 : 35312-big-industrial 0.32(1) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.874010 : 35312-big-industrial 0.32(1) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:50.953012 : 35312-big-industrial 0.32(1) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.016042 : 35312-big-industrial 0.32(1) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.050010 : 35312-big-industrial 0.32(1) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.098011 : 35312-big-industrial 0.32(1) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.120011 : 35312-big-industrial 0.32(1) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.186011 : 35312-big-industrial 0.32(1) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.230012 : 35312-big-industrial 0.32(1) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.269049 : 35312-big-industrial 0.32(1) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.305044 : 35312-big-industrial 0.32(1) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.364044 : 35312-big-industrial 0.32(1) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.397014 : 35312-big-industrial 0.32(1) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.429014 : 35312-big-industrial 0.32(1) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.469014 : 35312-big-industrial 0.32(1) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.527046 : 35312-big-industrial 0.32(1) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.555046 : 35312-big-industrial 0.32(1) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.588046 : 35312-big-industrial 0.32(1) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:51.630048 : 35312-big-industrial 0.32(1) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.514060 : 35312-big-industrial 0.34(2) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.580031 : 35312-big-industrial 0.34(2) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.584032 : 35312-big-industrial 0.34(2) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.670031 : 35312-big-industrial 0.34(2) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.682032 : 35312-big-industrial 0.34(2) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.747035 : 35312-big-industrial 0.34(2) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.779031 : 35312-big-industrial 0.34(2) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.854031 : 35312-big-industrial 0.34(2) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.854031 : 35312-big-industrial 0.34(2) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.913035 : 35312-big-industrial 0.34(2) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:53.946031 : 35312-big-industrial 0.34(2) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.046035 : 35312-big-industrial 0.34(2) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.091034 : 35312-big-industrial 0.34(2) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.114035 : 35312-big-industrial 0.34(2) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.154036 : 35312-big-industrial 0.34(2) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.276036 : 35312-big-industrial 0.34(2) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.288065 : 35312-big-industrial 0.34(2) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.328038 : 35312-big-industrial 0.34(2) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.353066 : 35312-big-industrial 0.34(2) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.449039 : 35312-big-industrial 0.34(2) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.467038 : 35312-big-industrial 0.34(2) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.522039 : 35312-big-industrial 0.34(2) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.550040 : 35312-big-industrial 0.34(2) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.635069 : 35312-big-industrial 0.34(2) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.650040 : 35312-big-industrial 0.34(2) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.718038 : 35312-big-industrial 0.34(2) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.727039 : 35312-big-industrial 0.34(2) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.883070 : 35312-big-industrial 0.34(2) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.918069 : 35312-big-industrial 0.34(2) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.972041 : 35312-big-industrial 0.34(2) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:54.975041 : 35312-big-industrial 0.34(2) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.056040 : 35312-big-industrial 0.34(2) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.314041 : 35312-big-industrial 0.34(2) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.315041 : 35312-big-industrial 0.34(2) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.315041 : 35312-big-industrial 0.34(2) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.316041 : 35312-big-industrial 0.34(2) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.366042 : 35312-big-industrial 0.34(2) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.398046 : 35312-big-industrial 0.34(2) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.400044 : 35312-big-industrial 0.34(2) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.423045 : 35312-big-industrial 0.34(2) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.563043 : 35312-big-industrial 0.34(2) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.569044 : 35312-big-industrial 0.34(2) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.585045 : 35312-big-industrial 0.34(2) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.666045 : 35312-big-industrial 0.34(2) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.723075 : 35312-big-industrial 0.34(2) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.733075 : 35312-big-industrial 0.34(2) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.828077 : 35312-big-industrial 0.34(2) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.830049 : 35312-big-industrial 0.34(2) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.894078 : 35312-big-industrial 0.34(2) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:55.977084 : 35312-big-industrial 0.34(2) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.722060 : 35312-big-industrial 0.36(3) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.733093 : 35312-big-industrial 0.36(3) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.818092 : 35312-big-industrial 0.36(3) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.842061 : 35312-big-industrial 0.36(3) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.882102 : 35312-big-industrial 0.36(3) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.977062 : 35312-big-industrial 0.36(3) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:57.989091 : 35312-big-industrial 0.36(3) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.013062 : 35312-big-industrial 0.36(3) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.043068 : 35312-big-industrial 0.36(3) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.139066 : 35312-big-industrial 0.36(3) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.185065 : 35312-big-industrial 0.36(3) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.237063 : 35312-big-industrial 0.36(3) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.328065 : 35312-big-industrial 0.36(3) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.329066 : 35312-big-industrial 0.36(3) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.379066 : 35312-big-industrial 0.36(3) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.496066 : 35312-big-industrial 0.36(3) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.501065 : 35312-big-industrial 0.36(3) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.510067 : 35312-big-industrial 0.36(3) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.566068 : 35312-big-industrial 0.36(3) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.655066 : 35312-big-industrial 0.36(3) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.660066 : 35312-big-industrial 0.36(3) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.678067 : 35312-big-industrial 0.36(3) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.734068 : 35312-big-industrial 0.36(3) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.816071 : 35312-big-industrial 0.36(3) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.822099 : 35312-big-industrial 0.36(3) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.839068 : 35312-big-industrial 0.36(3) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:58.911070 : 35312-big-industrial 0.36(3) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.061070 : 35312-big-industrial 0.36(3) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.066069 : 35312-big-industrial 0.36(3) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.104069 : 35312-big-industrial 0.36(3) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.164072 : 35312-big-industrial 0.36(3) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.227070 : 35312-big-industrial 0.36(3) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.301071 : 35312-big-industrial 0.36(3) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.377076 : 35312-big-industrial 0.36(3) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.399075 : 35312-big-industrial 0.36(3) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.423074 : 35312-big-industrial 0.36(3) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.545075 : 35312-big-industrial 0.36(3) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.571075 : 35312-big-industrial 0.36(3) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.641076 : 35312-big-industrial 0.36(3) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.669076 : 35312-big-industrial 0.36(3) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.774092 : 35312-big-industrial 0.36(3) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.798077 : 35312-big-industrial 0.36(3) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.831077 : 35312-big-industrial 0.36(3) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.891077 : 35312-big-industrial 0.36(3) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.936080 : 35312-big-industrial 0.36(3) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:42:59.968081 : 35312-big-industrial 0.36(3) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:00.085108 : 35312-big-industrial 0.36(3) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:00.099111 : 35312-big-industrial 0.36(3) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:00.146110 : 35312-big-industrial 0.36(3) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:00.211110 : 35312-big-industrial 0.36(3) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:01.978093 : 35312-big-industrial 0.38(4) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.026095 : 35312-big-industrial 0.38(4) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.089093 : 35312-big-industrial 0.38(4) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.089093 : 35312-big-industrial 0.38(4) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.220093 : 35312-big-industrial 0.38(4) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.248124 : 35312-big-industrial 0.38(4) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.250094 : 35312-big-industrial 0.38(4) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.274108 : 35312-big-industrial 0.38(4) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.382097 : 35312-big-industrial 0.38(4) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.407110 : 35312-big-industrial 0.38(4) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.491133 : 35312-big-industrial 0.38(4) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.523098 : 35312-big-industrial 0.38(4) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.595096 : 35312-big-industrial 0.38(4) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.640099 : 35312-big-industrial 0.38(4) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.754099 : 35312-big-industrial 0.38(4) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.756129 : 35312-big-industrial 0.38(4) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.782103 : 35312-big-industrial 0.38(4) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.798129 : 35312-big-industrial 0.38(4) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.945099 : 35312-big-industrial 0.38(4) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:02.957098 : 35312-big-industrial 0.38(4) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.006098 : 35312-big-industrial 0.38(4) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.013100 : 35312-big-industrial 0.38(4) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.113101 : 35312-big-industrial 0.38(4) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.166101 : 35312-big-industrial 0.38(4) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.212102 : 35312-big-industrial 0.38(4) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.273131 : 35312-big-industrial 0.38(4) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.302102 : 35312-big-industrial 0.38(4) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.444103 : 35312-big-industrial 0.38(4) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.460106 : 35312-big-industrial 0.38(4) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.537106 : 35312-big-industrial 0.38(4) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.576105 : 35312-big-industrial 0.38(4) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.638107 : 35312-big-industrial 0.38(4) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.693105 : 35312-big-industrial 0.38(4) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.787105 : 35312-big-industrial 0.38(4) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.800105 : 35312-big-industrial 0.38(4) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.840139 : 35312-big-industrial 0.38(4) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.941106 : 35312-big-industrial 0.38(4) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:03.950106 : 35312-big-industrial 0.38(4) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.103109 : 35312-big-industrial 0.38(4) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.112109 : 35312-big-industrial 0.38(4) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.116109 : 35312-big-industrial 0.38(4) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.183109 : 35312-big-industrial 0.38(4) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.303110 : 35312-big-industrial 0.38(4) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.383136 : 35312-big-industrial 0.38(4) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.394110 : 35312-big-industrial 0.38(4) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.471142 : 35312-big-industrial 0.38(4) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.572129 : 35312-big-industrial 0.38(4) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.575142 : 35312-big-industrial 0.38(4) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.647143 : 35312-big-industrial 0.38(4) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:04.721113 : 35312-big-industrial 0.38(4) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:06.777533 : 35312-big-industrial 0.41(5) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:06.949400 : 35312-big-industrial 0.41(5) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:06.980651 : 35312-big-industrial 0.41(5) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:06.996274 : 35312-big-industrial 0.41(5) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.136895 : 35312-big-industrial 0.41(5) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.183770 : 35312-big-industrial 0.41(5) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.230646 : 35312-big-industrial 0.41(5) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.308803 : 35312-big-industrial 0.41(5) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.340054 : 35312-big-industrial 0.41(5) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.418182 : 35312-big-industrial 0.41(5) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.511931 : 35312-big-industrial 0.41(5) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.590054 : 35312-big-industrial 0.41(5) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.605685 : 35312-big-industrial 0.41(5) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.621311 : 35312-big-industrial 0.41(5) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.777556 : 35312-big-industrial 0.41(5) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.793152 : 35312-big-industrial 0.41(5) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.793152 : 35312-big-industrial 0.41(5) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:07.855682 : 35312-big-industrial 0.41(5) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.027557 : 35312-big-industrial 0.41(5) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.027557 : 35312-big-industrial 0.41(5) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.043155 : 35312-big-industrial 0.41(5) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.058809 : 35312-big-industrial 0.41(5) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.277560 : 35312-big-industrial 0.41(5) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.293185 : 35312-big-industrial 0.41(5) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.293185 : 35312-big-industrial 0.41(5) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.324436 : 35312-big-industrial 0.41(5) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.543182 : 35312-big-industrial 0.41(5) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.558810 : 35312-big-industrial 0.41(5) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.574433 : 35312-big-industrial 0.41(5) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.605689 : 35312-big-industrial 0.41(5) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.793188 : 35312-big-industrial 0.41(5) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.808784 : 35312-big-industrial 0.41(5) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.824411 : 35312-big-industrial 0.41(5) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:08.871314 : 35312-big-industrial 0.41(5) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.043190 : 35312-big-industrial 0.41(5) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.043190 : 35312-big-industrial 0.41(5) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.058786 : 35312-big-industrial 0.41(5) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.105691 : 35312-big-industrial 0.41(5) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.277570 : 35312-big-industrial 0.41(5) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.308817 : 35312-big-industrial 0.41(5) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.308817 : 35312-big-industrial 0.41(5) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.324443 : 35312-big-industrial 0.41(5) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.543196 : 35312-big-industrial 0.41(5) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.558822 : 35312-big-industrial 0.41(5) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.558822 : 35312-big-industrial 0.41(5) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.590069 : 35312-big-industrial 0.41(5) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.793199 : 35312-big-industrial 0.41(5) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.824441 : 35312-big-industrial 0.41(5) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.840067 : 35312-big-industrial 0.41(5) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:09.840067 : 35312-big-industrial 0.41(5) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.652585 : 35312-big-industrial 0.43(6) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.652585 : 35312-big-industrial 0.43(6) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.668210 : 35312-big-industrial 0.43(6) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.668210 : 35312-big-industrial 0.43(6) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.840085 : 35312-big-industrial 0.43(6) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.902588 : 35312-big-industrial 0.43(6) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.918212 : 35312-big-industrial 0.43(6) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:11.918212 : 35312-big-industrial 0.43(6) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.074467 : 35312-big-industrial 0.43(6) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.090102 : 35312-big-industrial 0.43(6) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.168213 : 35312-big-industrial 0.43(6) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.168213 : 35312-big-industrial 0.43(6) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.277593 : 35312-big-industrial 0.43(6) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.355718 : 35312-big-industrial 0.43(6) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.418210 : 35312-big-industrial 0.43(6) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.449466 : 35312-big-industrial 0.43(6) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.480688 : 35312-big-industrial 0.43(6) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.605718 : 35312-big-industrial 0.43(6) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.668219 : 35312-big-industrial 0.43(6) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.715066 : 35312-big-industrial 0.43(6) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.730689 : 35312-big-industrial 0.43(6) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.902564 : 35312-big-industrial 0.43(6) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.918189 : 35312-big-industrial 0.43(6) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.980688 : 35312-big-industrial 0.43(6) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:12.980688 : 35312-big-industrial 0.43(6) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.121314 : 35312-big-industrial 0.43(6) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.183815 : 35312-big-industrial 0.43(6) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.230690 : 35312-big-industrial 0.43(6) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.246316 : 35312-big-industrial 0.43(6) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.371318 : 35312-big-industrial 0.43(6) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.433819 : 35312-big-industrial 0.43(6) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.511945 : 35312-big-industrial 0.43(6) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.543194 : 35312-big-industrial 0.43(6) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.636945 : 35312-big-industrial 0.43(6) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.761946 : 35312-big-industrial 0.43(6) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.793197 : 35312-big-industrial 0.43(6) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.808822 : 35312-big-industrial 0.43(6) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:13.902573 : 35312-big-industrial 0.43(6) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.027573 : 35312-big-industrial 0.43(6) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.058823 : 35312-big-industrial 0.43(6) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.058823 : 35312-big-industrial 0.43(6) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.136949 : 35312-big-industrial 0.43(6) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.371326 : 35312-big-industrial 0.43(6) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.371326 : 35312-big-industrial 0.43(6) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.371326 : 35312-big-industrial 0.43(6) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.496327 : 35312-big-industrial 0.43(6) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.543202 : 35312-big-industrial 0.43(6) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.558827 : 35312-big-industrial 0.43(6) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.574452 : 35312-big-industrial 0.43(6) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:14.886954 : 35312-big-industrial 0.43(6) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.277627 : 35312-big-industrial 0.45(7) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.277627 : 35312-big-industrial 0.45(7) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.293252 : 35312-big-industrial 0.45(7) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.308846 : 35312-big-industrial 0.45(7) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.543253 : 35312-big-industrial 0.45(7) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.543253 : 35312-big-industrial 0.45(7) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.543253 : 35312-big-industrial 0.45(7) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.574474 : 35312-big-industrial 0.45(7) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.793256 : 35312-big-industrial 0.45(7) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.808884 : 35312-big-industrial 0.45(7) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.808884 : 35312-big-industrial 0.45(7) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.824511 : 35312-big-industrial 0.45(7) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:17.996381 : 35312-big-industrial 0.45(7) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.058881 : 35312-big-industrial 0.45(7) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.090132 : 35312-big-industrial 0.45(7) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.183853 : 35312-big-industrial 0.45(7) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.246384 : 35312-big-industrial 0.45(7) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.308854 : 35312-big-industrial 0.45(7) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.355729 : 35312-big-industrial 0.45(7) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.449509 : 35312-big-industrial 0.45(7) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.496385 : 35312-big-industrial 0.45(7) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.543264 : 35312-big-industrial 0.45(7) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.621387 : 35312-big-industrial 0.45(7) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.699512 : 35312-big-industrial 0.45(7) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.746387 : 35312-big-industrial 0.45(7) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.793263 : 35312-big-industrial 0.45(7) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.871388 : 35312-big-industrial 0.45(7) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.965139 : 35312-big-industrial 0.45(7) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:18.996393 : 35312-big-industrial 0.45(7) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.058895 : 35312-big-industrial 0.45(7) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.121390 : 35312-big-industrial 0.45(7) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.230766 : 35312-big-industrial 0.45(7) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.277643 : 35312-big-industrial 0.45(7) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.324516 : 35312-big-industrial 0.45(7) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.387017 : 35312-big-industrial 0.45(7) 34 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.465142 : 35312-big-industrial 0.45(7) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.496393 : 35312-big-industrial 0.45(7) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.637019 : 35312-big-industrial 0.45(7) 38 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.715145 : 35312-big-industrial 0.45(7) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.762019 : 35312-big-industrial 0.45(7) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.840145 : 35312-big-industrial 0.45(7) 36 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.902651 : 35312-big-industrial 0.45(7) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:19.965150 : 35312-big-industrial 0.45(7) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.012023 : 35312-big-industrial 0.45(7) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.090147 : 35312-big-industrial 0.45(7) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.168272 : 35312-big-industrial 0.45(7) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.230773 : 35312-big-industrial 0.45(7) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.262018 : 35312-big-industrial 0.45(7) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.324526 : 35312-big-industrial 0.45(7) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:20.418280 : 35312-big-industrial 0.45(7) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.183884 : 35312-big-industrial 0.47(8) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.215134 : 35312-big-industrial 0.47(8) 1 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.277634 : 35312-big-industrial 0.47(8) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.293260 : 35312-big-industrial 0.47(8) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.465136 : 35312-big-industrial 0.47(8) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.480790 : 35312-big-industrial 0.47(8) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.543290 : 35312-big-industrial 0.47(8) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.590167 : 35312-big-industrial 0.47(8) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.730760 : 35312-big-industrial 0.47(8) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.730760 : 35312-big-industrial 0.47(8) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.808885 : 35312-big-industrial 0.47(8) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:22.855761 : 35312-big-industrial 0.47(8) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.012012 : 35312-big-industrial 0.47(8) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.012012 : 35312-big-industrial 0.47(8) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.090138 : 35312-big-industrial 0.47(8) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.137014 : 35312-big-industrial 0.47(8) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.262014 : 35312-big-industrial 0.47(8) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.277640 : 35312-big-industrial 0.47(8) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.402641 : 35312-big-industrial 0.47(8) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.433890 : 35312-big-industrial 0.47(8) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.527679 : 35312-big-industrial 0.47(8) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.621423 : 35312-big-industrial 0.47(8) 21 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.683923 : 35312-big-industrial 0.47(8) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.699549 : 35312-big-industrial 0.47(8) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.793299 : 35312-big-industrial 0.47(8) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.871426 : 35312-big-industrial 0.47(8) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:23.949557 : 35312-big-industrial 0.47(8) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.043302 : 35312-big-industrial 0.47(8) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.058930 : 35312-big-industrial 0.47(8) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.137058 : 35312-big-industrial 0.47(8) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.215184 : 35312-big-industrial 0.47(8) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.324553 : 35312-big-industrial 0.47(8) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.324553 : 35312-big-industrial 0.47(8) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.418304 : 35312-big-industrial 0.47(8) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.590186 : 35312-big-industrial 0.47(8) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.605806 : 35312-big-industrial 0.47(8) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.652683 : 35312-big-industrial 0.47(8) 34 	-> hopa gdpa-hopa
+2023-01-19 18:43:24.683931 : 35312-big-industrial 0.47(8) 36 	-> hopa gdpa-hopa
+2023-01-19 18:43:24.902654 : 35312-big-industrial 0.47(8) 38 	-> hopa gdpa-hopa
+2023-01-19 18:43:24.918308 : 35312-big-industrial 0.47(8) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.949558 : 35312-big-industrial 0.47(8) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:24.965184 : 35312-big-industrial 0.47(8) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.199561 : 35312-big-industrial 0.47(8) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.215185 : 35312-big-industrial 0.47(8) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.230810 : 35312-big-industrial 0.47(8) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.277687 : 35312-big-industrial 0.47(8) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.496437 : 35312-big-industrial 0.47(8) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.512057 : 35312-big-industrial 0.47(8) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.574557 : 35312-big-industrial 0.47(8) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:25.621437 : 35312-big-industrial 0.47(8) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.418326 : 35312-big-industrial 0.49(9) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.418326 : 35312-big-industrial 0.49(9) 2 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.449580 : 35312-big-industrial 0.49(9) 1 	-> hopa gdpa-hopa
+2023-01-19 18:43:27.480826 : 35312-big-industrial 0.49(9) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.699578 : 35312-big-industrial 0.49(9) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.762081 : 35312-big-industrial 0.49(9) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.808963 : 35312-big-industrial 0.49(9) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.840206 : 35312-big-industrial 0.49(9) 7 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:27.965205 : 35312-big-industrial 0.49(9) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.043334 : 35312-big-industrial 0.49(9) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.105831 : 35312-big-industrial 0.49(9) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.183960 : 35312-big-industrial 0.49(9) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.246460 : 35312-big-industrial 0.49(9) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.293332 : 35312-big-industrial 0.49(9) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.371458 : 35312-big-industrial 0.49(9) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.480804 : 35312-big-industrial 0.49(9) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.496464 : 35312-big-industrial 0.49(9) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.558962 : 35312-big-industrial 0.49(9) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.715216 : 35312-big-industrial 0.49(9) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.746463 : 35312-big-industrial 0.49(9) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.777714 : 35312-big-industrial 0.49(9) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:28.949588 : 35312-big-industrial 0.49(9) 21 	-> hopa gdpa-hopa
+2023-01-19 18:43:29.027684 : 35312-big-industrial 0.49(9) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.074589 : 35312-big-industrial 0.49(9) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.137089 : 35312-big-industrial 0.49(9) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.230844 : 35312-big-industrial 0.49(9) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.308967 : 35312-big-industrial 0.49(9) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.418341 : 35312-big-industrial 0.49(9) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.418341 : 35312-big-industrial 0.49(9) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.480842 : 35312-big-industrial 0.49(9) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.574592 : 35312-big-industrial 0.49(9) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.683968 : 35312-big-industrial 0.49(9) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.777720 : 35312-big-industrial 0.49(9) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.777720 : 35312-big-industrial 0.49(9) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:29.902720 : 35312-big-industrial 0.49(9) 34 	-> hopa gdpa-hopa
+2023-01-19 18:43:29.933970 : 35312-big-industrial 0.49(9) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.058970 : 35312-big-industrial 0.49(9) 37 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.121471 : 35312-big-industrial 0.49(9) 36 	-> hopa gdpa-hopa
+2023-01-19 18:43:30.246474 : 35312-big-industrial 0.49(9) 38 	-> hopa gdpa-hopa
+2023-01-19 18:43:30.293347 : 35312-big-industrial 0.49(9) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.308975 : 35312-big-industrial 0.49(9) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.480849 : 35312-big-industrial 0.49(9) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.558978 : 35312-big-industrial 0.49(9) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.574603 : 35312-big-industrial 0.49(9) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.605850 : 35312-big-industrial 0.49(9) 42 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.840231 : 35312-big-industrial 0.49(9) 47 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.855856 : 35312-big-industrial 0.49(9) 45 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.918347 : 35312-big-industrial 0.49(9) 46 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:30.980841 : 35312-big-industrial 0.49(9) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:31.105872 : 35312-big-industrial 0.49(9) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:32.980836 : 35312-big-industrial 0.51(10) 1 	-> hopa gdpa-hopa
+2023-01-19 18:43:33.168337 : 35312-big-industrial 0.51(10) 0 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.168337 : 35312-big-industrial 0.51(10) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.168337 : 35312-big-industrial 0.51(10) 2 	-> hopa gdpa-hopa
+2023-01-19 18:43:33.262121 : 35312-big-industrial 0.51(10) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.324620 : 35312-big-industrial 0.51(10) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.371496 : 35312-big-industrial 0.51(10) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.527746 : 35312-big-industrial 0.51(10) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.605873 : 35312-big-industrial 0.51(10) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.746498 : 35312-big-industrial 0.51(10) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.887124 : 35312-big-industrial 0.51(10) 12 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:33.918384 : 35312-big-industrial 0.51(10) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.105875 : 35312-big-industrial 0.51(10) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.246503 : 35312-big-industrial 0.51(10) 14 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.277752 : 35312-big-industrial 0.51(10) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.371506 : 35312-big-industrial 0.51(10) 16 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.512128 : 35312-big-industrial 0.51(10) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.543379 : 35312-big-industrial 0.51(10) 18 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.652724 : 35312-big-industrial 0.51(10) 19 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:34.871507 : 35312-big-industrial 0.51(10) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.027758 : 35312-big-industrial 0.51(10) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.121509 : 35312-big-industrial 0.51(10) 23 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.293384 : 35312-big-industrial 0.51(10) 24 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.387135 : 35312-big-industrial 0.51(10) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.574642 : 35312-big-industrial 0.51(10) 26 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.652762 : 35312-big-industrial 0.51(10) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:35.949641 : 35312-big-industrial 0.51(10) 28 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.074642 : 35312-big-industrial 0.51(10) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.309017 : 35312-big-industrial 0.51(10) 31 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.340265 : 35312-big-industrial 0.51(10) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.683991 : 35312-big-industrial 0.51(10) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.715241 : 35312-big-industrial 0.51(10) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:36.996523 : 35312-big-industrial 0.51(10) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:37.105900 : 35312-big-industrial 0.51(10) 34 	-> hopa gdpa-hopa
+2023-01-19 18:43:37.433996 : 35312-big-industrial 0.51(10) 37 	-> hopa gdpa-hopa
+2023-01-19 18:43:37.574622 : 35312-big-industrial 0.51(10) 36 	-> hopa gdpa-hopa
+2023-01-19 18:43:37.980873 : 35312-big-industrial 0.51(10) 39 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:38.246500 : 35312-big-industrial 0.51(10) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:38.621503 : 35312-big-industrial 0.51(10) 41 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:38.918380 : 35312-big-industrial 0.51(10) 42 	-> hopa gdpa-hopa
+2023-01-19 18:43:39.277758 : 35312-big-industrial 0.51(10) 43 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:39.543386 : 35312-big-industrial 0.51(10) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:39.871513 : 35312-big-industrial 0.51(10) 45 	-> hopa gdpa-hopa
+2023-01-19 18:43:40.277765 : 35312-big-industrial 0.51(10) 46 	-> hopa gdpa-hopa
+2023-01-19 18:43:40.637176 : 35312-big-industrial 0.51(10) 47 	-> hopa gdpa-hopa
+2023-01-19 18:43:40.918426 : 35312-big-industrial 0.51(10) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:41.418402 : 35312-big-industrial 0.51(10) 49 	-> pd hopa gdpa-hopa
+2023-01-19 18:43:43.715322 : 35312-big-industrial 0.51(10) 38 	-> hopa gdpa-hopa
+2023-01-19 18:43:56.606011 : 35312-big-industrial 0.51(10) 21 	-> gdpa-hopa
+2023-01-19 18:44:14.655216 : 35312-big-industrial 0.51(10) 7 	-> gdpa-hopa
+2023-01-19 18:44:16.465032 : 35312-big-industrial 0.53(11) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:16.511908 : 35312-big-industrial 0.53(11) 1 	-> hopa gdpa-hopa
+2023-01-19 18:44:16.652534 : 35312-big-industrial 0.53(11) 0 	-> hopa gdpa-hopa
+2023-01-19 18:44:16.897991 : 35312-big-industrial 0.53(11) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:16.944866 : 35312-big-industrial 0.53(11) 6 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:16.944866 : 35312-big-industrial 0.53(11) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:17.069867 : 35312-big-industrial 0.53(11) 2 	-> hopa gdpa-hopa
+2023-01-19 18:44:17.226119 : 35312-big-industrial 0.53(11) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:17.304243 : 35312-big-industrial 0.53(11) 9 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:17.616746 : 35312-big-industrial 0.53(11) 11 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:17.694871 : 35312-big-industrial 0.53(11) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:17.819873 : 35312-big-industrial 0.53(11) 12 	-> hopa gdpa-hopa
+2023-01-19 18:44:17.991748 : 35312-big-industrial 0.53(11) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:18.085500 : 35312-big-industrial 0.53(11) 15 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:18.460503 : 35312-big-industrial 0.53(11) 16 	-> hopa gdpa-hopa
+2023-01-19 18:44:18.460503 : 35312-big-industrial 0.53(11) 17 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:18.460503 : 35312-big-industrial 0.53(11) 14 	-> hopa gdpa-hopa
+2023-01-19 18:44:18.804279 : 35312-big-industrial 0.53(11) 20 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:18.819879 : 35312-big-industrial 0.53(11) 18 	-> hopa gdpa-hopa
+2023-01-19 18:44:19.038660 : 35312-big-industrial 0.53(11) 19 	-> hopa gdpa-hopa
+2023-01-19 18:44:19.179287 : 35312-big-industrial 0.53(11) 22 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:19.444913 : 35312-big-industrial 0.53(11) 23 	-> hopa gdpa-hopa
+2023-01-19 18:44:19.741761 : 35312-big-industrial 0.53(11) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:20.163640 : 35312-big-industrial 0.53(11) 26 	-> hopa gdpa-hopa
+2023-01-19 18:44:20.569891 : 35312-big-industrial 0.53(11) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:20.913674 : 35312-big-industrial 0.53(11) 28 	-> hopa gdpa-hopa
+2023-01-19 18:44:21.319928 : 35312-big-industrial 0.53(11) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:21.694930 : 35312-big-industrial 0.53(11) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:22.116776 : 35312-big-industrial 0.53(11) 31 	-> hopa gdpa-hopa
+2023-01-19 18:44:22.601155 : 35312-big-industrial 0.53(11) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:22.882408 : 35312-big-industrial 0.53(11) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:23.241785 : 35312-big-industrial 0.53(11) 34 	-> hopa gdpa-hopa
+2023-01-19 18:44:23.616788 : 35312-big-industrial 0.53(11) 35 	-> pd hopa gdpa-hopa
+2023-01-19 18:44:24.241792 : 35312-big-industrial 0.53(11) 36 	-> hopa gdpa-hopa
+2023-01-19 18:44:24.569920 : 35312-big-industrial 0.53(11) 37 	-> hopa gdpa-hopa
+2023-01-19 18:45:48.519552 : 35312-big-industrial 0.53(11) 24 	-> gdpa-hopa
+2023-01-19 18:45:48.891058 : 35312-big-industrial 0.53(11) 39 	-> hopa gdpa-hopa
+2023-01-19 18:45:49.266055 : 35312-big-industrial 0.53(11) 40 	-> pd hopa gdpa-hopa
+2023-01-19 18:45:49.750435 : 35312-big-industrial 0.53(11) 41 	-> hopa gdpa-hopa
+2023-01-19 18:45:50.187936 : 35312-big-industrial 0.53(11) 42 	-> hopa gdpa-hopa
+2023-01-19 18:45:50.281687 : 35312-big-industrial 0.53(11) 38 	-> gdpa-hopa
+2023-01-19 18:45:50.625437 : 35312-big-industrial 0.53(11) 43 	-> hopa gdpa-hopa
+2023-01-19 18:45:50.641064 : 35312-big-industrial 0.53(11) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:45:51.047318 : 35312-big-industrial 0.53(11) 45 	-> hopa gdpa-hopa
+2023-01-19 18:45:51.078597 : 35312-big-industrial 0.53(11) 46 	-> hopa gdpa-hopa
+2023-01-19 18:45:51.469235 : 35312-big-industrial 0.53(11) 48 	-> pd hopa gdpa-hopa
+2023-01-19 18:45:51.484847 : 35312-big-industrial 0.53(11) 47 	-> hopa gdpa-hopa
+2023-01-19 18:45:51.937981 : 35312-big-industrial 0.53(11) 49 	-> hopa gdpa-hopa
+2023-01-19 18:46:09.683569 : 35312-big-industrial 0.53(11) 7 	-> gdpa-hopa
+2023-01-19 18:47:23.550596 : 35312-big-industrial 0.53(11) 21 	-> 
+2023-01-19 18:47:25.498275 : 35312-big-industrial 0.55(12) 1 	-> hopa gdpa-hopa
+2023-01-19 18:47:25.529525 : 35312-big-industrial 0.55(12) 3 	-> pd hopa gdpa-hopa
+2023-01-19 18:47:25.576399 : 35312-big-industrial 0.55(12) 0 	-> hopa gdpa-hopa
+2023-01-19 18:47:25.962428 : 35312-big-industrial 0.55(12) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:47:26.009303 : 35312-big-industrial 0.55(12) 6 	-> hopa gdpa-hopa
+2023-01-19 18:47:26.009303 : 35312-big-industrial 0.55(12) 5 	-> pd hopa gdpa-hopa
+2023-01-19 18:47:26.478056 : 35312-big-industrial 0.55(12) 9 	-> hopa gdpa-hopa
+2023-01-19 18:47:26.540557 : 35312-big-industrial 0.55(12) 8 	-> pd hopa gdpa-hopa
+2023-01-19 18:47:26.978057 : 35312-big-industrial 0.55(12) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:47:27.040558 : 35312-big-industrial 0.55(12) 11 	-> hopa gdpa-hopa
+2023-01-19 18:47:27.399936 : 35312-big-industrial 0.55(12) 13 	-> pd hopa gdpa-hopa
+2023-01-19 18:48:34.537301 : 35312-big-industrial 0.55(12) 2 	-> gdpa-hopa
+2023-01-19 18:48:34.862579 : 35312-big-industrial 0.55(12) 15 	-> hopa gdpa-hopa
+2023-01-19 18:48:35.331385 : 35312-big-industrial 0.55(12) 16 	-> hopa gdpa-hopa
+2023-01-19 18:48:35.690706 : 35312-big-industrial 0.55(12) 17 	-> hopa gdpa-hopa
+2023-01-19 18:48:36.222023 : 35312-big-industrial 0.55(12) 18 	-> hopa gdpa-hopa
+2023-01-19 18:48:36.675119 : 35312-big-industrial 0.55(12) 19 	-> hopa gdpa-hopa
+2023-01-19 18:48:59.440928 : 35312-big-industrial 0.55(12) 12 	-> gdpa-hopa
+2023-01-19 18:50:26.309663 : 35312-big-industrial 0.55(12) 20 	-> gdpa-hopa
+2023-01-19 18:50:26.884683 : 35312-big-industrial 0.55(12) 22 	-> hopa gdpa-hopa
+2023-01-19 18:50:27.400301 : 35312-big-industrial 0.55(12) 23 	-> hopa gdpa-hopa
+2023-01-19 18:52:01.581657 : 35312-big-industrial 0.55(12) 14 	-> 
+2023-01-19 18:52:01.953430 : 35312-big-industrial 0.55(12) 25 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:02.437814 : 35312-big-industrial 0.55(12) 26 	-> hopa gdpa-hopa
+2023-01-19 18:52:02.922193 : 35312-big-industrial 0.55(12) 27 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:14.922278 : 35312-big-industrial 0.55(12) 7 	-> 
+2023-01-19 18:52:15.357018 : 35312-big-industrial 0.55(12) 29 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:15.638269 : 35312-big-industrial 0.55(12) 30 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:16.091401 : 35312-big-industrial 0.55(12) 31 	-> hopa gdpa-hopa
+2023-01-19 18:52:16.607027 : 35312-big-industrial 0.55(12) 32 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:17.091428 : 35312-big-industrial 0.55(12) 33 	-> pd hopa gdpa-hopa
+2023-01-19 18:52:17.685161 : 35312-big-industrial 0.55(12) 34 	-> hopa gdpa-hopa
+2023-01-19 18:52:18.107040 : 35312-big-industrial 0.55(12) 35 	-> hopa gdpa-hopa
+2023-01-19 18:52:51.544811 : 35312-big-industrial 0.55(12) 28 	-> gdpa-hopa
+2023-01-19 18:53:35.592609 : 35312-big-industrial 0.55(12) 21 	-> 
+2023-01-19 18:53:36.152564 : 35312-big-industrial 0.55(12) 38 	-> hopa gdpa-hopa
+2023-01-19 18:53:36.715083 : 35312-big-industrial 0.55(12) 39 	-> hopa gdpa-hopa
+2023-01-19 18:53:46.746423 : 35312-big-industrial 0.55(12) 37 	-> gdpa-hopa
+2023-01-19 18:53:47.227149 : 35312-big-industrial 0.55(12) 41 	-> hopa gdpa-hopa
+2023-01-19 18:53:47.586570 : 35312-big-industrial 0.55(12) 42 	-> hopa gdpa-hopa
+2023-01-19 18:53:48.117797 : 35312-big-industrial 0.55(12) 43 	-> hopa gdpa-hopa
+2023-01-19 18:53:48.414692 : 35312-big-industrial 0.55(12) 44 	-> pd hopa gdpa-hopa
+2023-01-19 18:53:48.758444 : 35312-big-industrial 0.55(12) 45 	-> hopa gdpa-hopa
+2023-01-19 18:54:37.786908 : 35312-big-industrial 0.55(12) 24 	-> 
+2023-01-19 18:54:38.346519 : 35312-big-industrial 0.55(12) 47 	-> hopa gdpa-hopa
+2023-01-19 18:54:38.846520 : 35312-big-industrial 0.55(12) 48 	-> hopa gdpa-hopa
+2023-01-19 18:54:39.455950 : 35312-big-industrial 0.55(12) 49 	-> hopa gdpa-hopa
+2023-01-19 18:55:02.108486 : 35312-big-industrial 0.55(12) 36 	-> gdpa-hopa
+2023-01-19 18:55:22.702401 : 35312-big-industrial 0.55(12) 46 	-> gdpa-hopa
+2023-01-19 18:55:27.167214 : 35312-big-industrial 0.55(12) 40 	-> gdpa-hopa
+2023-01-19 18:55:29.151358 : 35312-big-industrial 0.57(13) 1 	-> hopa gdpa-hopa
+2023-01-19 18:55:29.635732 : 35312-big-industrial 0.57(13) 4 	-> pd hopa gdpa-hopa
+2023-01-19 18:55:30.463862 : 35312-big-industrial 0.57(13) 5 	-> hopa gdpa-hopa
+2023-01-19 18:57:28.569004 : 35312-big-industrial 0.57(13) 3 	-> gdpa-hopa
+2023-01-19 18:57:37.550368 : 35312-big-industrial 0.57(13) 6 	-> gdpa-hopa
+2023-01-19 18:57:38.218811 : 35312-big-industrial 0.57(13) 8 	-> hopa gdpa-hopa
+2023-01-19 18:58:32.610727 : 35312-big-industrial 0.57(13) 2 	-> gdpa-hopa
+2023-01-19 18:58:33.033732 : 35312-big-industrial 0.57(13) 10 	-> pd hopa gdpa-hopa
+2023-01-19 18:58:33.492736 : 35312-big-industrial 0.57(13) 11 	-> hopa gdpa-hopa
+2023-01-19 18:59:54.896816 : 35312-big-industrial 0.57(13) 9 	-> gdpa-hopa
+2023-01-19 19:00:04.978957 : 35312-big-industrial 0.57(13) 0 	-> 
+2023-01-19 19:03:04.292913 : 35312-big-industrial 0.57(13) 7 	-> 
+2023-01-19 19:03:04.633971 : 35312-big-industrial 0.57(13) 15 	-> hopa gdpa-hopa
+2023-01-19 19:03:05.165228 : 35312-big-industrial 0.57(13) 16 	-> hopa gdpa-hopa
+2023-01-19 19:03:47.821755 : 35312-big-industrial 0.57(13) 12 	-> gdpa-hopa
+2023-01-19 19:03:54.397517 : 35312-big-industrial 0.57(13) 18 	-> hopa gdpa-hopa
+2023-01-19 19:04:12.391498 : 35312-big-industrial 0.57(13) 13 	-> 
+2023-01-19 19:04:57.717312 : 35312-big-industrial 0.57(13) 14 	-> 
+2023-01-19 19:06:25.333316 : 35312-big-industrial 0.57(13) 19 	-> gdpa-hopa
+2023-01-19 19:07:26.062683 : 35312-big-industrial 0.57(13) 17 	-> 
+2023-01-19 19:07:53.997761 : 35312-big-industrial 0.57(13) 22 	-> gdpa-hopa
+2023-01-19 19:08:59.366865 : 35312-big-industrial 0.57(13) 20 	-> gdpa-hopa
+2023-01-19 19:08:59.864286 : 35312-big-industrial 0.57(13) 25 	-> hopa gdpa-hopa
+2023-01-19 19:09:00.442417 : 35312-big-industrial 0.57(13) 26 	-> hopa gdpa-hopa
+2023-01-19 19:09:00.864290 : 35312-big-industrial 0.57(13) 27 	-> pd hopa gdpa-hopa
+2023-01-19 19:10:22.268617 : 35312-big-industrial 0.57(13) 21 	-> 
+2023-01-19 19:10:23.062473 : 35312-big-industrial 0.57(13) 29 	-> hopa gdpa-hopa
+2023-01-19 19:10:23.718736 : 35312-big-industrial 0.57(13) 30 	-> pd hopa gdpa-hopa
+2023-01-19 19:10:24.296852 : 35312-big-industrial 0.57(13) 31 	-> hopa gdpa-hopa
+2023-01-19 19:10:24.796890 : 35312-big-industrial 0.57(13) 32 	-> hopa gdpa-hopa
+2023-01-19 19:10:52.672059 : 35312-big-industrial 0.57(13) 28 	-> gdpa-hopa
+2023-01-19 19:12:06.911550 : 35312-big-industrial 0.57(13) 23 	-> gdpa-hopa
+2023-01-19 19:12:32.252031 : 35312-big-industrial 0.57(13) 34 	-> gdpa-hopa
+2023-01-19 19:12:53.457888 : 35312-big-industrial 0.57(13) 35 	-> gdpa-hopa
+2023-01-19 19:12:55.658666 : 35312-big-industrial 0.57(13) 24 	-> 
+2023-01-19 19:13:30.819227 : 35312-big-industrial 0.57(13) 33 	-> gdpa-hopa
+2023-01-19 19:17:44.183074 : 35312-big-industrial 0.57(13) 37 	-> 
+2023-01-19 19:17:45.290216 : 35312-big-industrial 0.57(13) 36 	-> 
+2023-01-19 19:18:02.830518 : 35312-big-industrial 0.57(13) 38 	-> 
+2023-01-19 19:18:03.343662 : 35312-big-industrial 0.57(13) 42 	-> hopa gdpa-hopa
+2023-01-19 19:18:32.781284 : 35312-big-industrial 0.57(13) 39 	-> 
+2023-01-19 19:18:33.232349 : 35312-big-industrial 0.57(13) 44 	-> hopa gdpa-hopa
+2023-01-19 19:18:33.591726 : 35312-big-industrial 0.57(13) 45 	-> hopa gdpa-hopa
+2023-01-19 19:18:43.466793 : 35312-big-industrial 0.57(13) 41 	-> gdpa-hopa
+2023-01-19 19:21:16.326382 : 35312-big-industrial 0.57(13) 43 	-> gdpa-hopa
+2023-01-19 19:22:35.179940 : 35312-big-industrial 0.57(13) 40 	-> 
+2023-01-19 19:23:36.379379 : 35312-big-industrial 0.57(13) 49 	-> gdpa-hopa
+2023-01-19 19:23:43.876823 : 35312-big-industrial 0.57(13) 47 	-> 
+2023-01-19 19:23:46.060511 : 35312-big-industrial 0.57(13) 46 	-> 
+2023-01-19 19:24:45.552283 : 35312-big-industrial 0.57(13) 48 	-> 
+2023-01-19 19:29:43.292967 : 35312-big-industrial 0.59(14) 0 	-> 
+2023-01-19 19:29:49.525080 : 35312-big-industrial 0.59(14) 1 	-> 
+2023-01-19 19:29:50.364737 : 35312-big-industrial 0.59(14) 5 	-> hopa gdpa-hopa
+2023-01-19 19:29:57.786705 : 35312-big-industrial 0.59(14) 3 	-> 
+2023-01-19 19:30:00.033502 : 35312-big-industrial 0.59(14) 2 	-> 
+2023-01-19 19:33:06.266198 : 35312-big-industrial 0.59(14) 8 	-> gdpa-hopa
+2023-01-19 19:34:50.198496 : 35312-big-industrial 0.59(14) 4 	-> 
+2023-01-19 19:34:57.398598 : 35312-big-industrial 0.59(14) 6 	-> 
+2023-01-19 19:35:21.671946 : 35312-big-industrial 0.59(14) 7 	-> 
+2023-01-19 19:36:11.295766 : 35312-big-industrial 0.59(14) 10 	-> gdpa-hopa
+2023-01-19 19:37:50.977531 : 35312-big-industrial 0.59(14) 9 	-> 
+2023-01-19 19:40:06.074697 : 35312-big-industrial 0.59(14) 11 	-> 
+2023-01-19 19:40:57.634709 : 35312-big-industrial 0.59(14) 12 	-> 
+2023-01-19 19:40:58.366751 : 35312-big-industrial 0.59(14) 16 	-> hopa gdpa-hopa
+2023-01-19 19:41:27.756152 : 35312-big-industrial 0.59(14) 13 	-> 
+2023-01-19 19:43:23.184714 : 35312-big-industrial 0.59(14) 14 	-> 
+2023-01-19 19:44:57.929890 : 35312-big-industrial 0.59(14) 15 	-> 
+2023-01-19 19:45:35.407093 : 35312-big-industrial 0.59(14) 17 	-> 
+2023-01-19 19:46:31.027163 : 35312-big-industrial 0.59(14) 18 	-> 
+2023-01-19 19:48:56.203366 : 35312-big-industrial 0.59(14) 19 	-> 
+2023-01-19 19:50:45.693126 : 35312-big-industrial 0.59(14) 20 	-> 
+2023-01-19 19:51:26.984766 : 35312-big-industrial 0.59(14) 21 	-> 
+2023-01-19 19:51:27.685794 : 35312-big-industrial 0.59(14) 25 	-> hopa gdpa-hopa
+2023-01-19 19:51:40.685849 : 35312-big-industrial 0.59(14) 22 	-> 
+2023-01-19 19:53:43.410734 : 35312-big-industrial 0.59(14) 27 	-> gdpa-hopa
+2023-01-19 19:54:32.895070 : 35312-big-industrial 0.59(14) 23 	-> 
+2023-01-19 19:55:32.857711 : 35312-big-industrial 0.59(14) 29 	-> gdpa-hopa
+2023-01-19 19:55:53.089587 : 35312-big-industrial 0.59(14) 24 	-> 
+2023-01-19 19:56:17.444758 : 35312-big-industrial 0.59(14) 26 	-> 
+2023-01-19 19:56:32.332395 : 35312-big-industrial 0.59(14) 30 	-> gdpa-hopa
+2023-01-19 19:58:57.853178 : 35312-big-industrial 0.59(14) 33 	-> gdpa-hopa
+2023-01-19 19:59:04.862228 : 35312-big-industrial 0.59(14) 28 	-> 
+2023-01-19 20:01:09.335715 : 35312-big-industrial 0.59(14) 31 	-> 
+2023-01-19 20:01:22.645892 : 35312-big-industrial 0.59(14) 32 	-> 
+2023-01-19 20:04:12.118443 : 35312-big-industrial 0.59(14) 35 	-> 
+2023-01-19 20:04:24.724962 : 35312-big-industrial 0.59(14) 34 	-> 
+2023-01-19 20:06:42.215056 : 35312-big-industrial 0.59(14) 37 	-> 
+2023-01-19 20:06:48.446717 : 35312-big-industrial 0.59(14) 36 	-> 
+2023-01-19 20:08:56.498734 : 35312-big-industrial 0.59(14) 41 	-> gdpa-hopa
+2023-01-19 20:09:24.758051 : 35312-big-industrial 0.59(14) 38 	-> 
+2023-01-19 20:09:32.849928 : 35312-big-industrial 0.59(14) 39 	-> 
+2023-01-19 20:11:53.012407 : 35312-big-industrial 0.59(14) 40 	-> 
+2023-01-19 20:13:42.841100 : 35312-big-industrial 0.59(14) 42 	-> 
+2023-01-19 20:15:02.831984 : 35312-big-industrial 0.59(14) 44 	-> 
+2023-01-19 20:15:14.219379 : 35312-big-industrial 0.59(14) 43 	-> 
+2023-01-19 20:16:56.463945 : 35312-big-industrial 0.59(14) 45 	-> 
+2023-01-19 20:19:36.434871 : 35312-big-industrial 0.59(14) 46 	-> 
+2023-01-19 20:20:21.771944 : 35312-big-industrial 0.59(14) 49 	-> gdpa-hopa
+2023-01-19 20:20:22.878037 : 35312-big-industrial 0.59(14) 48 	-> 
+2023-01-19 20:20:28.233151 : 35312-big-industrial 0.59(14) 47 	-> 
+2023-01-19 20:26:00.960631 : 35312-big-industrial 0.62(15) 1 	-> 
+2023-01-19 20:26:17.413807 : 35312-big-industrial 0.62(15) 0 	-> 
+2023-01-19 20:26:22.192058 : 35312-big-industrial 0.62(15) 2 	-> 
+2023-01-19 20:26:28.625599 : 35312-big-industrial 0.62(15) 3 	-> 
+2023-01-19 20:31:25.367899 : 35312-big-industrial 0.62(15) 4 	-> 
+2023-01-19 20:31:42.286870 : 35312-big-industrial 0.62(15) 5 	-> 
+2023-01-19 20:31:44.377258 : 35312-big-industrial 0.62(15) 6 	-> 
+2023-01-19 20:32:21.338510 : 35312-big-industrial 0.62(15) 7 	-> 
+2023-01-19 20:35:42.656908 : 35312-big-industrial 0.62(15) 10 	-> gdpa-hopa
+2023-01-19 20:36:54.633786 : 35312-big-industrial 0.62(15) 8 	-> 
+2023-01-19 20:37:11.097006 : 35312-big-industrial 0.62(15) 9 	-> 
+2023-01-19 20:38:21.013736 : 35312-big-industrial 0.62(15) 11 	-> 
+2023-01-19 20:41:30.532217 : 35312-big-industrial 0.62(15) 12 	-> 
+2023-01-19 20:42:22.964226 : 35312-big-industrial 0.62(15) 13 	-> 
+2023-01-19 20:43:04.271377 : 35312-big-industrial 0.62(15) 14 	-> 
+2023-01-19 20:43:37.706031 : 35312-big-industrial 0.62(15) 15 	-> 
+2023-01-19 20:45:11.230144 : 35312-big-industrial 0.62(15) 16 	-> gdpa-hopa
+2023-01-19 20:47:37.083514 : 35312-big-industrial 0.62(15) 17 	-> 
+2023-01-19 20:48:54.649643 : 35312-big-industrial 0.62(15) 18 	-> 
+2023-01-19 20:49:05.627186 : 35312-big-industrial 0.62(15) 19 	-> 
+2023-01-19 20:51:12.836114 : 35312-big-industrial 0.62(15) 20 	-> 
+2023-01-19 20:53:39.700615 : 35312-big-industrial 0.62(15) 21 	-> 
+2023-01-19 20:53:58.947368 : 35312-big-industrial 0.62(15) 22 	-> 
+2023-01-19 20:54:40.018524 : 35312-big-industrial 0.62(15) 23 	-> 
+2023-01-19 20:54:47.828053 : 35312-big-industrial 0.62(15) 25 	-> gdpa-hopa
+2023-01-19 20:57:13.504078 : 35312-big-industrial 0.62(15) 24 	-> 
+2023-01-19 20:59:30.634646 : 35312-big-industrial 0.62(15) 26 	-> 
+2023-01-19 21:00:10.738403 : 35312-big-industrial 0.62(15) 27 	-> 
+2023-01-19 21:00:15.625762 : 35312-big-industrial 0.62(15) 28 	-> 
+2023-01-19 21:02:31.209523 : 35312-big-industrial 0.62(15) 29 	-> 
+2023-01-19 21:04:51.465695 : 35312-big-industrial 0.62(15) 30 	-> 
+2023-01-19 21:05:42.271930 : 35312-big-industrial 0.62(15) 32 	-> 
+2023-01-19 21:05:56.878797 : 35312-big-industrial 0.62(15) 31 	-> 
+2023-01-19 21:08:23.912126 : 35312-big-industrial 0.62(15) 33 	-> 
+2023-01-19 21:11:05.649087 : 35312-big-industrial 0.62(15) 34 	-> 
+2023-01-19 21:11:06.287417 : 35312-big-industrial 0.62(15) 35 	-> 
+2023-01-19 21:12:10.972290 : 35312-big-industrial 0.62(15) 36 	-> 
+2023-01-19 21:13:46.685094 : 35312-big-industrial 0.62(15) 37 	-> 
+2023-01-19 21:16:44.436752 : 35312-big-industrial 0.62(15) 39 	-> 
+2023-01-19 21:17:08.165413 : 35312-big-industrial 0.62(15) 38 	-> 
+2023-01-19 21:17:40.577491 : 35312-big-industrial 0.62(15) 40 	-> 
+2023-01-19 21:19:14.471410 : 35312-big-industrial 0.62(15) 41 	-> 
+2023-01-19 21:22:29.509066 : 35312-big-industrial 0.62(15) 42 	-> 
+2023-01-19 21:22:50.709622 : 35312-big-industrial 0.62(15) 43 	-> 
+2023-01-19 21:23:14.406633 : 35312-big-industrial 0.62(15) 44 	-> 
+2023-01-19 21:25:04.740983 : 35312-big-industrial 0.62(15) 45 	-> 
+2023-01-19 21:28:05.979530 : 35312-big-industrial 0.62(15) 46 	-> 
+2023-01-19 21:28:28.789362 : 35312-big-industrial 0.62(15) 47 	-> 
+2023-01-19 21:28:44.425782 : 35312-big-industrial 0.62(15) 48 	-> 
+2023-01-19 21:29:23.370416 : 35312-big-industrial 0.62(15) 49 	-> 
+2023-01-19 21:35:04.157636 : 35312-big-industrial 0.64(16) 0 	-> 
+2023-01-19 21:35:14.529996 : 35312-big-industrial 0.64(16) 1 	-> 
+2023-01-19 21:35:27.714599 : 35312-big-industrial 0.64(16) 2 	-> 
+2023-01-19 21:35:31.804770 : 35312-big-industrial 0.64(16) 3 	-> 
+2023-01-19 21:40:56.440490 : 35312-big-industrial 0.64(16) 6 	-> 
+2023-01-19 21:41:04.824912 : 35312-big-industrial 0.64(16) 4 	-> 
+2023-01-19 21:41:07.696377 : 35312-big-industrial 0.64(16) 5 	-> 
+2023-01-19 21:42:18.533245 : 35312-big-industrial 0.64(16) 7 	-> 
+2023-01-19 21:46:34.173393 : 35312-big-industrial 0.64(16) 10 	-> 
+2023-01-19 21:46:36.092188 : 35312-big-industrial 0.64(16) 8 	-> 
+2023-01-19 21:46:46.963214 : 35312-big-industrial 0.64(16) 9 	-> 
+2023-01-19 21:48:29.741715 : 35312-big-industrial 0.64(16) 11 	-> 
+2023-01-19 21:52:28.863369 : 35312-big-industrial 0.64(16) 12 	-> 
+2023-01-19 21:52:45.376559 : 35312-big-industrial 0.64(16) 13 	-> 
+2023-01-19 21:53:03.322341 : 35312-big-industrial 0.64(16) 14 	-> 
+2023-01-19 21:54:47.784937 : 35312-big-industrial 0.64(16) 15 	-> 
+2023-01-19 21:58:05.655378 : 35312-big-industrial 0.64(16) 16 	-> 
+2023-01-19 21:58:10.949422 : 35312-big-industrial 0.64(16) 17 	-> 
+2023-01-19 21:59:43.614576 : 35312-big-industrial 0.64(16) 18 	-> 
+2023-01-19 22:00:57.248604 : 35312-big-industrial 0.64(16) 19 	-> 
+2023-01-19 22:04:14.733668 : 35312-big-industrial 0.64(16) 21 	-> 
+2023-01-19 22:05:43.603485 : 35312-big-industrial 0.64(16) 22 	-> 
+2023-01-19 22:05:50.491507 : 35312-big-industrial 0.64(16) 20 	-> 
+2023-01-19 22:06:50.890864 : 35312-big-industrial 0.64(16) 23 	-> 
+2023-01-19 22:10:50.437666 : 35312-big-industrial 0.64(16) 24 	-> 
+2023-01-19 22:11:21.077307 : 35312-big-industrial 0.64(16) 26 	-> 
+2023-01-19 22:12:58.790768 : 35312-big-industrial 0.64(16) 25 	-> 
+2023-01-19 22:13:06.393781 : 35312-big-industrial 0.64(16) 27 	-> 
+2023-01-19 22:16:32.769930 : 35312-big-industrial 0.64(16) 28 	-> 
+2023-01-19 22:17:04.388959 : 35312-big-industrial 0.64(16) 29 	-> 
+2023-01-19 22:18:59.492834 : 35312-big-industrial 0.64(16) 30 	-> 
+2023-01-19 22:19:06.443650 : 35312-big-industrial 0.64(16) 31 	-> 
+2023-01-19 22:22:38.516069 : 35312-big-industrial 0.64(16) 32 	-> 
+2023-01-19 22:22:45.778632 : 35312-big-industrial 0.64(16) 33 	-> 
+2023-01-19 22:24:55.189804 : 35312-big-industrial 0.64(16) 35 	-> 
+2023-01-19 22:25:47.479989 : 35312-big-industrial 0.64(16) 34 	-> 
+2023-01-19 22:28:44.950686 : 35312-big-industrial 0.64(16) 36 	-> 
+2023-01-19 22:28:48.744401 : 35312-big-industrial 0.64(16) 37 	-> 
+2023-01-19 22:31:10.261307 : 35312-big-industrial 0.64(16) 38 	-> 
+2023-01-19 22:31:29.680806 : 35312-big-industrial 0.64(16) 39 	-> 
+2023-01-19 22:34:22.059217 : 35312-big-industrial 0.64(16) 40 	-> 
+2023-01-19 22:34:45.227430 : 35312-big-industrial 0.64(16) 41 	-> 
+2023-01-19 22:36:58.295034 : 35312-big-industrial 0.64(16) 42 	-> 
+2023-01-19 22:37:40.582328 : 35312-big-industrial 0.64(16) 43 	-> 
+2023-01-19 22:40:39.397144 : 35312-big-industrial 0.64(16) 44 	-> 
+2023-01-19 22:40:59.941752 : 35312-big-industrial 0.64(16) 45 	-> 
+2023-01-19 22:42:54.669267 : 35312-big-industrial 0.64(16) 46 	-> 
+2023-01-19 22:43:39.678176 : 35312-big-industrial 0.64(16) 47 	-> 
+2023-01-19 22:45:06.712823 : 35312-big-industrial 0.64(16) 48 	-> 
+2023-01-19 22:45:19.474349 : 35312-big-industrial 0.64(16) 49 	-> 
+2023-01-19 22:51:38.840632 : 35312-big-industrial 0.66(17) 1 	-> 
+2023-01-19 22:51:47.885667 : 35312-big-industrial 0.66(17) 3 	-> 
+2023-01-19 22:51:51.428940 : 35312-big-industrial 0.66(17) 2 	-> 
+2023-01-19 22:51:54.784177 : 35312-big-industrial 0.66(17) 0 	-> 
+2023-01-19 22:58:07.861442 : 35312-big-industrial 0.66(17) 4 	-> 
+2023-01-19 22:58:10.702521 : 35312-big-industrial 0.66(17) 6 	-> 
+2023-01-19 22:58:13.448873 : 35312-big-industrial 0.66(17) 5 	-> 
+2023-01-19 22:59:21.628581 : 35312-big-industrial 0.66(17) 7 	-> 
+2023-01-19 23:04:31.769416 : 35312-big-industrial 0.66(17) 8 	-> 
+2023-01-19 23:04:34.329224 : 35312-big-industrial 0.66(17) 10 	-> 
+2023-01-19 23:04:44.841175 : 35312-big-industrial 0.66(17) 9 	-> 
+2023-01-19 23:05:50.270982 : 35312-big-industrial 0.66(17) 11 	-> 
+2023-01-19 23:10:39.749938 : 35312-big-industrial 0.66(17) 13 	-> 
+2023-01-19 23:11:25.165018 : 35312-big-industrial 0.66(17) 12 	-> 
+2023-01-19 23:11:32.584130 : 35312-big-industrial 0.66(17) 14 	-> 
+2023-01-19 23:15:46.974082 : 35312-big-industrial 0.66(17) 15 	-> 
+2023-01-19 23:16:59.717788 : 35312-big-industrial 0.66(17) 16 	-> 
+2023-01-19 23:17:07.996291 : 35312-big-industrial 0.66(17) 17 	-> 
+2023-01-19 23:18:24.443093 : 35312-big-industrial 0.66(17) 18 	-> 
+2023-01-19 23:22:46.683194 : 35312-big-industrial 0.66(17) 19 	-> 
+2023-01-19 23:23:32.098574 : 35312-big-industrial 0.66(17) 20 	-> 
+2023-01-19 23:23:51.205238 : 35312-big-industrial 0.66(17) 21 	-> 
+2023-01-19 23:24:53.465181 : 35312-big-industrial 0.66(17) 22 	-> 
+2023-01-19 23:28:50.506787 : 35312-big-industrial 0.66(17) 23 	-> 
+2023-01-19 23:30:17.756991 : 35312-big-industrial 0.66(17) 25 	-> 
+2023-01-19 23:30:54.868463 : 35312-big-industrial 0.66(17) 26 	-> 
+2023-01-19 23:31:00.737338 : 35312-big-industrial 0.66(17) 24 	-> 
+2023-01-19 23:35:32.503571 : 35312-big-industrial 0.66(17) 27 	-> 
+2023-01-19 23:36:48.296202 : 35312-big-industrial 0.66(17) 28 	-> 
+2023-01-19 23:36:55.433364 : 35312-big-industrial 0.66(17) 29 	-> 
+2023-01-19 23:37:13.941815 : 35312-big-industrial 0.66(17) 30 	-> 
+2023-01-19 23:42:16.709032 : 35312-big-industrial 0.66(17) 31 	-> 
+2023-01-19 23:43:12.624944 : 35312-big-industrial 0.66(17) 32 	-> 
+2023-01-19 23:44:18.165634 : 35312-big-industrial 0.66(17) 33 	-> 
+2023-01-19 23:44:31.241627 : 35312-big-industrial 0.66(17) 34 	-> 
+2023-01-19 23:48:20.942265 : 35312-big-industrial 0.66(17) 35 	-> 
+2023-01-19 23:50:01.276044 : 35312-big-industrial 0.66(17) 36 	-> 
+2023-01-19 23:50:48.710970 : 35312-big-industrial 0.66(17) 37 	-> 
+2023-01-19 23:51:18.642264 : 35312-big-industrial 0.66(17) 38 	-> 
+2023-01-19 23:54:37.535299 : 35312-big-industrial 0.66(17) 39 	-> 
+2023-01-19 23:56:40.793584 : 35312-big-industrial 0.66(17) 40 	-> 
+2023-01-19 23:57:11.059545 : 35312-big-industrial 0.66(17) 42 	-> 
+2023-01-19 23:57:14.394861 : 35312-big-industrial 0.66(17) 41 	-> 
+2023-01-20 00:01:19.034635 : 35312-big-industrial 0.66(17) 43 	-> 
+2023-01-20 00:03:44.806705 : 35312-big-industrial 0.66(17) 46 	-> 
+2023-01-20 00:03:46.319154 : 35312-big-industrial 0.66(17) 45 	-> 
+2023-01-20 00:03:49.112324 : 35312-big-industrial 0.66(17) 44 	-> 
+2023-01-20 00:07:12.061518 : 35312-big-industrial 0.66(17) 47 	-> 
+2023-01-20 00:08:04.624541 : 35312-big-industrial 0.66(17) 48 	-> 
+2023-01-20 00:08:17.667494 : 35312-big-industrial 0.66(17) 49 	-> 
+2023-01-20 00:15:05.075754 : 35312-big-industrial 0.68(18) 1 	-> 
+2023-01-20 00:15:29.620371 : 35312-big-industrial 0.68(18) 0 	-> 
+2023-01-20 00:16:19.801797 : 35312-big-industrial 0.68(18) 2 	-> 
+2023-01-20 00:16:22.064490 : 35312-big-industrial 0.68(18) 3 	-> 
+2023-01-20 00:22:13.985569 : 35312-big-industrial 0.68(18) 4 	-> 
+2023-01-20 00:22:32.654694 : 35312-big-industrial 0.68(18) 6 	-> 
+2023-01-20 00:22:55.214864 : 35312-big-industrial 0.68(18) 5 	-> 
+2023-01-20 00:25:01.715025 : 35312-big-industrial 0.68(18) 7 	-> 
+2023-01-20 00:28:20.873998 : 35312-big-industrial 0.68(18) 8 	-> 
+2023-01-20 00:30:05.288058 : 35312-big-industrial 0.68(18) 9 	-> 
+2023-01-20 00:30:11.379516 : 35312-big-industrial 0.68(18) 10 	-> 
+2023-01-20 00:32:53.228435 : 35312-big-industrial 0.68(18) 11 	-> 
+2023-01-20 00:36:00.449322 : 35312-big-industrial 0.68(18) 12 	-> 
+2023-01-20 00:37:25.352557 : 35312-big-industrial 0.68(18) 13 	-> 
+2023-01-20 00:37:55.927678 : 35312-big-industrial 0.68(18) 14 	-> 
+2023-01-20 00:41:16.213209 : 35312-big-industrial 0.68(18) 15 	-> 
+2023-01-20 00:43:01.673289 : 35312-big-industrial 0.68(18) 16 	-> 
+2023-01-20 00:44:46.369598 : 35312-big-industrial 0.68(18) 17 	-> 
+2023-01-20 00:45:23.758586 : 35312-big-industrial 0.68(18) 18 	-> 
+2023-01-20 00:49:19.137863 : 35312-big-industrial 0.68(18) 19 	-> 
+2023-01-20 00:50:57.648423 : 35312-big-industrial 0.68(18) 20 	-> 
+2023-01-20 00:52:54.372695 : 35312-big-industrial 0.68(18) 22 	-> 
+2023-01-20 00:52:55.995911 : 35312-big-industrial 0.68(18) 21 	-> 
+2023-01-20 00:56:16.954851 : 35312-big-industrial 0.68(18) 23 	-> 
+2023-01-20 00:59:27.738242 : 35312-big-industrial 0.68(18) 24 	-> 
+2023-01-20 00:59:30.195903 : 35312-big-industrial 0.68(18) 25 	-> 
+2023-01-20 01:00:41.985509 : 35312-big-industrial 0.68(18) 26 	-> 
+2023-01-20 01:03:37.188611 : 35312-big-industrial 0.68(18) 27 	-> 
+2023-01-20 01:06:25.623876 : 35312-big-industrial 0.68(18) 29 	-> 
+2023-01-20 01:06:57.542060 : 35312-big-industrial 0.68(18) 28 	-> 
+2023-01-20 01:08:26.795444 : 35312-big-industrial 0.68(18) 30 	-> 
+2023-01-20 01:11:25.126935 : 35312-big-industrial 0.68(18) 31 	-> 
+2023-01-20 01:14:05.582602 : 35312-big-industrial 0.68(18) 32 	-> 
+2023-01-20 01:15:19.139856 : 35312-big-industrial 0.68(18) 33 	-> 
+2023-01-20 01:15:51.591366 : 35312-big-industrial 0.68(18) 34 	-> 
+2023-01-20 01:18:05.751221 : 35312-big-industrial 0.68(18) 35 	-> 
+2023-01-20 01:21:42.299479 : 35312-big-industrial 0.68(18) 36 	-> 
+2023-01-20 01:22:56.856248 : 35312-big-industrial 0.68(18) 37 	-> 
+2023-01-20 01:23:07.271186 : 35312-big-industrial 0.68(18) 38 	-> 
+2023-01-20 01:25:13.620118 : 35312-big-industrial 0.68(18) 39 	-> 
+2023-01-20 01:29:41.790582 : 35312-big-industrial 0.68(18) 40 	-> 
+2023-01-20 01:30:07.769068 : 35312-big-industrial 0.68(18) 42 	-> 
+2023-01-20 01:30:09.218852 : 35312-big-industrial 0.68(18) 41 	-> 
+2023-01-20 01:32:01.380373 : 35312-big-industrial 0.68(18) 43 	-> 
+2023-01-20 01:37:07.224294 : 35312-big-industrial 0.68(18) 45 	-> 
+2023-01-20 01:37:08.111950 : 35312-big-industrial 0.68(18) 44 	-> 
+2023-01-20 01:37:46.502603 : 35312-big-industrial 0.68(18) 46 	-> 
+2023-01-20 01:39:07.133111 : 35312-big-industrial 0.68(18) 47 	-> 
+2023-01-20 01:41:37.402540 : 35312-big-industrial 0.68(18) 48 	-> 
+2023-01-20 01:41:45.461227 : 35312-big-industrial 0.68(18) 49 	-> 
+2023-01-20 01:49:19.146144 : 35312-big-industrial 0.70(19) 1 	-> 
+2023-01-20 01:50:04.421536 : 35312-big-industrial 0.70(19) 0 	-> 
+2023-01-20 01:50:37.856990 : 35312-big-industrial 0.70(19) 2 	-> 
+2023-01-20 01:50:52.103363 : 35312-big-industrial 0.70(19) 3 	-> 
+2023-01-20 01:57:34.618548 : 35312-big-industrial 0.70(19) 4 	-> 
+2023-01-20 01:58:23.065299 : 35312-big-industrial 0.70(19) 6 	-> 
+2023-01-20 01:59:07.543689 : 35312-big-industrial 0.70(19) 5 	-> 
+2023-01-20 02:00:22.833540 : 35312-big-industrial 0.70(19) 7 	-> 
+2023-01-20 02:04:27.116321 : 35312-big-industrial 0.70(19) 8 	-> 
+2023-01-20 02:06:26.475211 : 35312-big-industrial 0.70(19) 9 	-> 
+2023-01-20 02:07:33.576639 : 35312-big-industrial 0.70(19) 10 	-> 
+2023-01-20 02:08:40.916419 : 35312-big-industrial 0.70(19) 11 	-> 
+2023-01-20 02:13:54.541992 : 35312-big-industrial 0.70(19) 12 	-> 
+2023-01-20 02:14:25.099600 : 35312-big-industrial 0.70(19) 13 	-> 
+2023-01-20 02:17:30.775766 : 35312-big-industrial 0.70(19) 15 	-> 
+2023-01-20 02:17:32.693800 : 35312-big-industrial 0.70(19) 14 	-> 
+2023-01-20 02:21:47.240311 : 35312-big-industrial 0.70(19) 16 	-> 
+2023-01-20 02:22:06.796263 : 35312-big-industrial 0.70(19) 17 	-> 
+2023-01-20 02:25:20.708537 : 35312-big-industrial 0.70(19) 18 	-> 
+2023-01-20 02:26:32.580298 : 35312-big-industrial 0.70(19) 19 	-> 
+2023-01-20 02:30:45.036111 : 35312-big-industrial 0.70(19) 20 	-> 
+2023-01-20 02:31:54.515138 : 35312-big-industrial 0.70(19) 21 	-> 
+2023-01-20 02:33:32.558622 : 35312-big-industrial 0.70(19) 22 	-> 
+2023-01-20 02:34:51.819490 : 35312-big-industrial 0.70(19) 23 	-> 
+2023-01-20 02:38:57.233784 : 35312-big-industrial 0.70(19) 25 	-> 
+2023-01-20 02:39:43.343534 : 35312-big-industrial 0.70(19) 24 	-> 
+2023-01-20 02:42:07.943322 : 35312-big-industrial 0.70(19) 26 	-> 
+2023-01-20 02:43:09.577832 : 35312-big-industrial 0.70(19) 27 	-> 
+2023-01-20 02:47:17.503167 : 35312-big-industrial 0.70(19) 29 	-> 
+2023-01-20 02:47:23.453634 : 35312-big-industrial 0.70(19) 28 	-> 
+2023-01-20 02:51:20.907438 : 35312-big-industrial 0.70(19) 31 	-> 
+2023-01-20 02:51:22.716917 : 35312-big-industrial 0.70(19) 30 	-> 
+2023-01-20 02:55:53.294029 : 35312-big-industrial 0.70(19) 32 	-> 
+2023-01-20 02:56:06.977440 : 35312-big-industrial 0.70(19) 33 	-> 
+2023-01-20 02:58:47.608863 : 35312-big-industrial 0.70(19) 35 	-> 
+2023-01-20 02:59:09.898517 : 35312-big-industrial 0.70(19) 34 	-> 
+2023-01-20 03:05:50.049365 : 35312-big-industrial 0.70(19) 36 	-> 
+2023-01-20 03:06:37.152292 : 35312-big-industrial 0.70(19) 37 	-> 
+2023-01-20 03:06:42.884168 : 35312-big-industrial 0.70(19) 39 	-> 
+2023-01-20 03:07:07.973410 : 35312-big-industrial 0.70(19) 38 	-> 
+2023-01-20 03:14:22.917419 : 35312-big-industrial 0.70(19) 42 	-> 
+2023-01-20 03:14:29.648933 : 35312-big-industrial 0.70(19) 40 	-> 
+2023-01-20 03:15:02.439181 : 35312-big-industrial 0.70(19) 41 	-> 
+2023-01-20 03:15:40.592603 : 35312-big-industrial 0.70(19) 43 	-> 
+2023-01-20 03:22:29.182638 : 35312-big-industrial 0.70(19) 45 	-> 
+2023-01-20 03:23:02.724427 : 35312-big-industrial 0.70(19) 44 	-> 
+2023-01-20 03:23:05.207367 : 35312-big-industrial 0.70(19) 46 	-> 
+2023-01-20 03:24:00.434185 : 35312-big-industrial 0.70(19) 47 	-> 
+2023-01-20 03:27:04.137321 : 35312-big-industrial 0.70(19) 48 	-> 
+2023-01-20 03:27:40.836751 : 35312-big-industrial 0.70(19) 49 	-> 

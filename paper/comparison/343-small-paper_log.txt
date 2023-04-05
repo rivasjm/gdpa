@@ -1,0 +1,1000 @@
+2023-01-16 13:00:11.538805 : 343-small-paper 0.50(0) 2 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:11.873857 : 343-small-paper 0.50(0) 0 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:12.007905 : 343-small-paper 0.50(0) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:12.344925 : 343-small-paper 0.50(0) 1 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:14.978472 : 343-small-paper 0.50(0) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:15.625560 : 343-small-paper 0.50(0) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:16.434670 : 343-small-paper 0.50(0) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:17.319789 : 343-small-paper 0.50(0) 8 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:17.953889 : 343-small-paper 0.50(0) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:18.303928 : 343-small-paper 0.50(0) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:20.380212 : 343-small-paper 0.50(0) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:20.764264 : 343-small-paper 0.50(0) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:21.415355 : 343-small-paper 0.50(0) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:22.367039 : 343-small-paper 0.50(0) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:22.943118 : 343-small-paper 0.50(0) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:24.082275 : 343-small-paper 0.50(0) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:25.279449 : 343-small-paper 0.50(0) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:26.611618 : 343-small-paper 0.50(0) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:27.420733 : 343-small-paper 0.50(0) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:27.915797 : 343-small-paper 0.50(0) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:28.789919 : 343-small-paper 0.50(0) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:30.544158 : 343-small-paper 0.50(0) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:30.588167 : 343-small-paper 0.50(0) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:31.636756 : 343-small-paper 0.50(0) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:31.904792 : 343-small-paper 0.50(0) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:34.165559 : 343-small-paper 0.50(0) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:34.330592 : 343-small-paper 0.50(0) 27 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:34.350586 : 343-small-paper 0.50(0) 26 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:36.939449 : 343-small-paper 0.50(0) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:37.133483 : 343-small-paper 0.50(0) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:37.640544 : 343-small-paper 0.50(0) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:37.839571 : 343-small-paper 0.50(0) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:39.919208 : 343-small-paper 0.50(0) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:40.091235 : 343-small-paper 0.50(0) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:41.324403 : 343-small-paper 0.50(0) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:42.967843 : 343-small-paper 0.50(0) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:44.915107 : 343-small-paper 0.50(0) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:44.997117 : 343-small-paper 0.50(0) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:45.152142 : 343-small-paper 0.50(0) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:45.650207 : 343-small-paper 0.50(0) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:47.569053 : 343-small-paper 0.50(0) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:48.414544 : 343-small-paper 0.50(0) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:48.484553 : 343-small-paper 0.50(0) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:49.307665 : 343-small-paper 0.50(0) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:49.804733 : 343-small-paper 0.50(0) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:51.998031 : 343-small-paper 0.50(0) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:52.051041 : 343-small-paper 0.50(0) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:52.768140 : 343-small-paper 0.50(0) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:53.448261 : 343-small-paper 0.50(0) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:53.785312 : 343-small-paper 0.50(0) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:58.567004 : 343-small-paper 0.52(1) 0 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:00:59.140084 : 343-small-paper 0.52(1) 2 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:00.351252 : 343-small-paper 0.52(1) 1 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:00.387252 : 343-small-paper 0.52(1) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:01.151368 : 343-small-paper 0.52(1) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:02.874596 : 343-small-paper 0.52(1) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:04.281792 : 343-small-paper 0.52(1) 8 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:04.547822 : 343-small-paper 0.52(1) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:04.989882 : 343-small-paper 0.52(1) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:05.637968 : 343-small-paper 0.52(1) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:07.336209 : 343-small-paper 0.52(1) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:08.656615 : 343-small-paper 0.52(1) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:08.699624 : 343-small-paper 0.52(1) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:09.728760 : 343-small-paper 0.52(1) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:11.020943 : 343-small-paper 0.52(1) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:12.760178 : 343-small-paper 0.52(1) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:13.373264 : 343-small-paper 0.52(1) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:15.497121 : 343-small-paper 0.52(1) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:15.733153 : 343-small-paper 0.52(1) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:15.816162 : 343-small-paper 0.52(1) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:17.537399 : 343-small-paper 0.52(1) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:19.594933 : 343-small-paper 0.52(1) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:19.828955 : 343-small-paper 0.52(1) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:19.918967 : 343-small-paper 0.52(1) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:21.424176 : 343-small-paper 0.52(1) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:23.591472 : 343-small-paper 0.52(1) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:23.861508 : 343-small-paper 0.52(1) 27 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:23.916515 : 343-small-paper 0.52(1) 26 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:26.635890 : 343-small-paper 0.52(1) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:27.162964 : 343-small-paper 0.52(1) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:27.221975 : 343-small-paper 0.52(1) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:27.366990 : 343-small-paper 0.52(1) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:29.882341 : 343-small-paper 0.52(1) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:30.764456 : 343-small-paper 0.52(1) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:31.061496 : 343-small-paper 0.52(1) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:32.471913 : 343-small-paper 0.52(1) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:35.299486 : 343-small-paper 0.52(1) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:35.318487 : 343-small-paper 0.52(1) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:35.594513 : 343-small-paper 0.52(1) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:37.248672 : 343-small-paper 0.52(1) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:38.310775 : 343-small-paper 0.52(1) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:38.951837 : 343-small-paper 0.52(1) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:39.321877 : 343-small-paper 0.52(1) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:41.077344 : 343-small-paper 0.52(1) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:41.839418 : 343-small-paper 0.52(1) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:43.038541 : 343-small-paper 0.52(1) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:44.078640 : 343-small-paper 0.52(1) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:44.126643 : 343-small-paper 0.52(1) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:44.864711 : 343-small-paper 0.52(1) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:45.266750 : 343-small-paper 0.52(1) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:50.053794 : 343-small-paper 0.54(2) 0 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:50.230809 : 343-small-paper 0.54(2) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:50.958874 : 343-small-paper 0.54(2) 1 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:50.993925 : 343-small-paper 0.54(2) 2 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:52.682254 : 343-small-paper 0.54(2) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:54.145393 : 343-small-paper 0.54(2) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:55.496524 : 343-small-paper 0.54(2) 8 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:56.207597 : 343-small-paper 0.54(2) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:56.975668 : 343-small-paper 0.54(2) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:58.698835 : 343-small-paper 0.54(2) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:59.387900 : 343-small-paper 0.54(2) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:01:59.813944 : 343-small-paper 0.54(2) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:00.595023 : 343-small-paper 0.54(2) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:01.891144 : 343-small-paper 0.54(2) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:02.865240 : 343-small-paper 0.54(2) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:03.486300 : 343-small-paper 0.54(2) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:04.389401 : 343-small-paper 0.54(2) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:06.722612 : 343-small-paper 0.54(2) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:07.336673 : 343-small-paper 0.54(2) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:07.913745 : 343-small-paper 0.54(2) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:08.991837 : 343-small-paper 0.54(2) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:10.867017 : 343-small-paper 0.54(2) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:11.494518 : 343-small-paper 0.54(2) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:12.028565 : 343-small-paper 0.54(2) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:12.649958 : 343-small-paper 0.54(2) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:15.653245 : 343-small-paper 0.54(2) 26 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:15.662253 : 343-small-paper 0.54(2) 27 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:15.806263 : 343-small-paper 0.54(2) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:17.503427 : 343-small-paper 0.54(2) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:19.187590 : 343-small-paper 0.54(2) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:19.343602 : 343-small-paper 0.54(2) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:19.346606 : 343-small-paper 0.54(2) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:20.825991 : 343-small-paper 0.54(2) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:22.796184 : 343-small-paper 0.54(2) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:22.936202 : 343-small-paper 0.54(2) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:23.332238 : 343-small-paper 0.54(2) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:25.857483 : 343-small-paper 0.54(2) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:26.483539 : 343-small-paper 0.54(2) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:26.701562 : 343-small-paper 0.54(2) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:27.661655 : 343-small-paper 0.54(2) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:28.649129 : 343-small-paper 0.54(2) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:29.966258 : 343-small-paper 0.54(2) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:30.233284 : 343-small-paper 0.54(2) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:32.182474 : 343-small-paper 0.54(2) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:32.306486 : 343-small-paper 0.54(2) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:33.884640 : 343-small-paper 0.54(2) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:35.795125 : 343-small-paper 0.54(2) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:36.067370 : 343-small-paper 0.54(2) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:36.759713 : 343-small-paper 0.54(2) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:37.111780 : 343-small-paper 0.54(2) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:41.510179 : 343-small-paper 0.56(3) 0 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:41.944218 : 343-small-paper 0.56(3) 2 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:42.106235 : 343-small-paper 0.56(3) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:43.551374 : 343-small-paper 0.56(3) 1 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:44.000419 : 343-small-paper 0.56(3) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:46.569665 : 343-small-paper 0.56(3) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:47.214726 : 343-small-paper 0.56(3) 8 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:47.225731 : 343-small-paper 0.56(3) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:49.290938 : 343-small-paper 0.56(3) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:51.047104 : 343-small-paper 0.56(3) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:51.417138 : 343-small-paper 0.56(3) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:51.778472 : 343-small-paper 0.56(3) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:52.496541 : 343-small-paper 0.56(3) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:53.884916 : 343-small-paper 0.56(3) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:55.145034 : 343-small-paper 0.56(3) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:55.489073 : 343-small-paper 0.56(3) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:56.977510 : 343-small-paper 0.56(3) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:02:59.915789 : 343-small-paper 0.56(3) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:00.129812 : 343-small-paper 0.56(3) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:00.160812 : 343-small-paper 0.56(3) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:01.234219 : 343-small-paper 0.56(3) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:04.402076 : 343-small-paper 0.56(3) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:04.530088 : 343-small-paper 0.56(3) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:05.067458 : 343-small-paper 0.56(3) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:05.184470 : 343-small-paper 0.56(3) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:08.304767 : 343-small-paper 0.56(3) 26 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:08.396778 : 343-small-paper 0.56(3) 27 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:09.817920 : 343-small-paper 0.56(3) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:09.922930 : 343-small-paper 0.56(3) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:11.772103 : 343-small-paper 0.56(3) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:12.050131 : 343-small-paper 0.56(3) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:13.077235 : 343-small-paper 0.56(3) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:13.232785 : 343-small-paper 0.56(3) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:15.227988 : 343-small-paper 0.56(3) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:16.678116 : 343-small-paper 0.56(3) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:17.084150 : 343-small-paper 0.56(3) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:18.354272 : 343-small-paper 0.56(3) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:20.648498 : 343-small-paper 0.56(3) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:21.501987 : 343-small-paper 0.56(3) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:21.585999 : 343-small-paper 0.56(3) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:22.561093 : 343-small-paper 0.56(3) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:24.128248 : 343-small-paper 0.56(3) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:24.995328 : 343-small-paper 0.56(3) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:26.195444 : 343-small-paper 0.56(3) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:26.200441 : 343-small-paper 0.56(3) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:28.800917 : 343-small-paper 0.56(3) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:28.885927 : 343-small-paper 0.56(3) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:29.359971 : 343-small-paper 0.56(3) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:29.644996 : 343-small-paper 0.56(3) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:30.747128 : 343-small-paper 0.56(3) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:35.147531 : 343-small-paper 0.58(4) 0 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:36.218637 : 343-small-paper 0.58(4) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:36.549665 : 343-small-paper 0.58(4) 2 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:37.255765 : 343-small-paper 0.58(4) 1 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:37.612773 : 343-small-paper 0.58(4) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:40.733073 : 343-small-paper 0.58(4) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:41.606161 : 343-small-paper 0.58(4) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:43.342688 : 343-small-paper 0.58(4) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:43.485705 : 343-small-paper 0.58(4) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:43.813734 : 343-small-paper 0.58(4) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:46.808058 : 343-small-paper 0.58(4) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:48.142154 : 343-small-paper 0.58(4) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:48.704210 : 343-small-paper 0.58(4) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:48.808250 : 343-small-paper 0.58(4) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:49.938331 : 343-small-paper 0.58(4) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:51.997527 : 343-small-paper 0.58(4) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:53.522679 : 343-small-paper 0.58(4) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:54.836802 : 343-small-paper 0.58(4) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:56.504966 : 343-small-paper 0.58(4) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:56.596975 : 343-small-paper 0.58(4) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:56.808995 : 343-small-paper 0.58(4) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:03:59.053213 : 343-small-paper 0.58(4) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:00.582359 : 343-small-paper 0.58(4) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:00.887391 : 343-small-paper 0.58(4) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:02.115864 : 343-small-paper 0.58(4) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:03.234945 : 343-small-paper 0.58(4) 26 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:03.871005 : 343-small-paper 0.58(4) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:04.331052 : 343-small-paper 0.58(4) 27 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:07.295336 : 343-small-paper 0.58(4) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:07.497360 : 343-small-paper 0.58(4) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:07.650379 : 343-small-paper 0.58(4) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:08.892071 : 343-small-paper 0.58(4) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:10.434573 : 343-small-paper 0.58(4) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:11.055631 : 343-small-paper 0.58(4) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:11.660684 : 343-small-paper 0.58(4) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:12.447759 : 343-small-paper 0.58(4) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:15.669383 : 343-small-paper 0.58(4) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:16.606479 : 343-small-paper 0.58(4) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:16.862504 : 343-small-paper 0.58(4) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:18.741880 : 343-small-paper 0.58(4) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:19.067926 : 343-small-paper 0.58(4) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:20.181021 : 343-small-paper 0.58(4) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:20.420043 : 343-small-paper 0.58(4) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:24.263427 : 343-small-paper 0.58(4) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:24.569445 : 343-small-paper 0.58(4) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:24.996482 : 343-small-paper 0.58(4) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:25.241507 : 343-small-paper 0.58(4) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:27.397973 : 343-small-paper 0.58(4) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:27.531986 : 343-small-paper 0.58(4) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:27.792010 : 343-small-paper 0.58(4) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:32.180820 : 343-small-paper 0.61(5) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:33.025145 : 343-small-paper 0.61(5) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:33.095144 : 343-small-paper 0.61(5) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:34.234253 : 343-small-paper 0.61(5) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:34.750303 : 343-small-paper 0.61(5) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:37.138531 : 343-small-paper 0.61(5) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:37.382553 : 343-small-paper 0.61(5) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:38.474004 : 343-small-paper 0.61(5) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:38.713021 : 343-small-paper 0.61(5) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:39.800128 : 343-small-paper 0.61(5) 9 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:43.663947 : 343-small-paper 0.61(5) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:43.889969 : 343-small-paper 0.61(5) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:44.464025 : 343-small-paper 0.61(5) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:44.976074 : 343-small-paper 0.61(5) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:46.965271 : 343-small-paper 0.61(5) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:47.796354 : 343-small-paper 0.61(5) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:49.105484 : 343-small-paper 0.61(5) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:50.898007 : 343-small-paper 0.61(5) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:51.293036 : 343-small-paper 0.61(5) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:51.759083 : 343-small-paper 0.61(5) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:52.947228 : 343-small-paper 0.61(5) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:55.040675 : 343-small-paper 0.61(5) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:55.619723 : 343-small-paper 0.61(5) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:56.068772 : 343-small-paper 0.61(5) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:58.036975 : 343-small-paper 0.61(5) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:59.771135 : 343-small-paper 0.61(5) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:04:59.878140 : 343-small-paper 0.61(5) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:01.014246 : 343-small-paper 0.61(5) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:03.611846 : 343-small-paper 0.61(5) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:04.119905 : 343-small-paper 0.61(5) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:05.007980 : 343-small-paper 0.61(5) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:06.680144 : 343-small-paper 0.61(5) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:07.654237 : 343-small-paper 0.61(5) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:09.045373 : 343-small-paper 0.61(5) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:09.217386 : 343-small-paper 0.61(5) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:09.787442 : 343-small-paper 0.61(5) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:13.748824 : 343-small-paper 0.61(5) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:13.914839 : 343-small-paper 0.61(5) 39 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:13.984848 : 343-small-paper 0.61(5) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:16.910132 : 343-small-paper 0.61(5) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:17.117158 : 343-small-paper 0.61(5) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:17.251162 : 343-small-paper 0.61(5) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:18.426279 : 343-small-paper 0.61(5) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:21.547585 : 343-small-paper 0.61(5) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:21.808995 : 343-small-paper 0.61(5) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:21.810998 : 343-small-paper 0.61(5) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:23.342150 : 343-small-paper 0.61(5) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:24.636272 : 343-small-paper 0.61(5) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:24.767285 : 343-small-paper 0.61(5) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:25.184356 : 343-small-paper 0.61(5) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:30.363829 : 343-small-paper 0.63(6) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:30.470837 : 343-small-paper 0.63(6) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:32.069218 : 343-small-paper 0.63(6) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:32.194230 : 343-small-paper 0.63(6) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:33.662375 : 343-small-paper 0.63(6) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:35.084023 : 343-small-paper 0.63(6) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:36.487158 : 343-small-paper 0.63(6) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:37.088219 : 343-small-paper 0.63(6) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:37.991308 : 343-small-paper 0.63(6) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:38.041312 : 343-small-paper 0.63(6) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:42.054206 : 343-small-paper 0.63(6) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:42.178220 : 343-small-paper 0.63(6) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:42.792524 : 343-small-paper 0.63(6) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:43.046548 : 343-small-paper 0.63(6) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:45.348772 : 343-small-paper 0.63(6) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:45.712810 : 343-small-paper 0.63(6) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:46.766911 : 343-small-paper 0.63(6) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:47.402295 : 343-small-paper 0.63(6) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:49.141462 : 343-small-paper 0.63(6) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:49.664514 : 343-small-paper 0.63(6) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:50.285576 : 343-small-paper 0.63(6) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:52.899518 : 343-small-paper 0.63(6) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:53.743604 : 343-small-paper 0.63(6) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:54.313658 : 343-small-paper 0.63(6) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:55.208744 : 343-small-paper 0.63(6) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:56.207842 : 343-small-paper 0.63(6) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:57.822996 : 343-small-paper 0.63(6) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:05:59.835190 : 343-small-paper 0.63(6) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:00.489255 : 343-small-paper 0.63(6) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:01.774389 : 343-small-paper 0.63(6) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:02.093417 : 343-small-paper 0.63(6) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:03.797733 : 343-small-paper 0.63(6) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:05.384884 : 343-small-paper 0.63(6) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:05.919933 : 343-small-paper 0.63(6) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:06.227968 : 343-small-paper 0.63(6) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:06.624006 : 343-small-paper 0.63(6) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:09.826314 : 343-small-paper 0.63(6) 38 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:10.536398 : 343-small-paper 0.63(6) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:11.475476 : 343-small-paper 0.63(6) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:13.164637 : 343-small-paper 0.63(6) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:13.376662 : 343-small-paper 0.63(6) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:13.695686 : 343-small-paper 0.63(6) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:14.933005 : 343-small-paper 0.63(6) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:17.516251 : 343-small-paper 0.63(6) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:17.778276 : 343-small-paper 0.63(6) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:17.854285 : 343-small-paper 0.63(6) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:19.799474 : 343-small-paper 0.63(6) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:21.547642 : 343-small-paper 0.63(6) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:21.886707 : 343-small-paper 0.63(6) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:21.888707 : 343-small-paper 0.63(6) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:26.217093 : 343-small-paper 0.65(7) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:28.183545 : 343-small-paper 0.65(7) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:28.583868 : 343-small-paper 0.65(7) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:29.092919 : 343-small-paper 0.65(7) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:29.329944 : 343-small-paper 0.65(7) 4 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:32.823276 : 343-small-paper 0.65(7) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:33.180297 : 343-small-paper 0.65(7) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:33.667356 : 343-small-paper 0.65(7) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:35.292434 : 343-small-paper 0.65(7) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:36.004486 : 343-small-paper 0.65(7) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:37.231569 : 343-small-paper 0.65(7) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:39.110701 : 343-small-paper 0.65(7) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:40.387969 : 343-small-paper 0.65(7) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:40.645992 : 343-small-paper 0.65(7) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:40.999014 : 343-small-paper 0.65(7) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:42.745129 : 343-small-paper 0.65(7) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:45.667694 : 343-small-paper 0.65(7) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:46.328739 : 343-small-paper 0.65(7) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:46.515762 : 343-small-paper 0.65(7) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:47.307810 : 343-small-paper 0.65(7) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:48.854916 : 343-small-paper 0.65(7) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:50.790056 : 343-small-paper 0.65(7) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:51.452092 : 343-small-paper 0.65(7) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:51.536095 : 343-small-paper 0.65(7) 21 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:53.075706 : 343-small-paper 0.65(7) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:55.164854 : 343-small-paper 0.65(7) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:55.728889 : 343-small-paper 0.65(7) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:56.488284 : 343-small-paper 0.65(7) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:58.942470 : 343-small-paper 0.65(7) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:59.042464 : 343-small-paper 0.65(7) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:59.337479 : 343-small-paper 0.65(7) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:06:59.632504 : 343-small-paper 0.65(7) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:02.005659 : 343-small-paper 0.65(7) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:03.084732 : 343-small-paper 0.65(7) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:04.312438 : 343-small-paper 0.65(7) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:06.023558 : 343-small-paper 0.65(7) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:07.297032 : 343-small-paper 0.65(7) 38 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:08.174096 : 343-small-paper 0.65(7) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:09.853207 : 343-small-paper 0.65(7) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:11.287304 : 343-small-paper 0.65(7) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:11.455313 : 343-small-paper 0.65(7) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:11.473316 : 343-small-paper 0.65(7) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:13.292445 : 343-small-paper 0.65(7) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:15.723900 : 343-small-paper 0.65(7) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:17.000978 : 343-small-paper 0.65(7) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:18.220063 : 343-small-paper 0.65(7) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:18.350073 : 343-small-paper 0.65(7) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:19.217132 : 343-small-paper 0.65(7) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:20.013183 : 343-small-paper 0.65(7) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:21.546288 : 343-small-paper 0.65(7) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:25.980595 : 343-small-paper 0.67(8) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:26.103602 : 343-small-paper 0.67(8) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:27.717711 : 343-small-paper 0.67(8) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:28.861791 : 343-small-paper 0.67(8) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:29.371826 : 343-small-paper 0.67(8) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:31.059940 : 343-small-paper 0.67(8) 5 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:33.203614 : 343-small-paper 0.67(8) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:34.379692 : 343-small-paper 0.67(8) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:34.635717 : 343-small-paper 0.67(8) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:35.253758 : 343-small-paper 0.67(8) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:38.483970 : 343-small-paper 0.67(8) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:38.536976 : 343-small-paper 0.67(8) 10 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:39.634560 : 343-small-paper 0.67(8) 11 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:39.958579 : 343-small-paper 0.67(8) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:42.400744 : 343-small-paper 0.67(8) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:42.461749 : 343-small-paper 0.67(8) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:46.431019 : 343-small-paper 0.67(8) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:46.591041 : 343-small-paper 0.67(8) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:47.059061 : 343-small-paper 0.67(8) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:48.036146 : 343-small-paper 0.67(8) 18 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:48.727561 : 343-small-paper 0.67(8) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:51.611760 : 343-small-paper 0.67(8) 21 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:52.183801 : 343-small-paper 0.67(8) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:52.330809 : 343-small-paper 0.67(8) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:53.761184 : 343-small-paper 0.67(8) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:55.480304 : 343-small-paper 0.67(8) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:56.473373 : 343-small-paper 0.67(8) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:57.539446 : 343-small-paper 0.67(8) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:07:59.806602 : 343-small-paper 0.67(8) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:00.621972 : 343-small-paper 0.67(8) 29 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:00.684976 : 343-small-paper 0.67(8) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:02.092069 : 343-small-paper 0.67(8) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:03.032137 : 343-small-paper 0.67(8) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:03.689179 : 343-small-paper 0.67(8) 33 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:05.563770 : 343-small-paper 0.67(8) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:05.679744 : 343-small-paper 0.67(8) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:09.081207 : 343-small-paper 0.67(8) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:09.279220 : 343-small-paper 0.67(8) 38 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:09.552475 : 343-small-paper 0.67(8) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:12.019646 : 343-small-paper 0.67(8) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:12.643682 : 343-small-paper 0.67(8) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:12.781698 : 343-small-paper 0.67(8) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:13.477742 : 343-small-paper 0.67(8) 40 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:16.908340 : 343-small-paper 0.67(8) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:18.398443 : 343-small-paper 0.67(8) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:18.731469 : 343-small-paper 0.67(8) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:19.392516 : 343-small-paper 0.67(8) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:21.656967 : 343-small-paper 0.67(8) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:22.312044 : 343-small-paper 0.67(8) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:22.730073 : 343-small-paper 0.67(8) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:27.232348 : 343-small-paper 0.69(9) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:29.258382 : 343-small-paper 0.69(9) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:29.659407 : 343-small-paper 0.69(9) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:30.545468 : 343-small-paper 0.69(9) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:30.923493 : 343-small-paper 0.69(9) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:33.987025 : 343-small-paper 0.69(9) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:35.032098 : 343-small-paper 0.69(9) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:35.671176 : 343-small-paper 0.69(9) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:36.732211 : 343-small-paper 0.69(9) 6 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:37.016232 : 343-small-paper 0.69(9) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:40.178442 : 343-small-paper 0.69(9) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:40.786481 : 343-small-paper 0.69(9) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:41.968563 : 343-small-paper 0.69(9) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:44.070709 : 343-small-paper 0.69(9) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:44.605749 : 343-small-paper 0.69(9) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:45.198784 : 343-small-paper 0.69(9) 15 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:47.645952 : 343-small-paper 0.69(9) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:49.032046 : 343-small-paper 0.69(9) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:50.090489 : 343-small-paper 0.69(9) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:50.128492 : 343-small-paper 0.69(9) 18 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:50.932549 : 343-small-paper 0.69(9) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:53.697739 : 343-small-paper 0.69(9) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:53.893748 : 343-small-paper 0.69(9) 21 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:55.426240 : 343-small-paper 0.69(9) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:55.959272 : 343-small-paper 0.69(9) 24 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:58.526447 : 343-small-paper 0.69(9) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:58.602449 : 343-small-paper 0.69(9) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:08:58.610449 : 343-small-paper 0.69(9) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:01.757671 : 343-small-paper 0.69(9) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:03.475070 : 343-small-paper 0.69(9) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:03.568079 : 343-small-paper 0.69(9) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:05.119183 : 343-small-paper 0.69(9) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:06.259259 : 343-small-paper 0.69(9) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:07.347340 : 343-small-paper 0.69(9) 33 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:07.980379 : 343-small-paper 0.69(9) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:08.999454 : 343-small-paper 0.69(9) 35 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:11.841916 : 343-small-paper 0.69(9) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:12.290944 : 343-small-paper 0.69(9) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:12.444960 : 343-small-paper 0.69(9) 38 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:12.463958 : 343-small-paper 0.69(9) 37 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:15.688471 : 343-small-paper 0.69(9) 42 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:16.003495 : 343-small-paper 0.69(9) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:16.314521 : 343-small-paper 0.69(9) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:20.522359 : 343-small-paper 0.69(9) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:20.581346 : 343-small-paper 0.69(9) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:21.081382 : 343-small-paper 0.69(9) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:21.814428 : 343-small-paper 0.69(9) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:23.777567 : 343-small-paper 0.69(9) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:24.580651 : 343-small-paper 0.69(9) 47 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:25.477679 : 343-small-paper 0.69(9) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:30.408330 : 343-small-paper 0.71(10) 0 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:31.154380 : 343-small-paper 0.71(10) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:32.048441 : 343-small-paper 0.71(10) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:32.468472 : 343-small-paper 0.71(10) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:34.377600 : 343-small-paper 0.71(10) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:36.017712 : 343-small-paper 0.71(10) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:36.334732 : 343-small-paper 0.71(10) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:37.353804 : 343-small-paper 0.71(10) 6 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:39.084930 : 343-small-paper 0.71(10) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:39.224934 : 343-small-paper 0.71(10) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:41.327080 : 343-small-paper 0.71(10) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:42.550161 : 343-small-paper 0.71(10) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:43.906252 : 343-small-paper 0.71(10) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:44.466299 : 343-small-paper 0.71(10) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:46.996461 : 343-small-paper 0.71(10) 15 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:47.478493 : 343-small-paper 0.71(10) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:50.968736 : 343-small-paper 0.71(10) 18 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:51.007742 : 343-small-paper 0.71(10) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:51.057744 : 343-small-paper 0.71(10) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:53.332902 : 343-small-paper 0.71(10) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:53.442920 : 343-small-paper 0.71(10) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:55.077018 : 343-small-paper 0.71(10) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:55.998455 : 343-small-paper 0.71(10) 21 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:57.729570 : 343-small-paper 0.71(10) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:59.179700 : 343-small-paper 0.71(10) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:59.280713 : 343-small-paper 0.71(10) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:09:59.724711 : 343-small-paper 0.71(10) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:01.078799 : 343-small-paper 0.71(10) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:04.358308 : 343-small-paper 0.71(10) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:04.633323 : 343-small-paper 0.71(10) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:04.683327 : 343-small-paper 0.71(10) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:08.397436 : 343-small-paper 0.71(10) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:08.410436 : 343-small-paper 0.71(10) 33 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:09.650523 : 343-small-paper 0.71(10) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:11.477647 : 343-small-paper 0.71(10) 35 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:12.663727 : 343-small-paper 0.71(10) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:12.847740 : 343-small-paper 0.71(10) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:16.158489 : 343-small-paper 0.71(10) 37 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:16.372503 : 343-small-paper 0.71(10) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:17.025549 : 343-small-paper 0.71(10) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:18.198629 : 343-small-paper 0.71(10) 41 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:19.035685 : 343-small-paper 0.71(10) 42 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:21.201836 : 343-small-paper 0.71(10) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:22.335910 : 343-small-paper 0.71(10) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:22.467921 : 343-small-paper 0.71(10) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:24.938090 : 343-small-paper 0.71(10) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:25.200114 : 343-small-paper 0.71(10) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:25.494131 : 343-small-paper 0.71(10) 38 	-> bf
+2023-01-16 13:10:25.533131 : 343-small-paper 0.71(10) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:28.008332 : 343-small-paper 0.71(10) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:32.968921 : 343-small-paper 0.73(11) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:33.404945 : 343-small-paper 0.73(11) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:34.328040 : 343-small-paper 0.73(11) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:35.604097 : 343-small-paper 0.73(11) 0 	-> 
+2023-01-16 13:10:36.677169 : 343-small-paper 0.73(11) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:37.455223 : 343-small-paper 0.73(11) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:40.323419 : 343-small-paper 0.73(11) 6 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:40.668438 : 343-small-paper 0.73(11) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:40.677440 : 343-small-paper 0.73(11) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:40.860452 : 343-small-paper 0.73(11) 9 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:45.430768 : 343-small-paper 0.73(11) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:45.574777 : 343-small-paper 0.73(11) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:47.010908 : 343-small-paper 0.73(11) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:47.186886 : 343-small-paper 0.73(11) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:49.493049 : 343-small-paper 0.73(11) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:50.448111 : 343-small-paper 0.73(11) 15 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:52.437249 : 343-small-paper 0.73(11) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:53.761337 : 343-small-paper 0.73(11) 17 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:54.766410 : 343-small-paper 0.73(11) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:55.020426 : 343-small-paper 0.73(11) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:56.022491 : 343-small-paper 0.73(11) 18 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:58.988700 : 343-small-paper 0.73(11) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:10:59.776112 : 343-small-paper 0.73(11) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:00.616169 : 343-small-paper 0.73(11) 21 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:01.631242 : 343-small-paper 0.73(11) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:02.889326 : 343-small-paper 0.73(11) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:04.791744 : 343-small-paper 0.73(11) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:04.806758 : 343-small-paper 0.73(11) 27 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:07.981239 : 343-small-paper 0.73(11) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:08.950271 : 343-small-paper 0.73(11) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:11.784806 : 343-small-paper 0.73(11) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:12.167839 : 343-small-paper 0.73(11) 33 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:12.346156 : 343-small-paper 0.73(11) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:12.665183 : 343-small-paper 0.73(11) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:17.599514 : 343-small-paper 0.73(11) 35 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:17.601516 : 343-small-paper 0.73(11) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:17.759526 : 343-small-paper 0.73(11) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:18.288561 : 343-small-paper 0.73(11) 37 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:20.222877 : 343-small-paper 0.73(11) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:20.934933 : 343-small-paper 0.73(11) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:21.023932 : 343-small-paper 0.73(11) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:22.750079 : 343-small-paper 0.73(11) 42 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:24.596174 : 343-small-paper 0.73(11) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:25.310221 : 343-small-paper 0.73(11) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:26.316291 : 343-small-paper 0.73(11) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:27.582378 : 343-small-paper 0.73(11) 38 	-> 
+2023-01-16 13:11:28.266427 : 343-small-paper 0.73(11) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:28.312431 : 343-small-paper 0.73(11) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:29.300646 : 343-small-paper 0.73(11) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:30.668771 : 343-small-paper 0.73(11) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:35.583466 : 343-small-paper 0.75(12) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:35.900479 : 343-small-paper 0.75(12) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:36.091487 : 343-small-paper 0.75(12) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:39.316644 : 343-small-paper 0.75(12) 0 	-> 
+2023-01-16 13:11:39.613658 : 343-small-paper 0.75(12) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:39.695661 : 343-small-paper 0.75(12) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:43.580217 : 343-small-paper 0.75(12) 6 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:43.653191 : 343-small-paper 0.75(12) 8 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:44.486241 : 343-small-paper 0.75(12) 9 	-> bf gdpa-r gdpa-pd
+2023-01-16 13:11:45.197269 : 343-small-paper 0.75(12) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:48.388451 : 343-small-paper 0.75(12) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:48.938444 : 343-small-paper 0.75(12) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:49.502504 : 343-small-paper 0.75(12) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:51.481575 : 343-small-paper 0.75(12) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:52.354608 : 343-small-paper 0.75(12) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:54.315014 : 343-small-paper 0.75(12) 15 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:55.012046 : 343-small-paper 0.75(12) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:55.934336 : 343-small-paper 0.75(12) 18 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:56.133347 : 343-small-paper 0.75(12) 17 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:57.206395 : 343-small-paper 0.75(12) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:11:58.435455 : 343-small-paper 0.75(12) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:01.060583 : 343-small-paper 0.75(12) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:01.387599 : 343-small-paper 0.75(12) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:01.505607 : 343-small-paper 0.75(12) 21 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:04.450747 : 343-small-paper 0.75(12) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:04.659757 : 343-small-paper 0.75(12) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:06.172828 : 343-small-paper 0.75(12) 27 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:07.903920 : 343-small-paper 0.75(12) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:09.392991 : 343-small-paper 0.75(12) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:10.514041 : 343-small-paper 0.75(12) 31 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:11.015066 : 343-small-paper 0.75(12) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:13.561189 : 343-small-paper 0.75(12) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:14.414225 : 343-small-paper 0.75(12) 33 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:16.819292 : 343-small-paper 0.75(12) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:17.269623 : 343-small-paper 0.75(12) 34 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:19.305722 : 343-small-paper 0.75(12) 35 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:19.689738 : 343-small-paper 0.75(12) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:21.339097 : 343-small-paper 0.75(12) 37 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:22.681158 : 343-small-paper 0.75(12) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:22.688159 : 343-small-paper 0.75(12) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:23.571531 : 343-small-paper 0.75(12) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:25.385901 : 343-small-paper 0.75(12) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:25.421902 : 343-small-paper 0.75(12) 42 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:25.762920 : 343-small-paper 0.75(12) 38 	-> 
+2023-01-16 13:12:28.789063 : 343-small-paper 0.75(12) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:29.238115 : 343-small-paper 0.75(12) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:29.559103 : 343-small-paper 0.75(12) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:30.257168 : 343-small-paper 0.75(12) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:31.675203 : 343-small-paper 0.75(12) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:33.681338 : 343-small-paper 0.75(12) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:38.292524 : 343-small-paper 0.77(13) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:39.278572 : 343-small-paper 0.77(13) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:39.651588 : 343-small-paper 0.77(13) 1 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:41.459299 : 343-small-paper 0.77(13) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:43.411393 : 343-small-paper 0.77(13) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:45.495981 : 343-small-paper 0.77(13) 0 	-> 
+2023-01-16 13:12:45.497979 : 343-small-paper 0.77(13) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:45.648989 : 343-small-paper 0.77(13) 6 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:48.856584 : 343-small-paper 0.77(13) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:49.546615 : 343-small-paper 0.77(13) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:49.570617 : 343-small-paper 0.77(13) 8 	-> bf gdpa-r gdpa-hopa
+2023-01-16 13:12:51.520711 : 343-small-paper 0.77(13) 9 	-> 
+2023-01-16 13:12:51.836727 : 343-small-paper 0.77(13) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:53.039049 : 343-small-paper 0.77(13) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:53.194055 : 343-small-paper 0.77(13) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:55.627202 : 343-small-paper 0.77(13) 15 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:56.342205 : 343-small-paper 0.77(13) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:56.871231 : 343-small-paper 0.77(13) 18 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:57.955288 : 343-small-paper 0.77(13) 17 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:58.840330 : 343-small-paper 0.77(13) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:12:59.503362 : 343-small-paper 0.77(13) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:01.531468 : 343-small-paper 0.77(13) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:02.250498 : 343-small-paper 0.77(13) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:03.800564 : 343-small-paper 0.77(13) 21 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:04.912008 : 343-small-paper 0.77(13) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:05.184021 : 343-small-paper 0.77(13) 26 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:08.527184 : 343-small-paper 0.77(13) 27 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:11.323701 : 343-small-paper 0.77(13) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:13.806821 : 343-small-paper 0.77(13) 31 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:13.948859 : 343-small-paper 0.77(13) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:14.306843 : 343-small-paper 0.77(13) 30 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:14.776869 : 343-small-paper 0.77(13) 28 	-> pd hopa bf gdpa-pd gdpa-hopa
+2023-01-16 13:13:16.532957 : 343-small-paper 0.77(13) 33 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:18.087784 : 343-small-paper 0.77(13) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:19.385856 : 343-small-paper 0.77(13) 35 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:20.294891 : 343-small-paper 0.77(13) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:22.115243 : 343-small-paper 0.77(13) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:22.386255 : 343-small-paper 0.77(13) 37 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:24.657362 : 343-small-paper 0.77(13) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:25.335394 : 343-small-paper 0.77(13) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:25.757416 : 343-small-paper 0.77(13) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:27.610510 : 343-small-paper 0.77(13) 38 	-> 
+2023-01-16 13:13:29.772612 : 343-small-paper 0.77(13) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:30.230634 : 343-small-paper 0.77(13) 44 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:30.238637 : 343-small-paper 0.77(13) 42 	-> 
+2023-01-16 13:13:32.160728 : 343-small-paper 0.77(13) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:34.934304 : 343-small-paper 0.77(13) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:34.964275 : 343-small-paper 0.77(13) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:35.213289 : 343-small-paper 0.77(13) 46 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:36.309373 : 343-small-paper 0.77(13) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:40.799558 : 343-small-paper 0.79(14) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:42.355630 : 343-small-paper 0.79(14) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:42.763649 : 343-small-paper 0.79(14) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:45.543787 : 343-small-paper 0.79(14) 5 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:47.799246 : 343-small-paper 0.79(14) 1 	-> 
+2023-01-16 13:13:49.098308 : 343-small-paper 0.79(14) 6 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:50.115356 : 343-small-paper 0.79(14) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:50.460374 : 343-small-paper 0.79(14) 8 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:51.912447 : 343-small-paper 0.79(14) 0 	-> 
+2023-01-16 13:13:53.620527 : 343-small-paper 0.79(14) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:54.447570 : 343-small-paper 0.79(14) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:55.486618 : 343-small-paper 0.79(14) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:56.002645 : 343-small-paper 0.79(14) 9 	-> 
+2023-01-16 13:13:56.246651 : 343-small-paper 0.79(14) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:13:57.779733 : 343-small-paper 0.79(14) 14 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:01.120230 : 343-small-paper 0.79(14) 15 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:01.558250 : 343-small-paper 0.79(14) 17 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:02.258284 : 343-small-paper 0.79(14) 18 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:03.142328 : 343-small-paper 0.79(14) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:04.512390 : 343-small-paper 0.79(14) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:04.675399 : 343-small-paper 0.79(14) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:07.031817 : 343-small-paper 0.79(14) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:07.148820 : 343-small-paper 0.79(14) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:07.724852 : 343-small-paper 0.79(14) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:10.610142 : 343-small-paper 0.79(14) 27 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:11.034162 : 343-small-paper 0.79(14) 21 	-> 
+2023-01-16 13:14:13.888566 : 343-small-paper 0.79(14) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:14.396594 : 343-small-paper 0.79(14) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:15.268633 : 343-small-paper 0.79(14) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:15.341634 : 343-small-paper 0.79(14) 26 	-> 
+2023-01-16 13:14:17.004716 : 343-small-paper 0.79(14) 31 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:19.253828 : 343-small-paper 0.79(14) 30 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:19.579839 : 343-small-paper 0.79(14) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:20.880904 : 343-small-paper 0.79(14) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:21.102917 : 343-small-paper 0.79(14) 33 	-> 
+2023-01-16 13:14:21.546967 : 343-small-paper 0.79(14) 35 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:24.196372 : 343-small-paper 0.79(14) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:24.392385 : 343-small-paper 0.79(14) 39 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:25.070411 : 343-small-paper 0.79(14) 37 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:25.440433 : 343-small-paper 0.79(14) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:26.415483 : 343-small-paper 0.79(14) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:29.849642 : 343-small-paper 0.79(14) 43 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:30.223658 : 343-small-paper 0.79(14) 44 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:31.481719 : 343-small-paper 0.79(14) 42 	-> 
+2023-01-16 13:14:31.888739 : 343-small-paper 0.79(14) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:34.769879 : 343-small-paper 0.79(14) 38 	-> 
+2023-01-16 13:14:35.290905 : 343-small-paper 0.79(14) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:35.861931 : 343-small-paper 0.79(14) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:36.098942 : 343-small-paper 0.79(14) 46 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:37.998302 : 343-small-paper 0.79(14) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:42.937538 : 343-small-paper 0.82(15) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:44.174601 : 343-small-paper 0.82(15) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:44.761629 : 343-small-paper 0.82(15) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:50.692052 : 343-small-paper 0.82(15) 1 	-> 
+2023-01-16 13:14:53.307215 : 343-small-paper 0.82(15) 5 	-> 
+2023-01-16 13:14:53.507219 : 343-small-paper 0.82(15) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:55.055259 : 343-small-paper 0.82(15) 6 	-> 
+2023-01-16 13:14:55.344273 : 343-small-paper 0.82(15) 0 	-> 
+2023-01-16 13:14:58.206412 : 343-small-paper 0.82(15) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:14:59.425475 : 343-small-paper 0.82(15) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:02.009909 : 343-small-paper 0.82(15) 13 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:02.471174 : 343-small-paper 0.82(15) 8 	-> 
+2023-01-16 13:15:03.241494 : 343-small-paper 0.82(15) 9 	-> 
+2023-01-16 13:15:03.356244 : 343-small-paper 0.82(15) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:07.388215 : 343-small-paper 0.82(15) 17 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:07.622137 : 343-small-paper 0.82(15) 15 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:08.658979 : 343-small-paper 0.82(15) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:09.902620 : 343-small-paper 0.82(15) 14 	-> 
+2023-01-16 13:15:10.852703 : 343-small-paper 0.82(15) 20 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:11.911008 : 343-small-paper 0.82(15) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:13.371827 : 343-small-paper 0.82(15) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:14.140866 : 343-small-paper 0.82(15) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:15.548630 : 343-small-paper 0.82(15) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:16.142347 : 343-small-paper 0.82(15) 18 	-> 
+2023-01-16 13:15:18.169101 : 343-small-paper 0.82(15) 21 	-> 
+2023-01-16 13:15:20.370443 : 343-small-paper 0.82(15) 27 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:20.450099 : 343-small-paper 0.82(15) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:22.095668 : 343-small-paper 0.82(15) 28 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:24.055954 : 343-small-paper 0.82(15) 26 	-> 
+2023-01-16 13:15:24.298887 : 343-small-paper 0.82(15) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:24.418973 : 343-small-paper 0.82(15) 31 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:26.120487 : 343-small-paper 0.82(15) 30 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:27.751682 : 343-small-paper 0.82(15) 32 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:28.211814 : 343-small-paper 0.82(15) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:30.661552 : 343-small-paper 0.82(15) 36 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:31.909131 : 343-small-paper 0.82(15) 33 	-> 
+2023-01-16 13:15:32.447892 : 343-small-paper 0.82(15) 35 	-> 
+2023-01-16 13:15:33.294688 : 343-small-paper 0.82(15) 37 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:34.681848 : 343-small-paper 0.82(15) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:34.825961 : 343-small-paper 0.82(15) 40 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:35.135703 : 343-small-paper 0.82(15) 39 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:37.449008 : 343-small-paper 0.82(15) 43 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:38.553203 : 343-small-paper 0.82(15) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:39.558312 : 343-small-paper 0.82(15) 44 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:41.468457 : 343-small-paper 0.82(15) 46 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:42.562741 : 343-small-paper 0.82(15) 42 	-> 
+2023-01-16 13:15:42.742317 : 343-small-paper 0.82(15) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:44.269108 : 343-small-paper 0.82(15) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:45.125072 : 343-small-paper 0.82(15) 38 	-> 
+2023-01-16 13:15:45.384918 : 343-small-paper 0.82(15) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:49.871427 : 343-small-paper 0.84(16) 2 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:51.158600 : 343-small-paper 0.84(16) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:15:51.832051 : 343-small-paper 0.84(16) 4 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:02.759158 : 343-small-paper 0.84(16) 5 	-> 
+2023-01-16 13:16:03.445935 : 343-small-paper 0.84(16) 1 	-> 
+2023-01-16 13:16:05.846939 : 343-small-paper 0.84(16) 0 	-> 
+2023-01-16 13:16:06.133588 : 343-small-paper 0.84(16) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:09.953273 : 343-small-paper 0.84(16) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:11.121312 : 343-small-paper 0.84(16) 6 	-> 
+2023-01-16 13:16:13.350895 : 343-small-paper 0.84(16) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:15.457221 : 343-small-paper 0.84(16) 8 	-> 
+2023-01-16 13:16:15.881599 : 343-small-paper 0.84(16) 9 	-> 
+2023-01-16 13:16:16.494800 : 343-small-paper 0.84(16) 12 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:17.164990 : 343-small-paper 0.84(16) 13 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:20.245883 : 343-small-paper 0.84(16) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:20.970666 : 343-small-paper 0.84(16) 17 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:22.858953 : 343-small-paper 0.84(16) 14 	-> 
+2023-01-16 13:16:23.697519 : 343-small-paper 0.84(16) 19 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:24.237112 : 343-small-paper 0.84(16) 15 	-> bf
+2023-01-16 13:16:24.741654 : 343-small-paper 0.84(16) 20 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:26.315978 : 343-small-paper 0.84(16) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:27.128221 : 343-small-paper 0.84(16) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:28.656286 : 343-small-paper 0.84(16) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:33.035611 : 343-small-paper 0.84(16) 18 	-> 
+2023-01-16 13:16:33.427082 : 343-small-paper 0.84(16) 21 	-> 
+2023-01-16 13:16:34.135841 : 343-small-paper 0.84(16) 25 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:36.472783 : 343-small-paper 0.84(16) 28 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:37.680181 : 343-small-paper 0.84(16) 29 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:37.896071 : 343-small-paper 0.84(16) 26 	-> 
+2023-01-16 13:16:41.155826 : 343-small-paper 0.84(16) 32 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:42.012932 : 343-small-paper 0.84(16) 31 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:42.422526 : 343-small-paper 0.84(16) 30 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:43.156902 : 343-small-paper 0.84(16) 27 	-> 
+2023-01-16 13:16:44.788517 : 343-small-paper 0.84(16) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:46.643824 : 343-small-paper 0.84(16) 36 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:48.782157 : 343-small-paper 0.84(16) 35 	-> 
+2023-01-16 13:16:49.047802 : 343-small-paper 0.84(16) 37 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:50.445410 : 343-small-paper 0.84(16) 33 	-> 
+2023-01-16 13:16:51.469240 : 343-small-paper 0.84(16) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:16:58.977033 : 343-small-paper 0.84(16) 39 	-> 
+2023-01-16 13:16:59.891534 : 343-small-paper 0.84(16) 38 	-> 
+2023-01-16 13:17:00.395467 : 343-small-paper 0.84(16) 42 	-> 
+2023-01-16 13:17:00.418820 : 343-small-paper 0.84(16) 40 	-> 
+2023-01-16 13:17:02.639934 : 343-small-paper 0.84(16) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:03.048312 : 343-small-paper 0.84(16) 43 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:06.105549 : 343-small-paper 0.84(16) 48 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:06.646254 : 343-small-paper 0.84(16) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:08.474172 : 343-small-paper 0.84(16) 49 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:10.600474 : 343-small-paper 0.84(16) 46 	-> 
+2023-01-16 13:17:36.142855 : 343-small-paper 0.84(16) 44 	-> 
+2023-01-16 13:17:41.647085 : 343-small-paper 0.86(17) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:17:49.699715 : 343-small-paper 0.86(17) 0 	-> 
+2023-01-16 13:17:52.388960 : 343-small-paper 0.86(17) 2 	-> hopa bf gdpa-hopa
+2023-01-16 13:17:56.282950 : 343-small-paper 0.86(17) 1 	-> 
+2023-01-16 13:18:00.011411 : 343-small-paper 0.86(17) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:00.951939 : 343-small-paper 0.86(17) 4 	-> 
+2023-01-16 13:18:05.136833 : 343-small-paper 0.86(17) 5 	-> 
+2023-01-16 13:18:08.973856 : 343-small-paper 0.86(17) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:11.834427 : 343-small-paper 0.86(17) 11 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:15.536691 : 343-small-paper 0.86(17) 9 	-> 
+2023-01-16 13:18:15.892086 : 343-small-paper 0.86(17) 8 	-> 
+2023-01-16 13:18:17.745224 : 343-small-paper 0.86(17) 6 	-> 
+2023-01-16 13:18:18.239486 : 343-small-paper 0.86(17) 13 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:18.377866 : 343-small-paper 0.86(17) 12 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:21.824851 : 343-small-paper 0.86(17) 17 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:22.280694 : 343-small-paper 0.86(17) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:25.055587 : 343-small-paper 0.86(17) 19 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:25.762771 : 343-small-paper 0.86(17) 14 	-> 
+2023-01-16 13:18:26.594615 : 343-small-paper 0.86(17) 20 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:26.666096 : 343-small-paper 0.86(17) 15 	-> 
+2023-01-16 13:18:29.114079 : 343-small-paper 0.86(17) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:29.301715 : 343-small-paper 0.86(17) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:32.143482 : 343-small-paper 0.86(17) 18 	-> 
+2023-01-16 13:18:33.351838 : 343-small-paper 0.86(17) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:36.451345 : 343-small-paper 0.86(17) 25 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:39.035247 : 343-small-paper 0.86(17) 28 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:39.134017 : 343-small-paper 0.86(17) 21 	-> 
+2023-01-16 13:18:42.427176 : 343-small-paper 0.86(17) 30 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:44.053190 : 343-small-paper 0.86(17) 26 	-> 
+2023-01-16 13:18:45.743225 : 343-small-paper 0.86(17) 29 	-> hopa bf gdpa-pd gdpa-hopa
+2023-01-16 13:18:46.215059 : 343-small-paper 0.86(17) 32 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:49.014086 : 343-small-paper 0.86(17) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:50.258426 : 343-small-paper 0.86(17) 27 	-> 
+2023-01-16 13:18:53.475083 : 343-small-paper 0.86(17) 36 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:18:56.084158 : 343-small-paper 0.86(17) 31 	-> 
+2023-01-16 13:18:56.970808 : 343-small-paper 0.86(17) 33 	-> 
+2023-01-16 13:18:57.743976 : 343-small-paper 0.86(17) 37 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:07.543149 : 343-small-paper 0.86(17) 35 	-> 
+2023-01-16 13:19:08.831144 : 343-small-paper 0.86(17) 41 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:09.442952 : 343-small-paper 0.86(17) 39 	-> 
+2023-01-16 13:19:09.921842 : 343-small-paper 0.86(17) 38 	-> 
+2023-01-16 13:19:13.346848 : 343-small-paper 0.86(17) 40 	-> 
+2023-01-16 13:19:14.100923 : 343-small-paper 0.86(17) 43 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:15.155089 : 343-small-paper 0.86(17) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:17.533341 : 343-small-paper 0.86(17) 42 	-> 
+2023-01-16 13:19:17.867703 : 343-small-paper 0.86(17) 47 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:22.163428 : 343-small-paper 0.86(17) 49 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:19:24.193032 : 343-small-paper 0.86(17) 46 	-> 
+2023-01-16 13:19:28.503490 : 343-small-paper 0.86(17) 48 	-> 
+2023-01-16 13:20:22.951145 : 343-small-paper 0.86(17) 44 	-> 
+2023-01-16 13:20:27.195859 : 343-small-paper 0.88(18) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:20:39.953357 : 343-small-paper 0.88(18) 0 	-> 
+2023-01-16 13:20:45.123003 : 343-small-paper 0.88(18) 4 	-> 
+2023-01-16 13:20:51.236435 : 343-small-paper 0.88(18) 2 	-> 
+2023-01-16 13:20:51.963164 : 343-small-paper 0.88(18) 1 	-> 
+2023-01-16 13:20:55.632227 : 343-small-paper 0.88(18) 7 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:20:56.362016 : 343-small-paper 0.88(18) 5 	-> 
+2023-01-16 13:20:59.544630 : 343-small-paper 0.88(18) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:05.479092 : 343-small-paper 0.88(18) 6 	-> 
+2023-01-16 13:21:13.207845 : 343-small-paper 0.88(18) 9 	-> 
+2023-01-16 13:21:13.954752 : 343-small-paper 0.88(18) 12 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:14.107240 : 343-small-paper 0.88(18) 8 	-> 
+2023-01-16 13:21:15.514412 : 343-small-paper 0.88(18) 13 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:20.245818 : 343-small-paper 0.88(18) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:22.285633 : 343-small-paper 0.88(18) 11 	-> 
+2023-01-16 13:21:25.245370 : 343-small-paper 0.88(18) 14 	-> 
+2023-01-16 13:21:26.123420 : 343-small-paper 0.88(18) 15 	-> 
+2023-01-16 13:21:34.486950 : 343-small-paper 0.88(18) 19 	-> bf gdpa-r
+2023-01-16 13:21:36.433391 : 343-small-paper 0.88(18) 20 	-> 
+2023-01-16 13:21:36.435421 : 343-small-paper 0.88(18) 18 	-> 
+2023-01-16 13:21:39.430905 : 343-small-paper 0.88(18) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:40.057261 : 343-small-paper 0.88(18) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:42.640069 : 343-small-paper 0.88(18) 24 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:46.352492 : 343-small-paper 0.88(18) 25 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:49.282568 : 343-small-paper 0.88(18) 21 	-> 
+2023-01-16 13:21:50.269404 : 343-small-paper 0.88(18) 17 	-> 
+2023-01-16 13:21:56.050004 : 343-small-paper 0.88(18) 28 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:57.296032 : 343-small-paper 0.88(18) 29 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:21:57.651325 : 343-small-paper 0.88(18) 26 	-> 
+2023-01-16 13:22:00.546700 : 343-small-paper 0.88(18) 30 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:01.284167 : 343-small-paper 0.88(18) 32 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:04.121328 : 343-small-paper 0.88(18) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:10.838160 : 343-small-paper 0.88(18) 31 	-> 
+2023-01-16 13:22:11.671396 : 343-small-paper 0.88(18) 33 	-> 
+2023-01-16 13:22:14.472360 : 343-small-paper 0.88(18) 36 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:16.812602 : 343-small-paper 0.88(18) 37 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:16.858053 : 343-small-paper 0.88(18) 27 	-> 
+2023-01-16 13:22:26.186338 : 343-small-paper 0.88(18) 35 	-> 
+2023-01-16 13:22:32.552965 : 343-small-paper 0.88(18) 38 	-> 
+2023-01-16 13:22:32.638622 : 343-small-paper 0.88(18) 39 	-> 
+2023-01-16 13:22:35.507603 : 343-small-paper 0.88(18) 40 	-> 
+2023-01-16 13:22:39.764346 : 343-small-paper 0.88(18) 43 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:41.299451 : 343-small-paper 0.88(18) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:22:46.561600 : 343-small-paper 0.88(18) 42 	-> 
+2023-01-16 13:22:51.828757 : 343-small-paper 0.88(18) 41 	-> 
+2023-01-16 13:22:53.443941 : 343-small-paper 0.88(18) 46 	-> 
+2023-01-16 13:22:57.574106 : 343-small-paper 0.88(18) 49 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:23:05.498711 : 343-small-paper 0.88(18) 48 	-> 
+2023-01-16 13:23:16.069288 : 343-small-paper 0.88(18) 47 	-> 
+2023-01-16 13:23:51.826749 : 343-small-paper 0.88(18) 44 	-> 
+2023-01-16 13:23:57.509000 : 343-small-paper 0.90(19) 3 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:24:14.014708 : 343-small-paper 0.90(19) 0 	-> 
+2023-01-16 13:24:16.029171 : 343-small-paper 0.90(19) 1 	-> 
+2023-01-16 13:24:21.005495 : 343-small-paper 0.90(19) 2 	-> 
+2023-01-16 13:24:29.111638 : 343-small-paper 0.90(19) 7 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:24:35.370362 : 343-small-paper 0.90(19) 5 	-> 
+2023-01-16 13:24:35.614993 : 343-small-paper 0.90(19) 4 	-> 
+2023-01-16 13:24:39.723538 : 343-small-paper 0.90(19) 10 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:24:49.466785 : 343-small-paper 0.90(19) 6 	-> 
+2023-01-16 13:24:59.574487 : 343-small-paper 0.90(19) 11 	-> 
+2023-01-16 13:25:01.681656 : 343-small-paper 0.90(19) 9 	-> 
+2023-01-16 13:25:02.099804 : 343-small-paper 0.90(19) 13 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:04.712389 : 343-small-paper 0.90(19) 8 	-> 
+2023-01-16 13:25:05.546803 : 343-small-paper 0.90(19) 12 	-> 
+2023-01-16 13:25:10.507257 : 343-small-paper 0.90(19) 16 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:19.196221 : 343-small-paper 0.90(19) 15 	-> 
+2023-01-16 13:25:19.349420 : 343-small-paper 0.90(19) 14 	-> 
+2023-01-16 13:25:22.036539 : 343-small-paper 0.90(19) 17 	-> 
+2023-01-16 13:25:28.496195 : 343-small-paper 0.90(19) 18 	-> 
+2023-01-16 13:25:30.112042 : 343-small-paper 0.90(19) 19 	-> 
+2023-01-16 13:25:30.647571 : 343-small-paper 0.90(19) 22 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:33.222469 : 343-small-paper 0.90(19) 23 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:35.768076 : 343-small-paper 0.90(19) 24 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:35.976810 : 343-small-paper 0.90(19) 20 	-> 
+2023-01-16 13:25:39.714306 : 343-small-paper 0.90(19) 21 	-> 
+2023-01-16 13:25:40.622174 : 343-small-paper 0.90(19) 25 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:43.836693 : 343-small-paper 0.90(19) 28 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:50.703707 : 343-small-paper 0.90(19) 30 	-> bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:51.662057 : 343-small-paper 0.90(19) 26 	-> 
+2023-01-16 13:25:55.791218 : 343-small-paper 0.90(19) 32 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:25:57.235978 : 343-small-paper 0.90(19) 29 	-> 
+2023-01-16 13:26:00.979935 : 343-small-paper 0.90(19) 34 	-> hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:26:08.299915 : 343-small-paper 0.90(19) 33 	-> 
+2023-01-16 13:26:08.612086 : 343-small-paper 0.90(19) 31 	-> 
+2023-01-16 13:26:16.461165 : 343-small-paper 0.90(19) 27 	-> 
+2023-01-16 13:26:21.073379 : 343-small-paper 0.90(19) 35 	-> 
+2023-01-16 13:26:29.590250 : 343-small-paper 0.90(19) 36 	-> 
+2023-01-16 13:26:42.901845 : 343-small-paper 0.90(19) 37 	-> 
+2023-01-16 13:26:46.505168 : 343-small-paper 0.90(19) 39 	-> 
+2023-01-16 13:26:46.817633 : 343-small-paper 0.90(19) 38 	-> 
+2023-01-16 13:26:57.584711 : 343-small-paper 0.90(19) 40 	-> 
+2023-01-16 13:26:58.913639 : 343-small-paper 0.90(19) 41 	-> 
+2023-01-16 13:27:00.375095 : 343-small-paper 0.90(19) 45 	-> pd hopa bf gdpa-r gdpa-pd gdpa-hopa
+2023-01-16 13:27:10.287949 : 343-small-paper 0.90(19) 43 	-> 
+2023-01-16 13:27:13.834801 : 343-small-paper 0.90(19) 42 	-> 
+2023-01-16 13:27:16.879130 : 343-small-paper 0.90(19) 46 	-> 
+2023-01-16 13:27:28.234702 : 343-small-paper 0.90(19) 47 	-> 
+2023-01-16 13:27:31.929470 : 343-small-paper 0.90(19) 48 	-> 
+2023-01-16 13:27:55.220286 : 343-small-paper 0.90(19) 49 	-> 
+2023-01-16 13:28:20.030054 : 343-small-paper 0.90(19) 44 	-> 
