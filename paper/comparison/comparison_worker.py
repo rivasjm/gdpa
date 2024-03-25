@@ -13,8 +13,6 @@ from functools import partial
 import matplotlib.pyplot as plt
 from mast.mast_wrapper import MastOffsetAnalysis, MastHolisticAnalysis, MastOffsetPrecedenceAnalysis
 import vector.bf_assignment
-from evaluation import brute_force_anomaly
-
 
 # size = (2, 10, 5)  # flows, tasks/flow, processors
 # size = (2, 4, 2)  # flows, tasks/flow, processors
@@ -46,7 +44,7 @@ class GDPAComparison:
     def __init__(self, label, size, assignments, sched_test, population=50,
                  utilization_min=0.5, utilization_max=0.9, utilization_steps=20,
                  deadline_factor_min=0.5, deadline_factor_max=1,
-                 threads=4):
+                 threads=4, save_figs=True):
 
         self.label = label
         self.size = size
@@ -61,6 +59,7 @@ class GDPAComparison:
         self.deadline_factor_min = deadline_factor_min
         self.deadline_factor_max = deadline_factor_max
         self.threads = threads
+        self.save_figs = save_figs
 
         self.start = time.time()
 
@@ -113,7 +112,7 @@ class GDPAComparison:
 
     def save_files(self, values, label, names, utilizations, ylabel="Schedulable systems", show=True):
         self.excel(label, names, utilizations, values)
-        self.chart(label, names, utilizations, values, ylabel=ylabel, save=True, show=show)
+        self.chart(label, names, utilizations, values, ylabel=ylabel, save=self.save_figs, show=show and self.save_figs)
 
     def save_log(self, label, u, utilization, system_name, tools, results):
         res_str = " ".join([t for t, r in zip(tools, results) if r > 0])
@@ -130,6 +129,8 @@ class GDPAComparison:
         print(df)
 
     def chart(self, label, names, utilizations, results, ylabel="Schedulable systems", save=False, show=True):
+        if not save and not show:
+            return
         plt.clf()
         # the export version should be transposed, it is the convention to have the continuous data in the columns
         df = pd.DataFrame(data=np.transpose(results),

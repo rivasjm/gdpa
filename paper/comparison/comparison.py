@@ -29,6 +29,16 @@ def gdpa_params_fine():
     return lrs, deltas, beta1s, beta2s, epsilons, gammas
 
 
+def gdpa_params_study():
+    lrs = [0.1, 3, 5]
+    deltas = [1, 1.5, 2]
+    beta1s = [0.7, 0.9]
+    beta2s = [0.7, 0.999]
+    epsilons = [0.01, 0.1, 0.2]
+    gammas = [0.9, 1.2, 1.5, 3]
+    return lrs, deltas, beta1s, beta2s, epsilons, gammas
+
+
 def get_full_gdpa_name(prefix, lr, delta, beta1=None, beta2=None, epsilon=None, gamma=None):
     ret = f"{prefix}-lr{lr}-d{delta}"
     if beta1:
@@ -132,6 +142,24 @@ def get_assignments(analysis, pd=False, hopa=False, bf=False,
             assigs.append((label, assig))
 
     return assigs
+
+
+def do_gdpa_parameters_small():
+    # size: flows, steps/flow, procs
+    size = (4, 4, 4)  # 16 steps
+
+    # schedulability test to evaluate the final solution
+    sched_test = HolisticAnalyis(limit_factor=1)
+
+    # analysis used to internally evaluate iterations
+    analysis = HolisticAnalyis(reset=False, limit_factor=10)
+
+    # store assignments in a list of name,tool pairs
+    assigs = get_assignments(analysis, hopa=True, gdpa_pd=True, params_getter=gdpa_params_study, full_gdpa_names=True)
+
+    # perform comparison
+    worker = GDPAComparison("parameters-small", size, assigs, sched_test, save_figs=False, threads=4)
+    worker.run()
 
 
 def do_gdpa_optimizers_small():
@@ -309,7 +337,7 @@ if __name__ == '__main__':
 
     # do_gdpa_optimizers_small()
     # do_gdpa_optimizers_medium()
-
+    do_gdpa_parameters_small()
 
     ######################
     # GENERAL COMPARISON #
@@ -317,7 +345,7 @@ if __name__ == '__main__':
 
     # do_small()
     # do_small_gurobi()
-    do_medium()
+    # do_medium()
     # do_big()  # this one takes a few days to complete
 
     ########################
