@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import matplotlib.ticker as ticker
+import openpyxl
 
 extension = "pdf"
 
@@ -230,16 +231,41 @@ def plot_gdpa_evaluation():
     plot_gdpa_offsets()
 
 
+def process_parameters_study():
+    path = "parameters_study.xlsx"
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)  # data_only resolves the formulas
+    sheet = wb["Sheet1"]
+
+    total_row = 22
+    col = 2
+    while True:
+        name = sheet.cell(row=1, column=col).value
+        if not name:
+            break
+        value = sheet.cell(row=total_row, column=col).value
+        print(extract_params(name), value)
+        col += 1
+
+
+def extract_params(name):
+    parts = name.split("-")[2:]
+    # return lr, d, b1, b2, e, g
+    return (float(parts[2].lstrip("b1")), float(parts[3].lstrip("b2")), float(parts[0].lstrip("lr")),
+            float(parts[1].lstrip("d")), float(parts[4].lstrip("e")), float(parts[5].lstrip("g")))
+
+
 def main():
+    process_parameters_study()
+
     #############################
     # VECTORIZED ANALYSIS TIMES #
     #############################
-    plot_vectorized_analysis()
+    # plot_vectorized_analysis()
 
     ###################
     # GDPA EVALUATION #
     ###################
-    plot_gdpa_evaluation()
+    # plot_gdpa_evaluation()
 
 
 if __name__ == '__main__':

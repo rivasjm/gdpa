@@ -10,10 +10,10 @@ from milp.gurobi import GurobiBFAssignment
 
 
 def gdpa_params():
-    lrs = [3]
-    deltas = [1.5]
     beta1s = [0.9]
     beta2s = [0.999]
+    lrs = [3]
+    deltas = [1.5]
     epsilons = [0.1]
     gammas = [1.2]
     return lrs, deltas, beta1s, beta2s, epsilons, gammas
@@ -191,8 +191,7 @@ def do_gdpa_optimizers_medium():
     analysis = HolisticAnalyis(reset=False, limit_factor=10)
 
     # store assignments in a list of name,tool pairs
-    assigs = get_assignments(analysis, hopa=True, gdpa_pd=True, gdpa_adam=True, gdpa_noise=True, gdpa_direct=True,
-                             full_gdpa_names=True, params_getter=gdpa_params_fine)
+    assigs = get_assignments(analysis, hopa=True, gdpa_pd=True, gdpa_adam=True, gdpa_noise=True, gdpa_direct=True)
 
     # perform comparison
     worker = GDPAComparison("optimizers-medium", size, assigs, sched_test)
@@ -335,9 +334,9 @@ if __name__ == '__main__':
     # GDPA OPTIMIZER #
     ##################
 
-    # do_gdpa_optimizers_small()
-    # do_gdpa_optimizers_medium()
-    do_gdpa_parameters_small()
+    do_gdpa_optimizers_small()
+    do_gdpa_optimizers_medium()
+    # do_gdpa_parameters_small()
 
     ######################
     # GENERAL COMPARISON #
