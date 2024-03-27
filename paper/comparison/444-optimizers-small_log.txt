@@ -1,0 +1,1000 @@
+2024-03-26 21:34:08.640021 : 444-optimizers-small 0.50(0) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.654171 : 444-optimizers-small 0.50(0) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.657173 : 444-optimizers-small 0.50(0) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.658173 : 444-optimizers-small 0.50(0) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.669173 : 444-optimizers-small 0.50(0) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.672179 : 444-optimizers-small 0.50(0) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.673175 : 444-optimizers-small 0.50(0) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.675173 : 444-optimizers-small 0.50(0) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.684282 : 444-optimizers-small 0.50(0) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.687282 : 444-optimizers-small 0.50(0) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.689383 : 444-optimizers-small 0.50(0) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.693381 : 444-optimizers-small 0.50(0) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.701381 : 444-optimizers-small 0.50(0) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.707469 : 444-optimizers-small 0.50(0) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.712472 : 444-optimizers-small 0.50(0) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.713470 : 444-optimizers-small 0.50(0) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.721475 : 444-optimizers-small 0.50(0) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.723470 : 444-optimizers-small 0.50(0) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.728467 : 444-optimizers-small 0.50(0) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.740604 : 444-optimizers-small 0.50(0) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.742606 : 444-optimizers-small 0.50(0) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.743605 : 444-optimizers-small 0.50(0) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.748604 : 444-optimizers-small 0.50(0) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.751605 : 444-optimizers-small 0.50(0) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.761937 : 444-optimizers-small 0.50(0) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.767046 : 444-optimizers-small 0.50(0) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.771045 : 444-optimizers-small 0.50(0) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.774031 : 444-optimizers-small 0.50(0) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.782029 : 444-optimizers-small 0.50(0) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.792028 : 444-optimizers-small 0.50(0) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.794027 : 444-optimizers-small 0.50(0) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.796027 : 444-optimizers-small 0.50(0) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.809081 : 444-optimizers-small 0.50(0) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.809081 : 444-optimizers-small 0.50(0) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.810080 : 444-optimizers-small 0.50(0) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.814079 : 444-optimizers-small 0.50(0) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.829172 : 444-optimizers-small 0.50(0) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.831171 : 444-optimizers-small 0.50(0) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.831171 : 444-optimizers-small 0.50(0) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.832170 : 444-optimizers-small 0.50(0) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.846171 : 444-optimizers-small 0.50(0) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.847173 : 444-optimizers-small 0.50(0) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.857167 : 444-optimizers-small 0.50(0) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.860168 : 444-optimizers-small 0.50(0) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.863167 : 444-optimizers-small 0.50(0) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.870168 : 444-optimizers-small 0.50(0) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.874167 : 444-optimizers-small 0.50(0) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.876169 : 444-optimizers-small 0.50(0) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.877168 : 444-optimizers-small 0.50(0) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:08.885243 : 444-optimizers-small 0.50(0) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.335248 : 444-optimizers-small 0.52(1) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.354273 : 444-optimizers-small 0.52(1) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.379273 : 444-optimizers-small 0.52(1) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.399529 : 444-optimizers-small 0.52(1) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.410533 : 444-optimizers-small 0.52(1) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.417528 : 444-optimizers-small 0.52(1) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.420528 : 444-optimizers-small 0.52(1) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.420528 : 444-optimizers-small 0.52(1) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.429600 : 444-optimizers-small 0.52(1) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.437592 : 444-optimizers-small 0.52(1) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.438591 : 444-optimizers-small 0.52(1) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.439593 : 444-optimizers-small 0.52(1) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.448591 : 444-optimizers-small 0.52(1) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.454593 : 444-optimizers-small 0.52(1) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.461723 : 444-optimizers-small 0.52(1) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.467762 : 444-optimizers-small 0.52(1) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.468724 : 444-optimizers-small 0.52(1) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.479856 : 444-optimizers-small 0.52(1) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.483940 : 444-optimizers-small 0.52(1) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.484940 : 444-optimizers-small 0.52(1) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.489937 : 444-optimizers-small 0.52(1) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.500937 : 444-optimizers-small 0.52(1) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.501939 : 444-optimizers-small 0.52(1) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.505935 : 444-optimizers-small 0.52(1) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.511009 : 444-optimizers-small 0.52(1) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.521011 : 444-optimizers-small 0.52(1) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.525074 : 444-optimizers-small 0.52(1) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.530153 : 444-optimizers-small 0.52(1) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.542154 : 444-optimizers-small 0.52(1) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.542154 : 444-optimizers-small 0.52(1) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.549154 : 444-optimizers-small 0.52(1) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.561343 : 444-optimizers-small 0.52(1) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.567433 : 444-optimizers-small 0.52(1) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.574432 : 444-optimizers-small 0.52(1) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.580433 : 444-optimizers-small 0.52(1) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.582460 : 444-optimizers-small 0.52(1) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.597436 : 444-optimizers-small 0.52(1) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.603651 : 444-optimizers-small 0.52(1) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.605706 : 444-optimizers-small 0.52(1) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.616709 : 444-optimizers-small 0.52(1) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.618708 : 444-optimizers-small 0.52(1) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.627771 : 444-optimizers-small 0.52(1) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.633848 : 444-optimizers-small 0.52(1) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.643849 : 444-optimizers-small 0.52(1) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.647846 : 444-optimizers-small 0.52(1) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.648845 : 444-optimizers-small 0.52(1) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.663847 : 444-optimizers-small 0.52(1) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.666861 : 444-optimizers-small 0.52(1) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.670849 : 444-optimizers-small 0.52(1) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:12.671849 : 444-optimizers-small 0.52(1) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.901781 : 444-optimizers-small 0.54(2) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.902873 : 444-optimizers-small 0.54(2) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.922874 : 444-optimizers-small 0.54(2) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.935899 : 444-optimizers-small 0.54(2) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.936876 : 444-optimizers-small 0.54(2) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.938877 : 444-optimizers-small 0.54(2) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.949890 : 444-optimizers-small 0.54(2) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.950965 : 444-optimizers-small 0.54(2) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.954968 : 444-optimizers-small 0.54(2) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.959966 : 444-optimizers-small 0.54(2) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.965099 : 444-optimizers-small 0.54(2) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.967097 : 444-optimizers-small 0.54(2) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.978098 : 444-optimizers-small 0.54(2) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.980097 : 444-optimizers-small 0.54(2) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.987175 : 444-optimizers-small 0.54(2) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.987175 : 444-optimizers-small 0.54(2) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.992224 : 444-optimizers-small 0.54(2) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:14.997223 : 444-optimizers-small 0.54(2) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.001226 : 444-optimizers-small 0.54(2) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.002224 : 444-optimizers-small 0.54(2) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.013225 : 444-optimizers-small 0.54(2) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.017319 : 444-optimizers-small 0.54(2) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.018320 : 444-optimizers-small 0.54(2) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.021413 : 444-optimizers-small 0.54(2) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.026414 : 444-optimizers-small 0.54(2) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.034416 : 444-optimizers-small 0.54(2) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.040530 : 444-optimizers-small 0.54(2) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.043529 : 444-optimizers-small 0.54(2) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.052527 : 444-optimizers-small 0.54(2) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.055532 : 444-optimizers-small 0.54(2) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.060532 : 444-optimizers-small 0.54(2) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.070529 : 444-optimizers-small 0.54(2) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.073528 : 444-optimizers-small 0.54(2) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.076528 : 444-optimizers-small 0.54(2) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.077528 : 444-optimizers-small 0.54(2) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.085528 : 444-optimizers-small 0.54(2) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.092527 : 444-optimizers-small 0.54(2) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.094528 : 444-optimizers-small 0.54(2) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.100621 : 444-optimizers-small 0.54(2) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.101607 : 444-optimizers-small 0.54(2) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.114605 : 444-optimizers-small 0.54(2) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.116603 : 444-optimizers-small 0.54(2) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.119694 : 444-optimizers-small 0.54(2) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.128664 : 444-optimizers-small 0.54(2) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.128664 : 444-optimizers-small 0.54(2) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.131667 : 444-optimizers-small 0.54(2) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.134698 : 444-optimizers-small 0.54(2) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.142666 : 444-optimizers-small 0.54(2) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.142666 : 444-optimizers-small 0.54(2) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:15.145666 : 444-optimizers-small 0.54(2) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.207238 : 444-optimizers-small 0.56(3) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.210240 : 444-optimizers-small 0.56(3) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.221357 : 444-optimizers-small 0.56(3) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.223385 : 444-optimizers-small 0.56(3) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.236358 : 444-optimizers-small 0.56(3) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.241498 : 444-optimizers-small 0.56(3) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.252654 : 444-optimizers-small 0.56(3) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.257654 : 444-optimizers-small 0.56(3) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.265658 : 444-optimizers-small 0.56(3) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.271749 : 444-optimizers-small 0.56(3) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.281748 : 444-optimizers-small 0.56(3) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.286778 : 444-optimizers-small 0.56(3) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.287748 : 444-optimizers-small 0.56(3) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.289869 : 444-optimizers-small 0.56(3) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.304870 : 444-optimizers-small 0.56(3) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.305868 : 444-optimizers-small 0.56(3) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.306868 : 444-optimizers-small 0.56(3) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.307869 : 444-optimizers-small 0.56(3) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.323095 : 444-optimizers-small 0.56(3) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.327162 : 444-optimizers-small 0.56(3) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.328157 : 444-optimizers-small 0.56(3) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.329160 : 444-optimizers-small 0.56(3) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.339159 : 444-optimizers-small 0.56(3) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.349341 : 444-optimizers-small 0.56(3) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.355441 : 444-optimizers-small 0.56(3) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.360472 : 444-optimizers-small 0.56(3) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.374605 : 444-optimizers-small 0.56(3) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.380688 : 444-optimizers-small 0.56(3) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.385695 : 444-optimizers-small 0.56(3) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.391777 : 444-optimizers-small 0.56(3) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.391777 : 444-optimizers-small 0.56(3) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.407899 : 444-optimizers-small 0.56(3) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.410898 : 444-optimizers-small 0.56(3) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.414906 : 444-optimizers-small 0.56(3) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.420946 : 444-optimizers-small 0.56(3) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.424003 : 444-optimizers-small 0.56(3) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.440006 : 444-optimizers-small 0.56(3) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.441005 : 444-optimizers-small 0.56(3) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.442006 : 444-optimizers-small 0.56(3) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.443005 : 444-optimizers-small 0.56(3) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.461005 : 444-optimizers-small 0.56(3) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.462012 : 444-optimizers-small 0.56(3) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.463006 : 444-optimizers-small 0.56(3) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.467003 : 444-optimizers-small 0.56(3) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.476002 : 444-optimizers-small 0.56(3) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.477002 : 444-optimizers-small 0.56(3) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.477002 : 444-optimizers-small 0.56(3) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.483086 : 444-optimizers-small 0.56(3) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.491251 : 444-optimizers-small 0.56(3) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:17.492257 : 444-optimizers-small 0.56(3) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.310070 : 444-optimizers-small 0.58(4) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.313069 : 444-optimizers-small 0.58(4) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.323099 : 444-optimizers-small 0.58(4) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.326071 : 444-optimizers-small 0.58(4) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.337230 : 444-optimizers-small 0.58(4) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.341199 : 444-optimizers-small 0.58(4) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.352199 : 444-optimizers-small 0.58(4) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.362202 : 444-optimizers-small 0.58(4) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.366313 : 444-optimizers-small 0.58(4) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.374345 : 444-optimizers-small 0.58(4) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.389316 : 444-optimizers-small 0.58(4) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.391313 : 444-optimizers-small 0.58(4) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.395396 : 444-optimizers-small 0.58(4) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.397398 : 444-optimizers-small 0.58(4) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.409450 : 444-optimizers-small 0.58(4) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.410452 : 444-optimizers-small 0.58(4) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.412451 : 444-optimizers-small 0.58(4) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.416451 : 444-optimizers-small 0.58(4) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.429449 : 444-optimizers-small 0.58(4) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.429449 : 444-optimizers-small 0.58(4) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.433451 : 444-optimizers-small 0.58(4) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.437450 : 444-optimizers-small 0.58(4) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.444451 : 444-optimizers-small 0.58(4) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.448449 : 444-optimizers-small 0.58(4) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.451451 : 444-optimizers-small 0.58(4) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.465452 : 444-optimizers-small 0.58(4) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.467481 : 444-optimizers-small 0.58(4) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.474530 : 444-optimizers-small 0.58(4) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.481618 : 444-optimizers-small 0.58(4) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.483651 : 444-optimizers-small 0.58(4) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.490651 : 444-optimizers-small 0.58(4) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.505619 : 444-optimizers-small 0.58(4) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.506648 : 444-optimizers-small 0.58(4) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.516620 : 444-optimizers-small 0.58(4) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.517618 : 444-optimizers-small 0.58(4) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.519621 : 444-optimizers-small 0.58(4) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.526648 : 444-optimizers-small 0.58(4) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.534617 : 444-optimizers-small 0.58(4) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.537652 : 444-optimizers-small 0.58(4) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.540620 : 444-optimizers-small 0.58(4) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.548620 : 444-optimizers-small 0.58(4) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.551648 : 444-optimizers-small 0.58(4) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.555620 : 444-optimizers-small 0.58(4) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.561648 : 444-optimizers-small 0.58(4) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.562619 : 444-optimizers-small 0.58(4) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.569618 : 444-optimizers-small 0.58(4) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.570648 : 444-optimizers-small 0.58(4) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.575799 : 444-optimizers-small 0.58(4) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.583796 : 444-optimizers-small 0.58(4) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:19.592797 : 444-optimizers-small 0.58(4) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.363378 : 444-optimizers-small 0.61(5) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.370467 : 444-optimizers-small 0.61(5) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.384468 : 444-optimizers-small 0.61(5) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.384468 : 444-optimizers-small 0.61(5) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.397466 : 444-optimizers-small 0.61(5) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.399466 : 444-optimizers-small 0.61(5) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.411466 : 444-optimizers-small 0.61(5) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.424471 : 444-optimizers-small 0.61(5) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.428466 : 444-optimizers-small 0.61(5) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.437466 : 444-optimizers-small 0.61(5) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.457468 : 444-optimizers-small 0.61(5) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.468466 : 444-optimizers-small 0.61(5) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.473466 : 444-optimizers-small 0.61(5) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.479466 : 444-optimizers-small 0.61(5) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.492466 : 444-optimizers-small 0.61(5) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.493466 : 444-optimizers-small 0.61(5) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.501466 : 444-optimizers-small 0.61(5) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.510526 : 444-optimizers-small 0.61(5) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.512526 : 444-optimizers-small 0.61(5) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.523526 : 444-optimizers-small 0.61(5) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.527526 : 444-optimizers-small 0.61(5) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.532526 : 444-optimizers-small 0.61(5) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.538526 : 444-optimizers-small 0.61(5) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.541526 : 444-optimizers-small 0.61(5) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.560703 : 444-optimizers-small 0.61(5) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.560703 : 444-optimizers-small 0.61(5) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.585705 : 444-optimizers-small 0.61(5) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.587705 : 444-optimizers-small 0.61(5) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.597706 : 444-optimizers-small 0.61(5) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.599705 : 444-optimizers-small 0.61(5) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.624807 : 444-optimizers-small 0.61(5) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.625805 : 444-optimizers-small 0.61(5) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.625805 : 444-optimizers-small 0.61(5) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.638806 : 444-optimizers-small 0.61(5) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.649805 : 444-optimizers-small 0.61(5) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.650836 : 444-optimizers-small 0.61(5) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.662886 : 444-optimizers-small 0.61(5) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.669999 : 444-optimizers-small 0.61(5) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.673968 : 444-optimizers-small 0.61(5) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.683971 : 444-optimizers-small 0.61(5) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.691079 : 444-optimizers-small 0.61(5) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.693050 : 444-optimizers-small 0.61(5) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.706139 : 444-optimizers-small 0.61(5) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.708139 : 444-optimizers-small 0.61(5) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.713110 : 444-optimizers-small 0.61(5) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.727110 : 444-optimizers-small 0.61(5) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.728110 : 444-optimizers-small 0.61(5) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.742139 : 444-optimizers-small 0.61(5) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.747110 : 444-optimizers-small 0.61(5) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:21.809140 : 444-optimizers-small 0.61(5) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.644196 : 444-optimizers-small 0.63(6) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.649166 : 444-optimizers-small 0.63(6) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.658168 : 444-optimizers-small 0.63(6) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.663195 : 444-optimizers-small 0.63(6) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.678247 : 444-optimizers-small 0.63(6) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.678247 : 444-optimizers-small 0.63(6) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.692248 : 444-optimizers-small 0.63(6) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.699271 : 444-optimizers-small 0.63(6) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.710246 : 444-optimizers-small 0.63(6) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.720248 : 444-optimizers-small 0.63(6) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.744247 : 444-optimizers-small 0.63(6) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.766341 : 444-optimizers-small 0.63(6) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.773342 : 444-optimizers-small 0.63(6) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.785340 : 444-optimizers-small 0.63(6) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.786351 : 444-optimizers-small 0.63(6) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.800342 : 444-optimizers-small 0.63(6) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.807342 : 444-optimizers-small 0.63(6) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.808340 : 444-optimizers-small 0.63(6) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.808340 : 444-optimizers-small 0.63(6) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.819424 : 444-optimizers-small 0.63(6) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.828426 : 444-optimizers-small 0.63(6) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.829425 : 444-optimizers-small 0.63(6) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.832426 : 444-optimizers-small 0.63(6) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.842426 : 444-optimizers-small 0.63(6) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.844423 : 444-optimizers-small 0.63(6) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.866430 : 444-optimizers-small 0.63(6) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.866430 : 444-optimizers-small 0.63(6) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.880472 : 444-optimizers-small 0.63(6) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.891497 : 444-optimizers-small 0.63(6) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.908503 : 444-optimizers-small 0.63(6) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.918502 : 444-optimizers-small 0.63(6) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.936590 : 444-optimizers-small 0.63(6) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.944618 : 444-optimizers-small 0.63(6) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.945589 : 444-optimizers-small 0.63(6) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.954830 : 444-optimizers-small 0.63(6) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.971923 : 444-optimizers-small 0.63(6) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.972923 : 444-optimizers-small 0.63(6) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.978924 : 444-optimizers-small 0.63(6) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.987925 : 444-optimizers-small 0.63(6) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:23.994926 : 444-optimizers-small 0.63(6) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.000045 : 444-optimizers-small 0.63(6) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.003047 : 444-optimizers-small 0.63(6) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.012077 : 444-optimizers-small 0.63(6) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.017047 : 444-optimizers-small 0.63(6) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.020053 : 444-optimizers-small 0.63(6) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.022156 : 444-optimizers-small 0.63(6) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.034185 : 444-optimizers-small 0.63(6) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.040185 : 444-optimizers-small 0.63(6) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.041185 : 444-optimizers-small 0.63(6) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:24.042154 : 444-optimizers-small 0.63(6) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.856555 : 444-optimizers-small 0.65(7) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.857553 : 444-optimizers-small 0.65(7) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.869687 : 444-optimizers-small 0.65(7) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.871668 : 444-optimizers-small 0.65(7) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.886667 : 444-optimizers-small 0.65(7) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.889664 : 444-optimizers-small 0.65(7) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.905668 : 444-optimizers-small 0.65(7) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.910697 : 444-optimizers-small 0.65(7) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.922667 : 444-optimizers-small 0.65(7) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.931667 : 444-optimizers-small 0.65(7) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.950665 : 444-optimizers-small 0.65(7) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.973893 : 444-optimizers-small 0.65(7) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.978981 : 444-optimizers-small 0.65(7) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.986951 : 444-optimizers-small 0.65(7) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:25.998949 : 444-optimizers-small 0.65(7) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.011946 : 444-optimizers-small 0.65(7) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.012946 : 444-optimizers-small 0.65(7) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.013948 : 444-optimizers-small 0.65(7) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.029013 : 444-optimizers-small 0.65(7) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.035012 : 444-optimizers-small 0.65(7) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.036012 : 444-optimizers-small 0.65(7) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.048013 : 444-optimizers-small 0.65(7) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.049012 : 444-optimizers-small 0.65(7) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.057012 : 444-optimizers-small 0.65(7) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.062070 : 444-optimizers-small 0.65(7) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.089069 : 444-optimizers-small 0.65(7) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.089069 : 444-optimizers-small 0.65(7) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.105151 : 444-optimizers-small 0.65(7) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.117151 : 444-optimizers-small 0.65(7) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.131150 : 444-optimizers-small 0.65(7) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.144248 : 444-optimizers-small 0.65(7) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.168249 : 444-optimizers-small 0.65(7) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.186249 : 444-optimizers-small 0.65(7) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.193347 : 444-optimizers-small 0.65(7) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.214476 : 444-optimizers-small 0.65(7) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.217476 : 444-optimizers-small 0.65(7) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.231477 : 444-optimizers-small 0.65(7) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.233477 : 444-optimizers-small 0.65(7) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.237477 : 444-optimizers-small 0.65(7) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.255477 : 444-optimizers-small 0.65(7) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.258478 : 444-optimizers-small 0.65(7) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.258478 : 444-optimizers-small 0.65(7) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.279826 : 444-optimizers-small 0.65(7) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.280826 : 444-optimizers-small 0.65(7) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.281878 : 444-optimizers-small 0.65(7) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.302883 : 444-optimizers-small 0.65(7) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.304882 : 444-optimizers-small 0.65(7) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.305910 : 444-optimizers-small 0.65(7) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.310913 : 444-optimizers-small 0.65(7) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:26.321913 : 444-optimizers-small 0.65(7) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.094304 : 444-optimizers-small 0.67(8) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.100395 : 444-optimizers-small 0.67(8) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.107395 : 444-optimizers-small 0.67(8) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.115395 : 444-optimizers-small 0.67(8) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.126474 : 444-optimizers-small 0.67(8) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.131568 : 444-optimizers-small 0.67(8) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.145569 : 444-optimizers-small 0.67(8) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.147568 : 444-optimizers-small 0.67(8) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.164568 : 444-optimizers-small 0.67(8) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.170669 : 444-optimizers-small 0.67(8) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.191670 : 444-optimizers-small 0.67(8) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.213827 : 444-optimizers-small 0.67(8) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.242926 : 444-optimizers-small 0.67(8) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.264130 : 444-optimizers-small 0.67(8) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.291212 : 444-optimizers-small 0.67(8) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.305398 : 444-optimizers-small 0.67(8) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.320485 : 444-optimizers-small 0.67(8) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.325485 : 444-optimizers-small 0.67(8) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.342485 : 444-optimizers-small 0.67(8) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.354567 : 444-optimizers-small 0.67(8) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.359667 : 444-optimizers-small 0.67(8) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.373667 : 444-optimizers-small 0.67(8) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.378667 : 444-optimizers-small 0.67(8) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.453799 : 444-optimizers-small 0.67(8) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.472799 : 444-optimizers-small 0.67(8) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.481798 : 444-optimizers-small 0.67(8) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.496798 : 444-optimizers-small 0.67(8) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.516798 : 444-optimizers-small 0.67(8) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.517803 : 444-optimizers-small 0.67(8) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.544798 : 444-optimizers-small 0.67(8) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.578830 : 444-optimizers-small 0.67(8) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.611799 : 444-optimizers-small 0.67(8) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.631918 : 444-optimizers-small 0.67(8) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.660916 : 444-optimizers-small 0.67(8) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.661916 : 444-optimizers-small 0.67(8) 0 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.687918 : 444-optimizers-small 0.67(8) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.694916 : 444-optimizers-small 0.67(8) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.711915 : 444-optimizers-small 0.67(8) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.713916 : 444-optimizers-small 0.67(8) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.714917 : 444-optimizers-small 0.67(8) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.735104 : 444-optimizers-small 0.67(8) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.744133 : 444-optimizers-small 0.67(8) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.751115 : 444-optimizers-small 0.67(8) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.772132 : 444-optimizers-small 0.67(8) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.774133 : 444-optimizers-small 0.67(8) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.795132 : 444-optimizers-small 0.67(8) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.796106 : 444-optimizers-small 0.67(8) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.815126 : 444-optimizers-small 0.67(8) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.840841 : 444-optimizers-small 0.67(8) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:28.850990 : 444-optimizers-small 0.67(8) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.646062 : 444-optimizers-small 0.69(9) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.661031 : 444-optimizers-small 0.69(9) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.679066 : 444-optimizers-small 0.69(9) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.699032 : 444-optimizers-small 0.69(9) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.715033 : 444-optimizers-small 0.69(9) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.738150 : 444-optimizers-small 0.69(9) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.755147 : 444-optimizers-small 0.69(9) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.773178 : 444-optimizers-small 0.69(9) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.795148 : 444-optimizers-small 0.69(9) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.861264 : 444-optimizers-small 0.69(9) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.916266 : 444-optimizers-small 0.69(9) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.925266 : 444-optimizers-small 0.69(9) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.946488 : 444-optimizers-small 0.69(9) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.964600 : 444-optimizers-small 0.69(9) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:30.992615 : 444-optimizers-small 0.69(9) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.006601 : 444-optimizers-small 0.69(9) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.018602 : 444-optimizers-small 0.69(9) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.022604 : 444-optimizers-small 0.69(9) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.034631 : 444-optimizers-small 0.69(9) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.045604 : 444-optimizers-small 0.69(9) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.050631 : 444-optimizers-small 0.69(9) 16 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.060604 : 444-optimizers-small 0.69(9) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.064631 : 444-optimizers-small 0.69(9) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.074738 : 444-optimizers-small 0.69(9) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.117707 : 444-optimizers-small 0.69(9) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.209194 : 444-optimizers-small 0.69(9) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.252291 : 444-optimizers-small 0.69(9) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.269308 : 444-optimizers-small 0.69(9) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.280275 : 444-optimizers-small 0.69(9) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.310592 : 444-optimizers-small 0.69(9) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.562900 : 444-optimizers-small 0.69(9) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.583013 : 444-optimizers-small 0.69(9) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.599014 : 444-optimizers-small 0.69(9) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.601015 : 444-optimizers-small 0.69(9) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.623042 : 444-optimizers-small 0.69(9) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.631015 : 444-optimizers-small 0.69(9) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.656337 : 444-optimizers-small 0.69(9) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.696309 : 444-optimizers-small 0.69(9) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.728310 : 444-optimizers-small 0.69(9) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.749307 : 444-optimizers-small 0.69(9) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.808310 : 444-optimizers-small 0.69(9) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.829310 : 444-optimizers-small 0.69(9) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.857312 : 444-optimizers-small 0.69(9) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.864426 : 444-optimizers-small 0.69(9) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.872398 : 444-optimizers-small 0.69(9) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.881397 : 444-optimizers-small 0.69(9) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.893394 : 444-optimizers-small 0.69(9) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.901425 : 444-optimizers-small 0.69(9) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:31.902396 : 444-optimizers-small 0.69(9) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:37.760886 : 444-optimizers-small 0.69(9) 0 	-> 
+2024-03-26 21:34:39.541018 : 444-optimizers-small 0.71(10) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.557016 : 444-optimizers-small 0.71(10) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.574017 : 444-optimizers-small 0.71(10) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.596017 : 444-optimizers-small 0.71(10) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.599016 : 444-optimizers-small 0.71(10) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.610016 : 444-optimizers-small 0.71(10) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.626016 : 444-optimizers-small 0.71(10) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.638141 : 444-optimizers-small 0.71(10) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.644140 : 444-optimizers-small 0.71(10) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.660141 : 444-optimizers-small 0.71(10) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.713260 : 444-optimizers-small 0.71(10) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.726258 : 444-optimizers-small 0.71(10) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.760343 : 444-optimizers-small 0.71(10) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.824683 : 444-optimizers-small 0.71(10) 14 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.851793 : 444-optimizers-small 0.71(10) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.869793 : 444-optimizers-small 0.71(10) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.885765 : 444-optimizers-small 0.71(10) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.910766 : 444-optimizers-small 0.71(10) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.931794 : 444-optimizers-small 0.71(10) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.943878 : 444-optimizers-small 0.71(10) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.956046 : 444-optimizers-small 0.71(10) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:39.970050 : 444-optimizers-small 0.71(10) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.132049 : 444-optimizers-small 0.71(10) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.178258 : 444-optimizers-small 0.71(10) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.220564 : 444-optimizers-small 0.71(10) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.349659 : 444-optimizers-small 0.71(10) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.573866 : 444-optimizers-small 0.71(10) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.591998 : 444-optimizers-small 0.71(10) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.735028 : 444-optimizers-small 0.71(10) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.771997 : 444-optimizers-small 0.71(10) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.953998 : 444-optimizers-small 0.71(10) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:40.987078 : 444-optimizers-small 0.71(10) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.007160 : 444-optimizers-small 0.71(10) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.061815 : 444-optimizers-small 0.71(10) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.090915 : 444-optimizers-small 0.71(10) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.201802 : 444-optimizers-small 0.71(10) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.222902 : 444-optimizers-small 0.71(10) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.226903 : 444-optimizers-small 0.71(10) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.446991 : 444-optimizers-small 0.71(10) 41 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.468105 : 444-optimizers-small 0.71(10) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.607196 : 444-optimizers-small 0.71(10) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.631196 : 444-optimizers-small 0.71(10) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.654201 : 444-optimizers-small 0.71(10) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.672195 : 444-optimizers-small 0.71(10) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.709435 : 444-optimizers-small 0.71(10) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.731559 : 444-optimizers-small 0.71(10) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.739640 : 444-optimizers-small 0.71(10) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:41.754611 : 444-optimizers-small 0.71(10) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:42.024061 : 444-optimizers-small 0.71(10) 16 	-> gdpa-pd gdpa-noise gdpa-direct
+2024-03-26 21:34:45.048866 : 444-optimizers-small 0.71(10) 0 	-> 
+2024-03-26 21:34:46.804122 : 444-optimizers-small 0.73(11) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.822208 : 444-optimizers-small 0.73(11) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.848207 : 444-optimizers-small 0.73(11) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.872206 : 444-optimizers-small 0.73(11) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.887207 : 444-optimizers-small 0.73(11) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.892297 : 444-optimizers-small 0.73(11) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.915389 : 444-optimizers-small 0.73(11) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.916389 : 444-optimizers-small 0.73(11) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.934438 : 444-optimizers-small 0.73(11) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:46.940440 : 444-optimizers-small 0.73(11) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.102519 : 444-optimizers-small 0.73(11) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.241513 : 444-optimizers-small 0.73(11) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.275560 : 444-optimizers-small 0.73(11) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.415174 : 444-optimizers-small 0.73(11) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.574676 : 444-optimizers-small 0.73(11) 14 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.590675 : 444-optimizers-small 0.73(11) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.607676 : 444-optimizers-small 0.73(11) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.635007 : 444-optimizers-small 0.73(11) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.668039 : 444-optimizers-small 0.73(11) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.697011 : 444-optimizers-small 0.73(11) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.846372 : 444-optimizers-small 0.73(11) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.860425 : 444-optimizers-small 0.73(11) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:47.896426 : 444-optimizers-small 0.73(11) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.060367 : 444-optimizers-small 0.73(11) 26 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.095370 : 444-optimizers-small 0.73(11) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.215888 : 444-optimizers-small 0.73(11) 25 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.320980 : 444-optimizers-small 0.73(11) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.338981 : 444-optimizers-small 0.73(11) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.682113 : 444-optimizers-small 0.73(11) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.719115 : 444-optimizers-small 0.73(11) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:48.941116 : 444-optimizers-small 0.73(11) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.119117 : 444-optimizers-small 0.73(11) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.140145 : 444-optimizers-small 0.73(11) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.271175 : 444-optimizers-small 0.73(11) 36 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.384360 : 444-optimizers-small 0.73(11) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.597133 : 444-optimizers-small 0.73(11) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:49.623208 : 444-optimizers-small 0.73(11) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.070794 : 444-optimizers-small 0.73(11) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.908716 : 444-optimizers-small 0.73(11) 41 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.908716 : 444-optimizers-small 0.73(11) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.909797 : 444-optimizers-small 0.73(11) 16 	-> gdpa-pd gdpa-adam
+2024-03-26 21:34:51.909797 : 444-optimizers-small 0.73(11) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.910799 : 444-optimizers-small 0.73(11) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.913799 : 444-optimizers-small 0.73(11) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.954799 : 444-optimizers-small 0.73(11) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:51.976799 : 444-optimizers-small 0.73(11) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:52.005799 : 444-optimizers-small 0.73(11) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:52.240080 : 444-optimizers-small 0.73(11) 43 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:53.657577 : 444-optimizers-small 0.73(11) 0 	-> 
+2024-03-26 21:34:57.103292 : 444-optimizers-small 0.73(11) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:34:58.877126 : 444-optimizers-small 0.75(12) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.901158 : 444-optimizers-small 0.75(12) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.924126 : 444-optimizers-small 0.75(12) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.944305 : 444-optimizers-small 0.75(12) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.963343 : 444-optimizers-small 0.75(12) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.965341 : 444-optimizers-small 0.75(12) 1 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:58.994493 : 444-optimizers-small 0.75(12) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.017465 : 444-optimizers-small 0.75(12) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.027494 : 444-optimizers-small 0.75(12) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.040463 : 444-optimizers-small 0.75(12) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.737911 : 444-optimizers-small 0.75(12) 12 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.747910 : 444-optimizers-small 0.75(12) 13 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:34:59.795913 : 444-optimizers-small 0.75(12) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.314582 : 444-optimizers-small 0.75(12) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.527727 : 444-optimizers-small 0.75(12) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.564710 : 444-optimizers-small 0.75(12) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.580710 : 444-optimizers-small 0.75(12) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.687786 : 444-optimizers-small 0.75(12) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.725818 : 444-optimizers-small 0.75(12) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:00.754878 : 444-optimizers-small 0.75(12) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:01.246375 : 444-optimizers-small 0.75(12) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:01.260431 : 444-optimizers-small 0.75(12) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:05.309114 : 444-optimizers-small 0.75(12) 14 	-> gdpa-noise
+2024-03-26 21:35:06.051612 : 444-optimizers-small 0.75(12) 26 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:06.084664 : 444-optimizers-small 0.75(12) 0 	-> 
+2024-03-26 21:35:06.089663 : 444-optimizers-small 0.75(12) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:06.326401 : 444-optimizers-small 0.75(12) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:06.467532 : 444-optimizers-small 0.75(12) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:07.648292 : 444-optimizers-small 0.75(12) 16 	-> 
+2024-03-26 21:35:07.678404 : 444-optimizers-small 0.75(12) 32 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:07.707615 : 444-optimizers-small 0.75(12) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:07.926458 : 444-optimizers-small 0.75(12) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:07.947587 : 444-optimizers-small 0.75(12) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:07.961585 : 444-optimizers-small 0.75(12) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.135585 : 444-optimizers-small 0.75(12) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.301081 : 444-optimizers-small 0.75(12) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.326169 : 444-optimizers-small 0.75(12) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.363165 : 444-optimizers-small 0.75(12) 29 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:35:08.485533 : 444-optimizers-small 0.75(12) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.505536 : 444-optimizers-small 0.75(12) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.617535 : 444-optimizers-small 0.75(12) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.636535 : 444-optimizers-small 0.75(12) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.666536 : 444-optimizers-small 0.75(12) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.766629 : 444-optimizers-small 0.75(12) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:08.802900 : 444-optimizers-small 0.75(12) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:09.096476 : 444-optimizers-small 0.75(12) 41 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:09.100475 : 444-optimizers-small 0.75(12) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:09.124509 : 444-optimizers-small 0.75(12) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:09.634459 : 444-optimizers-small 0.75(12) 43 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:10.494422 : 444-optimizers-small 0.75(12) 25 	-> hopa gdpa-pd gdpa-adam
+2024-03-26 21:35:12.281434 : 444-optimizers-small 0.77(13) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.305560 : 444-optimizers-small 0.77(13) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.328560 : 444-optimizers-small 0.77(13) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.348717 : 444-optimizers-small 0.77(13) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.367880 : 444-optimizers-small 0.77(13) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.442879 : 444-optimizers-small 0.77(13) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.475960 : 444-optimizers-small 0.77(13) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.498056 : 444-optimizers-small 0.77(13) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.518057 : 444-optimizers-small 0.77(13) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.704408 : 444-optimizers-small 0.77(13) 1 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:12.956233 : 444-optimizers-small 0.77(13) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:14.094088 : 444-optimizers-small 0.77(13) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:14.144318 : 444-optimizers-small 0.77(13) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:18.395240 : 444-optimizers-small 0.77(13) 12 	-> gdpa-pd gdpa-adam
+2024-03-26 21:35:18.846210 : 444-optimizers-small 0.77(13) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:19.143943 : 444-optimizers-small 0.77(13) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:19.160035 : 444-optimizers-small 0.77(13) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:19.298065 : 444-optimizers-small 0.77(13) 20 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:19.563405 : 444-optimizers-small 0.77(13) 0 	-> 
+2024-03-26 21:35:19.591508 : 444-optimizers-small 0.77(13) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:20.143731 : 444-optimizers-small 0.77(13) 21 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:20.157881 : 444-optimizers-small 0.77(13) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:20.746872 : 444-optimizers-small 0.77(13) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:22.680846 : 444-optimizers-small 0.77(13) 14 	-> 
+2024-03-26 21:35:22.724847 : 444-optimizers-small 0.77(13) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:23.010803 : 444-optimizers-small 0.77(13) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:23.431520 : 444-optimizers-small 0.77(13) 16 	-> 
+2024-03-26 21:35:23.544900 : 444-optimizers-small 0.77(13) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:24.335284 : 444-optimizers-small 0.77(13) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:25.115607 : 444-optimizers-small 0.77(13) 32 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:25.770647 : 444-optimizers-small 0.77(13) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.072409 : 444-optimizers-small 0.77(13) 25 	-> hopa gdpa-pd gdpa-adam
+2024-03-26 21:35:26.095409 : 444-optimizers-small 0.77(13) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.099442 : 444-optimizers-small 0.77(13) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.377366 : 444-optimizers-small 0.77(13) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.782486 : 444-optimizers-small 0.77(13) 38 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.811596 : 444-optimizers-small 0.77(13) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:26.845597 : 444-optimizers-small 0.77(13) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:27.126147 : 444-optimizers-small 0.77(13) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:27.144211 : 444-optimizers-small 0.77(13) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:27.880437 : 444-optimizers-small 0.77(13) 41 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:27.898582 : 444-optimizers-small 0.77(13) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:27.934552 : 444-optimizers-small 0.77(13) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:28.084122 : 444-optimizers-small 0.77(13) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:28.123214 : 444-optimizers-small 0.77(13) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:28.348247 : 444-optimizers-small 0.77(13) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:28.556771 : 444-optimizers-small 0.77(13) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:29.697251 : 444-optimizers-small 0.77(13) 43 	-> gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:29.817595 : 444-optimizers-small 0.77(13) 29 	-> 
+2024-03-26 21:35:30.659911 : 444-optimizers-small 0.77(13) 26 	-> 
+2024-03-26 21:35:32.428246 : 444-optimizers-small 0.79(14) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.455247 : 444-optimizers-small 0.79(14) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.477247 : 444-optimizers-small 0.79(14) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.501327 : 444-optimizers-small 0.79(14) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.523422 : 444-optimizers-small 0.79(14) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.635425 : 444-optimizers-small 0.79(14) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.661425 : 444-optimizers-small 0.79(14) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.694453 : 444-optimizers-small 0.79(14) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.716424 : 444-optimizers-small 0.79(14) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:32.971872 : 444-optimizers-small 0.79(14) 1 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:33.316541 : 444-optimizers-small 0.79(14) 13 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:33.908931 : 444-optimizers-small 0.79(14) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:33.953080 : 444-optimizers-small 0.79(14) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:41.476356 : 444-optimizers-small 0.79(14) 0 	-> 
+2024-03-26 21:35:42.100529 : 444-optimizers-small 0.79(14) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:42.925680 : 444-optimizers-small 0.79(14) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:42.955794 : 444-optimizers-small 0.79(14) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:43.407051 : 444-optimizers-small 0.79(14) 12 	-> gdpa-pd gdpa-adam
+2024-03-26 21:35:44.536547 : 444-optimizers-small 0.79(14) 20 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:44.567675 : 444-optimizers-small 0.79(14) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:44.697253 : 444-optimizers-small 0.79(14) 14 	-> 
+2024-03-26 21:35:44.711309 : 444-optimizers-small 0.79(14) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:46.373426 : 444-optimizers-small 0.79(14) 16 	-> 
+2024-03-26 21:35:46.907627 : 444-optimizers-small 0.79(14) 21 	-> gdpa-noise gdpa-direct
+2024-03-26 21:35:48.205101 : 444-optimizers-small 0.79(14) 27 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:48.657078 : 444-optimizers-small 0.79(14) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:58.532305 : 444-optimizers-small 0.79(14) 29 	-> 
+2024-03-26 21:35:58.703516 : 444-optimizers-small 0.79(14) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:35:59.139131 : 444-optimizers-small 0.79(14) 25 	-> 
+2024-03-26 21:35:59.955917 : 444-optimizers-small 0.79(14) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:00.055500 : 444-optimizers-small 0.79(14) 26 	-> 
+2024-03-26 21:36:00.587674 : 444-optimizers-small 0.79(14) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:00.620822 : 444-optimizers-small 0.79(14) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:00.773531 : 444-optimizers-small 0.79(14) 32 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:01.058046 : 444-optimizers-small 0.79(14) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:01.268158 : 444-optimizers-small 0.79(14) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:01.588261 : 444-optimizers-small 0.79(14) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.577847 : 444-optimizers-small 0.79(14) 40 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.771776 : 444-optimizers-small 0.79(14) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.805874 : 444-optimizers-small 0.79(14) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.852270 : 444-optimizers-small 0.79(14) 38 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.878358 : 444-optimizers-small 0.79(14) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:02.920359 : 444-optimizers-small 0.79(14) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:03.133012 : 444-optimizers-small 0.79(14) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:03.536169 : 444-optimizers-small 0.79(14) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:04.259285 : 444-optimizers-small 0.79(14) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:04.640322 : 444-optimizers-small 0.79(14) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:07.276483 : 444-optimizers-small 0.79(14) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:36:07.442704 : 444-optimizers-small 0.79(14) 41 	-> gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:36:13.056126 : 444-optimizers-small 0.79(14) 43 	-> 
+2024-03-26 21:36:14.850865 : 444-optimizers-small 0.82(15) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:14.877004 : 444-optimizers-small 0.82(15) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:14.900004 : 444-optimizers-small 0.82(15) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:14.922973 : 444-optimizers-small 0.82(15) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:14.945976 : 444-optimizers-small 0.82(15) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:15.116090 : 444-optimizers-small 0.82(15) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:15.215208 : 444-optimizers-small 0.82(15) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:15.241209 : 444-optimizers-small 0.82(15) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:15.263209 : 444-optimizers-small 0.82(15) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:16.161745 : 444-optimizers-small 0.82(15) 1 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:19.385884 : 444-optimizers-small 0.82(15) 3 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:25.046141 : 444-optimizers-small 0.82(15) 13 	-> 
+2024-03-26 21:36:25.099228 : 444-optimizers-small 0.82(15) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:28.180486 : 444-optimizers-small 0.82(15) 0 	-> 
+2024-03-26 21:36:28.865523 : 444-optimizers-small 0.82(15) 12 	-> 
+2024-03-26 21:36:29.111543 : 444-optimizers-small 0.82(15) 17 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:29.139649 : 444-optimizers-small 0.82(15) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:30.241924 : 444-optimizers-small 0.82(15) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:36.520117 : 444-optimizers-small 0.82(15) 21 	-> hopa gdpa-noise
+2024-03-26 21:36:36.763635 : 444-optimizers-small 0.82(15) 22 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:40.261787 : 444-optimizers-small 0.82(15) 16 	-> 
+2024-03-26 21:36:40.276921 : 444-optimizers-small 0.82(15) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:41.554140 : 444-optimizers-small 0.82(15) 14 	-> 
+2024-03-26 21:36:42.119268 : 444-optimizers-small 0.82(15) 20 	-> gdpa-adam gdpa-noise
+2024-03-26 21:36:43.092386 : 444-optimizers-small 0.82(15) 23 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:36:43.795985 : 444-optimizers-small 0.82(15) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:53.051165 : 444-optimizers-small 0.82(15) 29 	-> 
+2024-03-26 21:36:53.286633 : 444-optimizers-small 0.82(15) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:55.958524 : 444-optimizers-small 0.82(15) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:57.034062 : 444-optimizers-small 0.82(15) 26 	-> 
+2024-03-26 21:36:58.165568 : 444-optimizers-small 0.82(15) 33 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:59.086941 : 444-optimizers-small 0.82(15) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:36:59.124076 : 444-optimizers-small 0.82(15) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:00.079611 : 444-optimizers-small 0.82(15) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:01.616377 : 444-optimizers-small 0.82(15) 32 	-> gdpa-pd gdpa-noise gdpa-direct
+2024-03-26 21:37:01.728506 : 444-optimizers-small 0.82(15) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:02.032382 : 444-optimizers-small 0.82(15) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:02.407310 : 444-optimizers-small 0.82(15) 27 	-> gdpa-pd gdpa-adam
+2024-03-26 21:37:03.370502 : 444-optimizers-small 0.82(15) 40 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:03.398605 : 444-optimizers-small 0.82(15) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:03.567607 : 444-optimizers-small 0.82(15) 38 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:03.595607 : 444-optimizers-small 0.82(15) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:03.638798 : 444-optimizers-small 0.82(15) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:04.389298 : 444-optimizers-small 0.82(15) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:05.134869 : 444-optimizers-small 0.82(15) 47 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:05.253830 : 444-optimizers-small 0.82(15) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:05.792275 : 444-optimizers-small 0.82(15) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:07.457653 : 444-optimizers-small 0.82(15) 25 	-> 
+2024-03-26 21:37:16.570885 : 444-optimizers-small 0.82(15) 43 	-> 
+2024-03-26 21:37:31.948998 : 444-optimizers-small 0.82(15) 41 	-> 
+2024-03-26 21:37:33.755654 : 444-optimizers-small 0.84(16) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:33.776749 : 444-optimizers-small 0.84(16) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:33.804750 : 444-optimizers-small 0.84(16) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:33.836908 : 444-optimizers-small 0.84(16) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:33.861000 : 444-optimizers-small 0.84(16) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:34.011001 : 444-optimizers-small 0.84(16) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:34.153322 : 444-optimizers-small 0.84(16) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:34.202413 : 444-optimizers-small 0.84(16) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:34.243552 : 444-optimizers-small 0.84(16) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:46.721403 : 444-optimizers-small 0.84(16) 1 	-> 
+2024-03-26 21:37:46.951898 : 444-optimizers-small 0.84(16) 0 	-> 
+2024-03-26 21:37:50.666624 : 444-optimizers-small 0.84(16) 3 	-> 
+2024-03-26 21:37:51.555015 : 444-optimizers-small 0.84(16) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:37:54.216048 : 444-optimizers-small 0.84(16) 12 	-> 
+2024-03-26 21:37:59.996741 : 444-optimizers-small 0.84(16) 13 	-> 
+2024-03-26 21:38:00.786384 : 444-optimizers-small 0.84(16) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:00.814485 : 444-optimizers-small 0.84(16) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:12.260693 : 444-optimizers-small 0.84(16) 16 	-> 
+2024-03-26 21:38:14.552859 : 444-optimizers-small 0.84(16) 14 	-> 
+2024-03-26 21:38:18.418718 : 444-optimizers-small 0.84(16) 20 	-> 
+2024-03-26 21:38:23.102027 : 444-optimizers-small 0.84(16) 21 	-> 
+2024-03-26 21:38:23.119027 : 444-optimizers-small 0.84(16) 24 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:36.716547 : 444-optimizers-small 0.84(16) 22 	-> hopa gdpa-pd gdpa-adam
+2024-03-26 21:38:41.258017 : 444-optimizers-small 0.84(16) 25 	-> 
+2024-03-26 21:38:42.501112 : 444-optimizers-small 0.84(16) 17 	-> gdpa-pd
+2024-03-26 21:38:45.281714 : 444-optimizers-small 0.84(16) 28 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:53.036404 : 444-optimizers-small 0.84(16) 26 	-> 
+2024-03-26 21:38:53.378662 : 444-optimizers-small 0.84(16) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:54.771612 : 444-optimizers-small 0.84(16) 23 	-> gdpa-pd
+2024-03-26 21:38:56.076998 : 444-optimizers-small 0.84(16) 31 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:38:59.707916 : 444-optimizers-small 0.84(16) 27 	-> 
+2024-03-26 21:39:01.075890 : 444-optimizers-small 0.84(16) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:01.573402 : 444-optimizers-small 0.84(16) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:02.742080 : 444-optimizers-small 0.84(16) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:03.677394 : 444-optimizers-small 0.84(16) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:05.943936 : 444-optimizers-small 0.84(16) 29 	-> 
+2024-03-26 21:39:06.381072 : 444-optimizers-small 0.84(16) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:06.414169 : 444-optimizers-small 0.84(16) 33 	-> 
+2024-03-26 21:39:08.576209 : 444-optimizers-small 0.84(16) 40 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:08.623328 : 444-optimizers-small 0.84(16) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:08.658328 : 444-optimizers-small 0.84(16) 32 	-> gdpa-pd gdpa-adam
+2024-03-26 21:39:08.681349 : 444-optimizers-small 0.84(16) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:08.723329 : 444-optimizers-small 0.84(16) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:09.352880 : 444-optimizers-small 0.84(16) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:16.071394 : 444-optimizers-small 0.84(16) 38 	-> 
+2024-03-26 21:39:16.740696 : 444-optimizers-small 0.84(16) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:17.345978 : 444-optimizers-small 0.84(16) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:17.363194 : 444-optimizers-small 0.84(16) 47 	-> gdpa-noise gdpa-direct
+2024-03-26 21:39:25.491701 : 444-optimizers-small 0.84(16) 41 	-> 
+2024-03-26 21:39:26.446086 : 444-optimizers-small 0.84(16) 43 	-> 
+2024-03-26 21:39:28.875557 : 444-optimizers-small 0.86(17) 2 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:28.897679 : 444-optimizers-small 0.86(17) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:28.920679 : 444-optimizers-small 0.86(17) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:28.947803 : 444-optimizers-small 0.86(17) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:28.987803 : 444-optimizers-small 0.86(17) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:29.396418 : 444-optimizers-small 0.86(17) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:29.792494 : 444-optimizers-small 0.86(17) 9 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:40.102831 : 444-optimizers-small 0.86(17) 10 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:39:42.368414 : 444-optimizers-small 0.86(17) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:39:45.597045 : 444-optimizers-small 0.86(17) 0 	-> 
+2024-03-26 21:39:45.626166 : 444-optimizers-small 0.86(17) 1 	-> 
+2024-03-26 21:39:50.042263 : 444-optimizers-small 0.86(17) 3 	-> 
+2024-03-26 21:39:52.663588 : 444-optimizers-small 0.86(17) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:40:15.056989 : 444-optimizers-small 0.86(17) 13 	-> 
+2024-03-26 21:40:15.439550 : 444-optimizers-small 0.86(17) 12 	-> 
+2024-03-26 21:40:15.954768 : 444-optimizers-small 0.86(17) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:40:15.986846 : 444-optimizers-small 0.86(17) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:40:20.409720 : 444-optimizers-small 0.86(17) 16 	-> 
+2024-03-26 21:40:25.981614 : 444-optimizers-small 0.86(17) 14 	-> 
+2024-03-26 21:40:34.446027 : 444-optimizers-small 0.86(17) 21 	-> 
+2024-03-26 21:40:36.633048 : 444-optimizers-small 0.86(17) 17 	-> 
+2024-03-26 21:40:37.620281 : 444-optimizers-small 0.86(17) 24 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:40:40.097447 : 444-optimizers-small 0.86(17) 20 	-> 
+2024-03-26 21:40:45.115240 : 444-optimizers-small 0.86(17) 22 	-> hopa gdpa-pd gdpa-adam
+2024-03-26 21:41:02.900685 : 444-optimizers-small 0.86(17) 25 	-> 
+2024-03-26 21:41:03.804390 : 444-optimizers-small 0.86(17) 26 	-> 
+2024-03-26 21:41:08.061899 : 444-optimizers-small 0.86(17) 23 	-> gdpa-pd
+2024-03-26 21:41:08.605252 : 444-optimizers-small 0.86(17) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:09.609829 : 444-optimizers-small 0.86(17) 27 	-> 
+2024-03-26 21:41:20.009726 : 444-optimizers-small 0.86(17) 28 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:41:21.104942 : 444-optimizers-small 0.86(17) 31 	-> gdpa-pd gdpa-noise gdpa-direct
+2024-03-26 21:41:23.035186 : 444-optimizers-small 0.86(17) 34 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:24.683043 : 444-optimizers-small 0.86(17) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:25.908487 : 444-optimizers-small 0.86(17) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:31.442755 : 444-optimizers-small 0.86(17) 32 	-> 
+2024-03-26 21:41:33.030639 : 444-optimizers-small 0.86(17) 33 	-> 
+2024-03-26 21:41:34.685803 : 444-optimizers-small 0.86(17) 39 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:36.356077 : 444-optimizers-small 0.86(17) 40 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:36.444181 : 444-optimizers-small 0.86(17) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:41:36.880355 : 444-optimizers-small 0.86(17) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:39.074347 : 444-optimizers-small 0.86(17) 29 	-> 
+2024-03-26 21:41:39.657629 : 444-optimizers-small 0.86(17) 44 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:40.295007 : 444-optimizers-small 0.86(17) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:40.833052 : 444-optimizers-small 0.86(17) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:51.436215 : 444-optimizers-small 0.86(17) 38 	-> 
+2024-03-26 21:41:52.545355 : 444-optimizers-small 0.86(17) 48 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:53.034256 : 444-optimizers-small 0.86(17) 49 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:41:58.027374 : 444-optimizers-small 0.86(17) 47 	-> 
+2024-03-26 21:42:10.722844 : 444-optimizers-small 0.86(17) 41 	-> 
+2024-03-26 21:42:12.820496 : 444-optimizers-small 0.86(17) 43 	-> 
+2024-03-26 21:42:27.458035 : 444-optimizers-small 0.88(18) 2 	-> hopa gdpa-pd
+2024-03-26 21:42:29.077564 : 444-optimizers-small 0.88(18) 4 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:42:29.100656 : 444-optimizers-small 0.88(18) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:42:29.144657 : 444-optimizers-small 0.88(18) 6 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:42:29.194657 : 444-optimizers-small 0.88(18) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:42:30.149944 : 444-optimizers-small 0.88(18) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:42:36.481793 : 444-optimizers-small 0.88(18) 0 	-> 
+2024-03-26 21:42:41.957360 : 444-optimizers-small 0.88(18) 1 	-> 
+2024-03-26 21:42:48.554001 : 444-optimizers-small 0.88(18) 9 	-> gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:42:50.347410 : 444-optimizers-small 0.88(18) 3 	-> 
+2024-03-26 21:42:55.775823 : 444-optimizers-small 0.88(18) 11 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:43:13.725701 : 444-optimizers-small 0.88(18) 10 	-> 
+2024-03-26 21:43:15.393193 : 444-optimizers-small 0.88(18) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:43:15.782811 : 444-optimizers-small 0.88(18) 13 	-> 
+2024-03-26 21:43:38.852869 : 444-optimizers-small 0.88(18) 12 	-> 
+2024-03-26 21:43:40.271362 : 444-optimizers-small 0.88(18) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:43:40.308443 : 444-optimizers-small 0.88(18) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:43:45.163343 : 444-optimizers-small 0.88(18) 17 	-> 
+2024-03-26 21:43:56.825008 : 444-optimizers-small 0.88(18) 14 	-> 
+2024-03-26 21:43:59.001142 : 444-optimizers-small 0.88(18) 16 	-> 
+2024-03-26 21:44:06.562238 : 444-optimizers-small 0.88(18) 21 	-> 
+2024-03-26 21:44:22.802902 : 444-optimizers-small 0.88(18) 24 	-> gdpa-adam
+2024-03-26 21:44:24.048278 : 444-optimizers-small 0.88(18) 22 	-> gdpa-pd gdpa-adam
+2024-03-26 21:44:38.752908 : 444-optimizers-small 0.88(18) 23 	-> 
+2024-03-26 21:44:51.619023 : 444-optimizers-small 0.88(18) 26 	-> 
+2024-03-26 21:44:56.775756 : 444-optimizers-small 0.88(18) 27 	-> 
+2024-03-26 21:44:59.963463 : 444-optimizers-small 0.88(18) 25 	-> 
+2024-03-26 21:45:00.982996 : 444-optimizers-small 0.88(18) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:45:04.075305 : 444-optimizers-small 0.88(18) 20 	-> 
+2024-03-26 21:45:18.742034 : 444-optimizers-small 0.88(18) 29 	-> 
+2024-03-26 21:45:33.772208 : 444-optimizers-small 0.88(18) 32 	-> 
+2024-03-26 21:45:36.661081 : 444-optimizers-small 0.88(18) 33 	-> 
+2024-03-26 21:45:38.320814 : 444-optimizers-small 0.88(18) 28 	-> 
+2024-03-26 21:45:38.340940 : 444-optimizers-small 0.88(18) 35 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:45:39.044348 : 444-optimizers-small 0.88(18) 37 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:45:40.335862 : 444-optimizers-small 0.88(18) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:45:43.946496 : 444-optimizers-small 0.88(18) 31 	-> 
+2024-03-26 21:45:45.913400 : 444-optimizers-small 0.88(18) 40 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:46:01.430761 : 444-optimizers-small 0.88(18) 38 	-> 
+2024-03-26 21:46:01.766676 : 444-optimizers-small 0.88(18) 34 	-> 
+2024-03-26 21:46:10.713478 : 444-optimizers-small 0.88(18) 42 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:46:13.801928 : 444-optimizers-small 0.88(18) 41 	-> 
+2024-03-26 21:46:15.063181 : 444-optimizers-small 0.88(18) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:46:17.193665 : 444-optimizers-small 0.88(18) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:46:28.993719 : 444-optimizers-small 0.88(18) 39 	-> 
+2024-03-26 21:46:32.009927 : 444-optimizers-small 0.88(18) 44 	-> 
+2024-03-26 21:46:38.618943 : 444-optimizers-small 0.88(18) 47 	-> 
+2024-03-26 21:46:41.840047 : 444-optimizers-small 0.88(18) 49 	-> gdpa-pd gdpa-adam
+2024-03-26 21:46:42.368193 : 444-optimizers-small 0.88(18) 43 	-> 
+2024-03-26 21:47:02.059798 : 444-optimizers-small 0.88(18) 48 	-> 
+2024-03-26 21:47:24.033828 : 444-optimizers-small 0.90(19) 2 	-> 
+2024-03-26 21:47:41.653707 : 444-optimizers-small 0.90(19) 3 	-> 
+2024-03-26 21:47:41.678822 : 444-optimizers-small 0.90(19) 5 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:47:42.868053 : 444-optimizers-small 0.90(19) 6 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:47:44.076132 : 444-optimizers-small 0.90(19) 0 	-> 
+2024-03-26 21:47:44.238280 : 444-optimizers-small 0.90(19) 1 	-> 
+2024-03-26 21:47:45.201270 : 444-optimizers-small 0.90(19) 7 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:47:45.496252 : 444-optimizers-small 0.90(19) 8 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:47:47.120478 : 444-optimizers-small 0.90(19) 4 	-> hopa gdpa-pd gdpa-adam
+2024-03-26 21:48:25.221465 : 444-optimizers-small 0.90(19) 9 	-> 
+2024-03-26 21:48:41.478416 : 444-optimizers-small 0.90(19) 11 	-> 
+2024-03-26 21:48:46.629323 : 444-optimizers-small 0.90(19) 12 	-> 
+2024-03-26 21:48:50.901986 : 444-optimizers-small 0.90(19) 15 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:48:53.476756 : 444-optimizers-small 0.90(19) 10 	-> 
+2024-03-26 21:48:59.367399 : 444-optimizers-small 0.90(19) 13 	-> 
+2024-03-26 21:49:02.069863 : 444-optimizers-small 0.90(19) 18 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:49:02.110989 : 444-optimizers-small 0.90(19) 19 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:49:33.878242 : 444-optimizers-small 0.90(19) 17 	-> 
+2024-03-26 21:49:40.708212 : 444-optimizers-small 0.90(19) 14 	-> 
+2024-03-26 21:49:44.976472 : 444-optimizers-small 0.90(19) 16 	-> 
+2024-03-26 21:49:55.149144 : 444-optimizers-small 0.90(19) 21 	-> 
+2024-03-26 21:50:20.308116 : 444-optimizers-small 0.90(19) 23 	-> 
+2024-03-26 21:50:28.556825 : 444-optimizers-small 0.90(19) 24 	-> 
+2024-03-26 21:50:37.867843 : 444-optimizers-small 0.90(19) 22 	-> 
+2024-03-26 21:51:00.205660 : 444-optimizers-small 0.90(19) 25 	-> 
+2024-03-26 21:51:00.462425 : 444-optimizers-small 0.90(19) 27 	-> 
+2024-03-26 21:51:09.774945 : 444-optimizers-small 0.90(19) 26 	-> 
+2024-03-26 21:51:10.887629 : 444-optimizers-small 0.90(19) 30 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:51:31.268346 : 444-optimizers-small 0.90(19) 29 	-> 
+2024-03-26 21:52:05.453162 : 444-optimizers-small 0.90(19) 20 	-> 
+2024-03-26 21:52:06.022259 : 444-optimizers-small 0.90(19) 31 	-> 
+2024-03-26 21:52:11.555713 : 444-optimizers-small 0.90(19) 32 	-> 
+2024-03-26 21:52:30.305394 : 444-optimizers-small 0.90(19) 28 	-> 
+2024-03-26 21:52:32.892325 : 444-optimizers-small 0.90(19) 36 	-> gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:52:37.378638 : 444-optimizers-small 0.90(19) 33 	-> 
+2024-03-26 21:52:45.567141 : 444-optimizers-small 0.90(19) 34 	-> 
+2024-03-26 21:53:05.281682 : 444-optimizers-small 0.90(19) 39 	-> 
+2024-03-26 21:53:12.459621 : 444-optimizers-small 0.90(19) 35 	-> 
+2024-03-26 21:53:15.919269 : 444-optimizers-small 0.90(19) 37 	-> 
+2024-03-26 21:53:19.073475 : 444-optimizers-small 0.90(19) 38 	-> 
+2024-03-26 21:53:33.897977 : 444-optimizers-small 0.90(19) 42 	-> gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:53:50.396808 : 444-optimizers-small 0.90(19) 41 	-> 
+2024-03-26 21:53:52.791816 : 444-optimizers-small 0.90(19) 45 	-> hopa gdpa-pd gdpa-adam gdpa-noise gdpa-direct
+2024-03-26 21:53:53.924244 : 444-optimizers-small 0.90(19) 40 	-> 
+2024-03-26 21:54:06.653682 : 444-optimizers-small 0.90(19) 46 	-> hopa gdpa-pd gdpa-adam gdpa-noise
+2024-03-26 21:54:09.196000 : 444-optimizers-small 0.90(19) 44 	-> 
+2024-03-26 21:54:15.566338 : 444-optimizers-small 0.90(19) 43 	-> 
+2024-03-26 21:54:30.806115 : 444-optimizers-small 0.90(19) 49 	-> 
+2024-03-26 21:54:38.810010 : 444-optimizers-small 0.90(19) 47 	-> 
+2024-03-26 21:54:42.283139 : 444-optimizers-small 0.90(19) 48 	-> 
