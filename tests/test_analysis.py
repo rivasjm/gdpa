@@ -33,6 +33,11 @@ class HolisticTest(unittest.TestCase):
         #
         # print(system.processors)
 
+    def test_cruise_control(self):
+        system = get_cruise_control()
+        system.apply(HolisticAnalyis(verbose=True))
+        print(repr_wcrts(system))
+
     def test_random(self):
         random = Random(10)
         pd = PDAssignment()

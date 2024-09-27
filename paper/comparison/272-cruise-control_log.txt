@@ -1,0 +1,93 @@
+2024-03-28 19:08:09.860042 : 272-cruise-control 0.50(0) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:10.735550 : 272-cruise-control 0.52(1) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:11.567594 : 272-cruise-control 0.54(2) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:12.520083 : 272-cruise-control 0.56(3) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:13.724562 : 272-cruise-control 0.58(4) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:15.045252 : 272-cruise-control 0.61(5) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:16.366218 : 272-cruise-control 0.63(6) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:17.709806 : 272-cruise-control 0.65(7) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:19.042822 : 272-cruise-control 0.67(8) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:20.432708 : 272-cruise-control 0.69(9) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:25.156277 : 272-cruise-control 0.50(0) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:26.013898 : 272-cruise-control 0.52(1) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:08:26.878734 : 272-cruise-control 0.54(2) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:02.218217 : 272-cruise-control 0.50(0) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:03.535741 : 272-cruise-control 0.52(1) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:04.694911 : 272-cruise-control 0.54(2) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:05.962599 : 272-cruise-control 0.56(3) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:07.469474 : 272-cruise-control 0.58(4) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:09.081105 : 272-cruise-control 0.61(5) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:10.729488 : 272-cruise-control 0.63(6) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:12.420837 : 272-cruise-control 0.65(7) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:13.998526 : 272-cruise-control 0.67(8) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:15.750091 : 272-cruise-control 0.69(9) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:17.736370 : 272-cruise-control 0.71(10) cruise-control 	-> pd hopa brute-force gdpa-hopa
+2024-03-28 19:09:19.869742 : 272-cruise-control 0.73(11) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:23.319925 : 272-cruise-control 0.75(12) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:29.999629 : 272-cruise-control 0.77(13) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:35.526390 : 272-cruise-control 0.79(14) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:41.882343 : 272-cruise-control 0.82(15) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:46.944634 : 272-cruise-control 0.84(16) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:52.155546 : 272-cruise-control 0.86(17) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:09:59.129146 : 272-cruise-control 0.88(18) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:10:06.978483 : 272-cruise-control 0.90(19) cruise-control 	-> hopa brute-force gdpa-hopa
+2024-03-28 19:11:07.611364 : 272-cruise-control 0.60(0) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:08.746785 : 272-cruise-control 0.62(1) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:09.767202 : 272-cruise-control 0.64(2) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:10.879737 : 272-cruise-control 0.66(3) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:11.963159 : 272-cruise-control 0.67(4) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:13.221704 : 272-cruise-control 0.69(5) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:14.649908 : 272-cruise-control 0.71(6) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:16.344576 : 272-cruise-control 0.73(7) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:11:18.229598 : 272-cruise-control 0.75(8) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:27.905105 : 272-cruise-control 0.77(9) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:31.832243 : 272-cruise-control 0.78(10) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:41.939375 : 272-cruise-control 0.80(11) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:46.528498 : 272-cruise-control 0.82(12) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:50.061178 : 272-cruise-control 0.84(13) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:53.267390 : 272-cruise-control 0.86(14) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:11:56.569362 : 272-cruise-control 0.88(15) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:00.487004 : 272-cruise-control 0.89(16) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:12.291408 : 272-cruise-control 0.91(17) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:18.648175 : 272-cruise-control 0.93(18) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:30.071015 : 272-cruise-control 0.95(19) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:43.391881 : 272-cruise-control 0.70(0) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:12:44.829324 : 272-cruise-control 0.72(1) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:12:46.340981 : 272-cruise-control 0.73(2) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:48.282130 : 272-cruise-control 0.75(3) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:52.237919 : 272-cruise-control 0.76(4) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:12:57.158532 : 272-cruise-control 0.78(5) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:01.104309 : 272-cruise-control 0.79(6) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:12.777405 : 272-cruise-control 0.81(7) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:17.010204 : 272-cruise-control 0.82(8) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:20.497888 : 272-cruise-control 0.84(9) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:23.794064 : 272-cruise-control 0.85(10) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:26.993278 : 272-cruise-control 0.87(11) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:30.658666 : 272-cruise-control 0.88(12) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:35.232248 : 272-cruise-control 0.90(13) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:47.766144 : 272-cruise-control 0.91(14) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:13:53.379974 : 272-cruise-control 0.93(15) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:14:07.297655 : 272-cruise-control 0.94(16) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:14:40.132273 : 272-cruise-control 0.96(17) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:16:35.783489 : 272-cruise-control 0.97(18) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:01.202195 : 272-cruise-control 0.99(19) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:43.447399 : 272-cruise-control 0.50(0) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:20:44.603550 : 272-cruise-control 0.52(1) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:20:45.608059 : 272-cruise-control 0.54(2) cruise-control 	-> pd hopa gdpa-hopa
+2024-03-28 19:20:46.691970 : 272-cruise-control 0.56(3) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:47.746489 : 272-cruise-control 0.58(4) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:48.856525 : 272-cruise-control 0.61(5) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:49.909907 : 272-cruise-control 0.63(6) cruise-control 	-> hopa gdpa-hopa
+2024-03-28 19:20:51.300031 : 272-cruise-control 0.65(7) cruise-control 	-> gdpa-hopa
+2024-03-28 19:20:52.727024 : 272-cruise-control 0.67(8) cruise-control 	-> gdpa-hopa
+2024-03-28 19:20:54.037204 : 272-cruise-control 0.69(9) cruise-control 	-> gdpa-hopa
+2024-03-28 19:20:55.497291 : 272-cruise-control 0.71(10) cruise-control 	-> gdpa-hopa
+2024-03-28 19:20:57.710066 : 272-cruise-control 0.73(11) cruise-control 	-> 
+2024-03-28 19:21:00.207780 : 272-cruise-control 0.75(12) cruise-control 	-> 
+2024-03-28 19:21:03.847285 : 272-cruise-control 0.77(13) cruise-control 	-> 
+2024-03-28 19:21:07.815904 : 272-cruise-control 0.79(14) cruise-control 	-> 
+2024-03-28 19:21:12.730154 : 272-cruise-control 0.82(15) cruise-control 	-> 
+2024-03-28 19:21:20.764631 : 272-cruise-control 0.84(16) cruise-control 	-> 
+2024-03-28 19:21:27.471963 : 272-cruise-control 0.86(17) cruise-control 	-> 
+2024-03-28 19:21:35.393404 : 272-cruise-control 0.88(18) cruise-control 	-> 
+2024-03-28 19:21:45.903569 : 272-cruise-control 0.90(19) cruise-control 	-> 

@@ -44,7 +44,7 @@ class GDPAComparison:
     def __init__(self, label, size, assignments, sched_test, population=50,
                  utilization_min=0.5, utilization_max=0.9, utilization_steps=20,
                  deadline_factor_min=0.5, deadline_factor_max=1,
-                 threads=4, save_figs=True):
+                 threads=4, save_figs=True, seed=42, forced_systems = None):
 
         self.label = label
         self.size = size
@@ -60,15 +60,20 @@ class GDPAComparison:
         self.deadline_factor_max = deadline_factor_max
         self.threads = threads
         self.save_figs = save_figs
+        self.seed = seed
+        self.forced_systems = forced_systems
 
         self.start = time.time()
 
     def run(self):
-        random = Random(42)
+        random = Random(self.seed)
         utilizations = np.linspace(self.utilization_min, self.utilization_max, self.utilization_steps)
-        systems = [get_system(self.size, random, balanced=True, name=str(i),
-                              deadline_factor_min=self.deadline_factor_min,
-                              deadline_factor_max=self.deadline_factor_max) for i in range(self.population)]
+        if self.forced_systems:
+            systems = self.forced_systems
+        else:
+            systems = [get_system(self.size, random, balanced=True, name=str(i),
+                                  deadline_factor_min=self.deadline_factor_min,
+                                  deadline_factor_max=self.deadline_factor_max) for i in range(self.population)]
         names, _ = zip(*self.get_assignments())
         results = np.zeros((len(names), len(utilizations)))
         iterations = np.zeros((len(names), len(utilizations)))
@@ -93,7 +98,7 @@ class GDPAComparison:
                     self.save_log(self.name, u, utilization, system_name, names, arr)
                     if job % 25 == 0:
                         print(f"\n{datetime.now()} : job={job}")
-                    if job % self.population == 0:
+                    if job % len(systems) == 0:
                         self.save_files(results, f"{self.name}_scheds", names, utilizations)
                         self.save_files(np.divide(iterations, results, where=results != 0), f"{self.name}_iterations",
                                         names, utilizations, ylabel="Iterations to Schedule", show=False)

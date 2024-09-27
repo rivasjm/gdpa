@@ -1,5 +1,6 @@
 import itertools
 
+import examples
 from paper.comparison.comparison_worker import GDPAComparison
 from vector import bf_assignment
 from analysis import HolisticAnalyis
@@ -95,7 +96,7 @@ def get_assignments(analysis, pd=False, hopa=False, bf=False,
 
         # GDPA PD
         if gdpa_pd:
-            assig = GDPA(verbose=False, initial=pd_assig,
+            assig = GDPA(verbose=True, initial=pd_assig,
                          iterations=100, cost_fn=invslack, analysis=analysis, delta=delta,
                          optimizer=Adam(lr=lr, beta1=beta1, beta2=beta2, epsilon=epsilon, gamma=gamma))
             prefix = "gdpa-pd"
@@ -329,13 +330,35 @@ def do_small_industrial():
     worker.run()
 
 
+def do_cruise_control():
+    # size: flows, steps/flow, procs
+    size = (2, 7, 2)
+
+    # schedulability test to evaluate the final solution
+    sched_test = HolisticAnalyis(limit_factor=1)
+
+    # analysis used to internally evaluate iterations
+    analysis = HolisticAnalyis(reset=False, limit_factor=10)
+
+    # store assignments in a list of name,tool pairs
+    assigs = get_assignments(analysis, pd=True, hopa=True, gdpa_hopa=True, bf=False)
+
+    # perform comparison
+    cruise_control = examples.get_cruise_control()
+    worker = GDPAComparison("cruise-control", size, assigs, sched_test,
+                            utilization_min=0.5, utilization_max=0.9,
+                            forced_systems=[cruise_control])  # D=T
+    worker.run()
+
+
+
 if __name__ == '__main__':
     ##################
     # GDPA OPTIMIZER #
     ##################
 
-    do_gdpa_optimizers_small()
-    do_gdpa_optimizers_medium()
+    # do_gdpa_optimizers_small()
+    # do_gdpa_optimizers_medium()
     # do_gdpa_parameters_small()
 
     ######################
@@ -354,5 +377,4 @@ if __name__ == '__main__':
     # do_comparison_offsets()    # medium size with offset analysis evaluating final solution
     # do_small_industrial()      # 24 steps, with short flows, d=t, w/ brute-force, mimics industrial examples (1679616)
     # do_big_industrial()        # many steps (>100) with short flows, may procs (>10), d=t, mimics industrial examples
-
-
+    do_cruise_control()          # cruise control industrial example

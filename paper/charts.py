@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import matplotlib.ticker as ticker
 import openpyxl
+from collections import defaultdict
 
 extension = "pdf"
 
@@ -217,6 +218,30 @@ def plot_gdpa_offsets():
     fig.savefig("gdpa-comparison-scheds-offsets." + extension)
 
 
+def plot_industrial_example():
+    # load data
+    df = pd.read_excel("./comparison/35312-big-industrial_scheds.xlsx", index_col=0)
+
+    # prepare chart
+    fig, ax = plt.subplots(nrows=1, ncols=1, constrained_layout=True, figsize=(4, 3))
+    styles = ['+-', 'o-', 'x--', 's:', '*-', 'o-']
+
+    # plot
+    df.plot.line(ax=ax, style=styles)
+
+    # configure common properties of axes
+    ax.set_ylabel("Schedulable Systems", fontweight='bold')
+    ax.set_xlabel("Average Utilization", fontweight='bold')
+    ax.grid(True, which='major', axis='x')
+    ax.legend(prop={'weight': 'bold', 'size': 9})
+
+    # particular axes properties
+    add_text(ax, 0.15, 0.35, "industrial\nexample", size='medium')
+
+    # save fig
+    fig.savefig("gdpa-industrial-example." + extension)
+
+
 def plot_gdpa_evaluation():
     # Schedulables
     plot_gdpa_schedulables()
@@ -232,30 +257,70 @@ def plot_gdpa_evaluation():
 
 
 def process_parameters_study():
-    path = "parameters_study.xlsx"
+    path = "./comparison/444-parameters-small_scheds.xlsx"
     wb = openpyxl.load_workbook(path, read_only=True, data_only=True)  # data_only resolves the formulas
     sheet = wb["Sheet1"]
 
-    total_row = 22
+    row_range = 21
+    col = 2
+    # nested_dict = lambda: defaultdict(nested_dict)
+    # data = nested_dict()
+    data = []
+    while True:
+        name = sheet.cell(row=1, column=col).value
+        if not name:
+            break
+
+        value = 0
+        for row in range(2, row_range+1):
+            value += int(sheet.cell(row=row, column=col).value)
+
+        lr, d, b1, b2, e, g = extract_parameters(name)
+        # data[lr][d][b1][b2][e][g] = value
+        data.append((lr, d, b1, b2, e, g, value))
+        col += 1
+
+    # print(data[0.9][0.999][3][1.5][0.1][0.9])
+    data.sort(reverse=True, key=lambda v: v[6])
+    for d in data:
+        print(d)
+
+
+def extract_parameters(name):
+    try:
+        parts = name.split("-")[2:]
+        # return lr, d, b1, b2, e, g
+        return (float(parts[2].lstrip("b1")), float(parts[3].lstrip("b2")), float(parts[0].lstrip("lr")),
+                float(parts[1].lstrip("d")), float(parts[4].lstrip("e")), float(parts[5].lstrip("g")))
+    except:
+        return 0, 0, 0, 0, 0, 0
+
+
+def process_optimizers():
+    path = "./comparison/444-optimizers-small_scheds.xlsx"
+    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)  # data_only resolves the formulas
+    sheet = wb["Sheet1"]
+    row_range = 21
     col = 2
     while True:
         name = sheet.cell(row=1, column=col).value
         if not name:
             break
-        value = sheet.cell(row=total_row, column=col).value
-        print(extract_params(name), value)
+
+        value = 0
+        for row in range(2, row_range+1):
+            value += int(sheet.cell(row=row, column=col).value)
+
+        print(name, value)
         col += 1
 
 
-def extract_params(name):
-    parts = name.split("-")[2:]
-    # return lr, d, b1, b2, e, g
-    return (float(parts[2].lstrip("b1")), float(parts[3].lstrip("b2")), float(parts[0].lstrip("lr")),
-            float(parts[1].lstrip("d")), float(parts[4].lstrip("e")), float(parts[5].lstrip("g")))
-
-
 def main():
-    process_parameters_study()
+    #####################
+    # PRELIMINARY STUDY #
+    #####################
+    # process_parameters_study()
+    process_optimizers()
 
     #############################
     # VECTORIZED ANALYSIS TIMES #
@@ -266,6 +331,7 @@ def main():
     # GDPA EVALUATION #
     ###################
     # plot_gdpa_evaluation()
+    # plot_industrial_example()
 
 
 if __name__ == '__main__':

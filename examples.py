@@ -37,6 +37,40 @@ def get_palencia_system() -> System:
     return system
 
 
+def get_cruise_control():
+    # From "Enabling Scheduling Analysis for AUTOSAR Systems", Anssi 2011
+    system = System()
+
+    # 2 cpus + 1 network
+    body = Processor(name="body")
+    engine = Processor(name="engine")
+    can = Processor(name="can")
+    system.add_procs(body, engine, can)
+
+    # 2 flows
+    flow1 = Flow(name="flow1", period=10, deadline=70)
+    flow2 = Flow(name="flow2", period=10, deadline=30)
+
+    # add tasks
+    flow1.add_tasks(
+        Task(name="acq", wcet=2.5, priority=1, processor=body),
+        Task(name="inter", wcet=2.32, priority=1, processor=body),
+        Task(name="message", wcet=1.52, priority=1, processor=can),
+        Task(name="speed", wcet=1.5, priority=2, processor=engine),
+        Task(name="cond", wcet=2, priority=3, processor=engine),
+        Task(name="basic", wcet=1, priority=3, processor=engine),
+        Task(name="contr", wcet=1, priority=3, processor=engine)
+    )
+    flow2.add_tasks(
+        Task(name="diag", wcet=1.52, priority=4, processor=body),
+        Task(name="message2", wcet=2, priority=4, processor=can),
+        Task(name="limp", wcet=0.5, priority=3, processor=engine)
+    )
+    system.add_flows(flow1, flow2)
+    system.name = "cruise-control"
+    return system
+
+
 def get_system(size, random=Random(), utilization=0.5, balanced=False, name=None,
                deadline_factor_min=0.5, deadline_factor_max=1) -> System:
     n_flows, t_tasks, n_procs = size

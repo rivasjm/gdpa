@@ -1,0 +1,20 @@
+2024-03-28 17:56:06.618476 : 8312-bosch-challenge 0.30(0) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:07.796882 : 8312-bosch-challenge 0.31(1) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:08.868227 : 8312-bosch-challenge 0.32(2) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:09.943078 : 8312-bosch-challenge 0.33(3) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:11.039038 : 8312-bosch-challenge 0.34(4) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:12.067361 : 8312-bosch-challenge 0.35(5) 0 	-> pd hopa gdpa-pd
+2024-03-28 17:56:13.142114 : 8312-bosch-challenge 0.36(6) 0 	-> hopa gdpa-pd
+2024-03-28 17:56:14.172861 : 8312-bosch-challenge 0.37(7) 0 	-> hopa gdpa-pd
+2024-03-28 17:56:15.207214 : 8312-bosch-challenge 0.38(8) 0 	-> hopa gdpa-pd
+2024-03-28 17:56:16.313644 : 8312-bosch-challenge 0.39(9) 0 	-> hopa gdpa-pd
+2024-03-28 17:56:17.352502 : 8312-bosch-challenge 0.41(10) 0 	-> hopa gdpa-pd
+2024-03-28 17:56:18.769032 : 8312-bosch-challenge 0.42(11) 0 	-> 
+2024-03-28 17:56:20.162063 : 8312-bosch-challenge 0.43(12) 0 	-> 
+2024-03-28 17:56:21.533883 : 8312-bosch-challenge 0.44(13) 0 	-> 
+2024-03-28 17:56:22.982744 : 8312-bosch-challenge 0.45(14) 0 	-> 
+2024-03-28 17:56:24.474787 : 8312-bosch-challenge 0.46(15) 0 	-> 
+2024-03-28 17:56:25.885953 : 8312-bosch-challenge 0.47(16) 0 	-> 
+2024-03-28 17:56:27.353628 : 8312-bosch-challenge 0.48(17) 0 	-> 
+2024-03-28 17:56:28.783236 : 8312-bosch-challenge 0.49(18) 0 	-> 
+2024-03-28 17:56:30.194678 : 8312-bosch-challenge 0.50(19) 0 	-> 
